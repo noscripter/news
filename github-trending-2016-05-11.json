@@ -1,0 +1,72 @@
+[
+    {
+        "author": "donnemartin",
+        "category": "Python",
+        "stars": "724",
+        "title": "gitsome - A Supercharged Git/Shell Autocompleter with GitHub Integration.",
+        "url": "https://github.com/donnemartin/gitsome"
+    },
+    {
+        "author": "twitter",
+        "category": "Java",
+        "stars": "618",
+        "title": "distributedlog - A high performance replicated log service.",
+        "url": "https://github.com/twitter/distributedlog"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "603",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "weibocom",
+        "category": "Java",
+        "stars": "354",
+        "title": "motan - A remote procedure call(RPC) framework for rapid development of high performance distributed services.",
+        "url": "https://github.com/weibocom/motan"
+    },
+    {
+        "author": "google",
+        "category": "Java",
+        "stars": "370",
+        "title": "flexbox-layout - Flexbox for Android",
+        "url": "https://github.com/google/flexbox-layout"
+    },
+    {
+        "author": "convox",
+        "category": "Go",
+        "stars": "368",
+        "title": "rack - Open-source PaaS on AWS",
+        "url": "https://github.com/convox/rack"
+    },
+    {
+        "author": "BearishSun",
+        "category": "C++",
+        "stars": "327",
+        "title": "BansheeEngine - Banshee Game Engine",
+        "url": "https://github.com/BearishSun/BansheeEngine"
+    },
+    {
+        "author": "das-labor",
+        "category": "Rust",
+        "stars": "322",
+        "title": "panopticon - A libre cross-platform disassembler.",
+        "url": "https://github.com/das-labor/panopticon"
+    },
+    {
+        "author": "nathansizemore",
+        "category": "Rust",
+        "stars": "240",
+        "title": "hydrogen - Multithreaded, non-blocking Linux server framework in Rust",
+        "url": "https://github.com/nathansizemore/hydrogen"
+    },
+    {
+        "author": "open-source-society",
+        "category": "",
+        "stars": "221",
+        "title": "computer-science - Path to a free self-taught education in Computer Science!",
+        "url": "https://github.com/open-source-society/computer-science"
+    }
+]

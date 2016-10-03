@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "648",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "loverajoel",
+        "category": "JavaScript",
+        "stars": "492",
+        "title": "jstips - This is about one JS tip every day!",
+        "url": "https://github.com/loverajoel/jstips"
+    },
+    {
+        "author": "cdmedia",
+        "category": "JavaScript",
+        "stars": "462",
+        "title": "cms.js - The Javascript Site Generator",
+        "url": "https://github.com/cdmedia/cms.js"
+    },
+    {
+        "author": "collinhundley",
+        "category": "Swift",
+        "stars": "334",
+        "title": "Swift-AI - Highly optimized artificial intelligence and machine learning library written in Swift.",
+        "url": "https://github.com/collinhundley/Swift-AI"
+    },
+    {
+        "author": "ben174",
+        "category": "JavaScript",
+        "stars": "319",
+        "title": "git-draw - Allows you to draw in your github heatmap",
+        "url": "https://github.com/ben174/git-draw"
+    },
+    {
+        "author": "samshadwell",
+        "category": "Python",
+        "stars": "303",
+        "title": "TrumpScript - Make Python great again",
+        "url": "https://github.com/samshadwell/TrumpScript"
+    },
+    {
+        "author": "cmusatyalab",
+        "category": "Lua",
+        "stars": "293",
+        "title": "openface - Face recognition with deep neural networks.",
+        "url": "https://github.com/cmusatyalab/openface"
+    },
+    {
+        "author": "dear-github",
+        "category": "",
+        "stars": "284",
+        "title": "dear-github - An open letter to GitHub from the maintainers of open source projects",
+        "url": "https://github.com/dear-github/dear-github"
+    },
+    {
+        "author": "vhf",
+        "category": "",
+        "stars": "245",
+        "title": "free-programming-books - Freely available programming books",
+        "url": "https://github.com/vhf/free-programming-books"
+    },
+    {
+        "author": "apex",
+        "category": "Go",
+        "stars": "254",
+        "title": "apex - Minimal AWS Lambda function manager with Go support.",
+        "url": "https://github.com/apex/apex"
+    }
+]

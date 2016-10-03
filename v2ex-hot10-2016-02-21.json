@@ -1,0 +1,313 @@
+[
+    
+    {
+        "id" : 257837,
+        "title" : "网上看到的 考考大家",
+        "url" : "http://www.v2ex.com/t/257837",
+        "content" : "这是一道可以测出一个人有没有商业头脑的数学题，王师傅是卖鞋的，一只鞋进价 40 元，现亏本大甩卖顾客来 35 元买了一双鞋，给了王师傅 100 元假钱，王师傅没零钱，于是找邻居换了 100 元。事后邻居存钱过程中发现钱是假的，被银行没收了，王师傅又赔了邻居 100 ，请问王师傅一共亏了多少?（这道题目不简单，到底亏了多少？这是在某群做的一道题， 100 人的群，半个小时之内只有两人答对",
+        "content_rendered" : "这是一道可以测出一个人有没有商业头脑的数学题，王师傅是卖鞋的，一只鞋进价 40 元，现亏本大甩卖顾客来 35 元买了一双鞋，给了王师傅 100 元假钱，王师傅没零钱，于是找邻居换了 100 元。事后邻居存钱过程中发现钱是假的，被银行没收了，王师傅又赔了邻居 100 ，请问王师傅一共亏了多少?（这道题目不简单，到底亏了多少？这是在某群做的一道题， 100 人的群，半个小时之内只有两人答对",
+        "replies" : 105,
+        "member" : {
+            "id" : 40369,
+            "username" : "xuhao360",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/6ec5/9538/40369_mini.png?m=1413457795",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/6ec5/9538/40369_normal.png?m=1413457795",
+            "avatar_large" : "//cdn.v2ex.co/avatar/6ec5/9538/40369_large.png?m=1413457795"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 64690,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1455764386",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1455764386",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1455764386"
+        },
+        "created" : 1455942105,
+        "last_modified" : 1455948280,
+        "last_touched" : 1455990372
+    },
+    
+    {
+        "id" : 257845,
+        "title" : "我的 Android 水平真的渣到连个面试机会都没有么？",
+        "url" : "http://www.v2ex.com/t/257845",
+        "content" : "本人大四学生，渣二本，目前在找 Android 开发方面的工作。投了几家心仪的公司，一个星期多了没有一个有回音，难道真的是我能力太渣连面试的资格都没有？\u000D\u000A简历地址： http://xloger.digitcv.com/  [访问密码： 7777\u000D\u000A\u000D\u000A我觉得虽然我的开发水平不高，但是好歹还有几个发布的项目吧，虽然都没用到啥高深的技术，但好歹比大部分应届生的 XX 管理系统好吧？我这水平在应届生里还算凑合的吧？不至于连个面试的机会都没有吧？\u000D\u000A\u000D\u000A想了几点我简历可能存在的问题，但是还是没底所以才发 v2 上请诸位给点建议。\u000D\u000A* 学历太低（这个我认，但全国那么多二本院校的学生他们又是怎么找的 Orz ）\u000D\u000A* github 跟个人博客没有 star 跟技术文章（身为一名学生我自然知道我代码能力不强，自然没必要写了个轮子就四处宣传吧？技术文章方面，我对我的技术文章要求一直是能解决当前中文关键字搜索解决不了的技术问题，但是目前我遇到的几乎所有问题别人都有解决方案了 Orz ）\u000D\u000A* 项目技术水平太低（这个我承认，但要到什么样的地步才能找到工作啊，这个我真心求教 Orz 。而且要是说质量不高，但我一个人以我的最高水平闷头写代码，我怎么知道哪个地方要怎么怎么写才会更好啊，完全没这意识啊）\u000D\u000A* 设计模式、算法等方面水平不行（这个我也认，我充其量也只会上课学的那些而且差不多忘光了。但是大学阶段就能熟练掌握设计模式、算法等课程的学生也不多吧？）\u000D\u000A* 英语水平不行（我知道我英语很差啊，但是你面试都没面试是怎么发现的...难道我变量名命名的很蠢么 Orz ）\u000D\u000A* 废话太多（这是我这么多年来一直的通病了，但也不至于面试机会也没有吧？我简历真的一点亮点都没有么 Orz ）\u000D\u000A\u000D\u000A我是真的很揪心了，所以才来 v2 希望诸位前辈给点建议。\u000D\u000A\u000D\u000A以及还想请教一下如何找一些技术氛围比较浓厚的公司？（姑且不论我水平能不能进）\u000D\u000A我是希望能进一家没有奇葩企业文化的公司，技术氛围也能比较浓厚（不会一面试，拿出个手机，指着微信说你能不能也做一个出来。或者像阿里那样袒护 hr 把码农当劳动工具）。\u000D\u000A所以我投简历的方式是找我比较喜欢的 App 的公司（百词斩、触宝、豌豆荚这些），然后到官网找 hr 邮箱，然后发简历过去。然而这么久了都没回音，所以我只能继续找了，但是我不知道怎么找符合我期望的公司了。。。",
+        "content_rendered" : "本人大四学生，渣二本，目前在找 Android 开发方面的工作。投了几家心仪的公司，一个星期多了没有一个有回音，难道真的是我能力太渣连面试的资格都没有？\u000D\u003Cbr /\u003E简历地址： \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://xloger.digitcv.com/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://xloger.digitcv.com/\u003C/a\u003E  [访问密码： 7777\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E我觉得虽然我的开发水平不高，但是好歹还有几个发布的项目吧，虽然都没用到啥高深的技术，但好歹比大部分应届生的 XX 管理系统好吧？我这水平在应届生里还算凑合的吧？不至于连个面试的机会都没有吧？\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E想了几点我简历可能存在的问题，但是还是没底所以才发 v2 上请诸位给点建议。\u000D\u003Cbr /\u003E* 学历太低（这个我认，但全国那么多二本院校的学生他们又是怎么找的 Orz ）\u000D\u003Cbr /\u003E* github 跟个人博客没有 star 跟技术文章（身为一名学生我自然知道我代码能力不强，自然没必要写了个轮子就四处宣传吧？技术文章方面，我对我的技术文章要求一直是能解决当前中文关键字搜索解决不了的技术问题，但是目前我遇到的几乎所有问题别人都有解决方案了 Orz ）\u000D\u003Cbr /\u003E* 项目技术水平太低（这个我承认，但要到什么样的地步才能找到工作啊，这个我真心求教 Orz 。而且要是说质量不高，但我一个人以我的最高水平闷头写代码，我怎么知道哪个地方要怎么怎么写才会更好啊，完全没这意识啊）\u000D\u003Cbr /\u003E* 设计模式、算法等方面水平不行（这个我也认，我充其量也只会上课学的那些而且差不多忘光了。但是大学阶段就能熟练掌握设计模式、算法等课程的学生也不多吧？）\u000D\u003Cbr /\u003E* 英语水平不行（我知道我英语很差啊，但是你面试都没面试是怎么发现的...难道我变量名命名的很蠢么 Orz ）\u000D\u003Cbr /\u003E* 废话太多（这是我这么多年来一直的通病了，但也不至于面试机会也没有吧？我简历真的一点亮点都没有么 Orz ）\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E我是真的很揪心了，所以才来 v2 希望诸位前辈给点建议。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E以及还想请教一下如何找一些技术氛围比较浓厚的公司？（姑且不论我水平能不能进）\u000D\u003Cbr /\u003E我是希望能进一家没有奇葩企业文化的公司，技术氛围也能比较浓厚（不会一面试，拿出个手机，指着微信说你能不能也做一个出来。或者像阿里那样袒护 hr 把码农当劳动工具）。\u000D\u003Cbr /\u003E所以我投简历的方式是找我比较喜欢的 App 的公司（百词斩、触宝、豌豆荚这些），然后到官网找 hr 邮箱，然后发简历过去。然而这么久了都没回音，所以我只能继续找了，但是我不知道怎么找符合我期望的公司了。。。",
+        "replies" : 72,
+        "member" : {
+            "id" : 53990,
+            "username" : "xloger",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/580fc0751fa33b48c5a050a9e0e568c3?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/580fc0751fa33b48c5a050a9e0e568c3?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/580fc0751fa33b48c5a050a9e0e568c3?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 64690,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1455764386",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1455764386",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1455764386"
+        },
+        "created" : 1455946525,
+        "last_modified" : 1455946525,
+        "last_touched" : 1455990358
+    },
+    
+    {
+        "id" : 257835,
+        "title" : "刚刚发现中国电信开始给我宽带分配内网 IP 了",
+        "url" : "http://www.v2ex.com/t/257835",
+        "content" : "http://ww3.sinaimg.cn/large/958a07eegw1f15ojiq97pj21120kvq63.jpg\u000D\u000A打 10000 号，客服鬼扯说他也不懂技术， balabalabala ，还是直接找宫刑部好了。",
+        "content_rendered" : "\u003Cimg src\u003D\u0022http://ww3.sinaimg.cn/large/958a07eegw1f15ojiq97pj21120kvq63.jpg\u0022 class\u003D\u0022imgly\u0022 style\u003D\u0022max\u002Dwidth: 660px\u003B\u0022 border\u003D\u00220\u0022 /\u003E \u000D\u003Cbr /\u003E打 10000 号，客服鬼扯说他也不懂技术， balabalabala ，还是直接找宫刑部好了。",
+        "replies" : 54,
+        "member" : {
+            "id" : 44794,
+            "username" : "zkd8907",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/eea8/8701/44794_mini.png?m=1423187080",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/eea8/8701/44794_normal.png?m=1423187080",
+            "avatar_large" : "//cdn.v2ex.co/avatar/eea8/8701/44794_large.png?m=1423187080"
+        },
+        "node" : {
+            "id" : 16,
+            "name" : "share",
+            "title" : "分享发现",
+            "title_alternative" : "Share",
+            "url" : "http://www.v2ex.com/go/share",
+            "topics" : 18322,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c74d/97b0/16_mini.png?m=1455764416",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c74d/97b0/16_normal.png?m=1455764416",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c74d/97b0/16_large.png?m=1455764416"
+        },
+        "created" : 1455941777,
+        "last_modified" : 1455941777,
+        "last_touched" : 1455992523
+    },
+    
+    {
+        "id" : 257802,
+        "title" : "碎碎念几句自己对安卓内存清理工具的看法",
+        "url" : "http://www.v2ex.com/t/257802",
+        "content" : "一直以来，我都觉得那些所谓的内存清理工具只会让手机变得更慢。\u000D\u000A从理论上来讲，现在动辄 3G 内存的手机，并不是没有内存缓存不活动程序的，至少没有到需要频繁清理内存的情况。何况这类工具自己也要消耗资源。\u000D\u000A从实践上来讲，我自己手机没装这类工具，但所有亲戚朋友的手机测试结果都是，清理内存后应用的开启与运行速度都大幅下降。例如，启动系统自带相册的时间会从一瞬增加到约十秒…\u000D\u000A\u000D\u000A想到提这个的契机是，明明自己两年前的手机（高通 800+2GB RAM ）在平时也几乎不存在支付宝和微信要等待启动的情况，但是最近却看到很多人会说打开支付要等很久… 除非刚玩了大型游戏或打开大量网页，正常情况下不是应该很少会看到 splash 界面的么。\u000D\u000A\u000D\u000A如果平时喜欢频繁清内存，又感觉程序启动慢，也许可以试试不要经常清内存了，至少常用应用要加进白名单。\u000D\u000A\u000D\u000A只是个人见解，欢迎拍砖 XD",
+        "content_rendered" : "\u003Cp\u003E一直以来，我都觉得那些所谓的内存清理工具只会让手机变得更慢。\u003Cbr\u003E\u000A从理论上来讲，现在动辄 3G 内存的手机，并不是没有内存缓存不活动程序的，至少没有到需要频繁清理内存的情况。何况这类工具自己也要消耗资源。\u003Cbr\u003E\u000A从实践上来讲，我自己手机没装这类工具，但所有亲戚朋友的手机测试结果都是，清理内存后应用的开启与运行速度都大幅下降。例如，启动系统自带相册的时间会从一瞬增加到约十秒…\u003C/p\u003E\u000A\u000A\u003Cp\u003E想到提这个的契机是，明明自己两年前的手机（高通 800+2GB RAM ）在平时也几乎不存在支付宝和微信要等待启动的情况，但是最近却看到很多人会说打开支付要等很久… 除非刚玩了大型游戏或打开大量网页，正常情况下不是应该很少会看到 splash 界面的么。\u003C/p\u003E\u000A\u000A\u003Cp\u003E如果平时喜欢频繁清内存，又感觉程序启动慢，也许可以试试不要经常清内存了，至少常用应用要加进白名单。\u003C/p\u003E\u000A\u000A\u003Cp\u003E只是个人见解，欢迎拍砖 XD\u003C/p\u003E\u000A",
+        "replies" : 50,
+        "member" : {
+            "id" : 8636,
+            "username" : "Ley",
+            "tagline" : "因为有希望",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/6f78/0a02/8636_mini.png?m=1331180290",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/6f78/0a02/8636_normal.png?m=1331180290",
+            "avatar_large" : "//cdn.v2ex.co/avatar/6f78/0a02/8636_large.png?m=1331180290"
+        },
+        "node" : {
+            "id" : 39,
+            "name" : "android",
+            "title" : "Android",
+            "title_alternative" : "Android",
+            "url" : "http://www.v2ex.com/go/android",
+            "topics" : 2349,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_mini.png?m=1455764292",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_normal.png?m=1455764292",
+            "avatar_large" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_large.png?m=1455764292"
+        },
+        "created" : 1455932210,
+        "last_modified" : 1455932210,
+        "last_touched" : 1456016625
+    },
+    
+    {
+        "id" : 257873,
+        "title" : "Google Play 也可以发兑换码了，于是来发一点「冰箱」的兑换码（重新发码）",
+        "url" : "http://www.v2ex.com/t/257873",
+        "content" : "昨天发了个帖子来送，不一会儿大家的留言都纷纷表示没有了，昨天我还在惊讶用得这么快，但今天才发现原来是第一次申请兑换码，选错了时区，导致当天就过期了……\u000D\u000A\u000D\u000A于是只好把原帖手动下沉掉，重新发码，给之前的大伙儿说声抱歉……\u000D\u000A\u000D\u000A顺带吐槽 Google 兑换码生 /失效具体时间只能用选择时区来控制的方法，真是 Excited ！\u000D\u000A\u000D\u000A\u002D\u002D\u002D\u002D\u002D\u002D\u000D\u000A原文的分割线\u000D\u000A\u002D\u002D\u002D\u002D\u002D\u002D\u000D\u000A\u000D\u000A最近 Google Play 终于新增了兑换码支持，应用内支持也很简单，只需要在内购行为 Activity 的 onResume() 中检查一下购买状态即可。\u000D\u000A\u000D\u000A于是来发一点自己的小 App 「冰箱」的兑换码。\u000D\u000A\u000D\u000A冰箱是一个在 Android 上安装国产 App 的解决方案，需要 root 权限，原理说白了就是 `pm disable xxx`。主要适用于那些丑得连图标都不想看到，但偶尔又不得不用的团购、银行等国产 App 。\u000D\u000A\u000D\u000A![banner]( http://file.1ittlecup.com/banner_v2ex.jpg)\u000D\u000A\u000D\u000A冰箱免费版可以冻结 20 个 App ，如果超过 20 个则需要内购。内购兑换码的使用方法是：安装后点击设置 \u002D\u003E Unlock Full Version \u002D\u003E Unlock ，支付时点右上角的箭头切换付款方式为兑换码即可。\u000D\u000A\u000D\u000A###Google Play 链接: \u003Chttps://play.google.com/store/apps/details?id\u003Dcom.catchingnow.icebox\u003E\u000D\u000A\u000D\u000A\u002D\u002D\u002D\u002D\u002D\u002D\u000D\u000A下面是新的兑换码: \u000D\u000A\u000D\u000AC745YGA09XH8Y5CFGX22LHN\u000D\u000A7CBV7M8L4L3FC86XTVBJ69M\u000D\u000A083E3T3J8ZYPCYHTKJL4PCE\u000D\u000AV15JQP0ZG9G7MDRWGLYJ5CK\u000D\u000AQ3J5ZLU05QAL239NTALDYNK\u000D\u000AQRV0PM24JH2EJVZ6R3PX9JP\u000D\u000AV3VAKFNW4Z2GTWT0RV7JN5X\u000D\u000AFDD1FGJWKUK9GTSM7G4ZQCS\u000D\u000AZXEAUYX81JFJX53Q6K2HRCW\u000D\u000A8LZHGHGZ587VUX1DHLXUSUG\u000D\u000AC9HRBDABXYC04CZST5KX44G\u000D\u000A3CPLVUH7P2HSFEALUBT7A7E\u000D\u000AX2ZDKJ4WBLRZ4Z0VSXG2K40\u000D\u000ASKLLBM88BUNJ2S8V4MPUURU\u000D\u000AD4FVNMRFJ14QP6PPTCMWA3S",
+        "content_rendered" : "\u003Cp\u003E昨天发了个帖子来送，不一会儿大家的留言都纷纷表示没有了，昨天我还在惊讶用得这么快，但今天才发现原来是第一次申请兑换码，选错了时区，导致当天就过期了……\u003C/p\u003E\u000A\u000A\u003Cp\u003E于是只好把原帖手动下沉掉，重新发码，给之前的大伙儿说声抱歉……\u003C/p\u003E\u000A\u000A\u003Cp\u003E顺带吐槽 Google 兑换码生 /失效具体时间只能用选择时区来控制的方法，真是 Excited ！\u003C/p\u003E\u000A\u000A\u003Chr\u003E\u000A\u000A\u003Ch2\u003E原文的分割线\u003C/h2\u003E\u000A\u000A\u003Cp\u003E最近 Google Play 终于新增了兑换码支持，应用内支持也很简单，只需要在内购行为 Activity 的 onResume() 中检查一下购买状态即可。\u003C/p\u003E\u000A\u000A\u003Cp\u003E于是来发一点自己的小 App 「冰箱」的兑换码。\u003C/p\u003E\u000A\u000A\u003Cp\u003E冰箱是一个在 Android 上安装国产 App 的解决方案，需要 root 权限，原理说白了就是 \u003Ccode\u003Epm disable xxx\u003C/code\u003E。主要适用于那些丑得连图标都不想看到，但偶尔又不得不用的团购、银行等国产 App 。\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Cimg src\u003D\u0022http://file.1ittlecup.com/banner_v2ex.jpg\u0022 alt\u003D\u0022banner\u0022\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E冰箱免费版可以冻结 20 个 App ，如果超过 20 个则需要内购。内购兑换码的使用方法是：安装后点击设置 \u002D\u0026gt\u003B Unlock Full Version \u002D\u0026gt\u003B Unlock ，支付时点右上角的箭头切换付款方式为兑换码即可。\u003C/p\u003E\u000A\u000A\u003Ch3\u003EGoogle Play 链接: \u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://play.google.com/store/apps/details?id\u003Dcom.catchingnow.icebox\u0022\u003Ehttps://play.google.com/store/apps/details?id\u003Dcom.catchingnow.icebox\u003C/a\u003E\u003C/h3\u003E\u000A\u000A\u003Chr\u003E\u000A\u000A\u003Cp\u003E下面是新的兑换码: \u003C/p\u003E\u000A\u000A\u003Cp\u003EC745YGA09XH8Y5CFGX22LHN\u003Cbr\u003E\u000A7CBV7M8L4L3FC86XTVBJ69M\u003Cbr\u003E\u000A083E3T3J8ZYPCYHTKJL4PCE\u003Cbr\u003E\u000AV15JQP0ZG9G7MDRWGLYJ5CK\u003Cbr\u003E\u000AQ3J5ZLU05QAL239NTALDYNK\u003Cbr\u003E\u000AQRV0PM24JH2EJVZ6R3PX9JP\u003Cbr\u003E\u000AV3VAKFNW4Z2GTWT0RV7JN5X\u003Cbr\u003E\u000AFDD1FGJWKUK9GTSM7G4ZQCS\u003Cbr\u003E\u000AZXEAUYX81JFJX53Q6K2HRCW\u003Cbr\u003E\u000A8LZHGHGZ587VUX1DHLXUSUG\u003Cbr\u003E\u000AC9HRBDABXYC04CZST5KX44G\u003Cbr\u003E\u000A3CPLVUH7P2HSFEALUBT7A7E\u003Cbr\u003E\u000AX2ZDKJ4WBLRZ4Z0VSXG2K40\u003Cbr\u003E\u000ASKLLBM88BUNJ2S8V4MPUURU\u003Cbr\u003E\u000AD4FVNMRFJ14QP6PPTCMWA3S\u003C/p\u003E\u000A",
+        "replies" : 48,
+        "member" : {
+            "id" : 19238,
+            "username" : "little_cup",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/c059/01fe/19238_mini.png?m=1416736388",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/c059/01fe/19238_normal.png?m=1416736388",
+            "avatar_large" : "//cdn.v2ex.co/avatar/c059/01fe/19238_large.png?m=1416736388"
+        },
+        "node" : {
+            "id" : 39,
+            "name" : "android",
+            "title" : "Android",
+            "title_alternative" : "Android",
+            "url" : "http://www.v2ex.com/go/android",
+            "topics" : 2349,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_mini.png?m=1455764292",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_normal.png?m=1455764292",
+            "avatar_large" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_large.png?m=1455764292"
+        },
+        "created" : 1455958310,
+        "last_modified" : 1455958310,
+        "last_touched" : 1456015019
+    },
+    
+    {
+        "id" : 257822,
+        "title" : "想问下做前端不会 JQ 能找到工作吗",
+        "url" : "http://www.v2ex.com/t/257822",
+        "content" : "想问下做前端不会 JQ 能找到工作吗\u000D\u000A\u000D\u000A我是完全不会那种，",
+        "content_rendered" : "\u003Cp\u003E想问下做前端不会 JQ 能找到工作吗\u003C/p\u003E\u000A\u000A\u003Cp\u003E我是完全不会那种，\u003C/p\u003E\u000A",
+        "replies" : 43,
+        "member" : {
+            "id" : 151237,
+            "username" : "minggeJS",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/76b9/0557/151237_mini.png?m=1451038548",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/76b9/0557/151237_normal.png?m=1451038548",
+            "avatar_large" : "//cdn.v2ex.co/avatar/76b9/0557/151237_large.png?m=1451038548"
+        },
+        "node" : {
+            "id" : 146,
+            "name" : "js",
+            "title" : "JavaScript",
+            "title_alternative" : "JavaScript",
+            "url" : "http://www.v2ex.com/go/js",
+            "topics" : 817,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/a5e0/0132/146_mini.png?m=1455764257",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/a5e0/0132/146_normal.png?m=1455764257",
+            "avatar_large" : "//cdn.v2ex.co/navatar/a5e0/0132/146_large.png?m=1455764257"
+        },
+        "created" : 1455938738,
+        "last_modified" : 1455938738,
+        "last_touched" : 1456002144
+    },
+    
+    {
+        "id" : 257838,
+        "title" : "想把 Surface3 作为 MBP 的扩展屏，有解决方案吗？",
+        "url" : "http://www.v2ex.com/t/257838",
+        "content" : "之前因为入坑 OneNote 忍不住买了个苏菲 3 ，现在想作为 MBP 的扩展屏幕（不是远程控制~）有什么解决方案吗？最好是能在一个局域网中就能搞定的， Splashtop Xdisplay 好像只支持苹果和安卓平板..如果实在没办法的话硬件怎么解决？",
+        "content_rendered" : "\u003Cp\u003E之前因为入坑 OneNote 忍不住买了个苏菲 3 ，现在想作为 MBP 的扩展屏幕（不是远程控制~）有什么解决方案吗？最好是能在一个局域网中就能搞定的， Splashtop Xdisplay 好像只支持苹果和安卓平板..如果实在没办法的话硬件怎么解决？\u003C/p\u003E\u000A",
+        "replies" : 27,
+        "member" : {
+            "id" : 127901,
+            "username" : "a4e9y47",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/d976/4be4/127901_mini.png?m=1450278323",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/d976/4be4/127901_normal.png?m=1450278323",
+            "avatar_large" : "//cdn.v2ex.co/avatar/d976/4be4/127901_large.png?m=1450278323"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 64690,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1455764386",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1455764386",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1455764386"
+        },
+        "created" : 1455942579,
+        "last_modified" : 1455942579,
+        "last_touched" : 1455993118
+    },
+    
+    {
+        "id" : 257877,
+        "title" : "我觉得吧。交友平台不应该基于共同兴趣",
+        "url" : "http://www.v2ex.com/t/257877",
+        "content" : "而应该基于共同讨厌的人\u000D\u000A\u000D\u000A比如  https://www.zhihu.com/question/40561921 这件事，分水岭太明显了。大家各自Block讨厌的人，然后基于这个向量做交友平台。如何？",
+        "content_rendered" : "而应该基于共同讨厌的人\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E比如  \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022https://www.zhihu.com/question/40561921\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://www.zhihu.com/question/40561921\u003C/a\u003E 这件事，分水岭太明显了。大家各自Block讨厌的人，然后基于这个向量做交友平台。如何？",
+        "replies" : 24,
+        "member" : {
+            "id" : 362,
+            "username" : "est",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/c3e8/78e2/362_mini.png?m=1383103622",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/c3e8/78e2/362_normal.png?m=1383103622",
+            "avatar_large" : "//cdn.v2ex.co/avatar/c3e8/78e2/362_large.png?m=1383103622"
+        },
+        "node" : {
+            "id" : 320,
+            "name" : "wtf",
+            "title" : "不靠谱茶话会",
+            "title_alternative" : "WTF",
+            "url" : "http://www.v2ex.com/go/wtf",
+            "topics" : 280,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/3207/2254/320_mini.png?m=1435210420",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/3207/2254/320_normal.png?m=1435210420",
+            "avatar_large" : "//cdn.v2ex.co/navatar/3207/2254/320_large.png?m=1435210420"
+        },
+        "created" : 1455960188,
+        "last_modified" : 1455960226,
+        "last_touched" : 1456011789
+    },
+    
+    {
+        "id" : 257859,
+        "title" : "sublime text3 总是卡死，请问有人有相同的情况么？",
+        "url" : "http://www.v2ex.com/t/257859",
+        "content" : "sublime 版本号 3103 ，设备是 8G13 寸 RMBP ，下图是 sublime 安装的插件\u000D\u000Ahttp://ww2.sinaimg.cn/large/79be056cjw1f15tchhr0zj20ru0kin2l.jpg\u000D\u000A（新人不会贴图不好意思）\u000D\u000A有时候刚打开还挺好的，但是切换到另一个程序（比如打开 chrome 看几个网页）然后再切回来直接卡死\u000D\u000A而且像.zsh_history 这种 2k 行以内的文件卡一点我还可以理解，很多时候 20 行的小脚本也卡死，实在不能理解（当然 atom 更卡）\u000D\u000A求问各位 V 友有什么解决办法么？",
+        "content_rendered" : "sublime 版本号 3103 ，设备是 8G13 寸 RMBP ，下图是 sublime 安装的插件\u000D\u003Cbr /\u003E\u003Cimg src\u003D\u0022http://ww2.sinaimg.cn/large/79be056cjw1f15tchhr0zj20ru0kin2l.jpg\u0022 class\u003D\u0022imgly\u0022 style\u003D\u0022max\u002Dwidth: 660px\u003B\u0022 border\u003D\u00220\u0022 /\u003E \u000D\u003Cbr /\u003E（新人不会贴图不好意思）\u000D\u003Cbr /\u003E有时候刚打开还挺好的，但是切换到另一个程序（比如打开 chrome 看几个网页）然后再切回来直接卡死\u000D\u003Cbr /\u003E而且像.zsh_history 这种 2k 行以内的文件卡一点我还可以理解，很多时候 20 行的小脚本也卡死，实在不能理解（当然 atom 更卡）\u000D\u003Cbr /\u003E求问各位 V 友有什么解决办法么？",
+        "replies" : 21,
+        "member" : {
+            "id" : 135878,
+            "username" : "wangranche",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/97f3/3971/135878_mini.png?m=1440873293",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/97f3/3971/135878_normal.png?m=1440873293",
+            "avatar_large" : "//cdn.v2ex.co/avatar/97f3/3971/135878_large.png?m=1440873293"
+        },
+        "node" : {
+            "id" : 22,
+            "name" : "macosx",
+            "title" : "Mac OS X",
+            "title_alternative" : "Mac OS X",
+            "url" : "http://www.v2ex.com/go/macosx",
+            "topics" : 7754,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/b6d7/67d2/22_mini.png?m=1454545260",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/b6d7/67d2/22_normal.png?m=1454545260",
+            "avatar_large" : "//cdn.v2ex.co/navatar/b6d7/67d2/22_large.png?m=1454545260"
+        },
+        "created" : 1455951909,
+        "last_modified" : 1455951909,
+        "last_touched" : 1455997917
+    },
+    
+    {
+        "id" : 257874,
+        "title" : "ios 9 正常使用 iCloud 备份数据的姿势是？",
+        "url" : "http://www.v2ex.com/t/257874",
+        "content" : "手贱,越狱后折腾了系统自带短信 app,导致无法正常接收短信,准备送修\u000D\u000A\u000D\u000A传言 iCloud 可以备份微信聊天记录\u000D\u000A\u000D\u000A点击过数据查看，发现微信 app 的云端数据有接近**1G** \u000D\u000A\u000D\u000A这个应该证明备份成功了吧？\u000D\u000A\u000D\u000A（再吐嘈下,微信把云端备份去掉后出了个什么鬼局域网迁移。\u000D\u000A然后我同一个微信还能 2 个手机同时登录？\u000D\u000A   还有个 QQ 邮箱网页登录问题,我都取消了安全保护,然后还是被拦。我干！\u000D\u000A  想打客服,翻遍了没找到出路。\u000D\u000A   ）\u000D\u000A现在除了 iCloud 备份貌似没其他途径能解决 app 数据备份迁移？\u000D\u000A\u000D\u000A如有其他途径,求告知下。\u000D\u000A\u000D\u000A打电话问过 400, 400 永远都是回复我姿势不对.\u000D\u000A\u000D\u000A尝试过修改 dns,sugre 墙外之流,均未成功.诶！\u000D\u000A\u000D\u000A但是！诡异的我最新数据备份时间是在 1 月。",
+        "content_rendered" : "\u003Cp\u003E手贱,越狱后折腾了系统自带短信 app,导致无法正常接收短信,准备送修\u003C/p\u003E\u000A\u000A\u003Cp\u003E传言 iCloud 可以备份微信聊天记录\u003C/p\u003E\u000A\u000A\u003Cp\u003E点击过数据查看，发现微信 app 的云端数据有接近\u003Cstrong\u003E1G\u003C/strong\u003E \u003C/p\u003E\u000A\u000A\u003Cp\u003E这个应该证明备份成功了吧？\u003C/p\u003E\u000A\u000A\u003Cp\u003E（再吐嘈下,微信把云端备份去掉后出了个什么鬼局域网迁移。\u003Cbr\u003E\u000A然后我同一个微信还能 2 个手机同时登录？\u003Cbr\u003E\u000A   还有个 QQ 邮箱网页登录问题,我都取消了安全保护,然后还是被拦。我干！\u003Cbr\u003E\u000A  想打客服,翻遍了没找到出路。\u003Cbr\u003E\u000A   ）\u003Cbr\u003E\u000A现在除了 iCloud 备份貌似没其他途径能解决 app 数据备份迁移？\u003C/p\u003E\u000A\u000A\u003Cp\u003E如有其他途径,求告知下。\u003C/p\u003E\u000A\u000A\u003Cp\u003E打电话问过 400, 400 永远都是回复我姿势不对.\u003C/p\u003E\u000A\u000A\u003Cp\u003E尝试过修改 dns,sugre 墙外之流,均未成功.诶！\u003C/p\u003E\u000A\u000A\u003Cp\u003E但是！诡异的我最新数据备份时间是在 1 月。\u003C/p\u003E\u000A",
+        "replies" : 21,
+        "member" : {
+            "id" : 122564,
+            "username" : "publicAdmin",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/e094/1fac/122564_mini.png?m=1454431332",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/e094/1fac/122564_normal.png?m=1454431332",
+            "avatar_large" : "//cdn.v2ex.co/avatar/e094/1fac/122564_large.png?m=1454431332"
+        },
+        "node" : {
+            "id" : 8,
+            "name" : "iphone",
+            "title" : "iPhone",
+            "title_alternative" : "iPhone",
+            "url" : "http://www.v2ex.com/go/iphone",
+            "topics" : 3332,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c9f0/f895/8_mini.png?m=1454545245",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c9f0/f895/8_normal.png?m=1454545245",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c9f0/f895/8_large.png?m=1454545245"
+        },
+        "created" : 1455959157,
+        "last_modified" : 1455959157,
+        "last_touched" : 1455986963
+    }
+    
+]

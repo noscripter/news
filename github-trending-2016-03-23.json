@@ -1,0 +1,72 @@
+[
+    {
+        "author": "dthree",
+        "category": "JavaScript",
+        "stars": "995",
+        "title": "cash - Cross-platform Linux commands in ES6",
+        "url": "https://github.com/dthree/cash"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "665",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "toddmotto",
+        "category": "",
+        "stars": "592",
+        "title": "public-apis - A collective list of public JSON APIs for use in web development.",
+        "url": "https://github.com/toddmotto/public-apis"
+    },
+    {
+        "author": "uutils",
+        "category": "Rust",
+        "stars": "425",
+        "title": "coreutils - Cross-platform Rust rewrite of the GNU coreutils",
+        "url": "https://github.com/uutils/coreutils"
+    },
+    {
+        "author": "searchkit",
+        "category": "TypeScript",
+        "stars": "301",
+        "title": "searchkit - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.",
+        "url": "https://github.com/searchkit/searchkit"
+    },
+    {
+        "author": "dutchcoders",
+        "category": "CSS",
+        "stars": "296",
+        "title": "transfer.sh - Easy and fast file sharing from the command-line.",
+        "url": "https://github.com/dutchcoders/transfer.sh"
+    },
+    {
+        "author": "redox-os",
+        "category": "Rust",
+        "stars": "255",
+        "title": "redox - Redox: A Rust Operating System",
+        "url": "https://github.com/redox-os/redox"
+    },
+    {
+        "author": "dodger487",
+        "category": "Python",
+        "stars": "179",
+        "title": "dplython - dplyr for python",
+        "url": "https://github.com/dodger487/dplython"
+    },
+    {
+        "author": "roughike",
+        "category": "Java",
+        "stars": "172",
+        "title": "BottomBar - A custom view component that mimics the new Material Design Bottom Navigation pattern.",
+        "url": "https://github.com/roughike/BottomBar"
+    },
+    {
+        "author": "drozdzynski",
+        "category": "Java",
+        "stars": "154",
+        "title": "Steppers - Steppers view library for Android, based on Google Material design guidelines",
+        "url": "https://github.com/drozdzynski/Steppers"
+    }
+]

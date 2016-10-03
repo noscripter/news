@@ -1,0 +1,72 @@
+[
+    {
+        "author": "devtools-html",
+        "category": "JavaScript",
+        "stars": "569",
+        "title": "debugger.html - The Firefox debugger that works anywhere",
+        "url": "https://github.com/devtools-html/debugger.html"
+    },
+    {
+        "author": "gztchan",
+        "category": "",
+        "stars": "555",
+        "title": "awesome-design - \ud83c\udf8f Best UI/UX Design Resources For Developer & Designer Ever :)",
+        "url": "https://github.com/gztchan/awesome-design"
+    },
+    {
+        "author": "ibab",
+        "category": "Python",
+        "stars": "496",
+        "title": "tensorflow-wavenet - A TensorFlow implementation of DeepMind's WaveNet paper",
+        "url": "https://github.com/ibab/tensorflow-wavenet"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "380",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "elendirx",
+        "category": "HTML",
+        "stars": "381",
+        "title": "web2web - P2P web powered by torrents and blockchain.",
+        "url": "https://github.com/elendirx/web2web"
+    },
+    {
+        "author": "shu223",
+        "category": "Swift",
+        "stars": "357",
+        "title": "iOS-10-Sampler - Code examples for new APIs of iOS 10.",
+        "url": "https://github.com/shu223/iOS-10-Sampler"
+    },
+    {
+        "author": "trueadm",
+        "category": "JavaScript",
+        "stars": "342",
+        "title": "inferno - An extremely fast, React-like JavaScript library for building modern user interfaces",
+        "url": "https://github.com/trueadm/inferno"
+    },
+    {
+        "author": "dollarshaveclub",
+        "category": "CSS",
+        "stars": "317",
+        "title": "reframe.js - Reframe unresponsive elements responsively.",
+        "url": "https://github.com/dollarshaveclub/reframe.js"
+    },
+    {
+        "author": "turbo",
+        "category": "Batchfile",
+        "stars": "264",
+        "title": "alwsl - Install archlinux as the WSL (Windows Subsystem for Linux) host.",
+        "url": "https://github.com/turbo/alwsl"
+    },
+    {
+        "author": "Easyfood",
+        "category": "JavaScript",
+        "stars": "232",
+        "title": "pageAccelerator - A very light solution to load web pages faster",
+        "url": "https://github.com/Easyfood/pageAccelerator"
+    }
+]

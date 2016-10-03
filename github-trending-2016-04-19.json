@@ -1,0 +1,72 @@
+[
+    {
+        "author": "donnemartin",
+        "category": "Python",
+        "stars": "1,076",
+        "title": "haxor-news - Browse Hacker News like a Haxor.",
+        "url": "https://github.com/donnemartin/haxor-news"
+    },
+    {
+        "author": "schollz",
+        "category": "Go",
+        "stars": "1,003",
+        "title": "find - High-precision indoor positioning framework for most wifi-enabled devices.",
+        "url": "https://github.com/schollz/find"
+    },
+    {
+        "author": "BradLarson",
+        "category": "Swift",
+        "stars": "769",
+        "title": "GPUImage2 - GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.",
+        "url": "https://github.com/BradLarson/GPUImage2"
+    },
+    {
+        "author": "zyedidia",
+        "category": "Go",
+        "stars": "687",
+        "title": "micro - A modern and intuitive terminal-based text editor",
+        "url": "https://github.com/zyedidia/micro"
+    },
+    {
+        "author": "kyleneideck",
+        "category": "C++",
+        "stars": "654",
+        "title": "BackgroundMusic - Background Music, an OS X audio utility",
+        "url": "https://github.com/kyleneideck/BackgroundMusic"
+    },
+    {
+        "author": "ibaaj",
+        "category": "C++",
+        "stars": "646",
+        "title": "dijkstra-cartography - Using Dijkstra's algorithm (\"finding the shortest paths between nodes in a graph\") to draw maps .",
+        "url": "https://github.com/ibaaj/dijkstra-cartography"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "615",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "jisungk",
+        "category": "Python",
+        "stars": "432",
+        "title": "deepjazz - Deep learning driven jazz generation using Keras & Theano!",
+        "url": "https://github.com/jisungk/deepjazz"
+    },
+    {
+        "author": "fbsamples",
+        "category": "JavaScript",
+        "stars": "375",
+        "title": "f8app - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.",
+        "url": "https://github.com/fbsamples/f8app"
+    },
+    {
+        "author": "vurtun",
+        "category": "C++",
+        "stars": "310",
+        "title": "nuklear - A small ANSI C gui toolkit",
+        "url": "https://github.com/vurtun/nuklear"
+    }
+]

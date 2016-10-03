@@ -1,0 +1,72 @@
+[
+    {
+        "author": "apple",
+        "category": "C++",
+        "stars": "2,421",
+        "title": "swift - The Swift Programming Language",
+        "url": "https://github.com/apple/swift"
+    },
+    {
+        "author": "diafygi",
+        "category": "Python",
+        "stars": "748",
+        "title": "acme-tiny - A tiny script to issue and renew TLS certs from Let's Encrypt",
+        "url": "https://github.com/diafygi/acme-tiny"
+    },
+    {
+        "author": "airbnb",
+        "category": "JavaScript",
+        "stars": "493",
+        "title": "reagent - JavaScript Testing utilities for React",
+        "url": "https://github.com/airbnb/reagent"
+    },
+    {
+        "author": "letsencrypt",
+        "category": "Python",
+        "stars": "432",
+        "title": "letsencrypt - This Let's Encrypt repo is an ACME client that can obtain certs and extensibly update server configurations (currently supports Apache on .deb based systems, nginx support coming soon)",
+        "url": "https://github.com/letsencrypt/letsencrypt"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "420",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "hashcat",
+        "category": "C",
+        "stars": "359",
+        "title": "hashcat - Advanced CPU-based password recovery utility",
+        "url": "https://github.com/hashcat/hashcat"
+    },
+    {
+        "author": "HospitalRun",
+        "category": "JavaScript",
+        "stars": "342",
+        "title": "hospitalrun-frontend - Ember front end for HospitalRun",
+        "url": "https://github.com/HospitalRun/hospitalrun-frontend"
+    },
+    {
+        "author": "twitter",
+        "category": "JavaScript",
+        "stars": "343",
+        "title": "labella.js - Placing labels on a timeline without overlap.",
+        "url": "https://github.com/twitter/labella.js"
+    },
+    {
+        "author": "apple",
+        "category": "Swift",
+        "stars": "288",
+        "title": "swift-package-manager - The Package Manager for the Swift Programming Language",
+        "url": "https://github.com/apple/swift-package-manager"
+    },
+    {
+        "author": "nathancahill",
+        "category": "JavaScript",
+        "stars": "293",
+        "title": "Split.js - Lightweight, unopinionated utility for adjustable split views",
+        "url": "https://github.com/nathancahill/Split.js"
+    }
+]

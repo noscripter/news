@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "519",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "dear-github",
+        "category": "",
+        "stars": "359",
+        "title": "dear-github - An open letter to GitHub from the maintainers of open source projects",
+        "url": "https://github.com/dear-github/dear-github"
+    },
+    {
+        "author": "Jack000",
+        "category": "JavaScript",
+        "stars": "210",
+        "title": "SVGnest - An open source vector nesting tool",
+        "url": "https://github.com/Jack000/SVGnest"
+    },
+    {
+        "author": "braydie",
+        "category": "",
+        "stars": "181",
+        "title": "HowToBeAProgrammer - A guide on how to be a Programmer - originally published by Robert L Read",
+        "url": "https://github.com/braydie/HowToBeAProgrammer"
+    },
+    {
+        "author": "JakeLin",
+        "category": "Swift",
+        "stars": "176",
+        "title": "IBAnimatable - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.",
+        "url": "https://github.com/JakeLin/IBAnimatable"
+    },
+    {
+        "author": "tastejs",
+        "category": "",
+        "stars": "164",
+        "title": "awesome-app-ideas - List of awesome app ideas",
+        "url": "https://github.com/tastejs/awesome-app-ideas"
+    },
+    {
+        "author": "NetBSDfr",
+        "category": "ApacheConf",
+        "stars": "159",
+        "title": "sailor - Portable container system",
+        "url": "https://github.com/NetBSDfr/sailor"
+    },
+    {
+        "author": "Microsoft",
+        "category": "JavaScript",
+        "stars": "139",
+        "title": "ChakraCore - ChakraCore is the core part of the Chakra Javascript engine that powers Microsoft Edge",
+        "url": "https://github.com/Microsoft/ChakraCore"
+    },
+    {
+        "author": "thank-you-github",
+        "category": "",
+        "stars": "110",
+        "title": "thank-you-github - An open letter of gratitude to GitHub",
+        "url": "https://github.com/thank-you-github/thank-you-github"
+    },
+    {
+        "author": "loverajoel",
+        "category": "JavaScript",
+        "stars": "124",
+        "title": "jstips - This is about one JS tip every day!",
+        "url": "https://github.com/loverajoel/jstips"
+    }
+]

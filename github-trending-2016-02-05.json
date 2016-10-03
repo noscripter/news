@@ -1,0 +1,72 @@
+[
+    {
+        "author": "pkmital",
+        "category": "Jupyter Notebook",
+        "stars": "1,074",
+        "title": "tensorflow_tutorials - From the basics to slightly more interesting applications of Tensorflow",
+        "url": "https://github.com/pkmital/tensorflow_tutorials"
+    },
+    {
+        "author": "josephmisiti",
+        "category": "Python",
+        "stars": "852",
+        "title": "awesome-machine-learning - A curated list of awesome Machine Learning frameworks, libraries and software.",
+        "url": "https://github.com/josephmisiti/awesome-machine-learning"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "671",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "alexazhou",
+        "category": "HTML",
+        "stars": "339",
+        "title": "VeryNginx - A very powerful and friendly nginx base on lua-nginx-module( openresty ) which provide custom waf , action and analyzing. \u529f\u80fd\u5f3a\u5927\u5e76\u4e14\u62e5\u6709\u5bf9\u4eba\u7c7b\u53cb\u597d\u754c\u9762\u7684Nginx, \u63d0\u4f9b\u9632\u706b\u5899\uff0c\u81ea\u5b9a\u4e49\u884c\u4e3a\u548c\u7edf\u8ba1\u529f\u80fd",
+        "url": "https://github.com/alexazhou/VeryNginx"
+    },
+    {
+        "author": "mjmlio",
+        "category": "JavaScript",
+        "stars": "262",
+        "title": "mjml - MJML: the only framework that makes responsive-email easy",
+        "url": "https://github.com/mjmlio/mjml"
+    },
+    {
+        "author": "awalGarg",
+        "category": "JavaScript",
+        "stars": "258",
+        "title": "cv-maker - simple elegant markdown based resumes",
+        "url": "https://github.com/awalGarg/cv-maker"
+    },
+    {
+        "author": "github",
+        "category": "Ruby",
+        "stars": "260",
+        "title": "scientist - A Ruby library for carefully refactoring critical paths.",
+        "url": "https://github.com/github/scientist"
+    },
+    {
+        "author": "jh00nbr",
+        "category": "Python",
+        "stars": "196",
+        "title": "Routerhunter-2.0 - Testing vulnerabilities in devices and routers connected to the Internet.",
+        "url": "https://github.com/jh00nbr/Routerhunter-2.0"
+    },
+    {
+        "author": "KaimingHe",
+        "category": "",
+        "stars": "193",
+        "title": "deep-residual-networks - Deep Residual Learning for Image Recognition",
+        "url": "https://github.com/KaimingHe/deep-residual-networks"
+    },
+    {
+        "author": "caesar0301",
+        "category": "",
+        "stars": "189",
+        "title": "awesome-public-datasets - An awesome list of high-quality open datasets in public domains (on-going).",
+        "url": "https://github.com/caesar0301/awesome-public-datasets"
+    }
+]

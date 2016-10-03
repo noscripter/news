@@ -1,0 +1,72 @@
+[
+    {
+        "author": "google",
+        "category": "Rust",
+        "stars": "621",
+        "title": "xi-editor - A modern editor with a backend written in Rust.",
+        "url": "https://github.com/google/xi-editor"
+    },
+    {
+        "author": "openai",
+        "category": "Python",
+        "stars": "557",
+        "title": "gym - A toolkit for developing and comparing reinforcement learning algorithms.",
+        "url": "https://github.com/openai/gym"
+    },
+    {
+        "author": "calebmer",
+        "category": "JavaScript",
+        "stars": "562",
+        "title": "postgraphql - A GraphQL schema created by reflection over a PostgreSQL schema.",
+        "url": "https://github.com/calebmer/postgraphql"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "554",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "bartobri",
+        "category": "C",
+        "stars": "485",
+        "title": "no-more-secrets - A tool set to recreate the famous \"decrypting text\" effect as seen in the 1992 movie Sneakers.",
+        "url": "https://github.com/bartobri/no-more-secrets"
+    },
+    {
+        "author": "gavindinubilo",
+        "category": "HTML",
+        "stars": "388",
+        "title": "jam-api - Parse web pages using CSS query selectors",
+        "url": "https://github.com/gavindinubilo/jam-api"
+    },
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "369",
+        "title": "HEAD - A list of everything that goes in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    },
+    {
+        "author": "vuejs",
+        "category": "JavaScript",
+        "stars": "289",
+        "title": "vue - Simple yet powerful library for building modern web interfaces.",
+        "url": "https://github.com/vuejs/vue"
+    },
+    {
+        "author": "chartjs",
+        "category": "JavaScript",
+        "stars": "281",
+        "title": "Chart.js - Simple HTML5 Charts using the <canvas> tag",
+        "url": "https://github.com/chartjs/Chart.js"
+    },
+    {
+        "author": "reverse-shell",
+        "category": "Python",
+        "stars": "211",
+        "title": "routersploit - The Router Exploitation Framework",
+        "url": "https://github.com/reverse-shell/routersploit"
+    }
+]

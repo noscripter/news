@@ -1,0 +1,72 @@
+[
+    {
+        "author": "facebookresearch",
+        "category": "C++",
+        "stars": "654",
+        "title": "fastText - Library for fast text representation and classification.",
+        "url": "https://github.com/facebookresearch/fastText"
+    },
+    {
+        "author": "attic-labs",
+        "category": "Go",
+        "stars": "549",
+        "title": "noms - The versioned, forkable, syncable database",
+        "url": "https://github.com/attic-labs/noms"
+    },
+    {
+        "author": "commaai",
+        "category": "Python",
+        "stars": "352",
+        "title": "research - comma.ai for the people to experiment with",
+        "url": "https://github.com/commaai/research"
+    },
+    {
+        "author": "Blankj",
+        "category": "Java",
+        "stars": "332",
+        "title": "AndroidUtilCode - ",
+        "url": "https://github.com/Blankj/AndroidUtilCode"
+    },
+    {
+        "author": "sachinchoolur",
+        "category": "JavaScript",
+        "stars": "358",
+        "title": "lightgallery.js - Full featured JavaScript gallery. No dependencies.",
+        "url": "https://github.com/sachinchoolur/lightgallery.js"
+    },
+    {
+        "author": "gavanw",
+        "category": "JavaScript",
+        "stars": "310",
+        "title": "voxelquestiso - First version of the Voxel Quest engine (isometric)",
+        "url": "https://github.com/gavanw/voxelquestiso"
+    },
+    {
+        "author": "yadav-rahul",
+        "category": "Java",
+        "stars": "278",
+        "title": "TastyToast - \ud83c\udf5e Make your native android Toasts Tasty",
+        "url": "https://github.com/yadav-rahul/TastyToast"
+    },
+    {
+        "author": "vhf",
+        "category": "",
+        "stars": "239",
+        "title": "free-programming-books - \ud83d\udcda Freely available programming books",
+        "url": "https://github.com/vhf/free-programming-books"
+    },
+    {
+        "author": "AHAAAAAAA",
+        "category": "Python",
+        "stars": "209",
+        "title": "PokemonGo-Map - \ud83c\udf0f Live visualization of all the pokemon in your area... and more!",
+        "url": "https://github.com/AHAAAAAAA/PokemonGo-Map"
+    },
+    {
+        "author": "crystal-lang",
+        "category": "Crystal",
+        "stars": "236",
+        "title": "crystal - The Crystal Programming Language",
+        "url": "https://github.com/crystal-lang/crystal"
+    }
+]

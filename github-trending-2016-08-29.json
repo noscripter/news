@@ -1,0 +1,72 @@
+[
+    {
+        "author": "camwiegert",
+        "category": "JavaScript",
+        "stars": "814",
+        "title": "in-view - Get notified when a DOM element enters or exits the viewport. \ud83d\udc40",
+        "url": "https://github.com/camwiegert/in-view"
+    },
+    {
+        "author": "thejameskyle",
+        "category": "JavaScript",
+        "stars": "475",
+        "title": "itsy-bitsy-data-structures - \ud83c\udff0 All the things you didn't know you wanted to know about data structures",
+        "url": "https://github.com/thejameskyle/itsy-bitsy-data-structures"
+    },
+    {
+        "author": "dschep",
+        "category": "Python",
+        "stars": "473",
+        "title": "ntfy - A utility for sending notifications, on demand and when commands finish.",
+        "url": "https://github.com/dschep/ntfy"
+    },
+    {
+        "author": "mozilla",
+        "category": "Python",
+        "stars": "304",
+        "title": "http-observatory - HTTP Observatory",
+        "url": "https://github.com/mozilla/http-observatory"
+    },
+    {
+        "author": "david-gpu",
+        "category": "Python",
+        "stars": "279",
+        "title": "srez - Image super-resolution through deep learning",
+        "url": "https://github.com/david-gpu/srez"
+    },
+    {
+        "author": "koush",
+        "category": "JavaScript",
+        "stars": "259",
+        "title": "electron-chrome - ",
+        "url": "https://github.com/koush/electron-chrome"
+    },
+    {
+        "author": "paarthneekhara",
+        "category": "Python",
+        "stars": "173",
+        "title": "text-to-image - Tensorflow implementation of text to image synthesis using thought vectors",
+        "url": "https://github.com/paarthneekhara/text-to-image"
+    },
+    {
+        "author": "FormidableLabs",
+        "category": "JavaScript",
+        "stars": "147",
+        "title": "react-music - Make beats with React!",
+        "url": "https://github.com/FormidableLabs/react-music"
+    },
+    {
+        "author": "babel",
+        "category": "JavaScript",
+        "stars": "146",
+        "title": "babili - \u2702\ufe0f An ES6+ aware minifier based on the Babel toolchain (beta)",
+        "url": "https://github.com/babel/babili"
+    },
+    {
+        "author": "variadico",
+        "category": "Go",
+        "stars": "138",
+        "title": "noti - Trigger notifications when a process completes.",
+        "url": "https://github.com/variadico/noti"
+    }
+]

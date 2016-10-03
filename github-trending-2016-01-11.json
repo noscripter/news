@@ -1,0 +1,72 @@
+[
+    {
+        "author": "braydie",
+        "category": "",
+        "stars": "411",
+        "title": "HowToBeAProgrammer - A guide on how to be a Programmer - originally published by Robert L Read",
+        "url": "https://github.com/braydie/HowToBeAProgrammer"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "370",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "loverajoel",
+        "category": "JavaScript",
+        "stars": "306",
+        "title": "jstips - This is about one JS tip every day!",
+        "url": "https://github.com/loverajoel/jstips"
+    },
+    {
+        "author": "datarhei",
+        "category": "JavaScript",
+        "stars": "212",
+        "title": "restreamer - Datarhei/Restreamer allows you to do h.264 real-time video streaming on your website without a streaming provider",
+        "url": "https://github.com/datarhei/restreamer"
+    },
+    {
+        "author": "wilsonpage",
+        "category": "JavaScript",
+        "stars": "215",
+        "title": "fastdom - Eliminates layout thrashing by batching DOM measurement and mutation tasks",
+        "url": "https://github.com/wilsonpage/fastdom"
+    },
+    {
+        "author": "viljamis",
+        "category": "HTML",
+        "stars": "207",
+        "title": "feature.js - Feature.js is a fast, simple and lightweight browser feature detection library in 1kb.",
+        "url": "https://github.com/viljamis/feature.js"
+    },
+    {
+        "author": "matryer",
+        "category": "Objective-C",
+        "stars": "205",
+        "title": "bitbar - Put the output from any script or program in your Mac OS X Menu Bar",
+        "url": "https://github.com/matryer/bitbar"
+    },
+    {
+        "author": "ruanyf",
+        "category": "JavaScript",
+        "stars": "192",
+        "title": "webpack-demos - a collection of simple demos of Webpack",
+        "url": "https://github.com/ruanyf/webpack-demos"
+    },
+    {
+        "author": "mhinz",
+        "category": "",
+        "stars": "184",
+        "title": "vim-galore - Everything you need to know about Vim.",
+        "url": "https://github.com/mhinz/vim-galore"
+    },
+    {
+        "author": "jlevy",
+        "category": "",
+        "stars": "160",
+        "title": "the-art-of-command-line - Master the command line, in one page",
+        "url": "https://github.com/jlevy/the-art-of-command-line"
+    }
+]

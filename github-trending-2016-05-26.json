@@ -1,0 +1,72 @@
+[
+    {
+        "author": "CRYTEK-CRYENGINE",
+        "category": "C++",
+        "stars": "1,616",
+        "title": "CRYENGINE - CRYENGINE source code.",
+        "url": "https://github.com/CRYTEK-CRYENGINE/CRYENGINE"
+    },
+    {
+        "author": "parkjs814",
+        "category": "JavaScript",
+        "stars": "925",
+        "title": "AlgorithmVisualizer - Algorithm Visualizer",
+        "url": "https://github.com/parkjs814/AlgorithmVisualizer"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "523",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "499",
+        "title": "HEAD - A list of everything that goes in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    },
+    {
+        "author": "decosoftware",
+        "category": "JavaScript",
+        "stars": "471",
+        "title": "deco-ide - The React Native IDE",
+        "url": "https://github.com/decosoftware/deco-ide"
+    },
+    {
+        "author": "futurice",
+        "category": "JavaScript",
+        "stars": "449",
+        "title": "pepperoni-app-kit - Pepperoni - React Native App Starter Kit for Android and iOS",
+        "url": "https://github.com/futurice/pepperoni-app-kit"
+    },
+    {
+        "author": "picturepan2",
+        "category": "HTML",
+        "stars": "422",
+        "title": "spectre - Spectre.css - a lightweight, responsive and modern CSS framework.",
+        "url": "https://github.com/picturepan2/spectre"
+    },
+    {
+        "author": "brownhci",
+        "category": "JavaScript",
+        "stars": "325",
+        "title": "WebGazer - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions",
+        "url": "https://github.com/brownhci/WebGazer"
+    },
+    {
+        "author": "shockone",
+        "category": "TypeScript",
+        "stars": "318",
+        "title": "black-screen - A terminal emulator for the 21st century.",
+        "url": "https://github.com/shockone/black-screen"
+    },
+    {
+        "author": "twitter",
+        "category": "Java",
+        "stars": "299",
+        "title": "heron - Heron is a realtime, distributed, fault-tolerant stream processing engine from Twitter",
+        "url": "https://github.com/twitter/heron"
+    }
+]

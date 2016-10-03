@@ -1,0 +1,72 @@
+[
+    {
+        "author": "Microsoft",
+        "category": "C++",
+        "stars": "947",
+        "title": "CNTK - Computational Network Toolkit (CNTK)",
+        "url": "https://github.com/Microsoft/CNTK"
+    },
+    {
+        "author": "DrkSephy",
+        "category": "JavaScript",
+        "stars": "927",
+        "title": "es6-cheatsheet - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets",
+        "url": "https://github.com/DrkSephy/es6-cheatsheet"
+    },
+    {
+        "author": "kragniz",
+        "category": "Python",
+        "stars": "628",
+        "title": "json-sempai - Use JSON files as if they are python modules",
+        "url": "https://github.com/kragniz/json-sempai"
+    },
+    {
+        "author": "Soundnode",
+        "category": "JavaScript",
+        "stars": "600",
+        "title": "soundnode-app - Soundnode App is the Soundcloud for desktop. Built with NW.js, Angular.js and Soundcloud API.",
+        "url": "https://github.com/Soundnode/soundnode-app"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "610",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "zquestz",
+        "category": "Go",
+        "stars": "457",
+        "title": "s - Open a web search in your terminal.",
+        "url": "https://github.com/zquestz/s"
+    },
+    {
+        "author": "Yalantis",
+        "category": "Java",
+        "stars": "402",
+        "title": "uCrop - Image Cropping Library for Android",
+        "url": "https://github.com/Yalantis/uCrop"
+    },
+    {
+        "author": "jiahaog",
+        "category": "JavaScript",
+        "stars": "353",
+        "title": "nativefier - Wrap any web page natively without even thinking, across Windows, OSX and Linux",
+        "url": "https://github.com/jiahaog/nativefier"
+    },
+    {
+        "author": "TencentOpen",
+        "category": "Java",
+        "stars": "320",
+        "title": "GT - ",
+        "url": "https://github.com/TencentOpen/GT"
+    },
+    {
+        "author": "jetpacapp",
+        "category": "JavaScript",
+        "stars": "273",
+        "title": "DeepBeliefSDK - The SDK for Jetpac's iOS Deep Belief image recognition framework",
+        "url": "https://github.com/jetpacapp/DeepBeliefSDK"
+    }
+]

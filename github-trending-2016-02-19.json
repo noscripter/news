@@ -1,0 +1,72 @@
+[
+    {
+        "author": "google",
+        "category": "Objective-C",
+        "stars": "718",
+        "title": "EarlGrey - iOS UI Automation Test Framework",
+        "url": "https://github.com/google/EarlGrey"
+    },
+    {
+        "author": "Hashnode",
+        "category": "JavaScript",
+        "stars": "610",
+        "title": "mern-starter - Boilerplate for getting started with MERN stack",
+        "url": "https://github.com/Hashnode/mern-starter"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "596",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "callmecavs",
+        "category": "JavaScript",
+        "stars": "561",
+        "title": "bricks.js - A blazing fast masonry layout generator for fixed width elements.",
+        "url": "https://github.com/callmecavs/bricks.js"
+    },
+    {
+        "author": "allenwong",
+        "category": "Swift",
+        "stars": "441",
+        "title": "30DaysofSwift - A self taught project to learn Swift.",
+        "url": "https://github.com/allenwong/30DaysofSwift"
+    },
+    {
+        "author": "chubin",
+        "category": "Shell",
+        "stars": "220",
+        "title": "wttr.in - Web frontend for wego",
+        "url": "https://github.com/chubin/wttr.in"
+    },
+    {
+        "author": "marmelroy",
+        "category": "Swift",
+        "stars": "185",
+        "title": "FileBrowser - Finder-style iOS file browser written in Swift",
+        "url": "https://github.com/marmelroy/FileBrowser"
+    },
+    {
+        "author": "j-delaney",
+        "category": "",
+        "stars": "173",
+        "title": "easy-application - 256 software engineering companies that are easy to apply to",
+        "url": "https://github.com/j-delaney/easy-application"
+    },
+    {
+        "author": "scup",
+        "category": "JavaScript",
+        "stars": "178",
+        "title": "atellier - The smartest way to share interactive components with your team.",
+        "url": "https://github.com/scup/atellier"
+    },
+    {
+        "author": "mholt",
+        "category": "Go",
+        "stars": "174",
+        "title": "caddy - Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+        "url": "https://github.com/mholt/caddy"
+    }
+]

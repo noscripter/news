@@ -1,0 +1,72 @@
+[
+    {
+        "author": "anishathalye",
+        "category": "Objective-C",
+        "stars": "477",
+        "title": "lumen - Magic auto brightness based on screen contents \ud83d\udca1",
+        "url": "https://github.com/anishathalye/lumen"
+    },
+    {
+        "author": "shagabutdinov",
+        "category": "HTML",
+        "stars": "466",
+        "title": "sublime-enhanced - Set of plugins for beloved sublime text editor",
+        "url": "https://github.com/shagabutdinov/sublime-enhanced"
+    },
+    {
+        "author": "Curzibn",
+        "category": "Java",
+        "stars": "381",
+        "title": "Luban - Luban(\u9c81\u73ed)\u2014\u2014\u53ef\u80fd\u662f\u6700\u63a5\u8fd1\u5fae\u4fe1\u670b\u53cb\u5708\u7684\u56fe\u7247\u538b\u7f29\u7b97\u6cd5",
+        "url": "https://github.com/Curzibn/Luban"
+    },
+    {
+        "author": "hanc00l",
+        "category": "Python",
+        "stars": "330",
+        "title": "wooyun_public - \u4e4c\u4e91\u516c\u5f00\u6f0f\u6d1e\u3001\u77e5\u8bc6\u5e93\u722c\u866b\u548c\u641c\u7d22 crawl and search for wooyun.org public bug(vulnerability) and drops",
+        "url": "https://github.com/hanc00l/wooyun_public"
+    },
+    {
+        "author": "AHAAAAAAA",
+        "category": "Python",
+        "stars": "276",
+        "title": "PokemonGo-Map - \ud83c\udf0f Live visualization of all the pokemon in your area... and more!",
+        "url": "https://github.com/AHAAAAAAA/PokemonGo-Map"
+    },
+    {
+        "author": "vhf",
+        "category": "",
+        "stars": "315",
+        "title": "free-programming-books - \ud83d\udcda Freely available programming books",
+        "url": "https://github.com/vhf/free-programming-books"
+    },
+    {
+        "author": "FallibleInc",
+        "category": "",
+        "stars": "342",
+        "title": "security-guide-for-developers - Security Guide for Developers",
+        "url": "https://github.com/FallibleInc/security-guide-for-developers"
+    },
+    {
+        "author": "facebookincubator",
+        "category": "JavaScript",
+        "stars": "304",
+        "title": "create-react-app - Create React apps with no build configuration.",
+        "url": "https://github.com/facebookincubator/create-react-app"
+    },
+    {
+        "author": "github",
+        "category": "Go",
+        "stars": "279",
+        "title": "gh-ost - GitHub's Online Schema Change for MySQL",
+        "url": "https://github.com/github/gh-ost"
+    },
+    {
+        "author": "SchibstedSpain",
+        "category": "Java",
+        "stars": "228",
+        "title": "Parallax-Layer-Layout - Layered parallax effect to any views",
+        "url": "https://github.com/SchibstedSpain/Parallax-Layer-Layout"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "CatchChat",
+        "category": "Swift",
+        "stars": "1,598",
+        "title": "Yep - Meet with Genius",
+        "url": "https://github.com/CatchChat/Yep"
+    },
+    {
+        "author": "cantino",
+        "category": "Ruby",
+        "stars": "883",
+        "title": "huginn - Build agents that monitor and act on your behalf. Your agents are standing by!",
+        "url": "https://github.com/cantino/huginn"
+    },
+    {
+        "author": "caesar0301",
+        "category": "",
+        "stars": "742",
+        "title": "awesome-public-datasets - An awesome list of high-quality open datasets in public domains (on-going).",
+        "url": "https://github.com/caesar0301/awesome-public-datasets"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "640",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "fogleman",
+        "category": "Go",
+        "stars": "632",
+        "title": "ln - 3D line art engine.",
+        "url": "https://github.com/fogleman/ln"
+    },
+    {
+        "author": "DylanPiercey",
+        "category": "JavaScript",
+        "stars": "398",
+        "title": "auto-sni - Free, automated HTTPS for NodeJS made easy.",
+        "url": "https://github.com/DylanPiercey/auto-sni"
+    },
+    {
+        "author": "jgthms",
+        "category": "CSS",
+        "stars": "367",
+        "title": "bulma - Modern CSS framework based on Flexbox",
+        "url": "https://github.com/jgthms/bulma"
+    },
+    {
+        "author": "chinchang",
+        "category": "CSS",
+        "stars": "343",
+        "title": "hint.css - A CSS only tooltip library for your lovely websites.",
+        "url": "https://github.com/chinchang/hint.css"
+    },
+    {
+        "author": "CosmicMind",
+        "category": "Swift",
+        "stars": "294",
+        "title": "Material - A beautiful graphics framework for Material Design in Swift.",
+        "url": "https://github.com/CosmicMind/Material"
+    },
+    {
+        "author": "hollance",
+        "category": "Swift",
+        "stars": "247",
+        "title": "swift-algorithm-club - Algorithms and data structures in Swift, with explanations!",
+        "url": "https://github.com/hollance/swift-algorithm-club"
+    }
+]

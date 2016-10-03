@@ -1,0 +1,72 @@
+[
+    {
+        "author": "tflearn",
+        "category": "Python",
+        "stars": "716",
+        "title": "tflearn - Deep learning library featuring a higher-level API for TensorFlow.",
+        "url": "https://github.com/tflearn/tflearn"
+    },
+    {
+        "author": "soimort",
+        "category": "Python",
+        "stars": "657",
+        "title": "you-get - Dumb downloader that scrapes the web",
+        "url": "https://github.com/soimort/you-get"
+    },
+    {
+        "author": "kadirahq",
+        "category": "JavaScript",
+        "stars": "672",
+        "title": "react-storybook - Isolate your React UI Component development from the main app",
+        "url": "https://github.com/kadirahq/react-storybook"
+    },
+    {
+        "author": "firehol",
+        "category": "C",
+        "stars": "464",
+        "title": "netdata - Real-time performance monitoring, done right!",
+        "url": "https://github.com/firehol/netdata"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "464",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "airbnb",
+        "category": "Python",
+        "stars": "317",
+        "title": "caravel - Caravel is a data exploration platform designed to be visual, intuitive, and interactive",
+        "url": "https://github.com/airbnb/caravel"
+    },
+    {
+        "author": "thejameskyle",
+        "category": "JavaScript",
+        "stars": "328",
+        "title": "the-super-tiny-compiler - Possibly the smallest compiler ever",
+        "url": "https://github.com/thejameskyle/the-super-tiny-compiler"
+    },
+    {
+        "author": "typicode",
+        "category": "JavaScript",
+        "stars": "276",
+        "title": "hotel - local .dev domains for everyone and more!",
+        "url": "https://github.com/typicode/hotel"
+    },
+    {
+        "author": "toddmotto",
+        "category": "",
+        "stars": "219",
+        "title": "public-apis - A collective list of public JSON APIs for use in web development.",
+        "url": "https://github.com/toddmotto/public-apis"
+    },
+    {
+        "author": "aphyr",
+        "category": "",
+        "stars": "205",
+        "title": "distsys-class - Class materials for a distributed systems lecture series",
+        "url": "https://github.com/aphyr/distsys-class"
+    }
+]

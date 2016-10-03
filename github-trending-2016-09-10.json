@@ -1,0 +1,72 @@
+[
+    {
+        "author": "gztchan",
+        "category": "",
+        "stars": "705",
+        "title": "awesome-design - \ud83c\udf8f Best UI/UX Design Sources For Developer & Designer Ever :)",
+        "url": "https://github.com/gztchan/awesome-design"
+    },
+    {
+        "author": "franciscop",
+        "category": "JavaScript",
+        "stars": "514",
+        "title": "cookies.js - \ud83c\udf6a Interactive and easy cookies from your browser in javascript",
+        "url": "https://github.com/franciscop/cookies.js"
+    },
+    {
+        "author": "gravitational",
+        "category": "Go",
+        "stars": "405",
+        "title": "teleconsole - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.",
+        "url": "https://github.com/gravitational/teleconsole"
+    },
+    {
+        "author": "knownsec",
+        "category": "JavaScript",
+        "stars": "331",
+        "title": "KCon - KCon is a famous Hacker Con powered by Knownsec Team.",
+        "url": "https://github.com/knownsec/KCon"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "363",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "quilljs",
+        "category": "JavaScript",
+        "stars": "319",
+        "title": "quill - Your powerful, rich text editor",
+        "url": "https://github.com/quilljs/quill"
+    },
+    {
+        "author": "shekhargulati",
+        "category": "JavaScript",
+        "stars": "257",
+        "title": "52-technologies-in-2016 - Let's learn a new technology every week. A new technology blog every Sunday in 2016.",
+        "url": "https://github.com/shekhargulati/52-technologies-in-2016"
+    },
+    {
+        "author": "sarcadass",
+        "category": "JavaScript",
+        "stars": "235",
+        "title": "granim.js - Create fluid and interactive gradients animations with this small (< 10 kB) js library.",
+        "url": "https://github.com/sarcadass/granim.js"
+    },
+    {
+        "author": "codeestX",
+        "category": "Java",
+        "stars": "211",
+        "title": "GeekNews - A pure reading App based on Material Design + MVP + RxJava + Retrofit + Dagger2 + Realm + Glide",
+        "url": "https://github.com/codeestX/GeekNews"
+    },
+    {
+        "author": "onqtam",
+        "category": "",
+        "stars": "225",
+        "title": "awesome-cmake - A curated list of awesome CMake scripts, modules, examples and others.",
+        "url": "https://github.com/onqtam/awesome-cmake"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "670",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "ZhyTeam",
+        "category": "C",
+        "stars": "370",
+        "title": "ZhyCore - Advanced server software for Minecraft: Pocket Edition(MCPE) Powered by C++",
+        "url": "https://github.com/ZhyTeam/ZhyCore"
+    },
+    {
+        "author": "qutheory",
+        "category": "Swift",
+        "stars": "593",
+        "title": "vapor - Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.",
+        "url": "https://github.com/qutheory/vapor"
+    },
+    {
+        "author": "ImagicalMine",
+        "category": "PHP",
+        "stars": "30",
+        "title": "ImagicalMine - ImagicalMine. The first third-party build of PocketMine-MP that rocked the world.",
+        "url": "https://github.com/ImagicalMine/ImagicalMine"
+    },
+    {
+        "author": "VPenkov",
+        "category": "JavaScript",
+        "stars": "320",
+        "title": "okayNav - The world's okayest responsive navigation",
+        "url": "https://github.com/VPenkov/okayNav"
+    },
+    {
+        "author": "lmatteis",
+        "category": "JavaScript",
+        "stars": "238",
+        "title": "peer-tweet - Decentralized feeds using BitTorrent's DHT. Idea from Arvid and The_8472 \"DHT RSS feeds\" http://libtorrent.org/dht_rss.html",
+        "url": "https://github.com/lmatteis/peer-tweet"
+    },
+    {
+        "author": "callmecavs",
+        "category": "JavaScript",
+        "stars": "201",
+        "title": "bricks.js - A blazing fast masonry layout generator for fixed width elements.",
+        "url": "https://github.com/callmecavs/bricks.js"
+    },
+    {
+        "author": "lamdu",
+        "category": "Haskell",
+        "stars": "174",
+        "title": "lamdu - lamdu - towards the next generation IDE",
+        "url": "https://github.com/lamdu/lamdu"
+    },
+    {
+        "author": "commodityvectors",
+        "category": "JavaScript",
+        "stars": "177",
+        "title": "d3-timeline - ",
+        "url": "https://github.com/commodityvectors/d3-timeline"
+    },
+    {
+        "author": "xcc3641",
+        "category": "Java",
+        "stars": "154",
+        "title": "SeeWeather - RxAndroid+Retrofit+Glide+Matrial Design Weather App",
+        "url": "https://github.com/xcc3641/SeeWeather"
+    }
+]

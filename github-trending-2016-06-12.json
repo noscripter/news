@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "528",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "facebookresearch",
+        "category": "C",
+        "stars": "355",
+        "title": "darkforestGo - DarkForest, the Facebook Go engine.",
+        "url": "https://github.com/facebookresearch/darkforestGo"
+    },
+    {
+        "author": "git-tips",
+        "category": "JavaScript",
+        "stars": "178",
+        "title": "tips - Most commonly used git tips and tricks.",
+        "url": "https://github.com/git-tips/tips"
+    },
+    {
+        "author": "sahat",
+        "category": "CSS",
+        "stars": "157",
+        "title": "megaboilerplate - \ud83d\ude80 Handcrafted starter projects, optimized for simplicity and ease of use.",
+        "url": "https://github.com/sahat/megaboilerplate"
+    },
+    {
+        "author": "Haroenv",
+        "category": "JavaScript",
+        "stars": "155",
+        "title": "holmes - Fast and easy searching inside a page",
+        "url": "https://github.com/Haroenv/holmes"
+    },
+    {
+        "author": "coursera-dl",
+        "category": "HTML",
+        "stars": "126",
+        "title": "coursera-dl - Script for downloading Coursera.org videos and naming them.",
+        "url": "https://github.com/coursera-dl/coursera-dl"
+    },
+    {
+        "author": "airbnb",
+        "category": "JavaScript",
+        "stars": "125",
+        "title": "hypernova - A service for server-side rendering your JavaScript views",
+        "url": "https://github.com/airbnb/hypernova"
+    },
+    {
+        "author": "Lickability",
+        "category": "Swift",
+        "stars": "127",
+        "title": "PinpointKit - Send better feedback",
+        "url": "https://github.com/Lickability/PinpointKit"
+    },
+    {
+        "author": "feross",
+        "category": "JavaScript",
+        "stars": "118",
+        "title": "standard - \ud83c\udf1f JavaScript Standard Style",
+        "url": "https://github.com/feross/standard"
+    },
+    {
+        "author": "pwnn",
+        "category": "JavaScript",
+        "stars": "106",
+        "title": "is.js - Minimalistic predicate library.",
+        "url": "https://github.com/pwnn/is.js"
+    }
+]

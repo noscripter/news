@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "468",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "cht8687",
+        "category": "JavaScript",
+        "stars": "297",
+        "title": "You-Dont-Need-Lodash-Underscore - Lists of Javascript methods which you can use natively",
+        "url": "https://github.com/cht8687/You-Dont-Need-Lodash-Underscore"
+    },
+    {
+        "author": "alibaba",
+        "category": "Java",
+        "stars": "219",
+        "title": "weex - A framework for building Mobile cross-platform UI",
+        "url": "https://github.com/alibaba/weex"
+    },
+    {
+        "author": "olistic",
+        "category": "JavaScript",
+        "stars": "182",
+        "title": "warriorjs - Game written in JavaScript for learning JavaScript and artificial intelligence.",
+        "url": "https://github.com/olistic/warriorjs"
+    },
+    {
+        "author": "terwanerik",
+        "category": "JavaScript",
+        "stars": "172",
+        "title": "ScrollTrigger - Triggers classes on html elements based on the scroll position. Uses requestAnimationFrame so it doesn't jack the users scroll.",
+        "url": "https://github.com/terwanerik/ScrollTrigger"
+    },
+    {
+        "author": "juliangarnier",
+        "category": "JavaScript",
+        "stars": "164",
+        "title": "anime - Javascript Animation Engine",
+        "url": "https://github.com/juliangarnier/anime"
+    },
+    {
+        "author": "jesserayadkins",
+        "category": "C",
+        "stars": "159",
+        "title": "lily - An interpreted language with a focus on expressiveness and type safety",
+        "url": "https://github.com/jesserayadkins/lily"
+    },
+    {
+        "author": "RossMcMillan92",
+        "category": "JavaScript",
+        "stars": "133",
+        "title": "djent - A metal breakdown generator",
+        "url": "https://github.com/RossMcMillan92/djent"
+    },
+    {
+        "author": "guarinogabriel",
+        "category": "Shell",
+        "stars": "117",
+        "title": "mac-cli - \uf8ff OS X command line tools for developers \u2013 The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.",
+        "url": "https://github.com/guarinogabriel/mac-cli"
+    },
+    {
+        "author": "usgov",
+        "category": "",
+        "stars": "113",
+        "title": "forget-the-king - Tired of the king; time to let him know",
+        "url": "https://github.com/usgov/forget-the-king"
+    }
+]

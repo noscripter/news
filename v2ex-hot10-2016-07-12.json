@@ -1,0 +1,313 @@
+[
+    
+    {
+        "id" : 291694,
+        "title" : "工作 10 年，技能树点乱了，创过业，现在想回头到大公司做开发发现困难，大家给点建议该往哪个方向发展？",
+        "url" : "http://www.v2ex.com/t/291694",
+        "content" : "早些年一直做 C++开发，做过\u000D\u000A\u002D P2P 下载\u000D\u000A\u002D IM 服务器\u000D\u000A\u002D 端游服务器\u000D\u000A\u002D 3D 引擎 UE3\u000D\u000A\u002D 手游服务器\u000D\u000A\u002D 手游前端 cocos2dx\u000D\u000A\u000D\u000A但是最近几年创业用不到 C++，都是搞移动 APP 的前后端开发。\u000D\u000A\u000D\u000A最擅长 C++， Boost ， asio 网络服务器开发。\u000D\u000A熟悉 Python ， django ， iOS ， mac ， objective\u002Dc ， swift 。 Android 也会但是不如 apple 方向的精通。 HTML ， css ， bootstrap 什么的也会，但不是专业前端，所以 ractjs 之类的就只是了解。\u000D\u000A熟悉 golang 服务器开发， docker ， docker\u002Dcompose\u000D\u000A\u000D\u000A我学编程比较早：\u000D\u000A\u002D 初 2 时做工资管理系统，是基于 FoxBase 平台的二次开发。\u000D\u000A\u002D 高 1 参加 NOI 信息学奥林匹克竞赛省一等奖。\u000D\u000A\u000D\u000A最近找不到合适的工作，现在想到大公司去做 C++开发，没人要，大多数岗位 HR 初筛那关过不了。\u000D\u000A\u002D 腾讯面过一次，没戏。\u000D\u000A\u002D 微众银行面了一次，面到最后一轮，跟 hr 都谈过了，然后没有然后了。\u000D\u000A\u000D\u000A[个人 GitHub]( https://github.com/qiuyuzhou)\u000D\u000A\u000D\u000A[简历]( https://www.yuyingss.com/static/resume.pdf)\u000D\u000A\u000D\u000A最近比较迷茫，需要建议，谢谢！",
+        "content_rendered" : "\u003Cp\u003E早些年一直做 C++开发，做过\u003C/p\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003EP2P 下载\u003C/li\u003E\u000A\u003Cli\u003EIM 服务器\u003C/li\u003E\u000A\u003Cli\u003E端游服务器\u003C/li\u003E\u000A\u003Cli\u003E3D 引擎 UE3\u003C/li\u003E\u000A\u003Cli\u003E手游服务器\u003C/li\u003E\u000A\u003Cli\u003E手游前端 cocos2dx\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u003Cp\u003E但是最近几年创业用不到 C++，都是搞移动 APP 的前后端开发。\u003C/p\u003E\u000A\u003Cp\u003E最擅长 C++， Boost ， asio 网络服务器开发。\u000A熟悉 Python ， django ， iOS ， mac ， objective\u002Dc ， swift 。 Android 也会但是不如 apple 方向的精通。 HTML ， css ， bootstrap 什么的也会，但不是专业前端，所以 ractjs 之类的就只是了解。\u000A熟悉 golang 服务器开发， docker ， docker\u002Dcompose\u003C/p\u003E\u000A\u003Cp\u003E我学编程比较早：\u003C/p\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003E初 2 时做工资管理系统，是基于 FoxBase 平台的二次开发。\u003C/li\u003E\u000A\u003Cli\u003E高 1 参加 NOI 信息学奥林匹克竞赛省一等奖。\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u003Cp\u003E最近找不到合适的工作，现在想到大公司去做 C++开发，没人要，大多数岗位 HR 初筛那关过不了。\u003C/p\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003E腾讯面过一次，没戏。\u003C/li\u003E\u000A\u003Cli\u003E微众银行面了一次，面到最后一轮，跟 hr 都谈过了，然后没有然后了。\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u003Cp\u003E\u003Ca href\u003D\u0022https://github.com/qiuyuzhou\u0022 rel\u003D\u0022nofollow\u0022\u003E个人 GitHub\u003C/a\u003E\u003C/p\u003E\u000A\u003Cp\u003E\u003Ca href\u003D\u0022https://www.yuyingss.com/static/resume.pdf\u0022 rel\u003D\u0022nofollow\u0022\u003E简历\u003C/a\u003E\u003C/p\u003E\u000A\u003Cp\u003E最近比较迷茫，需要建议，谢谢！\u003C/p\u003E\u000A",
+        "replies" : 79,
+        "member" : {
+            "id" : 103845,
+            "username" : "Charlie82",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/4d106f56c7f0f7d45a1c26cb7f73e04b?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/4d106f56c7f0f7d45a1c26cb7f73e04b?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/4d106f56c7f0f7d45a1c26cb7f73e04b?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 507,
+            "name" : "cv",
+            "title" : "求职",
+            "title_alternative" : "CV",
+            "url" : "http://www.v2ex.com/go/cv",
+            "topics" : 2125,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/2d6c/c4b2/507_mini.png?m=1467630284",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/2d6c/c4b2/507_normal.png?m=1467630284",
+            "avatar_large" : "//cdn.v2ex.co/navatar/2d6c/c4b2/507_large.png?m=1467630284"
+        },
+        "created" : 1468215861,
+        "last_modified" : 1468215861,
+        "last_touched" : 1468289000
+    },
+    
+    {
+        "id" : 291805,
+        "title" : "致李克强总理的一封信：正被斩断的创业路",
+        "url" : "http://www.v2ex.com/t/291805",
+        "content" : "话说，这个不涉及敏感话题吧？  \u000D\u000A\u000D\u000A[游戏开发者致李克强总理的一封信：正被斩断的创业路]( http://www.youxituoluo.com/128169.html)",
+        "content_rendered" : "\u003Cp\u003E话说，这个不涉及敏感话题吧？\u003C/p\u003E\u000A\u003Cp\u003E\u003Ca href\u003D\u0022http://www.youxituoluo.com/128169.html\u0022 rel\u003D\u0022nofollow\u0022\u003E游戏开发者致李克强总理的一封信：正被斩断的创业路\u003C/a\u003E\u003C/p\u003E\u000A",
+        "replies" : 78,
+        "member" : {
+            "id" : 112291,
+            "username" : "mikicomo",
+            "tagline" : "行若无事　汝心所向　梦之彼方",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/98a6/df6c/112291_mini.png?m=1450001371",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/98a6/df6c/112291_normal.png?m=1450001371",
+            "avatar_large" : "//cdn.v2ex.co/avatar/98a6/df6c/112291_large.png?m=1450001371"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 12519,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1468231391",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1468231391",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1468231391"
+        },
+        "created" : 1468244404,
+        "last_modified" : 1468244404,
+        "last_touched" : 1468289409
+    },
+    
+    {
+        "id" : 291649,
+        "title" : "如果一辈子无法进入大公司，当上 CTO,迎娶白富美，那活着还有什么意义？",
+        "url" : "http://www.v2ex.com/t/291649",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 76,
+        "member" : {
+            "id" : 75743,
+            "username" : "tony0158",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/825b/6926/75743_mini.png?m=1412399503",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/825b/6926/75743_normal.png?m=1412399503",
+            "avatar_large" : "//cdn.v2ex.co/avatar/825b/6926/75743_large.png?m=1412399503"
+        },
+        "node" : {
+            "id" : 59,
+            "name" : "random",
+            "title" : "随想",
+            "title_alternative" : "Random",
+            "url" : "http://www.v2ex.com/go/random",
+            "topics" : 1561,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/093f/65e0/59_mini.png?m=1431019484",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/093f/65e0/59_normal.png?m=1431019484",
+            "avatar_large" : "//cdn.v2ex.co/navatar/093f/65e0/59_large.png?m=1431019484"
+        },
+        "created" : 1468205804,
+        "last_modified" : 1468205804,
+        "last_touched" : 1468271650
+    },
+    
+    {
+        "id" : 291684,
+        "title" : "看到你们这么热爱新疆,作为土生土长的新疆人, 看能不能回答点什么稀奇古怪的问题?",
+        "url" : "http://www.v2ex.com/t/291684",
+        "content" : "我在喀什叶城长大直到上高中,高考 500 分上的新疆大学,毕业在乌鲁木齐工作 7 年至今,过了而立之年的我一切都好, \u000D\u000A祖籍四川,去过北京上海\u003B 四川和重庆每年都去探亲,  除了工作你们想知道什么?",
+        "content_rendered" : "我在喀什叶城长大直到上高中,高考 500 分上的新疆大学,毕业在乌鲁木齐工作 7 年至今,过了而立之年的我一切都好, \u000D\u003Cbr /\u003E祖籍四川,去过北京上海\u003B 四川和重庆每年都去探亲,  除了工作你们想知道什么?",
+        "replies" : 76,
+        "member" : {
+            "id" : 165746,
+            "username" : "wmhx",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/386faac812abc3a5db8af6ed37341855?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/386faac812abc3a5db8af6ed37341855?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/386faac812abc3a5db8af6ed37341855?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 72524,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1468231714",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1468231714",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1468231714"
+        },
+        "created" : 1468214165,
+        "last_modified" : 1468214165,
+        "last_touched" : 1468288576
+    },
+    
+    {
+        "id" : 291673,
+        "title" : "为什么这么多人想着要去抓皮卡丘",
+        "url" : "http://www.v2ex.com/t/291673",
+        "content" : "不知道为什么，这个游戏突然就火起来了。更让人不可思议的是都锁区不让玩，大家依然热情高涨。现在好像解锁了，公司一群同时饭都不要吃，出去抓皮卡丘去了，看不懂...",
+        "content_rendered" : "\u003Cp\u003E不知道为什么，这个游戏突然就火起来了。更让人不可思议的是都锁区不让玩，大家依然热情高涨。现在好像解锁了，公司一群同时饭都不要吃，出去抓皮卡丘去了，看不懂...\u003C/p\u003E\u000A",
+        "replies" : 70,
+        "member" : {
+            "id" : 137020,
+            "username" : "dhlsnow",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/513e678be6ec3f1a995fca9b479a78f1?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/513e678be6ec3f1a995fca9b479a78f1?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/513e678be6ec3f1a995fca9b479a78f1?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 926,
+            "name" : "pokemon",
+            "title" : "精灵宝可梦",
+            "title_alternative" : "Pokémon",
+            "url" : "http://www.v2ex.com/go/pokemon",
+            "topics" : 25,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/cbb6/a3b8/926_mini.png?m=1468046738",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/cbb6/a3b8/926_normal.png?m=1468046738",
+            "avatar_large" : "//cdn.v2ex.co/navatar/cbb6/a3b8/926_large.png?m=1468046738"
+        },
+        "created" : 1468210248,
+        "last_modified" : 1468210634,
+        "last_touched" : 1468258126
+    },
+    
+    {
+        "id" : 291777,
+        "title" : "新入坑的记得先抓皮卡丘",
+        "url" : "http://www.v2ex.com/t/291777",
+        "content" : "http://www.chuapp.com/2016/07/09/254835.html\u000D\u000A\u000D\u000A注册一个新账号，进入游戏后，你的周围会出现三只初始精灵：小火龙、杰尼龟、妙蛙种子。别急着选，往前走，不要管他们。\u000D\u000A\u000D\u000A随着你的位置移动，离开三只初始精灵的捕捉范围后，它们会再次出现在你的周围。仍然不要管他们。继续往前走。\u000D\u000A\u000D\u000A这个过程重复 4 次，当三只初始精灵第 5 次出现时，别着急，稍微等一等，你会发现初始精灵多了一个选择，那就是皮卡丘。\u000D\u000A\u000D\u000A我们实测了这个方法，并且真的获得了一只初始皮卡丘。这证明这个彩蛋属实。",
+        "content_rendered" : "\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://www.chuapp.com/2016/07/09/254835.html\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.chuapp.com/2016/07/09/254835.html\u003C/a\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E注册一个新账号，进入游戏后，你的周围会出现三只初始精灵：小火龙、杰尼龟、妙蛙种子。别急着选，往前走，不要管他们。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E随着你的位置移动，离开三只初始精灵的捕捉范围后，它们会再次出现在你的周围。仍然不要管他们。继续往前走。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E这个过程重复 4 次，当三只初始精灵第 5 次出现时，别着急，稍微等一等，你会发现初始精灵多了一个选择，那就是皮卡丘。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E我们实测了这个方法，并且真的获得了一只初始皮卡丘。这证明这个彩蛋属实。",
+        "replies" : 68,
+        "member" : {
+            "id" : 88908,
+            "username" : "EchoChan",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/da7a/8538/88908_mini.png?m=1427504613",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/da7a/8538/88908_normal.png?m=1427504613",
+            "avatar_large" : "//cdn.v2ex.co/avatar/da7a/8538/88908_large.png?m=1427504613"
+        },
+        "node" : {
+            "id" : 926,
+            "name" : "pokemon",
+            "title" : "精灵宝可梦",
+            "title_alternative" : "Pokémon",
+            "url" : "http://www.v2ex.com/go/pokemon",
+            "topics" : 25,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/cbb6/a3b8/926_mini.png?m=1468046738",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/cbb6/a3b8/926_normal.png?m=1468046738",
+            "avatar_large" : "//cdn.v2ex.co/navatar/cbb6/a3b8/926_large.png?m=1468046738"
+        },
+        "created" : 1468230855,
+        "last_modified" : 1468230855,
+        "last_touched" : 1468288306
+    },
+    
+    {
+        "id" : 291677,
+        "title" : "大家手机上有什么新闻类 App 啊? 什么原因你没有卸载? :D",
+        "url" : "http://www.v2ex.com/t/291677",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 63,
+        "member" : {
+            "id" : 138565,
+            "username" : "FunnyFun",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/56f37a1ed2fe96f8fa3b28b818a4ef65?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/56f37a1ed2fe96f8fa3b28b818a4ef65?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/56f37a1ed2fe96f8fa3b28b818a4ef65?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 56,
+            "name" : "internet",
+            "title" : "互联网",
+            "title_alternative" : "Internet",
+            "url" : "http://www.v2ex.com/go/internet",
+            "topics" : 1054,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/9f61/408e/56_mini.png?m=1468231501",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/9f61/408e/56_normal.png?m=1468231501",
+            "avatar_large" : "//cdn.v2ex.co/navatar/9f61/408e/56_large.png?m=1468231501"
+        },
+        "created" : 1468211860,
+        "last_modified" : 1468231668,
+        "last_touched" : 1468275596
+    },
+    
+    {
+        "id" : 291653,
+        "title" : "Pokemon Go 国内解封了？",
+        "url" : "http://www.v2ex.com/t/291653",
+        "content" : "坐标上海，刚在一个 stop 刷出精灵球了， nearby 重新能看到 pokemon 了",
+        "content_rendered" : "坐标上海，刚在一个 stop 刷出精灵球了， nearby 重新能看到 pokemon 了",
+        "replies" : 57,
+        "member" : {
+            "id" : 4560,
+            "username" : "windmils",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/bed4b5ce9c2c3295b795491a8a97cd8d?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/bed4b5ce9c2c3295b795491a8a97cd8d?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/bed4b5ce9c2c3295b795491a8a97cd8d?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 926,
+            "name" : "pokemon",
+            "title" : "精灵宝可梦",
+            "title_alternative" : "Pokémon",
+            "url" : "http://www.v2ex.com/go/pokemon",
+            "topics" : 25,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/cbb6/a3b8/926_mini.png?m=1468046738",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/cbb6/a3b8/926_normal.png?m=1468046738",
+            "avatar_large" : "//cdn.v2ex.co/navatar/cbb6/a3b8/926_large.png?m=1468046738"
+        },
+        "created" : 1468206292,
+        "last_modified" : 1468206292,
+        "last_touched" : 1468218094
+    },
+    
+    {
+        "id" : 291669,
+        "title" : "QQ 会员功能再次缩水，聊天记录漫游永久名额取消",
+        "url" : "http://www.v2ex.com/t/291669",
+        "content" : "最早的时候用 QQ 会员是有几个功能还不错，然而现在这些功能有的阉割，有的关闭。已经极度无语了\u000D\u000A\u000D\u000A主要是以前眼瞎了 没有想到 QQ 会出一个超级会员 直接就让 QQ 会员贬值了 然后又把 QQ 会员的功能一个个阉割掉\u000D\u000A\u000D\u000A最早爱用的 QQ 网盘没有了，最早的去广告功能也没有了，最早的 QQ 聊天记录漫游也阉割了，永久漫游成空。（普通 QQ 可以漫游 7 天， QQ 会员可以漫游 30 天， QQ 超级会员可以漫游永久） QQ 旋风不知道多久没连上过离线服务器了 \u000D\u000A\u000D\u000A\u000D\u000A要说还有用的就真的很少了 以前也是觉得 QQ 会员反正功能都还行 自己也用得上 就整了个 6 位靓号…… 现在有点骑虎难下了……",
+        "content_rendered" : "最早的时候用 QQ 会员是有几个功能还不错，然而现在这些功能有的阉割，有的关闭。已经极度无语了\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E主要是以前眼瞎了 没有想到 QQ 会出一个超级会员 直接就让 QQ 会员贬值了 然后又把 QQ 会员的功能一个个阉割掉\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E最早爱用的 QQ 网盘没有了，最早的去广告功能也没有了，最早的 QQ 聊天记录漫游也阉割了，永久漫游成空。（普通 QQ 可以漫游 7 天， QQ 会员可以漫游 30 天， QQ 超级会员可以漫游永久） QQ 旋风不知道多久没连上过离线服务器了 \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E要说还有用的就真的很少了 以前也是觉得 QQ 会员反正功能都还行 自己也用得上 就整了个 6 位靓号…… 现在有点骑虎难下了……",
+        "replies" : 53,
+        "member" : {
+            "id" : 114799,
+            "username" : "yeyeye",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/b87f/0209/114799_mini.png?m=1431583508",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/b87f/0209/114799_normal.png?m=1431583508",
+            "avatar_large" : "//cdn.v2ex.co/avatar/b87f/0209/114799_large.png?m=1431583508"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 72524,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1468231714",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1468231714",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1468231714"
+        },
+        "created" : 1468209208,
+        "last_modified" : 1468209208,
+        "last_touched" : 1468272542
+    },
+    
+    {
+        "id" : 291778,
+        "title" : "想带我司的程序员妹纸去成都玩，求各位成都妹儿帅锅些推荐些好吃的，好耍的",
+        "url" : "http://www.v2ex.com/t/291778",
+        "content" : "最近武汉发大水，于是打算划着友谊的小船带我司的程序员妹纸去成都玩一趟。\u000D\u000A\u000D\u000A![Markdown]( http://i1.piimg.com/1949/8c82486f5d372d51s.jpg)\u000D\u000A\u000D\u000A之前在知乎、度娘上也做了一些功课，但是更想去体验比较地道的成都生活\u000D\u000A\u000D\u000A因为想趁此机会把革命的友谊升华一下，所以求各位成都的妹子帅锅些推荐一些比较小众，有逼格的地方。\u000D\u000A至于吃的话，好吃就行，苍蝇馆子也 ok.\u000D\u000A附上我司程序员妹纸的照片：\u000D\u000A\u000D\u000A![Markdown]( http://i4.piimg.com/1949/9bfad37a81ab6a6ct.jpg)\u000D\u000A\u000D\u000A![Markdown]( http://i4.piimg.com/1949/3259b2f52e2ed68ct.jpg)\u000D\u000A\u000D\u000A为了表示诚意，本次助攻我的帅锅美女些，上图中的任何一样公司周边都可以给（恩。。。除了妹纸）\u000D\u000A\u000D\u000A能够送出的有笔记本，马克杯，鼠标垫，抱枕等 4 种，哈哈哈哈。\u000D\u000A\u000D\u000A\u000D\u000A\u000D\u000A### **无良老板，在我带妹纸出去耍之前还要做这样一个运营活动，东湖的水我的泪啊**\u000D\u000A\u000D\u000A###  **大家看在我都把妹纸拉出来 [卖] 的份儿上，拼到这个程度，大家就帮小弟一个忙咯，多多回复一下哈**\u000D\u000A\u000D\u000A\u000D\u000A\u000D\u000A领奖规则：\u000D\u000A### **截止时间： 7.15 日。周六就准备带妹纸出发了**\u000D\u000A### **凡是参与评论后获赞前 15 的帅锅美女就可以获得小弟获得送出的周边哦**\u000D\u000A\u000D\u000A由于经费有限，第一名给抱枕，第 2\u002D6 名就是马克杯，第 7\u002D10 名是鼠标垫，第 11\u002D15 是每名 3 个笔记本。\u000D\u000A\u000D\u000A（放心，前 15 的我会主动来勾搭你们的）\u000D\u000A\u000D\u000A然后关注一下我们的公众号，把你的详细地址，收件人，手机号发给后台，就可以等着收礼物了哈\u000D\u000A\u000D\u000A![Markdown]( http://i4.piimg.com/1949/1cfba6c4702812dft.jpg)",
+        "content_rendered" : "\u003Cp\u003E最近武汉发大水，于是打算划着友谊的小船带我司的程序员妹纸去成都玩一趟。\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022Markdown\u0022 src\u003D\u0022http://i1.piimg.com/1949/8c82486f5d372d51s.jpg\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E之前在知乎、度娘上也做了一些功课，但是更想去体验比较地道的成都生活\u003C/p\u003E\u000A\u003Cp\u003E因为想趁此机会把革命的友谊升华一下，所以求各位成都的妹子帅锅些推荐一些比较小众，有逼格的地方。\u000A至于吃的话，好吃就行，苍蝇馆子也 ok.\u000A附上我司程序员妹纸的照片：\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022Markdown\u0022 src\u003D\u0022http://i4.piimg.com/1949/9bfad37a81ab6a6ct.jpg\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022Markdown\u0022 src\u003D\u0022http://i4.piimg.com/1949/3259b2f52e2ed68ct.jpg\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E为了表示诚意，本次助攻我的帅锅美女些，上图中的任何一样公司周边都可以给（恩。。。除了妹纸）\u003C/p\u003E\u000A\u003Cp\u003E能够送出的有笔记本，马克杯，鼠标垫，抱枕等 4 种，哈哈哈哈。\u003C/p\u003E\u000A\u003Ch3\u003E\u003Cstrong\u003E无良老板，在我带妹纸出去耍之前还要做这样一个运营活动，东湖的水我的泪啊\u003C/strong\u003E\u003C/h3\u003E\u000A\u003Ch3\u003E\u003Cstrong\u003E大家看在我都把妹纸拉出来 [卖] 的份儿上，拼到这个程度，大家就帮小弟一个忙咯，多多回复一下哈\u003C/strong\u003E\u003C/h3\u003E\u000A\u003Cp\u003E领奖规则：\u003C/p\u003E\u000A\u003Ch3\u003E\u003Cstrong\u003E截止时间： 7.15 日。周六就准备带妹纸出发了\u003C/strong\u003E\u003C/h3\u003E\u000A\u003Ch3\u003E\u003Cstrong\u003E凡是参与评论后获赞前 15 的帅锅美女就可以获得小弟获得送出的周边哦\u003C/strong\u003E\u003C/h3\u003E\u000A\u003Cp\u003E由于经费有限，第一名给抱枕，第 2\u002D6 名就是马克杯，第 7\u002D10 名是鼠标垫，第 11\u002D15 是每名 3 个笔记本。\u003C/p\u003E\u000A\u003Cp\u003E（放心，前 15 的我会主动来勾搭你们的）\u003C/p\u003E\u000A\u003Cp\u003E然后关注一下我们的公众号，把你的详细地址，收件人，手机号发给后台，就可以等着收礼物了哈\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022Markdown\u0022 src\u003D\u0022http://i4.piimg.com/1949/1cfba6c4702812dft.jpg\u0022\u003E\u003C/p\u003E\u000A",
+        "replies" : 51,
+        "member" : {
+            "id" : 19895,
+            "username" : "jialezhang",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/9a60/f48f/19895_mini.png?m=1452589464",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/9a60/f48f/19895_normal.png?m=1452589464",
+            "avatar_large" : "//cdn.v2ex.co/avatar/9a60/f48f/19895_large.png?m=1452589464"
+        },
+        "node" : {
+            "id" : 30,
+            "name" : "chengdu",
+            "title" : "成都",
+            "title_alternative" : "Chengdu",
+            "url" : "http://www.v2ex.com/go/chengdu",
+            "topics" : 311,
+            "avatar_mini" : "/static/img/node_mini.png",
+            "avatar_normal" : "/static/img/node_normal.png",
+            "avatar_large" : "/static/img/node_large.png"
+        },
+        "created" : 1468231401,
+        "last_modified" : 1468231401,
+        "last_touched" : 1468288329
+    }
+    
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "DrkSephy",
+        "category": "JavaScript",
+        "stars": "1,118",
+        "title": "es6-cheatsheet - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets",
+        "url": "https://github.com/DrkSephy/es6-cheatsheet"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "536",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "samshadwell",
+        "category": "Python",
+        "stars": "323",
+        "title": "TrumpScript - Make Python great again",
+        "url": "https://github.com/samshadwell/TrumpScript"
+    },
+    {
+        "author": "jiahaog",
+        "category": "JavaScript",
+        "stars": "307",
+        "title": "nativefier - Wrap any web page natively without even thinking, across Windows, OSX and Linux",
+        "url": "https://github.com/jiahaog/nativefier"
+    },
+    {
+        "author": "nothings",
+        "category": "C",
+        "stars": "254",
+        "title": "stb - stb single-file public domain libraries for C/C++",
+        "url": "https://github.com/nothings/stb"
+    },
+    {
+        "author": "Yalantis",
+        "category": "Java",
+        "stars": "241",
+        "title": "uCrop - Image Cropping Library for Android",
+        "url": "https://github.com/Yalantis/uCrop"
+    },
+    {
+        "author": "yangyangwithgnu",
+        "category": "C++",
+        "stars": "200",
+        "title": "hardseed - hardseed is a batch seeds and pictures download utiltiy from CaoLiu and AiCheng forum",
+        "url": "https://github.com/yangyangwithgnu/hardseed"
+    },
+    {
+        "author": "tensorflow",
+        "category": "C++",
+        "stars": "159",
+        "title": "tensorflow - Computation using data flow graphs for scalable machine learning",
+        "url": "https://github.com/tensorflow/tensorflow"
+    },
+    {
+        "author": "KnuffApp",
+        "category": "Objective-C",
+        "stars": "203",
+        "title": "Knuff - The debug application for Apple Push Notification Service (APNs).",
+        "url": "https://github.com/KnuffApp/Knuff"
+    },
+    {
+        "author": "themattrix",
+        "category": "Shell",
+        "stars": "178",
+        "title": "bash-concurrent - Bash function to run tasks in parallel and display pretty output as they complete.",
+        "url": "https://github.com/themattrix/bash-concurrent"
+    }
+]

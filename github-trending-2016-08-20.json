@@ -1,0 +1,72 @@
+[
+    {
+        "author": "PowerShell",
+        "category": "C#",
+        "stars": "1,708",
+        "title": "PowerShell - PowerShell for every system!",
+        "url": "https://github.com/PowerShell/PowerShell"
+    },
+    {
+        "author": "facebookresearch",
+        "category": "C++",
+        "stars": "666",
+        "title": "fastText - Library for fast text representation and classification.",
+        "url": "https://github.com/facebookresearch/fastText"
+    },
+    {
+        "author": "gacel112",
+        "category": "PHP",
+        "stars": "404",
+        "title": "atccargo - My first project for learning Symfony3",
+        "url": "https://github.com/gacel112/atccargo"
+    },
+    {
+        "author": "FormidableLabs",
+        "category": "JavaScript",
+        "stars": "366",
+        "title": "webpack-dashboard - A CLI dashboard for webpack dev server",
+        "url": "https://github.com/FormidableLabs/webpack-dashboard"
+    },
+    {
+        "author": "RafalWilinski",
+        "category": "HTML",
+        "stars": "313",
+        "title": "express-status-monitor - \ud83d\ude80 Realtime Monitoring solution for Express.js apps, inspired by status.github.com",
+        "url": "https://github.com/RafalWilinski/express-status-monitor"
+    },
+    {
+        "author": "danklammer",
+        "category": "",
+        "stars": "280",
+        "title": "bytesize-icons - A tiny style-controlled SVG iconset",
+        "url": "https://github.com/danklammer/bytesize-icons"
+    },
+    {
+        "author": "airbnb",
+        "category": "JavaScript",
+        "stars": "256",
+        "title": "react-dates - An accessible, easily internationalizable, mobile-friendly datepicker library for the web",
+        "url": "https://github.com/airbnb/react-dates"
+    },
+    {
+        "author": "mzucker",
+        "category": "Python",
+        "stars": "247",
+        "title": "page_dewarp - Text page dewarping using a \"cubic sheet\" model",
+        "url": "https://github.com/mzucker/page_dewarp"
+    },
+    {
+        "author": "kelseyhightower",
+        "category": "",
+        "stars": "217",
+        "title": "kubernetes-the-hard-way - Bootstrap Kubernetes the hard way. No scripts.",
+        "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way"
+    },
+    {
+        "author": "sourcegraph",
+        "category": "Go",
+        "stars": "210",
+        "title": "thyme - Automatically track which applications you use and for how long.",
+        "url": "https://github.com/sourcegraph/thyme"
+    }
+]

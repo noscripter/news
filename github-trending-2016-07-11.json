@@ -1,0 +1,72 @@
+[
+    {
+        "author": "chrislgarry",
+        "category": "Assembly",
+        "stars": "4,369",
+        "title": "Apollo-11 - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+        "url": "https://github.com/chrislgarry/Apollo-11"
+    },
+    {
+        "author": "zakattax",
+        "category": "JavaScript",
+        "stars": "765",
+        "title": "bitscript-temperate - Temperate is a healthcare application that aims to make healthcare more accessible to everyone, everywhere. This application was submitted as an entry to HealthHacksPH 2016.",
+        "url": "https://github.com/zakattax/bitscript-temperate"
+    },
+    {
+        "author": "metagrover",
+        "category": "",
+        "stars": "326",
+        "title": "ES6-for-humans - A kickstarter guide to writing ES6.",
+        "url": "https://github.com/metagrover/ES6-for-humans"
+    },
+    {
+        "author": "Microsoft",
+        "category": "Java",
+        "stars": "304",
+        "title": "malmo - Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment.",
+        "url": "https://github.com/Microsoft/malmo"
+    },
+    {
+        "author": "NamPNQ",
+        "category": "CSS",
+        "stars": "301",
+        "title": "You-Dont-Need-Javascript - Css is powerful, you can do a lot of things without js.",
+        "url": "https://github.com/NamPNQ/You-Dont-Need-Javascript"
+    },
+    {
+        "author": "ianmiell",
+        "category": "Python",
+        "stars": "217",
+        "title": "shutit - Automation framework for programmers",
+        "url": "https://github.com/ianmiell/shutit"
+    },
+    {
+        "author": "ctz",
+        "category": "Rust",
+        "stars": "198",
+        "title": "rustls - Embryonic Rust TLS library",
+        "url": "https://github.com/ctz/rustls"
+    },
+    {
+        "author": "AvaloniaUI",
+        "category": "C#",
+        "stars": "190",
+        "title": "Avalonia - A multi-platform .NET UI framework (formerly known as Perspex)",
+        "url": "https://github.com/AvaloniaUI/Avalonia"
+    },
+    {
+        "author": "TalAter",
+        "category": "",
+        "stars": "189",
+        "title": "awesome-service-workers - \ud83d\udd29 A collection of awesome resources for learning Service Workers",
+        "url": "https://github.com/TalAter/awesome-service-workers"
+    },
+    {
+        "author": "mozilla",
+        "category": "JavaScript",
+        "stars": "189",
+        "title": "fathom - ",
+        "url": "https://github.com/mozilla/fathom"
+    }
+]

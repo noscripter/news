@@ -1,0 +1,72 @@
+[
+    {
+        "author": "Kickball",
+        "category": "Makefile",
+        "stars": "776",
+        "title": "awesome-selfhosted - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.",
+        "url": "https://github.com/Kickball/awesome-selfhosted"
+    },
+    {
+        "author": "nasa",
+        "category": "JavaScript",
+        "stars": "691",
+        "title": "openmct - A web based mission control framework.",
+        "url": "https://github.com/nasa/openmct"
+    },
+    {
+        "author": "rubensousa",
+        "category": "Java",
+        "stars": "423",
+        "title": "ViewPagerCards - ViewPager cards inspired by Duolingo",
+        "url": "https://github.com/rubensousa/ViewPagerCards"
+    },
+    {
+        "author": "benhowdle89",
+        "category": "JavaScript",
+        "stars": "416",
+        "title": "grade - This JavaScript library produces complimentary gradients generated from the top 2 dominant colours in supplied images.",
+        "url": "https://github.com/benhowdle89/grade"
+    },
+    {
+        "author": "PowerShell",
+        "category": "C#",
+        "stars": "304",
+        "title": "PowerShell - PowerShell for every system!",
+        "url": "https://github.com/PowerShell/PowerShell"
+    },
+    {
+        "author": "jaywcjlove",
+        "category": "JavaScript",
+        "stars": "272",
+        "title": "awesome-mac - \uf8ff This repo is a collection of awesome Mac applications and tools for developers and designers.",
+        "url": "https://github.com/jaywcjlove/awesome-mac"
+    },
+    {
+        "author": "facebookresearch",
+        "category": "C++",
+        "stars": "233",
+        "title": "fastText - Library for fast text representation and classification.",
+        "url": "https://github.com/facebookresearch/fastText"
+    },
+    {
+        "author": "jlevy",
+        "category": "",
+        "stars": "239",
+        "title": "the-art-of-command-line - Master the command line, in one page",
+        "url": "https://github.com/jlevy/the-art-of-command-line"
+    },
+    {
+        "author": "armcha",
+        "category": "Java",
+        "stars": "221",
+        "title": "Space-Navigation-View - ",
+        "url": "https://github.com/armcha/Space-Navigation-View"
+    },
+    {
+        "author": "wg689",
+        "category": "Objective-C",
+        "stars": "196",
+        "title": "Solve-App-Store-Review-Problem - a collection to solve app store review problem (ipv6,\u540e\u53f0\u5b9a\u4f4d\u7b49\u5ba1\u6838\u95ee\u9898\u7684\u7ec8\u6781\u89e3\u51b3\u65b9\u6848\u6c47\u603b)",
+        "url": "https://github.com/wg689/Solve-App-Store-Review-Problem"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "697",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "typicode",
+        "category": "JavaScript",
+        "stars": "504",
+        "title": "json-server - Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+        "url": "https://github.com/typicode/json-server"
+    },
+    {
+        "author": "open-power-workgroup",
+        "category": "HTML",
+        "stars": "439",
+        "title": "Hospital - ",
+        "url": "https://github.com/open-power-workgroup/Hospital"
+    },
+    {
+        "author": "MagicStack",
+        "category": "Python",
+        "stars": "435",
+        "title": "uvloop - Ultra fast implementation of asyncio event loop on top of libuv.",
+        "url": "https://github.com/MagicStack/uvloop"
+    },
+    {
+        "author": "jsvine",
+        "category": "Python",
+        "stars": "377",
+        "title": "waybackpack - Download the entire Wayback Machine archive for a given URL.",
+        "url": "https://github.com/jsvine/waybackpack"
+    },
+    {
+        "author": "chassing",
+        "category": "",
+        "stars": "332",
+        "title": "linux-sysadmin-interview-questions - Collection of linux sysadmin/devop interview questions",
+        "url": "https://github.com/chassing/linux-sysadmin-interview-questions"
+    },
+    {
+        "author": "relax",
+        "category": "JavaScript",
+        "stars": "336",
+        "title": "relax - New generation CMS on top of React, Redux and GraphQL",
+        "url": "https://github.com/relax/relax"
+    },
+    {
+        "author": "pyGrowler",
+        "category": "Python",
+        "stars": "291",
+        "title": "Growler - A micro web-framework using asyncio coroutines and chained middleware.",
+        "url": "https://github.com/pyGrowler/Growler"
+    },
+    {
+        "author": "bboyairwreck",
+        "category": "Java",
+        "stars": "244",
+        "title": "PieMessage - This is project allows Android clients to communicate using iMessage",
+        "url": "https://github.com/bboyairwreck/PieMessage"
+    },
+    {
+        "author": "sindresorhus",
+        "category": "JavaScript",
+        "stars": "247",
+        "title": "refined-twitter - Chrome extension that enforces the mobile web version of Twitter and improves its interface",
+        "url": "https://github.com/sindresorhus/refined-twitter"
+    }
+]

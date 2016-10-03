@@ -1,0 +1,313 @@
+[
+    
+    {
+        "id" : 293050,
+        "title" : "不依赖 Gulp、Babel、WebPack，还能优雅地写代码吗？",
+        "url" : "http://www.v2ex.com/t/293050",
+        "content" : "原文：[http://iwritejs.com/complex\u002Dfront\u002Dend/]( http://iwritejs.com/complex\u002Dfront\u002Dend/)\u000D\u000A\u000D\u000A纯属吐槽文，不服来辩。\u000D\u000A\u000D\u000A\u002D\u002D\u002D\u002D\u002D\u002D\u000D\u000A\u000D\u000A不知道什么时候开始，前端开发已经到了不开一个 watcher 就无法工作的地步了。不依赖 Gulp 、 Babel 、 WebPack ，还能优雅地写代码吗？\u000D\u000A\u000D\u000A那我就带你来回顾一下这一切是怎么发生的。\u000D\u000A\u000D\u000A从哪开始说好呢？我们就从『前端打包』开始吧。\u000D\u000A\u000D\u000A## 前端打包\u000D\u000A\u000D\u000A很久以前（也就五年左右吧，但是五年前端已经大变样了），页面的 JS 压缩（混淆）一般是用谷歌的 closure compiler 做的。但是突然蹦出来个 Node.js ，前端开发者们就开始第一次小试牛刀了，用 Node.js 来做 JS 压缩，一般都是用 [uglify\u002Djs]( https://www.npmjs.com/package/uglify\u002Djs) 来做。\u000D\u000A\u000D\u000AJS 压缩做了， CSS 压缩是不是也可以做？ JS lint 是不是也可以做？自动测试是不是也可以做？文件合并是不是也可以做？\u000D\u000A\u000D\u000A于是 grunt 应运而生，它可以帮你把这些事情都做了，只需要配置一个简单的 Gruntfile 即可。\u000D\u000A\u000D\u000A同一时期， AMD 和 CommonJS 也出现了， Node.js 用 CommonJS 加载模块，浏览器用 AMD 来加载模块。前端们觉得可以统一一下，都用 CommonJS 来写，于是用上 browserify 之类的工具。\u000D\u000A\u000D\u000A好了，这个时候一个前端项目需要有一个 Grunt （后来又有了 Gulp 等）任务用来打包前端资源，看起来就是一个标配了。\u000D\u000A\u000D\u000A## 框架的兴起\u000D\u000A\u000D\u000A前端们一直吐槽新手们用 jQuery 写出的「意大利面条」式的代码，于是发明的了一些框架，一开始比较火的是 MVC 框架（如 Backbone.js ），火了没多久，前端们发现 MVC 框架有很多相似的代码都是在做「绑定事件」「更新 view 」这些事情了，于是发现了 MVVM 框架（一种早年间被微软玩过的设计模式），最著名的库就是 AngularJS 。\u000D\u000A\u000D\u000A此时的库都是不需要额外用 Grunt 做转译的。\u000D\u000A\u000D\u000A直到 React 的出现。 React 背后的工程师（显示不是前端）发明了一种新的语法—— JSX ，把 HTML 和 JS 混合起来写。前端们看了一眼表示这才是写模板正确的姿势。唯一的问题是这种语法浏览器不支持，于是需要把 JSX 翻译成 JS 。\u000D\u000A\u000D\u000A此时 Grunt 大概也因为性能太低被 Gulp 取代了。\u000D\u000A\u000D\u000A于是此时用 React 的项目一定会去用 Gulp 将 JSX 翻译成 JS 。\u000D\u000A\u000D\u000A## ECMAScript 的发展\u000D\u000A\u000D\u000A同时期， ES 发展也是非常迅猛。\u000D\u000A\u000D\u000A![]( http://7xi9xz.com1.z0.glb.clouddn.com/Screen%20Shot%202016\u002D07\u002D17%20at%201.39.29%20AM.png)\u000D\u000A\u000D\u000AIE 8 不支持 ES5 ，于是前端们说，「 IE 8 去死吧」，不想再支持 IE 8 了，因为那几年移动端发展迅猛，网页主要都是 H5 页面（不要问 H5 是不是 HTML5 ，不是 HTML5 ），所以很多前端确实不需要管 IE 8 。现在想想， Windows Phone 的失败，真是前端的福音啊。\u000D\u000A\u000D\u000A前端就开始追新了，一定要第一时间用上最新版的 JS 语法。但是即便是 Chrome 和 Firefox 也不可能那么快就支持最新语法。于是前端说，不过就是在 Gulp 里再加一道转译嘛，用 Babel 把 ES 2016 的语法转译成 ES 5 就好了。\u000D\u000A\u000D\u000A于是 Gulp 里又多了一项任务。\u000D\u000A\u000D\u000A\u000D\u000A## 重新思考\u000D\u000A\u000D\u000A经过这两三年的飞速发展，前端们是不是应该重新思考一下，做一个网页之前要加这么多 Gulp 任务的初衷到底是什么？是否解决了问题。\u000D\u000A\u000D\u000A从目前的结果来看，基本可以总结为\u000D\u000A\u000D\u000A0. DOM 不好用，换成虚拟 DOM\u000D\u000A0. CSS 不好用，换成 CSS in JS\u000D\u000A0. 浏览器支持的 JS 不好用，换成 ES 最新版语法，然后转译为浏览器支持的 JS\u000D\u000A0. DOM Event 不用了，去新造一个 Event 机制。\u000D\u000A0. Gulp 用得太多了 watch 很慢，于是加上了 hot module replacement\u000D\u000A\u000D\u000A基本把能抛弃的都抛弃了。\u000D\u000A\u000D\u000A实际上这些变化非常适合复杂的 Web 应用，然而 90% 的页面根本不是单页面应用好吗！\u000D\u000A\u000D\u000A能不能让我写一个 CSS 一个 JS 刷新一下就能看到效果！为什么我要花那么多时间来学习转译工具，以及解决转译过程中的各种问题。\u000D\u000A\u000D\u000A总感觉『弊大于利』。甚至有的时候觉得这是『没有问题，创造问题也要上』。\u000D\u000A\u000D\u000A最后送给前端们一幅图：\u000D\u000A\u000D\u000A![]( http://7xi9xz.com1.z0.glb.clouddn.com/159.png)",
+        "content_rendered" : "\u003Cp\u003E原文：\u003Ca href\u003D\u0022http://iwritejs.com/complex\u002Dfront\u002Dend/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://iwritejs.com/complex\u002Dfront\u002Dend/\u003C/a\u003E\u003C/p\u003E\u000A\u003Cp\u003E纯属吐槽文，不服来辩。\u003C/p\u003E\u000A\u003Chr\u003E\u000A\u003Cp\u003E不知道什么时候开始，前端开发已经到了不开一个 watcher 就无法工作的地步了。不依赖 Gulp 、 Babel 、 WebPack ，还能优雅地写代码吗？\u003C/p\u003E\u000A\u003Cp\u003E那我就带你来回顾一下这一切是怎么发生的。\u003C/p\u003E\u000A\u003Cp\u003E从哪开始说好呢？我们就从『前端打包』开始吧。\u003C/p\u003E\u000A\u003Ch2\u003E前端打包\u003C/h2\u003E\u000A\u003Cp\u003E很久以前（也就五年左右吧，但是五年前端已经大变样了），页面的 JS 压缩（混淆）一般是用谷歌的 closure compiler 做的。但是突然蹦出来个 Node.js ，前端开发者们就开始第一次小试牛刀了，用 Node.js 来做 JS 压缩，一般都是用 \u003Ca href\u003D\u0022https://www.npmjs.com/package/uglify\u002Djs\u0022 rel\u003D\u0022nofollow\u0022\u003Euglify\u002Djs\u003C/a\u003E 来做。\u003C/p\u003E\u000A\u003Cp\u003EJS 压缩做了， CSS 压缩是不是也可以做？ JS lint 是不是也可以做？自动测试是不是也可以做？文件合并是不是也可以做？\u003C/p\u003E\u000A\u003Cp\u003E于是 grunt 应运而生，它可以帮你把这些事情都做了，只需要配置一个简单的 Gruntfile 即可。\u003C/p\u003E\u000A\u003Cp\u003E同一时期， AMD 和 CommonJS 也出现了， Node.js 用 CommonJS 加载模块，浏览器用 AMD 来加载模块。前端们觉得可以统一一下，都用 CommonJS 来写，于是用上 browserify 之类的工具。\u003C/p\u003E\u000A\u003Cp\u003E好了，这个时候一个前端项目需要有一个 Grunt （后来又有了 Gulp 等）任务用来打包前端资源，看起来就是一个标配了。\u003C/p\u003E\u000A\u003Ch2\u003E框架的兴起\u003C/h2\u003E\u000A\u003Cp\u003E前端们一直吐槽新手们用 jQuery 写出的「意大利面条」式的代码，于是发明的了一些框架，一开始比较火的是 MVC 框架（如 Backbone.js ），火了没多久，前端们发现 MVC 框架有很多相似的代码都是在做「绑定事件」「更新 view 」这些事情了，于是发现了 MVVM 框架（一种早年间被微软玩过的设计模式），最著名的库就是 AngularJS 。\u003C/p\u003E\u000A\u003Cp\u003E此时的库都是不需要额外用 Grunt 做转译的。\u003C/p\u003E\u000A\u003Cp\u003E直到 React 的出现。 React 背后的工程师（显示不是前端）发明了一种新的语法—— JSX ，把 HTML 和 JS 混合起来写。前端们看了一眼表示这才是写模板正确的姿势。唯一的问题是这种语法浏览器不支持，于是需要把 JSX 翻译成 JS 。\u003C/p\u003E\u000A\u003Cp\u003E此时 Grunt 大概也因为性能太低被 Gulp 取代了。\u003C/p\u003E\u000A\u003Cp\u003E于是此时用 React 的项目一定会去用 Gulp 将 JSX 翻译成 JS 。\u003C/p\u003E\u000A\u003Ch2\u003EECMAScript 的发展\u003C/h2\u003E\u000A\u003Cp\u003E同时期， ES 发展也是非常迅猛。\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://7xi9xz.com1.z0.glb.clouddn.com/Screen%20Shot%202016\u002D07\u002D17%20at%201.39.29%20AM.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003EIE 8 不支持 ES5 ，于是前端们说，「 IE 8 去死吧」，不想再支持 IE 8 了，因为那几年移动端发展迅猛，网页主要都是 H5 页面（不要问 H5 是不是 HTML5 ，不是 HTML5 ），所以很多前端确实不需要管 IE 8 。现在想想， Windows Phone 的失败，真是前端的福音啊。\u003C/p\u003E\u000A\u003Cp\u003E前端就开始追新了，一定要第一时间用上最新版的 JS 语法。但是即便是 Chrome 和 Firefox 也不可能那么快就支持最新语法。于是前端说，不过就是在 Gulp 里再加一道转译嘛，用 Babel 把 ES 2016 的语法转译成 ES 5 就好了。\u003C/p\u003E\u000A\u003Cp\u003E于是 Gulp 里又多了一项任务。\u003C/p\u003E\u000A\u003Ch2\u003E重新思考\u003C/h2\u003E\u000A\u003Cp\u003E经过这两三年的飞速发展，前端们是不是应该重新思考一下，做一个网页之前要加这么多 Gulp 任务的初衷到底是什么？是否解决了问题。\u003C/p\u003E\u000A\u003Cp\u003E从目前的结果来看，基本可以总结为\u003C/p\u003E\u000A\u003Col\u003E\u000A\u003Cli\u003EDOM 不好用，换成虚拟 DOM\u003C/li\u003E\u000A\u003Cli\u003ECSS 不好用，换成 CSS in JS\u003C/li\u003E\u000A\u003Cli\u003E浏览器支持的 JS 不好用，换成 ES 最新版语法，然后转译为浏览器支持的 JS\u003C/li\u003E\u000A\u003Cli\u003EDOM Event 不用了，去新造一个 Event 机制。\u003C/li\u003E\u000A\u003Cli\u003EGulp 用得太多了 watch 很慢，于是加上了 hot module replacement\u003C/li\u003E\u000A\u003C/ol\u003E\u000A\u003Cp\u003E基本把能抛弃的都抛弃了。\u003C/p\u003E\u000A\u003Cp\u003E实际上这些变化非常适合复杂的 Web 应用，然而 90% 的页面根本不是单页面应用好吗！\u003C/p\u003E\u000A\u003Cp\u003E能不能让我写一个 CSS 一个 JS 刷新一下就能看到效果！为什么我要花那么多时间来学习转译工具，以及解决转译过程中的各种问题。\u003C/p\u003E\u000A\u003Cp\u003E总感觉『弊大于利』。甚至有的时候觉得这是『没有问题，创造问题也要上』。\u003C/p\u003E\u000A\u003Cp\u003E最后送给前端们一幅图：\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://7xi9xz.com1.z0.glb.clouddn.com/159.png\u0022\u003E\u003C/p\u003E\u000A",
+        "replies" : 148,
+        "member" : {
+            "id" : 18869,
+            "username" : "FrankFang128",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/4335/dc53/18869_mini.png?m=1365520033",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/4335/dc53/18869_normal.png?m=1365520033",
+            "avatar_large" : "//cdn.v2ex.co/avatar/4335/dc53/18869_large.png?m=1365520033"
+        },
+        "node" : {
+            "id" : 146,
+            "name" : "js",
+            "title" : "JavaScript",
+            "title_alternative" : "JavaScript",
+            "url" : "http://www.v2ex.com/go/js",
+            "topics" : 963,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/a5e0/0132/146_mini.png?m=1468225429",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/a5e0/0132/146_normal.png?m=1468225429",
+            "avatar_large" : "//cdn.v2ex.co/navatar/a5e0/0132/146_large.png?m=1468225429"
+        },
+        "created" : 1468751140,
+        "last_modified" : 1468751140,
+        "last_touched" : 1468821924
+    },
+    
+    {
+        "id" : 293033,
+        "title" : "本人在上海想在杭州买房",
+        "url" : "http://www.v2ex.com/t/293033",
+        "content" : "IT 行业，来上海 3 年多了，看着高高在上的房价只能叹息，现在年薪税前 20w ，上海住房公积金账户内有 5w 元，身上有 12w 块钱，家里能支持些，大概集齐 50w 元的首付，现在人在上海，去过杭州 3 次感觉城市很亲切，我和女朋友都喜欢，女朋友在北京读书，她不是 IT 行业，毕业后应该是做普通的文职，我们之前讨论过觉得北上广压力太大，杭州还好些， IT 行业发达些，薪资基本上能和上海持平。\u000D\u000A\u000D\u000A现在的预算是 50w 首付 + 100w 贷款，计划买一套三室一厅的房子，以后有了小孩或者父母过来住都能住得开。面积的话 80 平方左右，我感觉这两年杭州的房价也涨了不少，而且地铁网也开始建设了，过两年再买估计这两年的工资白干了，所以想尽早定下来。现在的问题是对杭州不是很了解，没有在那里常驻的经验，所以问一个比较笼统的问题：满足 50w 首付 + 100w 贷款的面积大概 80 平方的一套三室一厅的房子大概有什么位置还不错的地方？谢谢。",
+        "content_rendered" : "IT 行业，来上海 3 年多了，看着高高在上的房价只能叹息，现在年薪税前 20w ，上海住房公积金账户内有 5w 元，身上有 12w 块钱，家里能支持些，大概集齐 50w 元的首付，现在人在上海，去过杭州 3 次感觉城市很亲切，我和女朋友都喜欢，女朋友在北京读书，她不是 IT 行业，毕业后应该是做普通的文职，我们之前讨论过觉得北上广压力太大，杭州还好些， IT 行业发达些，薪资基本上能和上海持平。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E现在的预算是 50w 首付 + 100w 贷款，计划买一套三室一厅的房子，以后有了小孩或者父母过来住都能住得开。面积的话 80 平方左右，我感觉这两年杭州的房价也涨了不少，而且地铁网也开始建设了，过两年再买估计这两年的工资白干了，所以想尽早定下来。现在的问题是对杭州不是很了解，没有在那里常驻的经验，所以问一个比较笼统的问题：满足 50w 首付 + 100w 贷款的面积大概 80 平方的一套三室一厅的房子大概有什么位置还不错的地方？谢谢。",
+        "replies" : 93,
+        "member" : {
+            "id" : 63920,
+            "username" : "Tonni",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/a518/4b7f/63920_mini.png?m=1429625083",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/a518/4b7f/63920_normal.png?m=1429625083",
+            "avatar_large" : "//cdn.v2ex.co/avatar/a518/4b7f/63920_large.png?m=1429625083"
+        },
+        "node" : {
+            "id" : 26,
+            "name" : "hangzhou",
+            "title" : "杭州",
+            "title_alternative" : "Hangzhou",
+            "url" : "http://www.v2ex.com/go/hangzhou",
+            "topics" : 408,
+            "avatar_mini" : "/static/img/node_mini.png",
+            "avatar_normal" : "/static/img/node_normal.png",
+            "avatar_large" : "/static/img/node_large.png"
+        },
+        "created" : 1468744435,
+        "last_modified" : 1468744435,
+        "last_touched" : 1468822020
+    },
+    
+    {
+        "id" : 293109,
+        "title" : "MWeb 2.0 版正式发布，￥ 50 促销一周，一周后将变为 ￥ 98，所以也算 50% OFF 了！",
+        "url" : "http://www.v2ex.com/t/293109",
+        "content" : "MWeb 2.0 版为重大升级版，这个版本主要为：\u000D\u000A\u000D\u000A* 文档库支持自定义保存位置（现在可以把文档库保存到网盘来同步了）。偏好设置 \u002D 通用设置 中可以设置\u000D\u000A* 文档库和外部模式都增加 Tabs 支持\u000D\u000A* 文档库支持 Tags\u000D\u000A* 增加工具栏\u000D\u000A* 重新设计了文档大纲和文档库的文档属性设置方式\u000D\u000A* 改进表格编辑和插入功能，提供了 UI 界面并支持全键盘操作，使用方式： `Ctrl + Shift + T` 或按工具栏的插入表格按钮。\u000D\u000A* UI 有所调整。\u000D\u000A\u000D\u000A这次发布我做了一个介绍视频，基本上把 MWeb 的功能和使用都演示了一下，包括 2.0 版的功能，感兴趣的朋友可以去以下地址看看：\u000D\u000A\u000D\u000A* B 站（ bilibili ）地址：\u003Chttp://www.bilibili.com/video/av5366059/\u003E\u000D\u000A* Youtube 地址：\u003Chttps://www.youtube.com/watch?v\u003D85RwOuxthoE\u003E\u000D\u000A\u000D\u000A当然，视频也放上官网了。\u000D\u000A\u000D\u000A## 相关截图\u000D\u000A\u000D\u000A![]( http://zh.mweb.im/asset/img/cn/1\u002D1.jpg)\u000D\u000A![]( http://zh.mweb.im/asset/img/cn/1\u002D3.jpg)\u000D\u000A\u000D\u000A## 2.0 版更新老用户要注意的\u000D\u000A\u000D\u000A这次更新，自带的静态网站模板有所改动，如果你改动过自带的模板，生成时跟预料的不一样，可以在 \u000D\u000A\u000D\u000A```\u000D\u000A~/Library/Containers/com.coderforart.MWeb/Data/Documents/MWeb/LocalData/SiteThemes\u000D\u000A```\u000D\u000A\u000D\u000A这个位置找到你原来的模板，并替换到新位置即可。第一次打开后会自动升级文档库为 2.0 版，旧的文档库并没有删除，你可以在 \u000D\u000A\u000D\u000A```\u000D\u000A~/Library/Containers/com.coderforart.MWeb/Data/Documents/MWeb/LocalData/\u000D\u000A``` \u000D\u000A\u000D\u000A处找到。\u000D\u000A\u000D\u000A## 2.0 版更新情况文字详细说明\u000D\u000A\u000D\u000A基本上以下两个网址已经清楚说明了，感兴趣的朋友可以查看一下：\u000D\u000A\u000D\u000A* [MWeb 2.0 测试版可以下载啦，这次是公开测试，感兴趣的朋友可以试试]( http://zh.mweb.im/mweb\u002D2.0\u002Dbeta.html)\u000D\u000A* [MWeb 2.0 测试版更新汇总]( http://zh.mweb.im/mweb\u002D2.0\u002Dbeta\u002Dall\u002Dupdate.html)\u000D\u000A\u000D\u000A## 官网及 Mac App Store 网址\u000D\u000A\u000D\u000A* 官网：\u003Chttp://zh.mweb.im/\u003E\u000D\u000A* MAS ：\u003Chttps://itunes.apple.com/cn/app/mweb\u002Dpro\u002Dmarkdown\u002Dwriting/id954188948?l\u003Dzh\u0026ls\u003D1\u0026mt\u003D12\u003E",
+        "content_rendered" : "\u003Cp\u003EMWeb 2.0 版为重大升级版，这个版本主要为：\u003C/p\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003E文档库支持自定义保存位置（现在可以把文档库保存到网盘来同步了）。偏好设置 \u002D 通用设置 中可以设置\u003C/li\u003E\u000A\u003Cli\u003E文档库和外部模式都增加 Tabs 支持\u003C/li\u003E\u000A\u003Cli\u003E文档库支持 Tags\u003C/li\u003E\u000A\u003Cli\u003E增加工具栏\u003C/li\u003E\u000A\u003Cli\u003E重新设计了文档大纲和文档库的文档属性设置方式\u003C/li\u003E\u000A\u003Cli\u003E改进表格编辑和插入功能，提供了 UI 界面并支持全键盘操作，使用方式： \u003Ccode\u003ECtrl + Shift + T\u003C/code\u003E 或按工具栏的插入表格按钮。\u003C/li\u003E\u000A\u003Cli\u003EUI 有所调整。\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u003Cp\u003E这次发布我做了一个介绍视频，基本上把 MWeb 的功能和使用都演示了一下，包括 2.0 版的功能，感兴趣的朋友可以去以下地址看看：\u003C/p\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003EB 站（ bilibili ）地址：\u003Ca href\u003D\u0022http://www.bilibili.com/video/av5366059/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.bilibili.com/video/av5366059/\u003C/a\u003E\u003C/li\u003E\u000A\u003Cli\u003EYoutube 地址：\u003Ca href\u003D\u0022https://www.youtube.com/watch?v\u003D85RwOuxthoE\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://www.youtube.com/watch?v\u003D85RwOuxthoE\u003C/a\u003E\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u003Cp\u003E当然，视频也放上官网了。\u003C/p\u003E\u000A\u003Ch2\u003E相关截图\u003C/h2\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://zh.mweb.im/asset/img/cn/1\u002D1.jpg\u0022\u003E\u000A\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://zh.mweb.im/asset/img/cn/1\u002D3.jpg\u0022\u003E\u003C/p\u003E\u000A\u003Ch2\u003E2.0 版更新老用户要注意的\u003C/h2\u003E\u000A\u003Cp\u003E这次更新，自带的静态网站模板有所改动，如果你改动过自带的模板，生成时跟预料的不一样，可以在\u003C/p\u003E\u000A\u003Cpre\u003E\u003Ccode\u003E~/Library/Containers/com.coderforart.MWeb/Data/Documents/MWeb/LocalData/SiteThemes\u000A\u003C/code\u003E\u003C/pre\u003E\u000A\u003Cp\u003E这个位置找到你原来的模板，并替换到新位置即可。第一次打开后会自动升级文档库为 2.0 版，旧的文档库并没有删除，你可以在\u003C/p\u003E\u000A\u003Cpre\u003E\u003Ccode\u003E~/Library/Containers/com.coderforart.MWeb/Data/Documents/MWeb/LocalData/\u000A\u003C/code\u003E\u003C/pre\u003E\u000A\u003Cp\u003E处找到。\u003C/p\u003E\u000A\u003Ch2\u003E2.0 版更新情况文字详细说明\u003C/h2\u003E\u000A\u003Cp\u003E基本上以下两个网址已经清楚说明了，感兴趣的朋友可以查看一下：\u003C/p\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003E\u003Ca href\u003D\u0022http://zh.mweb.im/mweb\u002D2.0\u002Dbeta.html\u0022 rel\u003D\u0022nofollow\u0022\u003EMWeb 2.0 测试版可以下载啦，这次是公开测试，感兴趣的朋友可以试试\u003C/a\u003E\u003C/li\u003E\u000A\u003Cli\u003E\u003Ca href\u003D\u0022http://zh.mweb.im/mweb\u002D2.0\u002Dbeta\u002Dall\u002Dupdate.html\u0022 rel\u003D\u0022nofollow\u0022\u003EMWeb 2.0 测试版更新汇总\u003C/a\u003E\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u003Ch2\u003E官网及 Mac App Store 网址\u003C/h2\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003E官网：\u003Ca href\u003D\u0022http://zh.mweb.im/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://zh.mweb.im/\u003C/a\u003E\u003C/li\u003E\u000A\u003Cli\u003EMAS ：\u003Ca href\u003D\u0022https://itunes.apple.com/cn/app/mweb\u002Dpro\u002Dmarkdown\u002Dwriting/id954188948?l\u003Dzh\u0026amp\u003Bls\u003D1\u0026amp\u003Bmt\u003D12\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://itunes.apple.com/cn/app/mweb\u002Dpro\u002Dmarkdown\u002Dwriting/id954188948?l\u003Dzh\u0026amp\u003Bls\u003D1\u0026amp\u003Bmt\u003D12\u003C/a\u003E\u003C/li\u003E\u000A\u003C/ul\u003E\u000A",
+        "replies" : 83,
+        "member" : {
+            "id" : 45037,
+            "username" : "oimotis",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/6720/21d2/45037_mini.png?m=1420624313",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/6720/21d2/45037_normal.png?m=1420624313",
+            "avatar_large" : "//cdn.v2ex.co/avatar/6720/21d2/45037_large.png?m=1420624313"
+        },
+        "node" : {
+            "id" : 513,
+            "name" : "markdown",
+            "title" : "Markdown",
+            "title_alternative" : "Markdown",
+            "url" : "http://www.v2ex.com/go/markdown",
+            "topics" : 282,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/3dc4/876f/513_mini.png?m=1424302153",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/3dc4/876f/513_normal.png?m=1424302153",
+            "avatar_large" : "//cdn.v2ex.co/navatar/3dc4/876f/513_large.png?m=1424302153"
+        },
+        "created" : 1468804029,
+        "last_modified" : 1468804029,
+        "last_touched" : 1468822699
+    },
+    
+    {
+        "id" : 293095,
+        "title" : "最近想学 go 作为第二语言",
+        "url" : "http://www.v2ex.com/t/293095",
+        "content" : "最近想学 go 作为第二语言， java 实在是写够了。大家有什么建议吗。 go 做第二语言好吗。开源环境怎么样。。",
+        "content_rendered" : "最近想学 go 作为第二语言， java 实在是写够了。大家有什么建议吗。 go 做第二语言好吗。开源环境怎么样。。",
+        "replies" : 62,
+        "member" : {
+            "id" : 120945,
+            "username" : "jason19659",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/5e03/fcd2/120945_mini.png?m=1461131466",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/5e03/fcd2/120945_normal.png?m=1461131466",
+            "avatar_large" : "//cdn.v2ex.co/avatar/5e03/fcd2/120945_large.png?m=1461131466"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 12604,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1468770566",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1468770566",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1468770566"
+        },
+        "created" : 1468771209,
+        "last_modified" : 1468771209,
+        "last_touched" : 1468822157
+    },
+    
+    {
+        "id" : 293076,
+        "title" : "有个不错的域名但是不知道拿来做什么？",
+        "url" : "http://www.v2ex.com/t/293076",
+        "content" : "`loli.com`\u000D\u000A\u000D\u000A嘛，以前试着做过东西不过因为种种原因并没有做成，现在想重新做 ACG 相关的东西可是没有想法（线上团队，某种意义上不为盈利只为好玩）。\u000D\u000A\u000D\u000A现在希望能得到大家的任何意见 XD",
+        "content_rendered" : "\u003Cp\u003E\u003Ccode\u003E\u003Ca href\u003D\u0022http://loli.com\u0022 rel\u003D\u0022nofollow\u0022\u003Eloli.com\u003C/a\u003E\u003C/code\u003E\u003C/p\u003E\u000A\u003Cp\u003E嘛，以前试着做过东西不过因为种种原因并没有做成，现在想重新做 ACG 相关的东西可是没有想法（线上团队，某种意义上不为盈利只为好玩）。\u003C/p\u003E\u000A\u003Cp\u003E现在希望能得到大家的任何意见 XD\u003C/p\u003E\u000A",
+        "replies" : 50,
+        "member" : {
+            "id" : 69699,
+            "username" : "ww",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/b560/f6b4/69699_mini.png?m=1440524172",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/b560/f6b4/69699_normal.png?m=1440524172",
+            "avatar_large" : "//cdn.v2ex.co/avatar/b560/f6b4/69699_large.png?m=1440524172"
+        },
+        "node" : {
+            "id" : 337,
+            "name" : "webmaster",
+            "title" : "站长",
+            "title_alternative" : "Webmaster",
+            "url" : "http://www.v2ex.com/go/webmaster",
+            "topics" : 731,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/357a/6fdf/337_mini.png?m=1468538011",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/357a/6fdf/337_normal.png?m=1468538011",
+            "avatar_large" : "//cdn.v2ex.co/navatar/357a/6fdf/337_large.png?m=1468538011"
+        },
+        "created" : 1468762359,
+        "last_modified" : 1468764235,
+        "last_touched" : 1468822421
+    },
+    
+    {
+        "id" : 293077,
+        "title" : "不幸进入联通黑名单，如何是好啊",
+        "url" : "http://www.v2ex.com/t/293077",
+        "content" : "事情是这样的，去年大概是 11 月份吧，我注册了一个新的联通号。大概过了 2 个月吧手机卡坏了（在外地没法补卡），所以我也就没管，一直就到现在。今天我换手机套餐的时候，话务员告诉我，你已经进了黑名单了，得去把欠款交情才能办理业务。并且欠款每天千分之三滞纳金。\u000D\u000A我现在的问题是：\u000D\u000A1.联通公司是否有欠费时候通知我的义务？\u000D\u000A2.有没有什么途径可以免除这个欠款问题，因为我在 12 月份以后这个卡应该是在没有用过了（坏了），应该是从来都没有再开过机了\u000D\u000A3.我大概明天就去联通协商这个问题，那么我最佳的为自己辩护的策略是什么？\u000D\u000A我刚才计算了一下千分之三 的 180 次方 也就1.7 左右所以金额不会特别的巨大。\u000D\u000A明天更新欠款具体金额和计算方法。",
+        "content_rendered" : "\u003Cp\u003E事情是这样的，去年大概是 11 月份吧，我注册了一个新的联通号。大概过了 2 个月吧手机卡坏了（在外地没法补卡），所以我也就没管，一直就到现在。今天我换手机套餐的时候，话务员告诉我，你已经进了黑名单了，得去把欠款交情才能办理业务。并且欠款每天千分之三滞纳金。\u000A我现在的问题是：\u000A1.联通公司是否有欠费时候通知我的义务？\u000A2.有没有什么途径可以免除这个欠款问题，因为我在 12 月份以后这个卡应该是在没有用过了（坏了），应该是从来都没有再开过机了\u000A3.我大概明天就去联通协商这个问题，那么我最佳的为自己辩护的策略是什么？\u000A我刚才计算了一下千分之三 的 180 次方 也就1.7 左右所以金额不会特别的巨大。\u000A明天更新欠款具体金额和计算方法。\u003C/p\u003E\u000A",
+        "replies" : 48,
+        "member" : {
+            "id" : 35811,
+            "username" : "bingowrt",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/7d1f/c9fa/35811_mini.png?m=1400304572",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/7d1f/c9fa/35811_normal.png?m=1400304572",
+            "avatar_large" : "//cdn.v2ex.co/avatar/7d1f/c9fa/35811_large.png?m=1400304572"
+        },
+        "node" : {
+            "id" : 589,
+            "name" : "4g",
+            "title" : "4G",
+            "title_alternative" : "4G",
+            "url" : "http://www.v2ex.com/go/4g",
+            "topics" : 98,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/30bb/3825/589_mini.png?m=1442496761",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/30bb/3825/589_normal.png?m=1442496761",
+            "avatar_large" : "//cdn.v2ex.co/navatar/30bb/3825/589_large.png?m=1442496761"
+        },
+        "created" : 1468763193,
+        "last_modified" : 1468765789,
+        "last_touched" : 1468821636
+    },
+    
+    {
+        "id" : 293162,
+        "title" : "本人在上海想在上海买房，请教一些问题",
+        "url" : "http://www.v2ex.com/t/293162",
+        "content" : "\u003Cp\u003E看了前面的帖子( https://www.v2ex.com/t/293033)\u003C/p\u003E\u000D\u000A禁不住也想上来问问。请教下各位关于在上海刚需买房的问题\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003EIT 行业,来上海也好几年了。来的时候就觉得首付必须自己攒,要么就不买。就一直拖到现在毛都没有,毛都没有,毛都没有\u000D\u000A\u003Cp\u003E但是看样子情况有变了，\u000D\u000A\u003Cp\u003E第一.看上海房价飙升的行情，要自己攒首付买房真是遥遥无期啊 OMG!!!  \u000D\u000A\u003Cp\u003E第二.最关键的老婆年底生小孩。老婆从毕业后就跟着我.也吃了不少苦，想给她一个好的住居环境。\u000D\u000A\u000D\u000A\u003Cp\u003E现在预算是自己手里有 30W 左右,厚着脸皮找父母,父母能提供 50W ，首付能有个 70\u002D80w \u000D\u000A\u003Cp\u003E计划买一个 一室一厅 或者 二室一厅的房子。先满足刚需有一套住着在说。以后在置换把\u000D\u000A\u003Cp\u003E每个月还款控制在 9000 左右\u000D\u000A\u000D\u000A\u003Cp\u003E而且刚好这个月上海苦逼的限购政策我满足了。。 开始看房这就把我 吓的不轻。看不上或者买不起 这就很尴尬了\u000D\u000A\u000D\u000A\u003Cp\u003E所以请教下各位  难道要买老破小?  还是到外环外去买？各位有没有推荐的楼盘？",
+        "content_rendered" : "\u003Cp\u003E看了前面的帖子( \u003Ca href\u003D\u0022https://www.v2ex.com/t/293033)\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://www.v2ex.com/t/293033)\u003C/a\u003E\u003C/p\u003E\u000A禁不住也想上来问问。请教下各位关于在上海刚需买房的问题\u003Cp\u003E\u003C/p\u003E\u000A\u003Cp\u003EIT 行业,来上海也好几年了。来的时候就觉得首付必须自己攒,要么就不买。就一直拖到现在毛都没有,毛都没有,毛都没有\u000A\u003C/p\u003E\u003Cp\u003E但是看样子情况有变了，\u000A\u003C/p\u003E\u003Cp\u003E第一.看上海房价飙升的行情，要自己攒首付买房真是遥遥无期啊 OMG!!!  \u000A\u003C/p\u003E\u003Cp\u003E第二.最关键的老婆年底生小孩。老婆从毕业后就跟着我.也吃了不少苦，想给她一个好的住居环境。\u000A\u003C/p\u003E\u003Cp\u003E现在预算是自己手里有 30W 左右,厚着脸皮找父母,父母能提供 50W ，首付能有个 70\u002D80w \u000A\u003C/p\u003E\u003Cp\u003E计划买一个 一室一厅 或者 二室一厅的房子。先满足刚需有一套住着在说。以后在置换把\u000A\u003C/p\u003E\u003Cp\u003E每个月还款控制在 9000 左右\u000A\u003C/p\u003E\u003Cp\u003E而且刚好这个月上海苦逼的限购政策我满足了。。 开始看房这就把我 吓的不轻。看不上或者买不起 这就很尴尬了\u000A\u003C/p\u003E\u003Cp\u003E所以请教下各位  难道要买老破小?  还是到外环外去买？各位有没有推荐的楼盘？\u000A\u003C/p\u003E",
+        "replies" : 42,
+        "member" : {
+            "id" : 65962,
+            "username" : "keep",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/9590fd605082342dfabaf3b639fc206d?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/9590fd605082342dfabaf3b639fc206d?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/9590fd605082342dfabaf3b639fc206d?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 18,
+            "name" : "shanghai",
+            "title" : "上海",
+            "title_alternative" : "Shanghai",
+            "url" : "http://www.v2ex.com/go/shanghai",
+            "topics" : 825,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/6f49/22f4/18_mini.png?m=1460431790",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/6f49/22f4/18_normal.png?m=1460431790",
+            "avatar_large" : "//cdn.v2ex.co/navatar/6f49/22f4/18_large.png?m=1460431790"
+        },
+        "created" : 1468814705,
+        "last_modified" : 1468814705,
+        "last_touched" : 1468822505
+    },
+    
+    {
+        "id" : 293115,
+        "title" : "医学毕业择业，应该去一流医院收入少以求名，还是去普通医院以求利？",
+        "url" : "http://www.v2ex.com/t/293115",
+        "content" : "弟弟在国内医学最高学府读博即将毕业，肝胆胰外科，做手术的，不打算继续深造，准备找工作。\u000D\u000A\u000D\u000A弟弟求学之路极其坎坷，学医很是偶然（本科时第二志愿调剂），付出了难以想象的努力。其中重要原因是在关键点的选择上几次出现偏差，主要是没明白人指点，才走了不少弯路。\u000D\u000A\u000D\u000A又到了选择工作的关键节点，弟弟在困惑，该去一流大医院还是找一家普通医院。前者呢名声更好些，发展前景也会好(?)，但是很长一段时间内收入会比较少，而且辛苦。 后者则是收入会比较多，待遇可能会比较好，比如朝阳医院这一类。\u000D\u000A\u000D\u000A弟弟提到去年的师哥毕业，在青岛一家医院，一年的时间已经就有豪车豪房了。。。 不过预计今年订婚的女朋友已经在北京工作，所以他应该不会离开北京。而且最近一两年就要结婚买房，需要钱不少。",
+        "content_rendered" : "弟弟在国内医学最高学府读博即将毕业，肝胆胰外科，做手术的，不打算继续深造，准备找工作。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E弟弟求学之路极其坎坷，学医很是偶然（本科时第二志愿调剂），付出了难以想象的努力。其中重要原因是在关键点的选择上几次出现偏差，主要是没明白人指点，才走了不少弯路。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E又到了选择工作的关键节点，弟弟在困惑，该去一流大医院还是找一家普通医院。前者呢名声更好些，发展前景也会好(?)，但是很长一段时间内收入会比较少，而且辛苦。 后者则是收入会比较多，待遇可能会比较好，比如朝阳医院这一类。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E弟弟提到去年的师哥毕业，在青岛一家医院，一年的时间已经就有豪车豪房了。。。 不过预计今年订婚的女朋友已经在北京工作，所以他应该不会离开北京。而且最近一两年就要结婚买房，需要钱不少。",
+        "replies" : 38,
+        "member" : {
+            "id" : 1085,
+            "username" : "iiduce",
+            "tagline" : "子非鱼，安知鱼之乐",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/4f16/c818/1085_mini.png?m=1340840981",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/4f16/c818/1085_normal.png?m=1340840981",
+            "avatar_large" : "//cdn.v2ex.co/avatar/4f16/c818/1085_large.png?m=1340840981"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 72806,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1468770261",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1468770261",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1468770261"
+        },
+        "created" : 1468805284,
+        "last_modified" : 1468805284,
+        "last_touched" : 1468817692
+    },
+    
+    {
+        "id" : 293041,
+        "title" : "草根码农的第一个创业项目 大家看有没有搞头",
+        "url" : "http://www.v2ex.com/t/293041",
+        "content" : "简单的说是个内网端口映射的项目，与其他的产品不同的是能在客户端生成一个有外网ip的虚拟网卡(用ifconfig/ipconfig可以看到), 支持 ip 包的转发，并且可以显示真实的访客 ip\u000D\u000A像 vps 一样可以自定义节点 /带宽 /流量 /时长\u000D\u000A两年多的心血打造的，期间自学了 c 语言和各种 IPv4 知识，用 java 思维+c 语言代码终于弄出了个支持 linux 和 windows 的客户端\u000D\u000A现在有些收尾工作，还有 5 天左右就开放注册了，免费送 5GB 流量和一个月试用期。\u000D\u000A大家给点建议\u000D\u000A\u000D\u000A\u000D\u000Ahttps://hk.vpip.net/\u000D\u000A\u000D\u000A\u003Cimg src\u003D\u0022http://121.199.20.67:82/2016\u002D07\u002D17\u002D171603_1176x639_scrot.png\u0022 /\u003E\u000D\u000A\u003Cimg src\u003D\u0022http://121.199.20.67:82/2016\u002D07\u002D17\u002D171626_1181x828_scrot.png\u0022 /\u003E\u000D\u000A\u003Cimg src\u003D\u0022http://121.199.20.67:82/winip_sim.png\u0022 /\u003E",
+        "content_rendered" : "\u003Cp\u003E简单的说是个内网端口映射的项目，与其他的产品不同的是能在客户端生成一个有外网ip的虚拟网卡(用ifconfig/ipconfig可以看到), 支持 ip 包的转发，并且可以显示真实的访客 ip\u000A像 vps 一样可以自定义节点 /带宽 /流量 /时长\u000A两年多的心血打造的，期间自学了 c 语言和各种 IPv4 知识，用 java 思维+c 语言代码终于弄出了个支持 linux 和 windows 的客户端\u000A现在有些收尾工作，还有 5 天左右就开放注册了，免费送 5GB 流量和一个月试用期。\u000A大家给点建议\u003C/p\u003E\u000A\u003Cp\u003E\u003Ca href\u003D\u0022https://hk.vpip.net/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://hk.vpip.net/\u003C/a\u003E\u003C/p\u003E\u000A\u003Cimg src\u003D\u0022http://121.199.20.67:82/2016\u002D07\u002D17\u002D171603_1176x639_scrot.png\u0022\u003E\u000A\u003Cimg src\u003D\u0022http://121.199.20.67:82/2016\u002D07\u002D17\u002D171626_1181x828_scrot.png\u0022\u003E\u000A\u003Cimg src\u003D\u0022http://121.199.20.67:82/winip_sim.png\u0022\u003E\u000A",
+        "replies" : 37,
+        "member" : {
+            "id" : 115055,
+            "username" : "binaryer",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/3a0f76f976eeef9e2cfc3913ce8b29bc?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/3a0f76f976eeef9e2cfc3913ce8b29bc?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/3a0f76f976eeef9e2cfc3913ce8b29bc?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 12604,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1468770566",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1468770566",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1468770566"
+        },
+        "created" : 1468746688,
+        "last_modified" : 1468747032,
+        "last_touched" : 1468819589
+    },
+    
+    {
+        "id" : 293098,
+        "title" : "世界那么大，为何要争？",
+        "url" : "http://www.v2ex.com/t/293098",
+        "content" : "v2ex 经常会看到这样的帖子，谈到操作系统好坏，编辑器好坏，编程语言好坏时，帖子非常容易上热门。\u000D\u000A\u000D\u000A有些人非常反感这些争论。\u000D\u000A\u000D\u000A另外一些情况就是一些网友会毫无理由，搪塞一句换 xxxx ，有些人也会反感这些回复。\u000D\u000A\u000D\u000A在我看来，后者有点不礼貌。前者则是可以理解的。\u000D\u000A\u000D\u000A为什么不争？不仅要争而且要争出个好坏，就好比剑士很自然的会比较自己和他人的剑的好坏，并且会追求更好的剑。这是一种交流，上升几个 level 就是文化的交流，健康的环境下必须有这样的交流。\u000D\u000A\u000D\u000A有些人为什么不争？境界高了：\u000D\u000A\u000D\u000A“这世界这么多傻逼，我为什么要劝他们用某某非常 cool 的东西呢？懂的人自然懂”\u000D\u000A\u000D\u000A认为争这个没有实际意义，还不如多打几行代码。\u000D\u000A\u000D\u000A我认为尽量避免不礼貌的回复，人身攻击之后应该拿出翔实的理论依据，现实例子好好争一争，以击败对方为目标，甚至应该创建一个宗教，吸引信徒，壮大力量…\u000D\u000A\u000D\u000A而且作为被争论的事物，有可能的话，你应该亲自去改善它，让它最终击败对手。",
+        "content_rendered" : "v2ex 经常会看到这样的帖子，谈到操作系统好坏，编辑器好坏，编程语言好坏时，帖子非常容易上热门。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E有些人非常反感这些争论。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E另外一些情况就是一些网友会毫无理由，搪塞一句换 xxxx ，有些人也会反感这些回复。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E在我看来，后者有点不礼貌。前者则是可以理解的。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E为什么不争？不仅要争而且要争出个好坏，就好比剑士很自然的会比较自己和他人的剑的好坏，并且会追求更好的剑。这是一种交流，上升几个 level 就是文化的交流，健康的环境下必须有这样的交流。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E有些人为什么不争？境界高了：\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E“这世界这么多傻逼，我为什么要劝他们用某某非常 cool 的东西呢？懂的人自然懂”\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E认为争这个没有实际意义，还不如多打几行代码。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E我认为尽量避免不礼貌的回复，人身攻击之后应该拿出翔实的理论依据，现实例子好好争一争，以击败对方为目标，甚至应该创建一个宗教，吸引信徒，壮大力量…\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E而且作为被争论的事物，有可能的话，你应该亲自去改善它，让它最终击败对手。",
+        "replies" : 37,
+        "member" : {
+            "id" : 116132,
+            "username" : "tracyone",
+            "tagline" : "嵌入式工程师啦啦",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/197a/b045/116132_mini.png?m=1468598578",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/197a/b045/116132_normal.png?m=1468598578",
+            "avatar_large" : "//cdn.v2ex.co/avatar/197a/b045/116132_large.png?m=1468598578"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 12604,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1468770566",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1468770566",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1468770566"
+        },
+        "created" : 1468774482,
+        "last_modified" : 1468774482,
+        "last_touched" : 1468822566
+    }
+    
+]

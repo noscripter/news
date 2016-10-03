@@ -1,0 +1,72 @@
+[
+    {
+        "author": "AHAAAAAAA",
+        "category": "Python",
+        "stars": "1,733",
+        "title": "PokemonGo-Map - Live visualization of all the pokemon in your area... and more!",
+        "url": "https://github.com/AHAAAAAAA/PokemonGo-Map"
+    },
+    {
+        "author": "Microsoft",
+        "category": "",
+        "stars": "1,042",
+        "title": "api-guidelines - Microsoft REST API Guidelines",
+        "url": "https://github.com/Microsoft/api-guidelines"
+    },
+    {
+        "author": "zeit",
+        "category": "JavaScript",
+        "stars": "593",
+        "title": "hyperterm - ",
+        "url": "https://github.com/zeit/hyperterm"
+    },
+    {
+        "author": "nosir",
+        "category": "JavaScript",
+        "stars": "455",
+        "title": "cleave.js - Format input text content when you are typing",
+        "url": "https://github.com/nosir/cleave.js"
+    },
+    {
+        "author": "Mila432",
+        "category": "Python",
+        "stars": "384",
+        "title": "Pokemon_Go_API - Pok\u00e9mon GO API in Python",
+        "url": "https://github.com/Mila432/Pokemon_Go_API"
+    },
+    {
+        "author": "rgcr",
+        "category": "Shell",
+        "stars": "376",
+        "title": "m-cli - \uf8ff Swiss Army Knife for Mac OS X",
+        "url": "https://github.com/rgcr/m-cli"
+    },
+    {
+        "author": "egoist",
+        "category": "CSS",
+        "stars": "279",
+        "title": "hack - Dead simple CSS framework.",
+        "url": "https://github.com/egoist/hack"
+    },
+    {
+        "author": "GianlucaGuarini",
+        "category": "JavaScript",
+        "stars": "254",
+        "title": "allora - Promisify using es6 Proxies every javascript API with less than 50 lines of code",
+        "url": "https://github.com/GianlucaGuarini/allora"
+    },
+    {
+        "author": "iam4x",
+        "category": "JavaScript",
+        "stars": "216",
+        "title": "pokemongo-webspoof - \ud83d\udc7e Play Pok\u00e9mon Go from your Mac",
+        "url": "https://github.com/iam4x/pokemongo-webspoof"
+    },
+    {
+        "author": "yasintoy",
+        "category": "Python",
+        "stars": "212",
+        "title": "Slack-Gitsin - A beautiful Slack command line interface (CLI -> uses 20mb memory).",
+        "url": "https://github.com/yasintoy/Slack-Gitsin"
+    }
+]

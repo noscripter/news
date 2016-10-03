@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "693",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "chmln",
+        "category": "JavaScript",
+        "stars": "650",
+        "title": "flatpickr - lightweight, powerful datetimepicker. zero dependencies",
+        "url": "https://github.com/chmln/flatpickr"
+    },
+    {
+        "author": "baoyachi",
+        "category": "Java",
+        "stars": "344",
+        "title": "StepView - Step by step\uff0cjust use stepviewIndicator\uff0cstep indicator\uff0cflow indicator\uff0ctimeline",
+        "url": "https://github.com/baoyachi/StepView"
+    },
+    {
+        "author": "yoshuawuyts",
+        "category": "JavaScript",
+        "stars": "289",
+        "title": "choo - \ud83d\ude82\ud83d\ude8b\ud83d\ude8b\ud83d\ude8b - sturdy frontend framework",
+        "url": "https://github.com/yoshuawuyts/choo"
+    },
+    {
+        "author": "sindresorhus",
+        "category": "JavaScript",
+        "stars": "262",
+        "title": "emoj - Find relevant emoji from text on the command-line \ud83d\ude2e \u2728 \ud83d\ude4c \ud83d\udc34 \ud83d\udca5 \ud83d\ude48",
+        "url": "https://github.com/sindresorhus/emoj"
+    },
+    {
+        "author": "recruit-mtl",
+        "category": "Swift",
+        "stars": "221",
+        "title": "Graphs - ",
+        "url": "https://github.com/recruit-mtl/Graphs"
+    },
+    {
+        "author": "zetbaitsu",
+        "category": "Java",
+        "stars": "204",
+        "title": "Compressor - An android image compression library.",
+        "url": "https://github.com/zetbaitsu/Compressor"
+    },
+    {
+        "author": "getify",
+        "category": "JavaScript",
+        "stars": "199",
+        "title": "You-Dont-Know-JS - A book series on JavaScript. @YDKJS on twitter.",
+        "url": "https://github.com/getify/You-Dont-Know-JS"
+    },
+    {
+        "author": "evhub",
+        "category": "Python",
+        "stars": "202",
+        "title": "coconut - Simple, elegant, Pythonic functional programming.",
+        "url": "https://github.com/evhub/coconut"
+    },
+    {
+        "author": "GeniusVJR",
+        "category": "",
+        "stars": "170",
+        "title": "LearningNotes - Enjoy Learning.",
+        "url": "https://github.com/GeniusVJR/LearningNotes"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "ptmt",
+        "category": "JavaScript",
+        "stars": "2,640",
+        "title": "react-native-desktop - React Native for OS X",
+        "url": "https://github.com/ptmt/react-native-desktop"
+    },
+    {
+        "author": "firehol",
+        "category": "C",
+        "stars": "2,559",
+        "title": "netdata - Real-time performance monitoring, done right!",
+        "url": "https://github.com/firehol/netdata"
+    },
+    {
+        "author": "toddmotto",
+        "category": "",
+        "stars": "876",
+        "title": "public-apis - A collective list of public JSON APIs for use in web development.",
+        "url": "https://github.com/toddmotto/public-apis"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "808",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "jianliaoim",
+        "category": "CoffeeScript",
+        "stars": "543",
+        "title": "talk-os - Open source version of jianliao.com",
+        "url": "https://github.com/jianliaoim/talk-os"
+    },
+    {
+        "author": "Microsoft",
+        "category": "C#",
+        "stars": "361",
+        "title": "BotBuilder - The Microsoft Bot Builder SDK is one of three main components of the Microsoft Bot Framework. The Microsoft Bot Framework provides just what you need to build and connect intelligent bots that interact naturally wherever your users are talking, from text/sms to Skype, Slack, Office 365 mail and other popular services.",
+        "url": "https://github.com/Microsoft/BotBuilder"
+    },
+    {
+        "author": "googlesamples",
+        "category": "",
+        "stars": "326",
+        "title": "android-architecture - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+        "url": "https://github.com/googlesamples/android-architecture"
+    },
+    {
+        "author": "mortenjust",
+        "category": "Swift",
+        "stars": "298",
+        "title": "cleartext-mac - A text editor that only allows the top 1000 most common words in English",
+        "url": "https://github.com/mortenjust/cleartext-mac"
+    },
+    {
+        "author": "edent",
+        "category": "C",
+        "stars": "279",
+        "title": "BMW-OpenSource - All the Open Source Software provided by BMW for their i3",
+        "url": "https://github.com/edent/BMW-OpenSource"
+    },
+    {
+        "author": "thejameskyle",
+        "category": "JavaScript",
+        "stars": "278",
+        "title": "spectacle-code-slide - Present code with style",
+        "url": "https://github.com/thejameskyle/spectacle-code-slide"
+    }
+]

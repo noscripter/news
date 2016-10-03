@@ -1,0 +1,72 @@
+[
+    {
+        "author": "donnemartin",
+        "category": "Python",
+        "stars": "646",
+        "title": "gitsome - A Supercharged Git/Shell Autocompleter with GitHub Integration.",
+        "url": "https://github.com/donnemartin/gitsome"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "576",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "convox",
+        "category": "Go",
+        "stars": "458",
+        "title": "rack - Open-source PaaS on AWS",
+        "url": "https://github.com/convox/rack"
+    },
+    {
+        "author": "das-labor",
+        "category": "Rust",
+        "stars": "438",
+        "title": "panopticon - A libre cross-platform disassembler.",
+        "url": "https://github.com/das-labor/panopticon"
+    },
+    {
+        "author": "google",
+        "category": "Java",
+        "stars": "432",
+        "title": "flexbox-layout - Flexbox for Android",
+        "url": "https://github.com/google/flexbox-layout"
+    },
+    {
+        "author": "BearishSun",
+        "category": "C++",
+        "stars": "342",
+        "title": "BansheeEngine - Banshee Game Engine",
+        "url": "https://github.com/BearishSun/BansheeEngine"
+    },
+    {
+        "author": "LittleFriendsGroup",
+        "category": "",
+        "stars": "277",
+        "title": "AndroidSdkSourceAnalysis - android sdk \u6e90\u7801\u89e3\u6790\u2014\u2014\u65e8\u5728\u5e2e\u52a9Android\u5f00\u53d1\u8005\u66f4\u597d\u7684\u5b66\u4e60Android\uff01\u6211\u4eec\u53ea\u662f\u4e00\u7fa4\u666e\u901a\u7684\u7a0b\u5e8f\u5458\uff0c\u4f46\u662f\uff0c\u6211\u4eec\u70ed\u7231\u5206\u4eab\uff0c\u60f3\u70ed\u70ed\u95f9\u95f9\u7684\u73a9\u70b9\u6709\u610f\u4e49\u7684\u4e8b\uff01\u5982\u679c\u4f60\u4e5f\u60f3\u966a\u6211\u4eec\u4e00\u8d77\u6109\u5feb\u7684\u73a9\u800d\uff0c\u6b22\u8fce\u52a0\u5165\u6211\u4eec\uff01Issues\u8ba4\u9886\u5206\u6790\u6587\u7ae0\uff01",
+        "url": "https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis"
+    },
+    {
+        "author": "weibocom",
+        "category": "Java",
+        "stars": "234",
+        "title": "motan - A remote procedure call(RPC) framework for rapid development of high performance distributed services.",
+        "url": "https://github.com/weibocom/motan"
+    },
+    {
+        "author": "dbohdan",
+        "category": "",
+        "stars": "265",
+        "title": "structured-text-tools - A list of command line tools for manipulating structured text data",
+        "url": "https://github.com/dbohdan/structured-text-tools"
+    },
+    {
+        "author": "open-source-society",
+        "category": "",
+        "stars": "252",
+        "title": "computer-science - Path to a free self-taught education in Computer Science!",
+        "url": "https://github.com/open-source-society/computer-science"
+    }
+]

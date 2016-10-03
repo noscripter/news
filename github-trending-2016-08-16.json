@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FormidableLabs",
+        "category": "JavaScript",
+        "stars": "1,740",
+        "title": "webpack-dashboard - A CLI dashboard for webpack dev server",
+        "url": "https://github.com/FormidableLabs/webpack-dashboard"
+    },
+    {
+        "author": "hedengcheng",
+        "category": "",
+        "stars": "474",
+        "title": "tech - programming, database, distributed system",
+        "url": "https://github.com/hedengcheng/tech"
+    },
+    {
+        "author": "pstadler",
+        "category": "",
+        "stars": "462",
+        "title": "keybase-gpg-github - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and use it with Git and GitHub.",
+        "url": "https://github.com/pstadler/keybase-gpg-github"
+    },
+    {
+        "author": "arielf",
+        "category": "R",
+        "stars": "426",
+        "title": "weight-loss - Machine Learning meets ketosis: how to effectively lose weight",
+        "url": "https://github.com/arielf/weight-loss"
+    },
+    {
+        "author": "recharts",
+        "category": "JavaScript",
+        "stars": "387",
+        "title": "recharts - Redefined chart library built with React and D3",
+        "url": "https://github.com/recharts/recharts"
+    },
+    {
+        "author": "mychoices",
+        "category": "Java",
+        "stars": "364",
+        "title": "Jgraph - \u56fe\u8868\u63a7\u4ef6",
+        "url": "https://github.com/mychoices/Jgraph"
+    },
+    {
+        "author": "fuchsia-mirror",
+        "category": "C",
+        "stars": "315",
+        "title": "magenta - Magenta Kernel, Core Drivers, and Services",
+        "url": "https://github.com/fuchsia-mirror/magenta"
+    },
+    {
+        "author": "gmetais",
+        "category": "JavaScript",
+        "stars": "293",
+        "title": "sw-delta - An incremental cache for the web",
+        "url": "https://github.com/gmetais/sw-delta"
+    },
+    {
+        "author": "JamesTheHacker",
+        "category": "JavaScript",
+        "stars": "268",
+        "title": "Neuron - Neuron - Electron, ES6, React, PouchDB, Sass, Webpack",
+        "url": "https://github.com/JamesTheHacker/Neuron"
+    },
+    {
+        "author": "korcankaraokcu",
+        "category": "Python",
+        "stars": "224",
+        "title": "PINCE - A reverse engineering tool that'll (hopefully) supply the place of Cheat Engine for linux",
+        "url": "https://github.com/korcankaraokcu/PINCE"
+    }
+]

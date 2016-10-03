@@ -1,0 +1,313 @@
+[
+    
+    {
+        "id" : 255417,
+        "title" : "月收入一万的人有可能买车买房吗？",
+        "url" : "http://www.v2ex.com/t/255417",
+        "content" : "月收入才一万块，各种开销后可能只有五千多了。我能买多少钱的车呢。一年也才存几万，车都得几十万…好累啊，我得花一辈子买房买车了。",
+        "content_rendered" : "月收入才一万块，各种开销后可能只有五千多了。我能买多少钱的车呢。一年也才存几万，车都得几十万…好累啊，我得花一辈子买房买车了。",
+        "replies" : 84,
+        "member" : {
+            "id" : 143072,
+            "username" : "hoythan",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/cb98ba7ca393ba597d83f771cf300eb7?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/cb98ba7ca393ba597d83f771cf300eb7?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/cb98ba7ca393ba597d83f771cf300eb7?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 770,
+            "name" : "career",
+            "title" : "职场话题",
+            "title_alternative" : "Career",
+            "url" : "http://www.v2ex.com/go/career",
+            "topics" : 1218,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1450315732",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1450315732",
+            "avatar_large" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1450315732"
+        },
+        "created" : 1454582446,
+        "last_modified" : 1454582446,
+        "last_touched" : 1454655342
+    },
+    
+    {
+        "id" : 255449,
+        "title" : "给父母攒了个台式机, 和大家分享一下心得 \u002D0\u002D",
+        "url" : "http://www.v2ex.com/t/255449",
+        "content" : "#### 背景一: 上次买之前没征求大家意见, 结果被好多人[吐槽]( https://www.v2ex.com/t/108314) .\u000D\u000A#### 背景二: 这台电脑是送给父母的, 平时就是上上网, 玩玩小游戏, 写个 ppt word 啥的. \u000D\u000A\u000D\u000A\u002D\u002D\u002D\u000D\u000A\u000D\u000A* 显卡: 父母不玩游戏不需要独显.\u000D\u000A* CPU: 没有独显必须得有个差不多点的核显所以选择了 i3, 考虑电脑这东西要用很多年 而且很容易被淘汰掉. 所以就直接上了第六代的 6100 .\u000D\u000A* 主板: 主板和六代 i 系列 cpu 匹配的性价比最高的就是 150 系列了,  选个大品牌还支持 DDR4 的就是华硕 B150M\u002DPLUS 了.\u000D\u000A* 内存: 8g 父母够用了. 配合上面两个东西选择了 DDR4.\u000D\u000A* 硬盘: 7200 的普通硬盘实在是太浪费 6100 和 DDR4. 于是就想直接上 SSD, 父母用 250G 也足够了.  选择 sandisk 是因为价钱便宜一些而且普遍评价寿命较长.\u000D\u000A* 电源: 没有显卡 270W 足够, 同事说台达的靠谱,我也没研究.\u000D\u000A* 机箱: 挑了个 Mini 的机箱配合 M\u002DATX 的主板, 一百多的机箱里面 0.5mm 的竟然都算厚的了.\u000D\u000A\u000D\u000A\u000D\u000Ahttp://i.imgur.com/iXAs88B.png",
+        "content_rendered" : "\u003Ch4\u003E背景一: 上次买之前没征求大家意见, 结果被好多人\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://www.v2ex.com/t/108314\u0022\u003E吐槽\u003C/a\u003E .\u003C/h4\u003E\u000A\u000A\u003Ch4\u003E背景二: 这台电脑是送给父母的, 平时就是上上网, 玩玩小游戏, 写个 ppt word 啥的.\u003C/h4\u003E\u000A\u000A\u003Chr\u003E\u000A\u000A\u003Cul\u003E\u000A\u003Cli\u003E显卡: 父母不玩游戏不需要独显.\u003C/li\u003E\u000A\u003Cli\u003ECPU: 没有独显必须得有个差不多点的核显所以选择了 i3, 考虑电脑这东西要用很多年 而且很容易被淘汰掉. 所以就直接上了第六代的 6100 .\u003C/li\u003E\u000A\u003Cli\u003E主板: 主板和六代 i 系列 cpu 匹配的性价比最高的就是 150 系列了,  选个大品牌还支持 DDR4 的就是华硕 B150M\u002DPLUS 了.\u003C/li\u003E\u000A\u003Cli\u003E内存: 8g 父母够用了. 配合上面两个东西选择了 DDR4.\u003C/li\u003E\u000A\u003Cli\u003E硬盘: 7200 的普通硬盘实在是太浪费 6100 和 DDR4. 于是就想直接上 SSD, 父母用 250G 也足够了.  选择 sandisk 是因为价钱便宜一些而且普遍评价寿命较长.\u003C/li\u003E\u000A\u003Cli\u003E电源: 没有显卡 270W 足够, 同事说台达的靠谱,我也没研究.\u003C/li\u003E\u000A\u003Cli\u003E机箱: 挑了个 Mini 的机箱配合 M\u002DATX 的主板, 一百多的机箱里面 0.5mm 的竟然都算厚的了.\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u000A\u003Cp\u003E\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://i.imgur.com/iXAs88B.png\u0022\u003Ehttp://i.imgur.com/iXAs88B.png\u003C/a\u003E\u003C/p\u003E\u000A",
+        "replies" : 61,
+        "member" : {
+            "id" : 56429,
+            "username" : "StackGao",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/1a77/35ce/56429_mini.png?m=1392893399",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/1a77/35ce/56429_normal.png?m=1392893399",
+            "avatar_large" : "//cdn.v2ex.co/avatar/1a77/35ce/56429_large.png?m=1392893399"
+        },
+        "node" : {
+            "id" : 52,
+            "name" : "hardware",
+            "title" : "硬件",
+            "title_alternative" : "Hardware",
+            "url" : "http://www.v2ex.com/go/hardware",
+            "topics" : 870,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/9a11/5815/52_mini.png?m=1442293057",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/9a11/5815/52_normal.png?m=1442293057",
+            "avatar_large" : "//cdn.v2ex.co/navatar/9a11/5815/52_large.png?m=1442293057"
+        },
+        "created" : 1454595484,
+        "last_modified" : 1454595484,
+        "last_touched" : 1454655619
+    },
+    
+    {
+        "id" : 255454,
+        "title" : "大家对于国产 app 通过更新图标来进行“广告/刷存在感”的行为是什么态度？",
+        "url" : "http://www.v2ex.com/t/255454",
+        "content" : "首先，标题所描述的行为，不包括正常的品牌 logo 更新或改变设计风格的行为。\u000D\u000A\u000D\u000A这里主要说的是例如下图的这些 app 更换之后的图标，过完年基本上会默默换回老图标。\u000D\u000A\u000D\u000A就我个人来讲，它们刷存在感的意图太明显了，我很反感。\u000D\u000A你的意见呢？\u000D\u000A![]( http://ww1.sinaimg.cn/large/924094f5jw1f0nokddjpzj20hc0hytck.jpg)",
+        "content_rendered" : "\u003Cp\u003E首先，标题所描述的行为，不包括正常的品牌 logo 更新或改变设计风格的行为。\u003C/p\u003E\u000A\u000A\u003Cp\u003E这里主要说的是例如下图的这些 app 更换之后的图标，过完年基本上会默默换回老图标。\u003C/p\u003E\u000A\u000A\u003Cp\u003E就我个人来讲，它们刷存在感的意图太明显了，我很反感。\u003Cbr\u003E\u000A你的意见呢？\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022http://ww1.sinaimg.cn/large/924094f5jw1f0nokddjpzj20hc0hytck.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003C/p\u003E\u000A",
+        "replies" : 60,
+        "member" : {
+            "id" : 49949,
+            "username" : "goodbest",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/6079de62f5e61947e6e75e1c926cf11b?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/6079de62f5e61947e6e75e1c926cf11b?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/6079de62f5e61947e6e75e1c926cf11b?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 10861,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1454545288",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1454545288",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1454545288"
+        },
+        "created" : 1454597036,
+        "last_modified" : 1454597105,
+        "last_touched" : 1454656122
+    },
+    
+    {
+        "id" : 255420,
+        "title" : "3DM 宣布从今年开始不再破解任何单机游戏",
+        "url" : "http://www.v2ex.com/t/255420",
+        "content" : "http://ww1.sinaimg.cn/large/9feabde7gw1f0ni3dguosj20ir05qq4m.jpg\u000D\u000A\u000D\u000A应该算是好事吧？",
+        "content_rendered" : "\u003Cimg src\u003D\u0022http://ww1.sinaimg.cn/large/9feabde7gw1f0ni3dguosj20ir05qq4m.jpg\u0022 class\u003D\u0022imgly\u0022 style\u003D\u0022max\u002Dwidth: 660px\u003B\u0022 border\u003D\u00220\u0022 /\u003E \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E应该算是好事吧？",
+        "replies" : 56,
+        "member" : {
+            "id" : 51857,
+            "username" : "myywin",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/c329c2376c4c617e10305cbca3d93378?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/c329c2376c4c617e10305cbca3d93378?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/c329c2376c4c617e10305cbca3d93378?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 320,
+            "name" : "wtf",
+            "title" : "不靠谱茶话会",
+            "title_alternative" : "WTF",
+            "url" : "http://www.v2ex.com/go/wtf",
+            "topics" : 256,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/3207/2254/320_mini.png?m=1435210420",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/3207/2254/320_normal.png?m=1435210420",
+            "avatar_large" : "//cdn.v2ex.co/navatar/3207/2254/320_large.png?m=1435210420"
+        },
+        "created" : 1454583348,
+        "last_modified" : 1454592610,
+        "last_touched" : 1454654856
+    },
+    
+    {
+        "id" : 255419,
+        "title" : "人生第一辆车，十万以内有什么推荐的吗？",
+        "url" : "http://www.v2ex.com/t/255419",
+        "content" : "2016 年下半年购买，预算最多十万，日常使用，求老司机推荐。",
+        "content_rendered" : "2016 年下半年购买，预算最多十万，日常使用，求老司机推荐。",
+        "replies" : 53,
+        "member" : {
+            "id" : 12691,
+            "username" : "qiayue",
+            "tagline" : "想吃零食就找我",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/edf7/f2f3/12691_mini.png?m=1335596449",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/edf7/f2f3/12691_normal.png?m=1335596449",
+            "avatar_large" : "//cdn.v2ex.co/avatar/edf7/f2f3/12691_large.png?m=1335596449"
+        },
+        "node" : {
+            "id" : 176,
+            "name" : "car",
+            "title" : "汽车",
+            "title_alternative" : "Car",
+            "url" : "http://www.v2ex.com/go/car",
+            "topics" : 229,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/38af/8613/176_mini.png?m=1408012248",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/38af/8613/176_normal.png?m=1408012248",
+            "avatar_large" : "//cdn.v2ex.co/navatar/38af/8613/176_large.png?m=1408012248"
+        },
+        "created" : 1454583347,
+        "last_modified" : 1454592748,
+        "last_touched" : 1454643158
+    },
+    
+    {
+        "id" : 255457,
+        "title" : "有认识 upyun 的兄弟吗？我想加入他们联盟，申请了好些天渺无音讯",
+        "url" : "http://www.v2ex.com/t/255457",
+        "content" : "最近终于明白到 CDN 的好处，想把网站一些文件转移到 upyun 去，如果是 css 和 js 还有一些网站界面的话，联盟赠送的流量也应该够了。但我在他们官网那个联盟申请发过好几次连接都没人回应，给那个 lianmeng@upyun.com 发信说这个信箱无效，有谁能联系上的吗？不太想用七牛云",
+        "content_rendered" : "最近终于明白到 CDN 的好处，想把网站一些文件转移到 upyun 去，如果是 css 和 js 还有一些网站界面的话，联盟赠送的流量也应该够了。但我在他们官网那个联盟申请发过好几次连接都没人回应，给那个 \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022mailto:lianmeng@upyun.com\u0022\u003Elianmeng@upyun.com\u003C/a\u003E 发信说这个信箱无效，有谁能联系上的吗？不太想用七牛云",
+        "replies" : 38,
+        "member" : {
+            "id" : 31475,
+            "username" : "gzelvis",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/e28cd4c005acf8b55ca87d1ffd4376b5?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/e28cd4c005acf8b55ca87d1ffd4376b5?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/e28cd4c005acf8b55ca87d1ffd4376b5?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 104,
+            "name" : "cloud",
+            "title" : "云计算",
+            "title_alternative" : "Cloud Computing",
+            "url" : "http://www.v2ex.com/go/cloud",
+            "topics" : 1325,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c9e1/074f/104_mini.png?m=1453443052",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c9e1/074f/104_normal.png?m=1453443052",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c9e1/074f/104_large.png?m=1453443052"
+        },
+        "created" : 1454600593,
+        "last_modified" : 1454600593,
+        "last_touched" : 1454655592
+    },
+    
+    {
+        "id" : 255503,
+        "title" : "DNS 隧道，防污染程序发布， V2EX 会员免费送 1 个月！",
+        "url" : "http://www.v2ex.com/t/255503",
+        "content" : "通过代理访问自定义 DNS 服务器进行解析，从而绕过 DNS 污染。\u000D\u000A\u000D\u000A第一次运行后会生成配置文件，在配置文件内加入注册码：\u000D\u000A\u000D\u000A[Authorization]\u000D\u000AEmail\u003DV2EX 见面礼\u000D\u000ASerialNumber\u003DrPZ3GB/mOxQCfdcRaAty1KXps//HeleEFX+VU+JQ9dc\u003D\u000D\u000A\u000D\u000A下载：\u000D\u000Ahttps://yunpan.cn/cri4GRYWrB2L2  访问密码 fbc9\u000D\u000A\u000D\u000A需 .NET 4.5.2 运行库\u000D\u000Ahttps://www.microsoft.com/zh\u002DCN/download/details.aspx?id\u003D42642",
+        "content_rendered" : "通过代理访问自定义 DNS 服务器进行解析，从而绕过 DNS 污染。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E第一次运行后会生成配置文件，在配置文件内加入注册码：\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E[Authorization]\u000D\u003Cbr /\u003EEmail\u003DV2EX 见面礼\u000D\u003Cbr /\u003ESerialNumber\u003DrPZ3GB/mOxQCfdcRaAty1KXps//HeleEFX+VU+JQ9dc\u003D\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E下载：\u000D\u003Cbr /\u003E\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022https://yunpan.cn/cri4GRYWrB2L2\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://yunpan.cn/cri4GRYWrB2L2\u003C/a\u003E  访问密码 fbc9\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E需 .NET 4.5.2 运行库\u000D\u003Cbr /\u003E\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022https://www.microsoft.com/zh\u002DCN/download/details.aspx?id\u003D42642\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://www.microsoft.com/zh\u002DCN/download/details.aspx?id\u003D42642\u003C/a\u003E",
+        "replies" : 34,
+        "member" : {
+            "id" : 62654,
+            "username" : "zungmou",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/65a7/7859/62654_mini.png?m=1453470171",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/65a7/7859/62654_normal.png?m=1453470171",
+            "avatar_large" : "//cdn.v2ex.co/avatar/65a7/7859/62654_large.png?m=1453470171"
+        },
+        "node" : {
+            "id" : 199,
+            "name" : "dns",
+            "title" : "DNS",
+            "title_alternative" : "DNS",
+            "url" : "http://www.v2ex.com/go/dns",
+            "topics" : 882,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/84d9/ee44/199_mini.png?m=1429512710",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/84d9/ee44/199_normal.png?m=1429512710",
+            "avatar_large" : "//cdn.v2ex.co/navatar/84d9/ee44/199_large.png?m=1429512710"
+        },
+        "created" : 1454644909,
+        "last_modified" : 1454644909,
+        "last_touched" : 1454655855
+    },
+    
+    {
+        "id" : 255475,
+        "title" : "今天是春节前最后一天班",
+        "url" : "http://www.v2ex.com/t/255475",
+        "content" : "还在坚守岗位的伙伴打卡了！\u000D\u000A祝大家春节快乐！！！",
+        "content_rendered" : "\u003Cp\u003E还在坚守岗位的伙伴打卡了！\u003Cbr\u003E\u000A祝大家春节快乐！！！\u003C/p\u003E\u000A",
+        "replies" : 33,
+        "member" : {
+            "id" : 47055,
+            "username" : "lichanglei11",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/c088/4540/47055_mini.png?m=1420506116",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/c088/4540/47055_normal.png?m=1420506116",
+            "avatar_large" : "//cdn.v2ex.co/avatar/c088/4540/47055_large.png?m=1420506116"
+        },
+        "node" : {
+            "id" : 121,
+            "name" : "jiong",
+            "title" : "囧",
+            "title_alternative" : "Jiong",
+            "url" : "http://www.v2ex.com/go/jiong",
+            "topics" : 102,
+            "avatar_mini" : "/static/img/node_mini.png",
+            "avatar_normal" : "/static/img/node_normal.png",
+            "avatar_large" : "/static/img/node_large.png"
+        },
+        "created" : 1454632078,
+        "last_modified" : 1454632078,
+        "last_touched" : 1454650934
+    },
+    
+    {
+        "id" : 255405,
+        "title" : "iOS 的 emoji 里怎么找不到青天白日旗了？",
+        "url" : "http://www.v2ex.com/t/255405",
+        "content" : "我记得以前有啊 现在 ios9.3",
+        "content_rendered" : "\u003Cp\u003E我记得以前有啊 现在 ios9.3\u003C/p\u003E\u000A",
+        "replies" : 31,
+        "member" : {
+            "id" : 147802,
+            "username" : "YUX",
+            "tagline" : "Fun is boring",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/99f2/3af0/147802_mini.png?m=1450910861",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/99f2/3af0/147802_normal.png?m=1450910861",
+            "avatar_large" : "//cdn.v2ex.co/avatar/99f2/3af0/147802_large.png?m=1450910861"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 64141,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1453538415",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1453538415",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1453538415"
+        },
+        "created" : 1454577316,
+        "last_modified" : 1454577316,
+        "last_touched" : 1454625748
+    },
+    
+    {
+        "id" : 255422,
+        "title" : "突发奇想，被打码的照片可以去掉马赛克吗？",
+        "url" : "http://www.v2ex.com/t/255422",
+        "content" : "有没有类似的软件",
+        "content_rendered" : "有没有类似的软件",
+        "replies" : 30,
+        "member" : {
+            "id" : 143123,
+            "username" : "livc",
+            "tagline" : "积极勤奋的努力和不计成败的洒脱是成功的两翼。",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/05cb/734d/143123_mini.png?m=1451809812",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/05cb/734d/143123_normal.png?m=1451809812",
+            "avatar_large" : "//cdn.v2ex.co/avatar/05cb/734d/143123_large.png?m=1451809812"
+        },
+        "node" : {
+            "id" : 519,
+            "name" : "ideas",
+            "title" : "奇思妙想",
+            "title_alternative" : "Ideas",
+            "url" : "http://www.v2ex.com/go/ideas",
+            "topics" : 1686,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/6353/8fe6/519_mini.png?m=1424694533",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/6353/8fe6/519_normal.png?m=1424694533",
+            "avatar_large" : "//cdn.v2ex.co/navatar/6353/8fe6/519_large.png?m=1424694533"
+        },
+        "created" : 1454585230,
+        "last_modified" : 1454585230,
+        "last_touched" : 1454599583
+    }
+    
+]

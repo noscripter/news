@@ -1,0 +1,72 @@
+[
+    {
+        "author": "dear-github",
+        "category": "",
+        "stars": "803",
+        "title": "dear-github - An open letter to GitHub from the maintainers of open source projects",
+        "url": "https://github.com/dear-github/dear-github"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "668",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "baidu-research",
+        "category": "Cuda",
+        "stars": "279",
+        "title": "warp-ctc - Fast parallel CTC.",
+        "url": "https://github.com/baidu-research/warp-ctc"
+    },
+    {
+        "author": "Microsoft",
+        "category": "JavaScript",
+        "stars": "271",
+        "title": "ChakraCore - ChakraCore is the core part of the Chakra Javascript engine that powers Microsoft Edge",
+        "url": "https://github.com/Microsoft/ChakraCore"
+    },
+    {
+        "author": "sindresorhus",
+        "category": "",
+        "stars": "286",
+        "title": "awesome-npm - Awesome npm resources and tips",
+        "url": "https://github.com/sindresorhus/awesome-npm"
+    },
+    {
+        "author": "braydie",
+        "category": "",
+        "stars": "256",
+        "title": "HowToBeAProgrammer - A guide on how to be a Programmer - originally published by Robert L Read",
+        "url": "https://github.com/braydie/HowToBeAProgrammer"
+    },
+    {
+        "author": "JakeLin",
+        "category": "Swift",
+        "stars": "250",
+        "title": "IBAnimatable - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.",
+        "url": "https://github.com/JakeLin/IBAnimatable"
+    },
+    {
+        "author": "tastejs",
+        "category": "",
+        "stars": "192",
+        "title": "awesome-app-ideas - List of awesome app ideas",
+        "url": "https://github.com/tastejs/awesome-app-ideas"
+    },
+    {
+        "author": "Keith-S-Thompson",
+        "category": "",
+        "stars": "191",
+        "title": "how-to-c-response - A critique of \"How to C in 2016\"",
+        "url": "https://github.com/Keith-S-Thompson/how-to-c-response"
+    },
+    {
+        "author": "RPISEC",
+        "category": "",
+        "stars": "176",
+        "title": "Malware - Course materials for Malware Analysis by RPISEC",
+        "url": "https://github.com/RPISEC/Malware"
+    }
+]

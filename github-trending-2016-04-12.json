@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "612",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "puikinsh",
+        "category": "HTML",
+        "stars": "427",
+        "title": "gentelella - Free Bootstrap 3 Admin Template",
+        "url": "https://github.com/puikinsh/gentelella"
+    },
+    {
+        "author": "antontarasenko",
+        "category": "",
+        "stars": "394",
+        "title": "smq - A collection of SQL queries to social media datasets.",
+        "url": "https://github.com/antontarasenko/smq"
+    },
+    {
+        "author": "kamranahmedse",
+        "category": "Shell",
+        "stars": "374",
+        "title": "git-standup - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)",
+        "url": "https://github.com/kamranahmedse/git-standup"
+    },
+    {
+        "author": "akveo",
+        "category": "JavaScript",
+        "stars": "367",
+        "title": "blur-admin - Free Angular Bootstrap Admin Dashboard",
+        "url": "https://github.com/akveo/blur-admin"
+    },
+    {
+        "author": "gabrielrcouto",
+        "category": "PHP",
+        "stars": "355",
+        "title": "php-gui - Extensionless PHP Graphic User Interface library",
+        "url": "https://github.com/gabrielrcouto/php-gui"
+    },
+    {
+        "author": "phodal",
+        "category": "HTML",
+        "stars": "321",
+        "title": "growth-ebook - Growth: \u5168\u6808\u589e\u957f\u5de5\u7a0b\u5e08\u6307\u5357\u3002Growth: Learning How to be a Growth Full Stack in 7 Steps.",
+        "url": "https://github.com/phodal/growth-ebook"
+    },
+    {
+        "author": "nnupoor",
+        "category": "JavaScript",
+        "stars": "234",
+        "title": "js_designpatterns - ",
+        "url": "https://github.com/nnupoor/js_designpatterns"
+    },
+    {
+        "author": "speed",
+        "category": "JavaScript",
+        "stars": "211",
+        "title": "newcrawler - Free Web Scraping Tool",
+        "url": "https://github.com/speed/newcrawler"
+    },
+    {
+        "author": "firehol",
+        "category": "C",
+        "stars": "205",
+        "title": "netdata - Real-time performance monitoring, done right!",
+        "url": "https://github.com/firehol/netdata"
+    }
+]

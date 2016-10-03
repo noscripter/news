@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "424",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "rg3",
+        "category": "Python",
+        "stars": "336",
+        "title": "youtube-dl - Small command-line program to download videos from YouTube.com and other video sites",
+        "url": "https://github.com/rg3/youtube-dl"
+    },
+    {
+        "author": "puikinsh",
+        "category": "HTML",
+        "stars": "332",
+        "title": "gentelella - Free Bootstrap 3 Admin Template",
+        "url": "https://github.com/puikinsh/gentelella"
+    },
+    {
+        "author": "davidedc",
+        "category": "CoffeeScript",
+        "stars": "241",
+        "title": "Algebrite - Computer Algebra System in Javascript (Coffeescript)",
+        "url": "https://github.com/davidedc/Algebrite"
+    },
+    {
+        "author": "gabrielrcouto",
+        "category": "PHP",
+        "stars": "199",
+        "title": "php-gui - Extensionless PHP Graphic User Interface library",
+        "url": "https://github.com/gabrielrcouto/php-gui"
+    },
+    {
+        "author": "youtube",
+        "category": "Go",
+        "stars": "184",
+        "title": "doorman - Doorman: Global Distributed Client Side Rate Limiting.",
+        "url": "https://github.com/youtube/doorman"
+    },
+    {
+        "author": "akveo",
+        "category": "JavaScript",
+        "stars": "165",
+        "title": "blur-admin - Free Angular Bootstrap Admin Dashboard",
+        "url": "https://github.com/akveo/blur-admin"
+    },
+    {
+        "author": "FezVrasta",
+        "category": "JavaScript",
+        "stars": "146",
+        "title": "popper.js - A ~3.5KB kickass library to manage your poppers",
+        "url": "https://github.com/FezVrasta/popper.js"
+    },
+    {
+        "author": "firehol",
+        "category": "C",
+        "stars": "140",
+        "title": "netdata - Real-time performance monitoring, done right!",
+        "url": "https://github.com/firehol/netdata"
+    },
+    {
+        "author": "mathics",
+        "category": "Python",
+        "stars": "126",
+        "title": "Mathics - a general-purpose computer algebra system",
+        "url": "https://github.com/mathics/Mathics"
+    }
+]

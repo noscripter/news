@@ -1,0 +1,72 @@
+[
+    {
+        "author": "apple",
+        "category": "C++",
+        "stars": "1,102",
+        "title": "swift - The Swift Programming Language",
+        "url": "https://github.com/apple/swift"
+    },
+    {
+        "author": "openalpr",
+        "category": "C++",
+        "stars": "666",
+        "title": "openalpr - Automatic License Plate Recognition library",
+        "url": "https://github.com/openalpr/openalpr"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "506",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "MaximAbramchuck",
+        "category": "",
+        "stars": "482",
+        "title": "awesome-interviews - A curated awesome list of lists of interview questions. Feel free to contribute!",
+        "url": "https://github.com/MaximAbramchuck/awesome-interviews"
+    },
+    {
+        "author": "ipselon",
+        "category": "JavaScript",
+        "stars": "396",
+        "title": "structor - User interface builder for React",
+        "url": "https://github.com/ipselon/structor"
+    },
+    {
+        "author": "douban",
+        "category": "JavaScript",
+        "stars": "351",
+        "title": "code - Douban CODE",
+        "url": "https://github.com/douban/code"
+    },
+    {
+        "author": "airbnb",
+        "category": "JavaScript",
+        "stars": "318",
+        "title": "enzyme - JavaScript Testing utilities for React",
+        "url": "https://github.com/airbnb/enzyme"
+    },
+    {
+        "author": "nathancahill",
+        "category": "JavaScript",
+        "stars": "307",
+        "title": "Split.js - Lightweight, unopinionated utility for adjustable split views",
+        "url": "https://github.com/nathancahill/Split.js"
+    },
+    {
+        "author": "oneuijs",
+        "category": "",
+        "stars": "292",
+        "title": "You-Dont-Need-jQuery - You don't need jQuery any more, here is how you can get ride of it.",
+        "url": "https://github.com/oneuijs/You-Dont-Need-jQuery"
+    },
+    {
+        "author": "CSNW",
+        "category": "JavaScript",
+        "stars": "293",
+        "title": "d3.compose - Compose complex, data-driven visualizations from reusable charts and components with d3",
+        "url": "https://github.com/CSNW/d3.compose"
+    }
+]

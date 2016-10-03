@@ -1,0 +1,72 @@
+[
+    {
+        "author": "brillout",
+        "category": "",
+        "stars": "903",
+        "title": "awesome-react-components - Catalog of React components / libraries",
+        "url": "https://github.com/brillout/awesome-react-components"
+    },
+    {
+        "author": "camwiegert",
+        "category": "JavaScript",
+        "stars": "677",
+        "title": "in-view - Get notified when a DOM element enters or exits the viewport. \ud83d\udc40",
+        "url": "https://github.com/camwiegert/in-view"
+    },
+    {
+        "author": "david-gpu",
+        "category": "Python",
+        "stars": "521",
+        "title": "srez - Image super-resolution through deep learning",
+        "url": "https://github.com/david-gpu/srez"
+    },
+    {
+        "author": "thejameskyle",
+        "category": "JavaScript",
+        "stars": "520",
+        "title": "itsy-bitsy-data-structures - \ud83c\udff0 All the things you didn't know you wanted to know about data structures",
+        "url": "https://github.com/thejameskyle/itsy-bitsy-data-structures"
+    },
+    {
+        "author": "HiFaraz",
+        "category": "",
+        "stars": "428",
+        "title": "node-playbook - Get started fast with Node.js",
+        "url": "https://github.com/HiFaraz/node-playbook"
+    },
+    {
+        "author": "dschep",
+        "category": "Python",
+        "stars": "290",
+        "title": "ntfy - A utility for sending notifications, on demand and when commands finish.",
+        "url": "https://github.com/dschep/ntfy"
+    },
+    {
+        "author": "jjdxmashl",
+        "category": "Java",
+        "stars": "247",
+        "title": "jjdxm_ijkplayer - \u57fa\u4e8eijkplayer\u7b80\u5355\u7684UI\u754c\u9762 \u5f53\u524d\u9879\u76ee\u662f\u57fa\u4e8eijkplayer\u9879\u76ee\u8fdb\u884c\u7684\u64ad\u653e\u5668\u754c\u9762UI\u5c01\u88c5\u3002 \u662f\u4e00\u4e2a\u9002\u7528\u4e8e Android \u7684 RTMP \u76f4\u64ad\u63a8\u6d41 SDK\uff0c\u53ef\u9ad8\u5ea6\u5b9a\u5236\u5316\u548c\u4e8c\u6b21\u5f00\u53d1\u3002\u7279\u8272\u662f\u540c\u65f6\u652f\u6301 H.264 \u8f6f\u7f16\uff0f\u786c\u7f16\u548c AAC \u8f6f\u7f16\uff0f\u786c\u7f16\u3002\u4e3b\u8981\u662f\u652f\u6301RIMP\u3001HLS\u3001MP4\u3001M4A\u7b49\u89c6\u9891\u683c\u5f0f\u7684\u64ad\u653e\u3002",
+        "url": "https://github.com/jjdxmashl/jjdxm_ijkplayer"
+    },
+    {
+        "author": "chengdazhi",
+        "category": "Java",
+        "stars": "248",
+        "title": "StyleImageView - Add styles and filters to ImageViews, Views' backgroud, Drawables and Bitmaps, with animation and bitmap output.",
+        "url": "https://github.com/chengdazhi/StyleImageView"
+    },
+    {
+        "author": "huluoyang",
+        "category": "JavaScript",
+        "stars": "244",
+        "title": "freecodecamp.cn - \u6b22\u8fce\u6765\u5230freecodecamp.cn\u4e2d\u6587\u793e\u533a\uff0c\u8d70\u8fc7\u8def\u8fc7\u5343\u4e07\u4e0d\u8981\u9519\u8fc7\uff0c\u5e72\u8d27\u90fd\u5728Wiki\u4e2d\u3002",
+        "url": "https://github.com/huluoyang/freecodecamp.cn"
+    },
+    {
+        "author": "TYVRNET",
+        "category": "PHP",
+        "stars": "211",
+        "title": "SRL - Simple Regex Language",
+        "url": "https://github.com/TYVRNET/SRL"
+    }
+]

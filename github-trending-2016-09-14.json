@@ -1,0 +1,72 @@
+[
+    {
+        "author": "gztchan",
+        "category": "",
+        "stars": "904",
+        "title": "awesome-design - \ud83c\udf8f Best UI/UX Design Resources For Developer & Designer Ever :)",
+        "url": "https://github.com/gztchan/awesome-design"
+    },
+    {
+        "author": "lengstrom",
+        "category": "JavaScript",
+        "stars": "671",
+        "title": "falcon - Chrome extension for full text history search!",
+        "url": "https://github.com/lengstrom/falcon"
+    },
+    {
+        "author": "vim",
+        "category": "C",
+        "stars": "635",
+        "title": "vim - The official Vim repository",
+        "url": "https://github.com/vim/vim"
+    },
+    {
+        "author": "KeepSafe",
+        "category": "Java",
+        "stars": "500",
+        "title": "TapTargetView - An implementation of tap targets from the Material Design guidelines for feature discovery",
+        "url": "https://github.com/KeepSafe/TapTargetView"
+    },
+    {
+        "author": "react-native-community",
+        "category": "JavaScript",
+        "stars": "477",
+        "title": "React-Native-Elements - React Native Elements UI Toolkit",
+        "url": "https://github.com/react-native-community/React-Native-Elements"
+    },
+    {
+        "author": "Easyfood",
+        "category": "JavaScript",
+        "stars": "412",
+        "title": "pageAccelerator - A very light solution to load web pages faster",
+        "url": "https://github.com/Easyfood/pageAccelerator"
+    },
+    {
+        "author": "luciotato",
+        "category": "",
+        "stars": "400",
+        "title": "golang-notes - Notes to understand golang",
+        "url": "https://github.com/luciotato/golang-notes"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "320",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "hustcc",
+        "category": "JavaScript",
+        "stars": "251",
+        "title": "timeago.js - \ud83d\udd57 \u231b timeago.js is a tiny(~1.75kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependency & localization & tiny.",
+        "url": "https://github.com/hustcc/timeago.js"
+    },
+    {
+        "author": "kelseyhightower",
+        "category": "",
+        "stars": "229",
+        "title": "kubernetes-the-hard-way - Bootstrap Kubernetes the hard way on Google Cloud Platform or Amazon EC2. No scripts.",
+        "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "631",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "apex",
+        "category": "Go",
+        "stars": "276",
+        "title": "apex - Minimal AWS Lambda function manager with Go support.",
+        "url": "https://github.com/apex/apex"
+    },
+    {
+        "author": "loverajoel",
+        "category": "JavaScript",
+        "stars": "260",
+        "title": "jstips - This is about one JS tip every day!",
+        "url": "https://github.com/loverajoel/jstips"
+    },
+    {
+        "author": "baidu-research",
+        "category": "Cuda",
+        "stars": "239",
+        "title": "warp-ctc - Fast parallel CTC.",
+        "url": "https://github.com/baidu-research/warp-ctc"
+    },
+    {
+        "author": "dear-github",
+        "category": "",
+        "stars": "246",
+        "title": "dear-github - An open letter to GitHub from the maintainers of open source projects",
+        "url": "https://github.com/dear-github/dear-github"
+    },
+    {
+        "author": "vhf",
+        "category": "",
+        "stars": "170",
+        "title": "free-programming-books - Freely available programming books",
+        "url": "https://github.com/vhf/free-programming-books"
+    },
+    {
+        "author": "braydie",
+        "category": "",
+        "stars": "173",
+        "title": "HowToBeAProgrammer - A guide on how to be a Programmer - originally published by Robert L Read",
+        "url": "https://github.com/braydie/HowToBeAProgrammer"
+    },
+    {
+        "author": "JakeLin",
+        "category": "Swift",
+        "stars": "171",
+        "title": "IBAnimatable - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.",
+        "url": "https://github.com/JakeLin/IBAnimatable"
+    },
+    {
+        "author": "tastejs",
+        "category": "",
+        "stars": "159",
+        "title": "awesome-app-ideas - List of awesome app ideas",
+        "url": "https://github.com/tastejs/awesome-app-ideas"
+    },
+    {
+        "author": "thank-you-github",
+        "category": "",
+        "stars": "103",
+        "title": "thank-you-github - An open letter of gratitude to GitHub",
+        "url": "https://github.com/thank-you-github/thank-you-github"
+    }
+]

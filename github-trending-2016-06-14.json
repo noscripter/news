@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "746",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "git-tips",
+        "category": "JavaScript",
+        "stars": "355",
+        "title": "tips - Most commonly used git tips and tricks.",
+        "url": "https://github.com/git-tips/tips"
+    },
+    {
+        "author": "tianzhuo112",
+        "category": "Objective-C",
+        "stars": "278",
+        "title": "VTMagic - ",
+        "url": "https://github.com/tianzhuo112/VTMagic"
+    },
+    {
+        "author": "abalone0204",
+        "category": "JavaScript",
+        "stars": "281",
+        "title": "Clairvoyance - Make the Taiwan a Better Place to Work",
+        "url": "https://github.com/abalone0204/Clairvoyance"
+    },
+    {
+        "author": "Zomato",
+        "category": "Java",
+        "stars": "266",
+        "title": "AndroidPhotoFilters - AndroidPhotoFilters aims to provide fast, powerful and flexible image processing instrument for creating awesome effects on any image media.",
+        "url": "https://github.com/Zomato/AndroidPhotoFilters"
+    },
+    {
+        "author": "aykamko",
+        "category": "Go",
+        "stars": "265",
+        "title": "tag - Instantly jump to your ag matches.",
+        "url": "https://github.com/aykamko/tag"
+    },
+    {
+        "author": "Haroenv",
+        "category": "JavaScript",
+        "stars": "246",
+        "title": "holmes - Fast and easy searching inside a page",
+        "url": "https://github.com/Haroenv/holmes"
+    },
+    {
+        "author": "jhalterman",
+        "category": "Java",
+        "stars": "222",
+        "title": "failsafe - Simple, sophisticated failure handling",
+        "url": "https://github.com/jhalterman/failsafe"
+    },
+    {
+        "author": "airbnb",
+        "category": "JavaScript",
+        "stars": "213",
+        "title": "hypernova - A service for server-side rendering your JavaScript views",
+        "url": "https://github.com/airbnb/hypernova"
+    },
+    {
+        "author": "aritraroy",
+        "category": "Java",
+        "stars": "194",
+        "title": "PinLockView - A clean, minimal, highly customizable pin lock view",
+        "url": "https://github.com/aritraroy/PinLockView"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "loverajoel",
+        "category": "JavaScript",
+        "stars": "744",
+        "title": "jstips - This is about one JS tip every day!",
+        "url": "https://github.com/loverajoel/jstips"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "684",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "apex",
+        "category": "Go",
+        "stars": "564",
+        "title": "apex - Minimal AWS Lambda function manager with Go support.",
+        "url": "https://github.com/apex/apex"
+    },
+    {
+        "author": "feross",
+        "category": "JavaScript",
+        "stars": "418",
+        "title": "webtorrent - Streaming torrent client for the web",
+        "url": "https://github.com/feross/webtorrent"
+    },
+    {
+        "author": "ben174",
+        "category": "JavaScript",
+        "stars": "402",
+        "title": "git-draw - Allows you to draw in your github heatmap",
+        "url": "https://github.com/ben174/git-draw"
+    },
+    {
+        "author": "vhf",
+        "category": "",
+        "stars": "281",
+        "title": "free-programming-books - Freely available programming books",
+        "url": "https://github.com/vhf/free-programming-books"
+    },
+    {
+        "author": "baidu-research",
+        "category": "Cuda",
+        "stars": "268",
+        "title": "warp-ctc - Fast parallel CTC.",
+        "url": "https://github.com/baidu-research/warp-ctc"
+    },
+    {
+        "author": "samshadwell",
+        "category": "Python",
+        "stars": "281",
+        "title": "TrumpScript - Make Python great again",
+        "url": "https://github.com/samshadwell/TrumpScript"
+    },
+    {
+        "author": "dear-github",
+        "category": "",
+        "stars": "284",
+        "title": "dear-github - An open letter to GitHub from the maintainers of open source projects",
+        "url": "https://github.com/dear-github/dear-github"
+    },
+    {
+        "author": "JakeLin",
+        "category": "Swift",
+        "stars": "255",
+        "title": "IBAnimatable - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.",
+        "url": "https://github.com/JakeLin/IBAnimatable"
+    }
+]

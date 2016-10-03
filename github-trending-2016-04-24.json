@@ -1,0 +1,72 @@
+[
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "682",
+        "title": "HEAD - A list of everything that goes in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "462",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "isocpp",
+        "category": "Makefile",
+        "stars": "222",
+        "title": "CppCoreGuidelines - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+        "url": "https://github.com/isocpp/CppCoreGuidelines"
+    },
+    {
+        "author": "pavelgonchar",
+        "category": "Python",
+        "stars": "217",
+        "title": "colornet - Neural Network to colorize grayscale images",
+        "url": "https://github.com/pavelgonchar/colornet"
+    },
+    {
+        "author": "braydie",
+        "category": "",
+        "stars": "186",
+        "title": "HowToBeAProgrammer - A guide on how to be a Programmer - originally published by Robert L Read",
+        "url": "https://github.com/braydie/HowToBeAProgrammer"
+    },
+    {
+        "author": "dleitee",
+        "category": "JavaScript",
+        "stars": "165",
+        "title": "strman - A Javascript string manipulation library without npm dependences.",
+        "url": "https://github.com/dleitee/strman"
+    },
+    {
+        "author": "medyo",
+        "category": "Java",
+        "stars": "149",
+        "title": "android-about-page - Create an awesome About Page for your Android App in 2 minutes",
+        "url": "https://github.com/medyo/android-about-page"
+    },
+    {
+        "author": "cjcenizal",
+        "category": "CSS",
+        "stars": "120",
+        "title": "flexbox-patterns - Patterns for using flexbox CSS to build awesome UI components.",
+        "url": "https://github.com/cjcenizal/flexbox-patterns"
+    },
+    {
+        "author": "delba",
+        "category": "Swift",
+        "stars": "118",
+        "title": "JASON - Fast JSON parsing for Swift",
+        "url": "https://github.com/delba/JASON"
+    },
+    {
+        "author": "humaan",
+        "category": "CSS",
+        "stars": "107",
+        "title": "Modaal - An accessible dialog window library for all humans.",
+        "url": "https://github.com/humaan/Modaal"
+    }
+]

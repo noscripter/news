@@ -1,0 +1,72 @@
+[
+    {
+        "author": "aymericdamien",
+        "category": "Jupyter Notebook",
+        "stars": "1,205",
+        "title": "TensorFlow-Examples - TensorFlow tutorials and code examples for beginners",
+        "url": "https://github.com/aymericdamien/TensorFlow-Examples"
+    },
+    {
+        "author": "fivethirtyeight",
+        "category": "Jupyter Notebook",
+        "stars": "778",
+        "title": "data - Data and code behind the stories and interactives at FiveThirtyEight",
+        "url": "https://github.com/fivethirtyeight/data"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "736",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "guysoft",
+        "category": "Shell",
+        "stars": "686",
+        "title": "FullPageOS - A raspberrypi distro to display a full page browser on boot",
+        "url": "https://github.com/guysoft/FullPageOS"
+    },
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "364",
+        "title": "HEAD - A list of everything that could go in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    },
+    {
+        "author": "parkjs814",
+        "category": "JavaScript",
+        "stars": "273",
+        "title": "AlgorithmVisualizer - Algorithm Visualizer",
+        "url": "https://github.com/parkjs814/AlgorithmVisualizer"
+    },
+    {
+        "author": "trailbehind",
+        "category": "Python",
+        "stars": "243",
+        "title": "DeepOSM - Train a deep learning net with OpenStreetMap features and satellite imagery.",
+        "url": "https://github.com/trailbehind/DeepOSM"
+    },
+    {
+        "author": "aosabook",
+        "category": "JavaScript",
+        "stars": "225",
+        "title": "500lines - 500 Lines or Less",
+        "url": "https://github.com/aosabook/500lines"
+    },
+    {
+        "author": "fcannizzaro",
+        "category": "Java",
+        "stars": "187",
+        "title": "material-tip - Android Library for prompt tip",
+        "url": "https://github.com/fcannizzaro/material-tip"
+    },
+    {
+        "author": "Morhaus",
+        "category": "JavaScript",
+        "stars": "186",
+        "title": "facebook-sixth-sense - A Chrome extension that lets you know when your friends start writing to you on Facebook",
+        "url": "https://github.com/Morhaus/facebook-sixth-sense"
+    }
+]

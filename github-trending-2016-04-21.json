@@ -1,0 +1,72 @@
+[
+    {
+        "author": "google",
+        "category": "Java",
+        "stars": "767",
+        "title": "agera - Reactive Programming for Android",
+        "url": "https://github.com/google/agera"
+    },
+    {
+        "author": "vurtun",
+        "category": "C",
+        "stars": "710",
+        "title": "nuklear - A small ANSI C gui toolkit",
+        "url": "https://github.com/vurtun/nuklear"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "595",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "TailorDev",
+        "category": "JavaScript",
+        "stars": "453",
+        "title": "monod - Our cool, secure, and offline-first Markdown editor.",
+        "url": "https://github.com/TailorDev/monod"
+    },
+    {
+        "author": "skellock",
+        "category": "JavaScript",
+        "stars": "302",
+        "title": "reactotron - Control, monitor, and instrument your React and React Native apps from the comfort of your TTY.",
+        "url": "https://github.com/skellock/reactotron"
+    },
+    {
+        "author": "schollz",
+        "category": "Go",
+        "stars": "283",
+        "title": "find - High-precision indoor positioning framework for most wifi-enabled devices.",
+        "url": "https://github.com/schollz/find"
+    },
+    {
+        "author": "Junnplus",
+        "category": "",
+        "stars": "272",
+        "title": "awesome-python-books - Directory of Python books",
+        "url": "https://github.com/Junnplus/awesome-python-books"
+    },
+    {
+        "author": "dcos",
+        "category": "Erlang",
+        "stars": "270",
+        "title": "minuteman - A distributed Load Balancer",
+        "url": "https://github.com/dcos/minuteman"
+    },
+    {
+        "author": "kanflo",
+        "category": "Eagle",
+        "stars": "252",
+        "title": "aaduino - An AA sized ISM radio Arduino clone",
+        "url": "https://github.com/kanflo/aaduino"
+    },
+    {
+        "author": "kyleneideck",
+        "category": "C++",
+        "stars": "246",
+        "title": "BackgroundMusic - Background Music, an OS X audio utility",
+        "url": "https://github.com/kyleneideck/BackgroundMusic"
+    }
+]

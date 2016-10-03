@@ -1,0 +1,72 @@
+[
+    {
+        "author": "apple",
+        "category": "C++",
+        "stars": "613",
+        "title": "swift - The Swift Programming Language",
+        "url": "https://github.com/apple/swift"
+    },
+    {
+        "author": "oneuijs",
+        "category": "JavaScript",
+        "stars": "577",
+        "title": "You-Dont-Need-jQuery - You don't need jQuery any more, here is how you can get rid of it.",
+        "url": "https://github.com/oneuijs/You-Dont-Need-jQuery"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "457",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "MaximAbramchuck",
+        "category": "",
+        "stars": "409",
+        "title": "awesome-interviews - A curated awesome list of lists of interview questions. Feel free to contribute!",
+        "url": "https://github.com/MaximAbramchuck/awesome-interviews"
+    },
+    {
+        "author": "zero-db",
+        "category": "Python",
+        "stars": "292",
+        "title": "zerodb - ZeroDB is an end-to-end encrypted database. Data can be stored on untrusted database servers without ever exposing the encryption key. Clients can execute remote queries against the encrypted data without downloading all of it or suffering an excessive performance hit.",
+        "url": "https://github.com/zero-db/zerodb"
+    },
+    {
+        "author": "sdc-alibaba",
+        "category": "JavaScript",
+        "stars": "239",
+        "title": "SUI-Mobile - SUI Mobile (MSUI)\u662f\u7531\u963f\u91cc\u5df4\u5df4\u56fd\u9645UED\u524d\u7aef\u51fa\u54c1\u7684\u79fb\u52a8\u7aefUI\u5e93\uff0c\u8f7b\u91cf\u7cbe\u7f8e",
+        "url": "https://github.com/sdc-alibaba/SUI-Mobile"
+    },
+    {
+        "author": "openalpr",
+        "category": "C++",
+        "stars": "229",
+        "title": "openalpr - Automatic License Plate Recognition library",
+        "url": "https://github.com/openalpr/openalpr"
+    },
+    {
+        "author": "etsy",
+        "category": "PHP",
+        "stars": "227",
+        "title": "phan - Static analyzer for PHP",
+        "url": "https://github.com/etsy/phan"
+    },
+    {
+        "author": "apple",
+        "category": "Swift",
+        "stars": "215",
+        "title": "swift-package-manager - The Package Manager for the Swift Programming Language",
+        "url": "https://github.com/apple/swift-package-manager"
+    },
+    {
+        "author": "codenvy",
+        "category": "Java",
+        "stars": "198",
+        "title": "che - Eclipse Che: High performance developer workspaces, cloud IDE, and plug-ins",
+        "url": "https://github.com/codenvy/che"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "843",
+        "title": "HEAD - A list of everything that goes in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "555",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "humaan",
+        "category": "CSS",
+        "stars": "382",
+        "title": "Modaal - An accessible dialog window library for all humans.",
+        "url": "https://github.com/humaan/Modaal"
+    },
+    {
+        "author": "Yelp",
+        "category": "Python",
+        "stars": "378",
+        "title": "elastalert - Easy & Flexible Alerting With ElasticSearch",
+        "url": "https://github.com/Yelp/elastalert"
+    },
+    {
+        "author": "google",
+        "category": "Java",
+        "stars": "338",
+        "title": "agera - Reactive Programming for Android",
+        "url": "https://github.com/google/agera"
+    },
+    {
+        "author": "graphitemaster",
+        "category": "C",
+        "stars": "303",
+        "title": "moreram - Get more system memory",
+        "url": "https://github.com/graphitemaster/moreram"
+    },
+    {
+        "author": "reverse-shell",
+        "category": "Python",
+        "stars": "245",
+        "title": "routersploit - The Router Exploitation Framework",
+        "url": "https://github.com/reverse-shell/routersploit"
+    },
+    {
+        "author": "shekhargulati",
+        "category": "HTML",
+        "stars": "259",
+        "title": "52-technologies-in-2016 - Let's learn a new technology every week. A new technology blog every Sunday in 2016.",
+        "url": "https://github.com/shekhargulati/52-technologies-in-2016"
+    },
+    {
+        "author": "Vedenin",
+        "category": "Java",
+        "stars": "241",
+        "title": "useful-java-links - A list of useful Java frameworks, libraries, software and hello worlds examples",
+        "url": "https://github.com/Vedenin/useful-java-links"
+    },
+    {
+        "author": "devbridge",
+        "category": "JavaScript",
+        "stars": "246",
+        "title": "Styleguide - ",
+        "url": "https://github.com/devbridge/Styleguide"
+    }
+]

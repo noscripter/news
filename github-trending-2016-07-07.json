@@ -1,0 +1,72 @@
+[
+    {
+        "author": "NamPNQ",
+        "category": "CSS",
+        "stars": "648",
+        "title": "You-Dont-Need-Javascript - Css is powerful, you can do a lot of things without js.",
+        "url": "https://github.com/NamPNQ/You-Dont-Need-Javascript"
+    },
+    {
+        "author": "vhf",
+        "category": "",
+        "stars": "555",
+        "title": "free-programming-books - \ud83d\udcda Freely available programming books",
+        "url": "https://github.com/vhf/free-programming-books"
+    },
+    {
+        "author": "eriksvedang",
+        "category": "C",
+        "stars": "385",
+        "title": "Carp - a statically typed lisp, without a GC, for high performance applications",
+        "url": "https://github.com/eriksvedang/Carp"
+    },
+    {
+        "author": "Moeditor",
+        "category": "JavaScript",
+        "stars": "299",
+        "title": "Moeditor - Your all-purpose markdown editor.",
+        "url": "https://github.com/Moeditor/Moeditor"
+    },
+    {
+        "author": "henryboldi",
+        "category": "JavaScript",
+        "stars": "295",
+        "title": "felony - \ud83d\udd11\ud83d\udd25\ud83d\udcc8 Next Level PGP",
+        "url": "https://github.com/henryboldi/felony"
+    },
+    {
+        "author": "ro31337",
+        "category": "",
+        "stars": "252",
+        "title": "bigoposter - Big-O Complexities / Poster of common algorithms used in Computer Science",
+        "url": "https://github.com/ro31337/bigoposter"
+    },
+    {
+        "author": "SunLiner",
+        "category": "Objective-C",
+        "stars": "211",
+        "title": "MiaowShow - iOS\u89c6\u9891\u76f4\u64ad\u9879\u76ee",
+        "url": "https://github.com/SunLiner/MiaowShow"
+    },
+    {
+        "author": "airbnb",
+        "category": "JavaScript",
+        "stars": "237",
+        "title": "rheostat - Rheostat is a www, mobile, and accessible slider component built with React",
+        "url": "https://github.com/airbnb/rheostat"
+    },
+    {
+        "author": "ChadCSong",
+        "category": "Java",
+        "stars": "210",
+        "title": "ShineButton - This is a UI lib for Android. Effects like shining.",
+        "url": "https://github.com/ChadCSong/ShineButton"
+    },
+    {
+        "author": "coderyi",
+        "category": "Objective-C",
+        "stars": "188",
+        "title": "Eleven - Eleven Player is a simple powerful video player.use ffmpeg.",
+        "url": "https://github.com/coderyi/Eleven"
+    }
+]

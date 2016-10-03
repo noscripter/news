@@ -1,0 +1,72 @@
+[
+    {
+        "author": "pavelgonchar",
+        "category": "Python",
+        "stars": "783",
+        "title": "colornet - Neural Network to colorize grayscale images",
+        "url": "https://github.com/pavelgonchar/colornet"
+    },
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "767",
+        "title": "HEAD - A list of everything that goes in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    },
+    {
+        "author": "TeamStuQ",
+        "category": "HTML",
+        "stars": "559",
+        "title": "skill-map - StuQ \u6280\u80fd\u56fe\u8c31",
+        "url": "https://github.com/TeamStuQ/skill-map"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "541",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "google",
+        "category": "Java",
+        "stars": "459",
+        "title": "agera - Reactive Programming for Android",
+        "url": "https://github.com/google/agera"
+    },
+    {
+        "author": "skellock",
+        "category": "JavaScript",
+        "stars": "460",
+        "title": "reactotron - Control, monitor, and instrument your React and React Native apps from the comfort of your TTY.",
+        "url": "https://github.com/skellock/reactotron"
+    },
+    {
+        "author": "tflearn",
+        "category": "Python",
+        "stars": "385",
+        "title": "tflearn - Deep learning library featuring a higher-level API for TensorFlow.",
+        "url": "https://github.com/tflearn/tflearn"
+    },
+    {
+        "author": "kanflo",
+        "category": "Eagle",
+        "stars": "345",
+        "title": "aaduino - An AA sized ISM radio Arduino clone",
+        "url": "https://github.com/kanflo/aaduino"
+    },
+    {
+        "author": "asLody",
+        "category": "C++",
+        "stars": "332",
+        "title": "TurboDex - fast load dex in memory.",
+        "url": "https://github.com/asLody/TurboDex"
+    },
+    {
+        "author": "vurtun",
+        "category": "C",
+        "stars": "306",
+        "title": "nuklear - A small ANSI C gui toolkit",
+        "url": "https://github.com/vurtun/nuklear"
+    }
+]

@@ -1,0 +1,282 @@
+[
+    
+    {
+        "id" : 241724,
+        "title" : "我觉得我的 idea 很不错，就差一个程序员了。",
+        "url" : "http://www.v2ex.com/t/241724",
+        "content" : "真的。\u000D\u000A\u000D\u000A我的 idea ：\u000D\u000A滴滴叫床（后改名 闹闹）。真人电话叫早服务。\u000D\u000A你只需要通过支付宝支付 1\u002D5 元不等的费用，就会有妹子在指定时间给你打来电话。\u000D\u000A你也可以提供这样的服务，获得零花钱。\u000D\u000A\u000D\u000A就差一个程序员了。\u000D\u000A现在已经有 iOS 、 Android 、 UI 、产品 各*1\u000D\u000A缺：服务端写 api 和外部第三方服务集成的。\u000D\u000A\u000D\u000A现状： iOS 、 Android 已经有可演示 Demo ，设计完毕了。\u000D\u000A原服务端哥们太忙，全国到处飞，有点延误。商量后，重新找一个。\u000D\u000A\u000D\u000A我的 QQ 五五五八 40\u000D\u000A\u000D\u000A\u000D\u000A\u000D\u000A\u000D\u000A\u000D\u000A![]( http://ww4.sinaimg.cn/mw690/61e61569gw1eyr3t5mawkj20fi0r2act.jpg)",
+        "content_rendered" : "\u003Cp\u003E真的。\u003C/p\u003E\u000A\u000A\u003Cp\u003E我的 idea ：\u003Cbr\u003E\u000A滴滴叫床（后改名 闹闹）。真人电话叫早服务。\u003Cbr\u003E\u000A你只需要通过支付宝支付 1\u002D5 元不等的费用，就会有妹子在指定时间给你打来电话。\u003Cbr\u003E\u000A你也可以提供这样的服务，获得零花钱。\u003C/p\u003E\u000A\u000A\u003Cp\u003E就差一个程序员了。\u003Cbr\u003E\u000A现在已经有 iOS 、 Android 、 UI 、产品 各*1\u003Cbr\u003E\u000A缺：服务端写 api 和外部第三方服务集成的。\u003C/p\u003E\u000A\u000A\u003Cp\u003E现状： iOS 、 Android 已经有可演示 Demo ，设计完毕了。\u003Cbr\u003E\u000A原服务端哥们太忙，全国到处飞，有点延误。商量后，重新找一个。\u003C/p\u003E\u000A\u000A\u003Cp\u003E我的 QQ 五五五八 40\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Cimg src\u003D\u0022http://ww4.sinaimg.cn/mw690/61e61569gw1eyr3t5mawkj20fi0r2act.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003C/p\u003E\u000A",
+        "replies" : 106,
+        "member" : {
+            "id" : 9646,
+            "username" : "joby",
+            "tagline" : "帅",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/409b/bd0d/9646_mini.png?m=1335108469",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/409b/bd0d/9646_normal.png?m=1335108469",
+            "avatar_large" : "//cdn.v2ex.co/avatar/409b/bd0d/9646_large.png?m=1335108469"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 10293,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1449482978",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1449482978",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1449482978"
+        },
+        "created" : 1449471418,
+        "last_modified" : 1449471701,
+        "last_touched" : 1449546606
+    },
+    
+    {
+        "id" : 241698,
+        "title" : "一个很赞的网页背景效果 canvas\u002Dnest.js",
+        "url" : "http://www.v2ex.com/t/241698",
+        "content" : "今天在某网站上发现的，看到 github 上没有，就开源出来了。项目地址见： https://github.com/hustcc/canvas\u002Dnest.js \u000D\u000A\u000D\u000A如果代码侵犯了你的版权，请联系我删除，谢谢。\u000D\u000A\u000D\u000A具体效果直接看地址： http://www.atool.org/\u000D\u000A\u000D\u000A![screenshot]( https://raw.githubusercontent.com/hustcc/canvas\u002Dnest.js/master/screenshot.png)\u000D\u000A\u000D\u000A或者直接下载 github 项目，看其中的 demo 。使用和配置非常简单， js 代码也非常少， 2kb 不到。下面的 readme 文件内容。\u000D\u000A\u000D\u000A\u002D\u002D\u002D\u002D\u000D\u000A\u000D\u000A# cavas\u002Dnest.js\u000D\u000AA nest backgroud of website draw on cavas.\u000D\u000A\u000D\u000A\u000D\u000A## feature\u000D\u000A\u000D\u000A \u002D do not depend on jQuery or other javascript framework.\u000D\u000A \u002D very light, only 1.59kb. can be smaller after gzip.\u000D\u000A \u002D so easy to use, even you are not a web developer.\u000D\u000A\u000D\u000A## usage\u000D\u000A\u000D\u000Aso eazy that I do not want write the chapter.\u000D\u000A\u000D\u000A    \u003Cscript type\u003D\u0022text/javascript\u0022 src\u003D\u0022canvas\u002Dnest.js\u0022\u003E\u003C/script\u003E\u000D\u000A\u000D\u000Athen ok!\u000D\u000A\u000D\u000A## preview \u000D\u000A\u000D\u000A1. [OnlineTool: http://www.atool.org/]( http://www.atool.org/)\u000D\u000A\u000D\u000Aif you has used this project, pls let me know, I can add your website on.\u000D\u000A\u000D\u000A## other\u000D\u000A\u000D\u000A \u002D the code is from other website, is not writed by myself. I just do some code on it.\u000D\u000A \u002D I search the github, but can not find the code.\u000D\u000A \u002D if the code is piracy of yours, pls let me know.",
+        "content_rendered" : "\u003Cp\u003E今天在某网站上发现的，看到 github 上没有，就开源出来了。项目地址见： \u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://github.com/hustcc/canvas\u002Dnest.js\u0022\u003Ehttps://github.com/hustcc/canvas\u002Dnest.js\u003C/a\u003E \u003C/p\u003E\u000A\u000A\u003Cp\u003E如果代码侵犯了你的版权，请联系我删除，谢谢。\u003C/p\u003E\u000A\u000A\u003Cp\u003E具体效果直接看地址： \u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://www.atool.org/\u0022\u003Ehttp://www.atool.org/\u003C/a\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Cimg src\u003D\u0022https://raw.githubusercontent.com/hustcc/canvas\u002Dnest.js/master/screenshot.png\u0022 alt\u003D\u0022screenshot\u0022\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E或者直接下载 github 项目，看其中的 demo 。使用和配置非常简单， js 代码也非常少， 2kb 不到。下面的 readme 文件内容。\u003C/p\u003E\u000A\u000A\u003Chr\u003E\u000A\u000A\u003Ch1\u003Ecavas\u002Dnest.js\u003C/h1\u003E\u000A\u000A\u003Cp\u003EA nest backgroud of website draw on cavas.\u003C/p\u003E\u000A\u000A\u003Ch2\u003Efeature\u003C/h2\u003E\u000A\u000A\u003Cul\u003E\u000A\u003Cli\u003Edo not depend on jQuery or other javascript framework.\u003C/li\u003E\u000A\u003Cli\u003Every light, only 1.59kb. can be smaller after gzip.\u003C/li\u003E\u000A\u003Cli\u003Eso easy to use, even you are not a web developer.\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u000A\u003Ch2\u003Eusage\u003C/h2\u003E\u000A\u000A\u003Cp\u003Eso eazy that I do not want write the chapter.\u003C/p\u003E\u000A\u003Cdiv class\u003D\u0022highlight\u0022\u003E\u003Cpre\u003E\u0026lt\u003Bscript type\u003D\u0026quot\u003Btext/javascript\u0026quot\u003B src\u003D\u0026quot\u003Bcanvas\u002Dnest.js\u0026quot\u003B\u0026gt\u003B\u0026lt\u003B/script\u0026gt\u003B\u000A\u003C/pre\u003E\u003C/div\u003E\u000A\u000A\u003Cp\u003Ethen ok!\u003C/p\u003E\u000A\u000A\u003Ch2\u003Epreview\u003C/h2\u003E\u000A\u000A\u003Col\u003E\u000A\u003Cli\u003E\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://www.atool.org/\u0022\u003EOnlineTool: http://www.atool.org/\u003C/a\u003E\u003C/li\u003E\u000A\u003C/ol\u003E\u000A\u000A\u003Cp\u003Eif you has used this project, pls let me know, I can add your website on.\u003C/p\u003E\u000A\u000A\u003Ch2\u003Eother\u003C/h2\u003E\u000A\u000A\u003Cul\u003E\u000A\u003Cli\u003Ethe code is from other website, is not writed by myself. I just do some code on it.\u003C/li\u003E\u000A\u003Cli\u003EI search the github, but can not find the code.\u003C/li\u003E\u000A\u003Cli\u003Eif the code is piracy of yours, pls let me know.\u003C/li\u003E\u000A\u003C/ul\u003E\u000A",
+        "replies" : 78,
+        "member" : {
+            "id" : 50803,
+            "username" : "50vip",
+            "tagline" : "个人喳喳开发者",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/d90c/17e5/50803_mini.png?m=1448438277",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/d90c/17e5/50803_normal.png?m=1448438277",
+            "avatar_large" : "//cdn.v2ex.co/avatar/d90c/17e5/50803_large.png?m=1448438277"
+        },
+        "node" : {
+            "id" : 17,
+            "name" : "create",
+            "title" : "分享创造",
+            "title_alternative" : "Create",
+            "url" : "http://www.v2ex.com/go/create",
+            "topics" : 4716,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/70ef/df2e/17_mini.png?m=1447011026",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/70ef/df2e/17_normal.png?m=1447011026",
+            "avatar_large" : "//cdn.v2ex.co/navatar/70ef/df2e/17_large.png?m=1447011026"
+        },
+        "created" : 1449466197,
+        "last_modified" : 1449466519,
+        "last_touched" : 1449546674
+    },
+    
+    {
+        "id" : 241894,
+        "title" : "我是一个技术合伙人，我到一家公司一个月之后...",
+        "url" : "http://www.v2ex.com/t/241894",
+        "content" : "标题中的「我」当然不是我自己，而是我前公司的 CTO 。这是他今年 9 月份去 深圳的一家叫衣格(现在改名叫穿行) 全名  深圳市衣格科技有限公司。\u000D\u000A\u000D\u000A连接是他在这家公司发生的事情： http://www.zhihu.com/question/38295860/answer/75732778?from\u003Dtimeline\u0026isappinstalled\u003D0\u000D\u000A\u000D\u000A\u000D\u000A目的有 2 ：\u000D\u000A1 ：遇到这样的问题 大家怎么处理？\u000D\u000A2 ：当然是曝光这个公司",
+        "content_rendered" : "标题中的「我」当然不是我自己，而是我前公司的 CTO 。这是他今年 9 月份去 深圳的一家叫衣格(现在改名叫穿行) 全名  深圳市衣格科技有限公司。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E连接是他在这家公司发生的事情： \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://www.zhihu.com/question/38295860/answer/75732778?from\u003Dtimeline\u0026amp\u003Bisappinstalled\u003D0\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.zhihu.com/question/38295860/answer/75732778?from\u003Dtimeline\u0026amp\u003Bisappinstalled\u003D0\u003C/a\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E目的有 2 ：\u000D\u003Cbr /\u003E1 ：遇到这样的问题 大家怎么处理？\u000D\u003Cbr /\u003E2 ：当然是曝光这个公司",
+        "replies" : 65,
+        "member" : {
+            "id" : 60293,
+            "username" : "taoche",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/c560/897e/60293_mini.png?m=1397531057",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/c560/897e/60293_normal.png?m=1397531057",
+            "avatar_large" : "//cdn.v2ex.co/avatar/c560/897e/60293_large.png?m=1397531057"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 10293,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1449482978",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1449482978",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1449482978"
+        },
+        "created" : 1449536300,
+        "last_modified" : 1449536300,
+        "last_touched" : 1449546745
+    },
+    
+    {
+        "id" : 241835,
+        "title" : "刚才看到一个兄弟的帖子说 wps 耍流氓，大伙来扒一扒那些耍流氓的软件呗",
+        "url" : "http://www.v2ex.com/t/241835",
+        "content" : "我先来扒扒 ~~下面是我拉黑名单的软件\u000D\u000A1.金山系所有软件包括 wps 等等\u000D\u000A2.瑞星系所有软件\u000D\u000A3.sogou 系所有软件及被卖给 sogou 之后的 qq 输入法\u000D\u000A4.百度系所有软件\u000D\u000A5.kugou 音乐\u000D\u000A6.驱动精灵\u000D\u000A7.驱动人生系所有软件\u000D\u000A8.360 系所有软件",
+        "content_rendered" : "\u003Cp\u003E我先来扒扒 ~~下面是我拉黑名单的软件\u003Cbr\u003E\u000A1.金山系所有软件包括 wps 等等\u003Cbr\u003E\u000A2.瑞星系所有软件\u003Cbr\u003E\u000A3.sogou 系所有软件及被卖给 sogou 之后的 qq 输入法\u003Cbr\u003E\u000A4.百度系所有软件\u003Cbr\u003E\u000A5.kugou 音乐\u003Cbr\u003E\u000A6.驱动精灵\u003Cbr\u003E\u000A7.驱动人生系所有软件\u003Cbr\u003E\u000A8.360 系所有软件\u003C/p\u003E\u000A",
+        "replies" : 59,
+        "member" : {
+            "id" : 74282,
+            "username" : "wuhanpizi",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/509cc377dde10755c3420089660bb522?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/509cc377dde10755c3420089660bb522?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/509cc377dde10755c3420089660bb522?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 56,
+            "name" : "internet",
+            "title" : "互联网",
+            "title_alternative" : "Internet",
+            "url" : "http://www.v2ex.com/go/internet",
+            "topics" : 717,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/9f61/408e/56_mini.png?m=1448949997",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/9f61/408e/56_normal.png?m=1448949997",
+            "avatar_large" : "//cdn.v2ex.co/navatar/9f61/408e/56_large.png?m=1448949997"
+        },
+        "created" : 1449493894,
+        "last_modified" : 1449501117,
+        "last_touched" : 1449546428
+    },
+    
+    {
+        "id" : 241674,
+        "title" : "大家 macbook 电池电量多少， air 使用两年半下降 60%效能？",
+        "url" : "http://www.v2ex.com/t/241674",
+        "content" : "新电池好像是 6700 还是 6900 。 13 年 4 月买的 2012mid 13 寸 air  目前循环 277 次 全负荷电量仅剩 3100 充满电也是。电池损耗这么厉害吗？系统提示了一年多修理电池了\u000D\u000A 大家本子用久点的的电还剩多少？",
+        "content_rendered" : "\u003Cp\u003E新电池好像是 6700 还是 6900 。 13 年 4 月买的 2012mid 13 寸 air  目前循环 277 次 全负荷电量仅剩 3100 充满电也是。电池损耗这么厉害吗？系统提示了一年多修理电池了\u003Cbr\u003E\u000A 大家本子用久点的的电还剩多少？\u003C/p\u003E\u000A",
+        "replies" : 45,
+        "member" : {
+            "id" : 65521,
+            "username" : "timeface",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/7cda/568a/65521_mini.png?m=1404459684",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/7cda/568a/65521_normal.png?m=1404459684",
+            "avatar_large" : "//cdn.v2ex.co/avatar/7cda/568a/65521_large.png?m=1404459684"
+        },
+        "node" : {
+            "id" : 184,
+            "name" : "apple",
+            "title" : "Apple",
+            "title_alternative" : "Apple",
+            "url" : "http://www.v2ex.com/go/apple",
+            "topics" : 1969,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/6cdd/60ea/184_mini.png?m=1438057435",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/6cdd/60ea/184_normal.png?m=1438057435",
+            "avatar_large" : "//cdn.v2ex.co/navatar/6cdd/60ea/184_large.png?m=1438057435"
+        },
+        "created" : 1449461013,
+        "last_modified" : 1449461013,
+        "last_touched" : 1449545007
+    },
+    
+    {
+        "id" : 241693,
+        "title" : "有没有软件实现 hui 鸽子那种功能的？",
+        "url" : "http://www.v2ex.com/t/241693",
+        "content" : "想在外地别人宿舍中放一台电脑，然后会经常性的断网重播还 IP ，我要能在它不换 IP 期间远程直接连上电脑，有啥软件可以实现呢？ TeamViewer 国内几乎用不了，所以可以排除。。",
+        "content_rendered" : "\u003Cp\u003E想在外地别人宿舍中放一台电脑，然后会经常性的断网重播还 IP ，我要能在它不换 IP 期间远程直接连上电脑，有啥软件可以实现呢？ TeamViewer 国内几乎用不了，所以可以排除。。\u003C/p\u003E\u000A",
+        "replies" : 45,
+        "member" : {
+            "id" : 31787,
+            "username" : "soeeeeee",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/ccfc/a213/31787_mini.png?m=1423033210",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/ccfc/a213/31787_normal.png?m=1423033210",
+            "avatar_large" : "//cdn.v2ex.co/avatar/ccfc/a213/31787_large.png?m=1423033210"
+        },
+        "node" : {
+            "id" : 108,
+            "name" : "bb",
+            "title" : "宽带症候群",
+            "title_alternative" : "Broadband Symptom Complex",
+            "url" : "http://www.v2ex.com/go/bb",
+            "topics" : 1101,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/a3c6/5c29/108_mini.png?m=1441773183",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/a3c6/5c29/108_normal.png?m=1441773183",
+            "avatar_large" : "//cdn.v2ex.co/navatar/a3c6/5c29/108_large.png?m=1441773183"
+        },
+        "created" : 1449465485,
+        "last_modified" : 1449465485,
+        "last_touched" : 1449546265
+    },
+    
+    {
+        "id" : 241840,
+        "title" : "你们对即将开始的 2016 年有什么新展望吗？",
+        "url" : "http://www.v2ex.com/t/241840",
+        "content" : "\u002D\u000D\u000A\u000D\u000A [一句话评价 2015 年传送门： http://v2ex.com/t/241584?p\u003D1 ] \u000D\u000A\u000D\u000A2015 年还有不到 30 天就结束啦，\u000D\u000A时间过的很快对不对？\u000D\u000A\u000D\u000A所以你们对于新的一年有没有什么想说的话呢？\u000D\u000A有没有实现年初许下的愿望？\u000D\u000A有没有什么话想要托付给 2016 年？\u000D\u000A\u000D\u000A\u002D",
+        "content_rendered" : "\u002D\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E [一句话评价 2015 年传送门： \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://v2ex.com/t/241584?p\u003D1\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://v2ex.com/t/241584?p\u003D1\u003C/a\u003E ] \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E2015 年还有不到 30 天就结束啦，\u000D\u003Cbr /\u003E时间过的很快对不对？\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E所以你们对于新的一年有没有什么想说的话呢？\u000D\u003Cbr /\u003E有没有实现年初许下的愿望？\u000D\u003Cbr /\u003E有没有什么话想要托付给 2016 年？\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u002D",
+        "replies" : 45,
+        "member" : {
+            "id" : 127840,
+            "username" : "wanhuiming",
+            "tagline" : "做错要承认，挨打要站稳",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/3111/4919/127840_mini.png?m=1439973011",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/3111/4919/127840_normal.png?m=1439973011",
+            "avatar_large" : "//cdn.v2ex.co/avatar/3111/4919/127840_large.png?m=1439973011"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 60950,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1448889637",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1448889637",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1448889637"
+        },
+        "created" : 1449494583,
+        "last_modified" : 1449494583,
+        "last_touched" : 1449546766
+    },
+    
+    {
+        "id" : 241766,
+        "title" : "春运火车票抢票软件推荐（亲测已购票）",
+        "url" : "http://www.v2ex.com/t/241766",
+        "content" : "事！先！申！明！绝！对！不！是！广！告！，今天下午 15 点 20 分突然系统弹出来一个框，然后没抱希望输入 BT 的验证码，噔的一下居然出票了，兴奋之余给各位分享一下，不过我感觉抢票这东西真是看人品的，和软件无太大关系。\u000D\u000A12306 助手，这几年一直用这个在抢票，靠谱，免费软件， 只有 windows 端。\u000D\u000Ahttp://www.fishlee.net/soft/12306/\u000D\u000A放一张新鲜的成功截图，希望大伙能早日抢到回家的票。\u000D\u000APS:貌似这个还有一个求助的功能，选择好日期车次乘车人啥的，然后软件会生成一个加密的 MD5 嘛发布到论坛中，热心人看到了帮你抢票，并且还有一定的权限设置，具体没看，大伙可以到论坛看看。\u000D\u000Ahttp://i12.tietuku.com/23fff97a9ec90a4a.jpg",
+        "content_rendered" : "事！先！申！明！绝！对！不！是！广！告！，今天下午 15 点 20 分突然系统弹出来一个框，然后没抱希望输入 BT 的验证码，噔的一下居然出票了，兴奋之余给各位分享一下，不过我感觉抢票这东西真是看人品的，和软件无太大关系。\u000D\u003Cbr /\u003E12306 助手，这几年一直用这个在抢票，靠谱，免费软件， 只有 windows 端。\u000D\u003Cbr /\u003E\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://www.fishlee.net/soft/12306/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.fishlee.net/soft/12306/\u003C/a\u003E\u000D\u003Cbr /\u003E放一张新鲜的成功截图，希望大伙能早日抢到回家的票。\u000D\u003Cbr /\u003EPS:貌似这个还有一个求助的功能，选择好日期车次乘车人啥的，然后软件会生成一个加密的 MD5 嘛发布到论坛中，热心人看到了帮你抢票，并且还有一定的权限设置，具体没看，大伙可以到论坛看看。\u000D\u003Cbr /\u003E\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://i12.tietuku.com/23fff97a9ec90a4a.jpg\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://i12.tietuku.com/23fff97a9ec90a4a.jpg\u003C/a\u003E",
+        "replies" : 39,
+        "member" : {
+            "id" : 94584,
+            "username" : "futurejunjie",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/a2524dfdabb928cb0ff581e404d4e882?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/a2524dfdabb928cb0ff581e404d4e882?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/a2524dfdabb928cb0ff581e404d4e882?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 16,
+            "name" : "share",
+            "title" : "分享发现",
+            "title_alternative" : "Share",
+            "url" : "http://www.v2ex.com/go/share",
+            "topics" : 17562,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c74d/97b0/16_mini.png?m=1448889669",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c74d/97b0/16_normal.png?m=1448889669",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c74d/97b0/16_large.png?m=1448889669"
+        },
+        "created" : 1449477616,
+        "last_modified" : 1449477616,
+        "last_touched" : 1449516457
+    },
+    
+    {
+        "id" : 241720,
+        "title" : "请大神们推荐一些关于 php 网络爬虫的书",
+        "url" : "http://www.v2ex.com/t/241720",
+        "content" : "小弟的公司需要我去研究爬虫，但是网上的资料太过零散，买了一本《 WEBBOTS 、 SPIDERS 和 SCREEN SCRAPERS 技术解析与应用实践》,也从官网下载了这本书的一些 demo ，但是不知道是什么原因，一些代码运行不起来，也没有报错，也因为是中文版，所以翻译的一些地方看的不是很明白，请大神们帮忙推荐几本最好是 php 的书，小弟不会 python ，还请各位大神帮忙 推荐一些纯 PHP ，或者 php+python 入门的这些爬虫书籍，谢谢",
+        "content_rendered" : "\u003Cp\u003E小弟的公司需要我去研究爬虫，但是网上的资料太过零散，买了一本《 WEBBOTS 、 SPIDERS 和 SCREEN SCRAPERS 技术解析与应用实践》,也从官网下载了这本书的一些 demo ，但是不知道是什么原因，一些代码运行不起来，也没有报错，也因为是中文版，所以翻译的一些地方看的不是很明白，请大神们帮忙推荐几本最好是 php 的书，小弟不会 python ，还请各位大神帮忙 推荐一些纯 PHP ，或者 php+python 入门的这些爬虫书籍，谢谢\u003C/p\u003E\u000A",
+        "replies" : 37,
+        "member" : {
+            "id" : 146864,
+            "username" : "theKingOfTerrors",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/6245/dff7/146864_mini.png?m=1447322787",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/6245/dff7/146864_normal.png?m=1447322787",
+            "avatar_large" : "//cdn.v2ex.co/avatar/6245/dff7/146864_large.png?m=1447322787"
+        },
+        "node" : {
+            "id" : 62,
+            "name" : "php",
+            "title" : "PHP",
+            "title_alternative" : "PHP",
+            "url" : "http://www.v2ex.com/go/php",
+            "topics" : 1599,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/44f6/83a8/62_mini.png?m=1449131035",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/44f6/83a8/62_normal.png?m=1449131035",
+            "avatar_large" : "//cdn.v2ex.co/navatar/44f6/83a8/62_large.png?m=1449131035"
+        },
+        "created" : 1449471107,
+        "last_modified" : 1449471107,
+        "last_touched" : 1449519206
+    }
+    
+]

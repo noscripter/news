@@ -1,0 +1,72 @@
+[
+    {
+        "author": "PokemonGoMap",
+        "category": "Python",
+        "stars": "464",
+        "title": "PokemonGo-Map - \ud83c\udf0f Live visualization of all the pokemon in your area... and more!",
+        "url": "https://github.com/PokemonGoMap/PokemonGo-Map"
+    },
+    {
+        "author": "keyphact",
+        "category": "Protocol Buffer",
+        "stars": "435",
+        "title": "pgoapi - Updated PokemonGO API, with lots of love from the Team Unknown6 <3",
+        "url": "https://github.com/keyphact/pgoapi"
+    },
+    {
+        "author": "irfansharif",
+        "category": "Go",
+        "stars": "282",
+        "title": "cfilter - Cuckoo Filter implementation in Go, better than Bloom Filters",
+        "url": "https://github.com/irfansharif/cfilter"
+    },
+    {
+        "author": "NECROBOTIO",
+        "category": "C#",
+        "stars": "200",
+        "title": "NecroBot - a Pokemon Go Bot. -> https://discord.gg/VXKxNFr",
+        "url": "https://github.com/NECROBOTIO/NecroBot"
+    },
+    {
+        "author": "tdebatty",
+        "category": "Java",
+        "stars": "254",
+        "title": "java-string-similarity - Implementation of various string similarity and distance algorithms: Levenshtein, Jaro-winkler, n-Gram, Q-Gram, Jaccard index, Longest Common Subsequence edit distance, cosine similarity ...",
+        "url": "https://github.com/tdebatty/java-string-similarity"
+    },
+    {
+        "author": "commaai",
+        "category": "Python",
+        "stars": "215",
+        "title": "research - comma.ai for the people to experiment with",
+        "url": "https://github.com/commaai/research"
+    },
+    {
+        "author": "sourcegraph",
+        "category": "Go",
+        "stars": "193",
+        "title": "checkup - Distributed, lock-free, self-hosted health checks and status pages",
+        "url": "https://github.com/sourcegraph/checkup"
+    },
+    {
+        "author": "PokemonGoF",
+        "category": "Python",
+        "stars": "153",
+        "title": "PokemonGo-Bot - The Pokemon Go Bot, baking with community.",
+        "url": "https://github.com/PokemonGoF/PokemonGo-Bot"
+    },
+    {
+        "author": "fchollet",
+        "category": "Python",
+        "stars": "191",
+        "title": "deep-learning-models - Keras code and weights files for popular deep learning models.",
+        "url": "https://github.com/fchollet/deep-learning-models"
+    },
+    {
+        "author": "ramswaroop",
+        "category": "Java",
+        "stars": "166",
+        "title": "botkit - Make Slack, Facebook and Twitter Bots in Java in minutes.",
+        "url": "https://github.com/ramswaroop/botkit"
+    }
+]

@@ -1,0 +1,282 @@
+[
+    
+    {
+        "id" : 259779,
+        "title" : "写一句话在这里，下一个 2 月 29 号来看",
+        "url" : "http://www.v2ex.com/t/259779",
+        "content" : "今天是 2 月 29 日，下次就要 2020 年了。\u000D\u000A上一个 2 月 29 日你在干嘛，\u000D\u000A今天你在干嘛，\u000D\u000A给自己写一句话， 2020 年 2 月 29 日回来看看。",
+        "content_rendered" : "今天是 2 月 29 日，下次就要 2020 年了。\u000D\u003Cbr /\u003E上一个 2 月 29 日你在干嘛，\u000D\u003Cbr /\u003E今天你在干嘛，\u000D\u003Cbr /\u003E给自己写一句话， 2020 年 2 月 29 日回来看看。",
+        "replies" : 350,
+        "member" : {
+            "id" : 143564,
+            "username" : "billion",
+            "tagline" : "给时光以生命。",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/276e/3dd4/143564_mini.png?m=1445385546",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/276e/3dd4/143564_normal.png?m=1445385546",
+            "avatar_large" : "//cdn.v2ex.co/avatar/276e/3dd4/143564_large.png?m=1445385546"
+        },
+        "node" : {
+            "id" : 519,
+            "name" : "ideas",
+            "title" : "奇思妙想",
+            "title_alternative" : "Ideas",
+            "url" : "http://www.v2ex.com/go/ideas",
+            "topics" : 1722,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/6353/8fe6/519_mini.png?m=1424694533",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/6353/8fe6/519_normal.png?m=1424694533",
+            "avatar_large" : "//cdn.v2ex.co/navatar/6353/8fe6/519_large.png?m=1424694533"
+        },
+        "created" : 1456710276,
+        "last_modified" : 1456710276,
+        "last_touched" : 1456763138
+    },
+    
+    {
+        "id" : 259925,
+        "title" : "我觉得应该是转行了，朋友连个支付宝好友都不肯加我",
+        "url" : "http://www.v2ex.com/t/259925",
+        "content" : "吐个槽顺便求意见建议。。。\u000D\u000A\u000D\u000A这里是安全工程师一个，最近被朋友吐槽的厉害。\u000D\u000A\u000D\u000A加个支付宝好友都不肯加我，硬说我给他发个消息他的钱就会没有了。。。\u000D\u000A卖个电脑大家都觉得我会放固件马没人要。。。\u000D\u000A朋友博客给我看下午就被黑了就说是我干的。。。。\u000D\u000A\u000D\u000A我觉得不能继续这样下去了，求意见，搞 Python 还是 Rust ?\u000D\u000A都需要哪些技能？",
+        "content_rendered" : "吐个槽顺便求意见建议。。。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E这里是安全工程师一个，最近被朋友吐槽的厉害。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E加个支付宝好友都不肯加我，硬说我给他发个消息他的钱就会没有了。。。\u000D\u003Cbr /\u003E卖个电脑大家都觉得我会放固件马没人要。。。\u000D\u003Cbr /\u003E朋友博客给我看下午就被黑了就说是我干的。。。。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E我觉得不能继续这样下去了，求意见，搞 Python 还是 Rust ?\u000D\u003Cbr /\u003E都需要哪些技能？",
+        "replies" : 89,
+        "member" : {
+            "id" : 126183,
+            "username" : "Misakiye",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/5bde/60cd/126183_mini.png?m=1438752435",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/5bde/60cd/126183_normal.png?m=1438752435",
+            "avatar_large" : "//cdn.v2ex.co/avatar/5bde/60cd/126183_large.png?m=1438752435"
+        },
+        "node" : {
+            "id" : 320,
+            "name" : "wtf",
+            "title" : "不靠谱茶话会",
+            "title_alternative" : "WTF",
+            "url" : "http://www.v2ex.com/go/wtf",
+            "topics" : 300,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/3207/2254/320_mini.png?m=1435210420",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/3207/2254/320_normal.png?m=1435210420",
+            "avatar_large" : "//cdn.v2ex.co/navatar/3207/2254/320_large.png?m=1435210420"
+        },
+        "created" : 1456732362,
+        "last_modified" : 1456738123,
+        "last_touched" : 1456765032
+    },
+    
+    {
+        "id" : 259754,
+        "title" : "你见过 Web 爬虫, 可是你见过 P2P 爬虫吗?",
+        "url" : "http://www.v2ex.com/t/259754",
+        "content" : "网络爬虫爱好者为了爬取视频, 图片, 文档, 软件, 可能只想到写一个 Web 爬虫, 从各大网站爬取. 但是你知道吗? 这个世界上, 还有 DHT 协议, BitTorrent 协议. \u000D\u000A\u000D\u000A想想看, 全世界每天有那么多人通过 BT 种子 \u0026 磁力链接下载资源(有你懂滴的资源), 如果写个爬虫, 从 DHT 网络里\u0022监听\u0022人们正在下载的资源, 然后把这个资源的种子信息给下载并保存下来. 打造成属于自己的**海盗湾**! \u000D\u000A\u000D\u000A这几天, 我用 Node.js 重写了我去年用 Python 写出的 DHT 爬虫 + BT 客户端 \u003D P2P 爬虫. 为什么用 Node.js 重写呢? 除了我闲得蛋疼外, 还有个原因是 Node.js 在这个 Network IO 操作频繁的项目上, 性能非常非常牛逼, 占用也非常少!  不过代码难写倒是真的. 我花了好多天才重写出来.\u000D\u000A \u000D\u000A\u000D\u000A**爬虫运行演示视频:** [http://v.youku.com/v_show/id_XMTQ4NTIzMDU2MA\u003D\u003D.html]( http://v.youku.com/v_show/id_XMTQ4NTIzMDU2MA\u003D\u003D.html)\u000D\u000A\u000D\u000A默认参数下, 在最便宜的日本区 Vultr VPS 运行 24 小时, 可”监听\u0022到 50 万 个 BT 种子信息. 我那个 Python 版的爬虫(只开源一部分), 已经爬了 1400 万种子信息, 连续运行了一年多.\u000D\u000A\u000D\u000A我平常下载资源, 都是从我私人种子数据库里搜索, 然后拿磁力链接去下载. 比如搜索引擎找不到的新电影, 我都能从我数据库找到. \u000D\u000A\u000D\u000A**代码在这里:  [https://github.com/Fuck\u002DYou\u002DGFW/p2pspider]( https://github.com/Fuck\u002DYou\u002DGFW/p2pspider)**\u000D\u000A\u000D\u000A**求 Star !**\u000D\u000A\u000D\u000A如果你对此也有研究, 建议你看看 README.md, 列有这个项目如何发展的计划. 如果你对此感兴趣, 请 fork 它, 贡献你的智慧. \u000D\u000A\u000D\u000A如果你对 Node.js 比较熟练, 也欢迎你重构我的代码, 我对 Node.js 不是很熟, 代码写得不是很好.\u000D\u000A\u000D\u000A**Star 到 1000 的时候, 我会写个文章, 给感兴趣但看不懂相关协议的人讲讲原理, 让每个人都可以写属于自己的 P2P 爬虫建立私人海盗湾. 包教会!**\u000D\u000A\u000D\u000A如果有兴趣, 可加 QQ 群即时交流: **145234507**  (不用微信群是因为很蛋疼)\u000D\u000A\u000D\u000A@vitovan @iugo  (这就是我说的爬虫项目)",
+        "content_rendered" : "\u003Cp\u003E网络爬虫爱好者为了爬取视频, 图片, 文档, 软件, 可能只想到写一个 Web 爬虫, 从各大网站爬取. 但是你知道吗? 这个世界上, 还有 DHT 协议, BitTorrent 协议. \u003C/p\u003E\u000A\u000A\u003Cp\u003E想想看, 全世界每天有那么多人通过 BT 种子 \u0026amp\u003B 磁力链接下载资源(有你懂滴的资源), 如果写个爬虫, 从 DHT 网络里\u0026quot\u003B监听\u0026quot\u003B人们正在下载的资源, 然后把这个资源的种子信息给下载并保存下来. 打造成属于自己的\u003Cstrong\u003E海盗湾\u003C/strong\u003E! \u003C/p\u003E\u000A\u000A\u003Cp\u003E这几天, 我用 Node.js 重写了我去年用 Python 写出的 DHT 爬虫 + BT 客户端 \u003D P2P 爬虫. 为什么用 Node.js 重写呢? 除了我闲得蛋疼外, 还有个原因是 Node.js 在这个 Network IO 操作频繁的项目上, 性能非常非常牛逼, 占用也非常少!  不过代码难写倒是真的. 我花了好多天才重写出来.\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Cstrong\u003E爬虫运行演示视频:\u003C/strong\u003E \u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://v.youku.com/v_show/id_XMTQ4NTIzMDU2MA\u003D\u003D.html\u0022\u003Ehttp://v.youku.com/v_show/id_XMTQ4NTIzMDU2MA\u003D\u003D.html\u003C/a\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E默认参数下, 在最便宜的日本区 Vultr VPS 运行 24 小时, 可”监听\u0026quot\u003B到 50 万 个 BT 种子信息. 我那个 Python 版的爬虫(只开源一部分), 已经爬了 1400 万种子信息, 连续运行了一年多.\u003C/p\u003E\u000A\u000A\u003Cp\u003E我平常下载资源, 都是从我私人种子数据库里搜索, 然后拿磁力链接去下载. 比如搜索引擎找不到的新电影, 我都能从我数据库找到. \u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Cstrong\u003E代码在这里:  \u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://github.com/Fuck\u002DYou\u002DGFW/p2pspider\u0022\u003Ehttps://github.com/Fuck\u002DYou\u002DGFW/p2pspider\u003C/a\u003E\u003C/strong\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Cstrong\u003E求 Star !\u003C/strong\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E如果你对此也有研究, 建议你看看 README.md, 列有这个项目如何发展的计划. 如果你对此感兴趣, 请 fork 它, 贡献你的智慧. \u003C/p\u003E\u000A\u000A\u003Cp\u003E如果你对 Node.js 比较熟练, 也欢迎你重构我的代码, 我对 Node.js 不是很熟, 代码写得不是很好.\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Cstrong\u003EStar 到 1000 的时候, 我会写个文章, 给感兴趣但看不懂相关协议的人讲讲原理, 让每个人都可以写属于自己的 P2P 爬虫建立私人海盗湾. 包教会!\u003C/strong\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E如果有兴趣, 可加 QQ 群即时交流: \u003Cstrong\u003E145234507\u003C/strong\u003E  (不用微信群是因为很蛋疼)\u003C/p\u003E\u000A\u000A\u003Cp\u003E@vitovan @iugo  (这就是我说的爬虫项目)\u003C/p\u003E\u000A",
+        "replies" : 79,
+        "member" : {
+            "id" : 158446,
+            "username" : "CrazySpiderMan",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/23b8/260f/158446_mini.png?m=1456696814",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/23b8/260f/158446_normal.png?m=1456696814",
+            "avatar_large" : "//cdn.v2ex.co/avatar/23b8/260f/158446_large.png?m=1456696814"
+        },
+        "node" : {
+            "id" : 17,
+            "name" : "create",
+            "title" : "分享创造",
+            "title_alternative" : "Create",
+            "url" : "http://www.v2ex.com/go/create",
+            "topics" : 5119,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/70ef/df2e/17_mini.png?m=1454545306",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/70ef/df2e/17_normal.png?m=1454545306",
+            "avatar_large" : "//cdn.v2ex.co/navatar/70ef/df2e/17_large.png?m=1454545306"
+        },
+        "created" : 1456697342,
+        "last_modified" : 1456697886,
+        "last_touched" : 1456753456
+    },
+    
+    {
+        "id" : 259863,
+        "title" : "需要网易春招和实习内推码的喊一声",
+        "url" : "http://www.v2ex.com/t/259863",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 75,
+        "member" : {
+            "id" : 39170,
+            "username" : "Akasha",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/325f/53e3/39170_mini.png?m=1383965829",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/325f/53e3/39170_normal.png?m=1383965829",
+            "avatar_large" : "//cdn.v2ex.co/avatar/325f/53e3/39170_large.png?m=1383965829"
+        },
+        "node" : {
+            "id" : 43,
+            "name" : "jobs",
+            "title" : "酷工作",
+            "title_alternative" : "Jobs",
+            "url" : "http://www.v2ex.com/go/jobs",
+            "topics" : 14201,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/17e6/2166/43_mini.png?m=1456115322",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/17e6/2166/43_normal.png?m=1456115322",
+            "avatar_large" : "//cdn.v2ex.co/navatar/17e6/2166/43_large.png?m=1456115322"
+        },
+        "created" : 1456722994,
+        "last_modified" : 1456722994,
+        "last_touched" : 1456762449
+    },
+    
+    {
+        "id" : 259942,
+        "title" : "[真实] 有一个程序员男朋友，爱情是哪样的？",
+        "url" : "http://www.v2ex.com/t/259942",
+        "content" : "前几天看了一个视频，视频的名字叫做“愿所有的姑娘都可以嫁给爱情”。我承认作为一个有点小伤感、心思又细腻的小女生，我被这个视频触动了。如果是之前我想，我会大哭一场，然后感叹下这样的爱情为什么我没有，老天为什么不公平。然而现在的我，只是沉默不语，眼角却是温柔的眼泪……\u000D\u000A我和我的他是经我的好闺蜜的老公介绍认识的，我们四个人在一起吃了顿见面饭，然后一晚上吃饭都是我们三个人在聊天，他只是偶尔说两句话。当时我心里的感觉就是典型的 IT 男，程序员，沉默，闷……然而谁也没有想到这样的一个男生，却在以后成为了我除了父母，最坚实的依靠。\u000D\u000A我们也没有太多的浪漫故事，也没有什么不同，也许跟我的王子童话梦很不同，但是我不后悔，反而很开心，我想这就是对的人，你所有的规则，所有的条条框框都只是一个形式而已。 \u000D\u000A我的他作为一名程序员，跟大多数的程序员一样，忙于工作，经常加班，所以没时间陪我成为了家常便饭，不得不承认，我是个蛮小女生的性格，喜欢两个人腻在一起，刚开始也会经常因为这个闹别扭，那时只是换来的沉默和根本不会哄我带来我的更加不高兴。\u000D\u000A其实我们关系真正越来越亲密是在他过生日之后，那天他的生日，虽然我们经常闹矛盾，但是还是想要给他过个难忘的生日，万一以后真的分手了呢？\u000D\u000A当时就送了他这个机械键盘……其实作为一个文科生的我，很不能理解他为什么会这么喜欢这个礼物，不过不管怎么样，只要他开心就好了 O(∩_∩)O\u000D\u000A\u000D\u000A生日的第二天早上，我出发去上班，刚到家门口，一个熟悉的背影，出现在我面前，当时说实话，没有惊喜，只是稍微有些被吓到，因为他离我住的地方有 2 个小时的路程。 \u000D\u000A第一句话，还是像往常一样，我先开口，“你怎么在这里？”\u000D\u000A他没有直接回答我的问题，只是递给我了一堆早饭，有 KFC 的油条、粥，还有星巴克的美式和蛋糕，然后还有路边早点摊买的包子……“那个，那个我也不知道该买什么早点，然后就知道你这些都爱吃，然后我就都买了……” \u000D\u000A当时我内心的感觉就是觉得很幸福，可能没有浪漫，可能没有甜言蜜语，但是却那么实实在在，觉得幸福就像是真的可以抓得住一样。\u000D\u000A那天的惊喜，我之后也一直想要问他，但是又害怕他沉默不爱说话的性格，让本来高兴的事情变得不高兴，所以我保持了沉默，只是享受这份简单的幸福就好。 \u000D\u000A从那之后，我也慢慢觉得他不是不关心我，也不是心思总放在工作，其实我对于他真的很重要。 \u000D\u000A以后的一段时间内，我开始去了解他，说来也奇怪，交往了半年，我才发现我从没有真正去了解过他，然后我开始了一项计划：开始学习 php \u000D\u000A其实一开始学习这个只是为了能够跟他有更多的共同语言，能够更多地了解他，直到最后我才知道，这些都不是主要的，主要的是我找到了一种爱他最好的方式。当他忙于敲代码，我就会自己学习编程，一边学一边想象着他学这些的时候的神情和状态…… \u000D\u000A一年过去了，虽然我没有完全学会 php ，但至少让我学会了一个更重要的道理：让一个爱好或者事情去寄托我爱你的心情。\u000D\u000A也就是在这段时间里，我变得更加理解他，不会因为他的忙碌而生气，不会因为他的不陪伴而争吵，更不会因为他的不回信就认为他不爱我了。 \u000D\u000A就在今年的我的生日会，他跟我说了一段我当时感动落泪的话：\u000D\u000A一直以来，你对我的理解和支持，都是我最大的动力，我不善于表达，总是忙着工作，没时间陪你，但是你都不知道每当我工作累的时候都会看看桌面你的照片，然后继续投入到工作，因为我只是想让我对你的爱能够持续更久，结婚才能够让我一直能够保护你。我努力工作，只是因为，在我这，我不允许你不幸福\u000D\u000A顺便感兴趣的朋友也来关注我们的程序员之家吧 qq 群 220103079",
+        "content_rendered" : "\u003Cp\u003E前几天看了一个视频，视频的名字叫做“愿所有的姑娘都可以嫁给爱情”。我承认作为一个有点小伤感、心思又细腻的小女生，我被这个视频触动了。如果是之前我想，我会大哭一场，然后感叹下这样的爱情为什么我没有，老天为什么不公平。然而现在的我，只是沉默不语，眼角却是温柔的眼泪……\u003Cbr\u003E\u000A我和我的他是经我的好闺蜜的老公介绍认识的，我们四个人在一起吃了顿见面饭，然后一晚上吃饭都是我们三个人在聊天，他只是偶尔说两句话。当时我心里的感觉就是典型的 IT 男，程序员，沉默，闷……然而谁也没有想到这样的一个男生，却在以后成为了我除了父母，最坚实的依靠。\u003Cbr\u003E\u000A我们也没有太多的浪漫故事，也没有什么不同，也许跟我的王子童话梦很不同，但是我不后悔，反而很开心，我想这就是对的人，你所有的规则，所有的条条框框都只是一个形式而已。 \u003Cbr\u003E\u000A我的他作为一名程序员，跟大多数的程序员一样，忙于工作，经常加班，所以没时间陪我成为了家常便饭，不得不承认，我是个蛮小女生的性格，喜欢两个人腻在一起，刚开始也会经常因为这个闹别扭，那时只是换来的沉默和根本不会哄我带来我的更加不高兴。\u003Cbr\u003E\u000A其实我们关系真正越来越亲密是在他过生日之后，那天他的生日，虽然我们经常闹矛盾，但是还是想要给他过个难忘的生日，万一以后真的分手了呢？\u003Cbr\u003E\u000A当时就送了他这个机械键盘……其实作为一个文科生的我，很不能理解他为什么会这么喜欢这个礼物，不过不管怎么样，只要他开心就好了 O(∩_∩)O\u003C/p\u003E\u000A\u000A\u003Cp\u003E生日的第二天早上，我出发去上班，刚到家门口，一个熟悉的背影，出现在我面前，当时说实话，没有惊喜，只是稍微有些被吓到，因为他离我住的地方有 2 个小时的路程。 \u003Cbr\u003E\u000A第一句话，还是像往常一样，我先开口，“你怎么在这里？”\u003Cbr\u003E\u000A他没有直接回答我的问题，只是递给我了一堆早饭，有 KFC 的油条、粥，还有星巴克的美式和蛋糕，然后还有路边早点摊买的包子……“那个，那个我也不知道该买什么早点，然后就知道你这些都爱吃，然后我就都买了……” \u003Cbr\u003E\u000A当时我内心的感觉就是觉得很幸福，可能没有浪漫，可能没有甜言蜜语，但是却那么实实在在，觉得幸福就像是真的可以抓得住一样。\u003Cbr\u003E\u000A那天的惊喜，我之后也一直想要问他，但是又害怕他沉默不爱说话的性格，让本来高兴的事情变得不高兴，所以我保持了沉默，只是享受这份简单的幸福就好。 \u003Cbr\u003E\u000A从那之后，我也慢慢觉得他不是不关心我，也不是心思总放在工作，其实我对于他真的很重要。 \u003Cbr\u003E\u000A以后的一段时间内，我开始去了解他，说来也奇怪，交往了半年，我才发现我从没有真正去了解过他，然后我开始了一项计划：开始学习 php \u003Cbr\u003E\u000A其实一开始学习这个只是为了能够跟他有更多的共同语言，能够更多地了解他，直到最后我才知道，这些都不是主要的，主要的是我找到了一种爱他最好的方式。当他忙于敲代码，我就会自己学习编程，一边学一边想象着他学这些的时候的神情和状态…… \u003Cbr\u003E\u000A一年过去了，虽然我没有完全学会 php ，但至少让我学会了一个更重要的道理：让一个爱好或者事情去寄托我爱你的心情。\u003Cbr\u003E\u000A也就是在这段时间里，我变得更加理解他，不会因为他的忙碌而生气，不会因为他的不陪伴而争吵，更不会因为他的不回信就认为他不爱我了。 \u003Cbr\u003E\u000A就在今年的我的生日会，他跟我说了一段我当时感动落泪的话：\u003Cbr\u003E\u000A一直以来，你对我的理解和支持，都是我最大的动力，我不善于表达，总是忙着工作，没时间陪你，但是你都不知道每当我工作累的时候都会看看桌面你的照片，然后继续投入到工作，因为我只是想让我对你的爱能够持续更久，结婚才能够让我一直能够保护你。我努力工作，只是因为，在我这，我不允许你不幸福\u003Cbr\u003E\u000A顺便感兴趣的朋友也来关注我们的程序员之家吧 qq 群 220103079\u003C/p\u003E\u000A",
+        "replies" : 73,
+        "member" : {
+            "id" : 154073,
+            "username" : "mayizhongbao",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/49cc/cdf6/154073_mini.png?m=1451897525",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/49cc/cdf6/154073_normal.png?m=1451897525",
+            "avatar_large" : "//cdn.v2ex.co/avatar/49cc/cdf6/154073_large.png?m=1451897525"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 11030,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1456559606",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1456559606",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1456559606"
+        },
+        "created" : 1456736275,
+        "last_modified" : 1456736275,
+        "last_touched" : 1456764938
+    },
+    
+    {
+        "id" : 259801,
+        "title" : "每月 20K+在武汉/30K+在北京，选哪个？",
+        "url" : "http://www.v2ex.com/t/259801",
+        "content" : "亲爱的 V2 水友们，新年好。最近比较纠结选择每月 30K+继续留在北京，还是选择每月 20K+返回武汉工作。如果换做你，你会怎么思考和抉择？\u000D\u000A\u000D\u000A去年一直有逃离帝都的计划，真当机会来了却又有些恍惚。当初带着梦想来北漂，努力过后，现实告诉我可以准备滚蛋了。\u000D\u000A\u000D\u000A在思考和分析一些待选项时，我喜欢把它们量化作比较，然而真把两个工作机会用很实际的量化比较之后，那种现实的落差让人犹豫不决。我深知，感性让人充满理想，理性让人踏实面对。当在处在感性和理性交割的年纪，有一种说不出的尴尬。\u000D\u000A\u000D\u000A纠结是因为自己还努力的不够充分，没有足够让自己滚蛋的理由？有没有类似经历的水友发表下自己的看法和想法，已经从一线返回二三线城市的水友，能否谈谈自己的感触？谢谢。\u000D\u000A\u000D\u000APS ：我目前在北京从事 IT 行业，返回武汉也是 IT 行业。",
+        "content_rendered" : "\u003Cp\u003E亲爱的 V2 水友们，新年好。最近比较纠结选择每月 30K+继续留在北京，还是选择每月 20K+返回武汉工作。如果换做你，你会怎么思考和抉择？\u003C/p\u003E\u000A\u000A\u003Cp\u003E去年一直有逃离帝都的计划，真当机会来了却又有些恍惚。当初带着梦想来北漂，努力过后，现实告诉我可以准备滚蛋了。\u003C/p\u003E\u000A\u000A\u003Cp\u003E在思考和分析一些待选项时，我喜欢把它们量化作比较，然而真把两个工作机会用很实际的量化比较之后，那种现实的落差让人犹豫不决。我深知，感性让人充满理想，理性让人踏实面对。当在处在感性和理性交割的年纪，有一种说不出的尴尬。\u003C/p\u003E\u000A\u000A\u003Cp\u003E纠结是因为自己还努力的不够充分，没有足够让自己滚蛋的理由？有没有类似经历的水友发表下自己的看法和想法，已经从一线返回二三线城市的水友，能否谈谈自己的感触？谢谢。\u003C/p\u003E\u000A\u000A\u003Cp\u003EPS ：我目前在北京从事 IT 行业，返回武汉也是 IT 行业。\u003C/p\u003E\u000A",
+        "replies" : 73,
+        "member" : {
+            "id" : 69745,
+            "username" : "hell0w0r1d",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/46d5/85ce/69745_mini.png?m=1410793795",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/46d5/85ce/69745_normal.png?m=1410793795",
+            "avatar_large" : "//cdn.v2ex.co/avatar/46d5/85ce/69745_large.png?m=1410793795"
+        },
+        "node" : {
+            "id" : 770,
+            "name" : "career",
+            "title" : "职场话题",
+            "title_alternative" : "Career",
+            "url" : "http://www.v2ex.com/go/career",
+            "topics" : 1271,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1450315732",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1450315732",
+            "avatar_large" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1450315732"
+        },
+        "created" : 1456713323,
+        "last_modified" : 1456749219,
+        "last_touched" : 1456761468
+    },
+    
+    {
+        "id" : 259892,
+        "title" : "看了很多招聘贴， 我来给一些还没入坑的朋友科普一下",
+        "url" : "http://www.v2ex.com/t/259892",
+        "content" : "我 3 年前发了一篇帖子“在腾讯累了”， 然后被 leader 忽悠到北京来做手游。切入正题之前我来给大家看看我见到的忽悠体系：\u000D\u000A\u000D\u000A1 、最开始承诺给我 1%股份， 当时公司只有 3 个人， 当一起融资到 100 万的时候，他们就开始当老板了， 以前说的话都不算数了。 当时我的 leader 由于和另一个合伙人股份没谈拢就忽悠我离开这家公司， 然后他和另外的大学同学有继续融资。\u000D\u000A\u000D\u000A2 、这次不算忽悠了， 拿到了实实在在的股份， 公司也融资了 600 万， 当公司人变得越来越多的时候， 老板又开始想歪主意了， 你们这些人拿了这么多股份我赚毛线啊， 于是这样他们又重新注册了一家新的公司。目的是砍掉一个 90 妹子风投 20 万所占有的 10%的股份， 以及后面技术入股的。准备这个游戏用这个新公司来运作。\u000D\u000A\u000D\u000A现在现状是目前很多公司想打着创业的旗号招廉价劳动力， 能忽悠就继续忽悠， 最近无疑中看到了公司的资产状况不到 100 万， 当然公司目前还要继续在外面忽悠，我们团队要扩大到 20 人， 尼玛核心团队全部离职了。\u000D\u000A\u000D\u000A直接说结论： 如果你去一家创业公司， 既没得财务权利， 又没得double的薪水，我觉得基本可以不考虑了， 多半都是坑。\u000D\u000A\u000D\u000A好了开始谈坑：\u000D\u000A1 、工资， 很多创业公司会给你说，我们这是创业阶段， 目前工资比较低，好吧这是第一个坑，你以为你是降薪来创业的， 其实很多人还不知道你的薪水已经降到了没得底了， 很多创业公司是 996 吧， 这样把你的底薪 /1.5 ，那么你的薪水还有多少。 \u000D\u000A\u000D\u000A2 、股权期权， 为了弥补工资的劣势， 很多创业公司要提供股权期权， 其实小公司的股权期权拿来一点卵用没得， 即使你白字黑字拿到了股权期权， 人家照样有办法给你稀释掉。\u000D\u000A\u000D\u000A3 、 5 险 1 金， 这个是最大的忽悠， 很多人只知道又一个 5 险 1 金， 但是不知道它按照一个基数交的， 很多大公司是按照你薪水全额交的， 那么对于这个 1 金来说， 一年将会给你交 6 万， 然后很多创业公司悄悄的按照 2k 给你交的， 一年算下来毛都没的。并且个人所得税是按照你交完 5 险 1 金后进行阶梯交税。 那些按照 2k 交 5 险 1 金的公司， 员工将会承受重税。\u000D\u000A\u000D\u000A4 、分红 /年终奖， 创业公司通常会给你说， 你好好干我们会年底分红，实际上大多数创业公司还是年底发一个 1000 块钱意思一下吧， 大家别忘了 BAT 直流的大公司虽然加班多， 但是人家年终奖多， A 的 996 加班人家年底是发 10 个月年终奖。 很多创业公司 996 ，但是到了年底毛都没得。\u000D\u000A\u000D\u000A5 、成长， 很多创业公司忽悠说来了我们这里可以全面锻炼自己， 实际是那种买 VPS ， 搭建 VPN ， 写公司主页这些事情， 锻炼个毛线。 在创业公司可能存在几年不涨薪水， 但是大公司呀很多是 1 年涨薪两次。\u000D\u000A\u000D\u000A6 、人脉， 小公司就那么几个人， 积累个毛线， 一般来说小公司离职很多时候都闹得不欢而散， 而大公司就不同了。",
+        "content_rendered" : "\u003Cp\u003E我 3 年前发了一篇帖子“在腾讯累了”， 然后被 leader 忽悠到北京来做手游。切入正题之前我来给大家看看我见到的忽悠体系：\u003C/p\u003E\u000A\u000A\u003Cp\u003E1 、最开始承诺给我 1%股份， 当时公司只有 3 个人， 当一起融资到 100 万的时候，他们就开始当老板了， 以前说的话都不算数了。 当时我的 leader 由于和另一个合伙人股份没谈拢就忽悠我离开这家公司， 然后他和另外的大学同学有继续融资。\u003C/p\u003E\u000A\u000A\u003Cp\u003E2 、这次不算忽悠了， 拿到了实实在在的股份， 公司也融资了 600 万， 当公司人变得越来越多的时候， 老板又开始想歪主意了， 你们这些人拿了这么多股份我赚毛线啊， 于是这样他们又重新注册了一家新的公司。目的是砍掉一个 90 妹子风投 20 万所占有的 10%的股份， 以及后面技术入股的。准备这个游戏用这个新公司来运作。\u003C/p\u003E\u000A\u000A\u003Cp\u003E现在现状是目前很多公司想打着创业的旗号招廉价劳动力， 能忽悠就继续忽悠， 最近无疑中看到了公司的资产状况不到 100 万， 当然公司目前还要继续在外面忽悠，我们团队要扩大到 20 人， 尼玛核心团队全部离职了。\u003C/p\u003E\u000A\u000A\u003Cp\u003E直接说结论： 如果你去一家创业公司， 既没得财务权利， 又没得 double 的薪水，我觉得基本可以不考虑了， 多半都是坑。\u003C/p\u003E\u000A\u000A\u003Cp\u003E好了开始谈坑：\u003Cbr\u003E\u000A1 、工资， 很多创业公司会给你说，我们这是创业阶段， 目前工资比较低，好吧这是第一个坑，你以为你是降薪来创业的， 其实很多人还不知道你的薪水已经降到了没得底了， 很多创业公司是 996 吧， 这样把你的底薪 /1.5 ，那么你的薪水还有多少。 \u003C/p\u003E\u000A\u000A\u003Cp\u003E2 、股权期权， 为了弥补工资的劣势， 很多创业公司要提供股权期权， 其实小公司的股权期权拿来一点卵用没得， 即使你白字黑字拿到了股权期权， 人家照样有办法给你稀释掉。\u003C/p\u003E\u000A\u000A\u003Cp\u003E3 、 5 险 1 金， 这个是最大的忽悠， 很多人只知道又一个 5 险 1 金， 但是不知道它按照一个基数交的， 很多大公司是按照你薪水全额交的， 那么对于这个 1 金来说， 一年将会给你交 6 万， 然后很多创业公司悄悄的按照 2k 给你交的， 一年算下来毛都没的。并且个人所得税是按照你交完 5 险 1 金后进行阶梯交税。 那些按照 2k 交 5 险 1 金的公司， 员工将会承受重税。\u003C/p\u003E\u000A\u000A\u003Cp\u003E4 、分红 /年终奖， 创业公司通常会给你说， 你好好干我们会年底分红，实际上大多数创业公司还是年底发一个 1000 块钱意思一下吧， 大家别忘了 BAT 直流的大公司虽然加班多， 但是人家年终奖多， A 的 996 加班人家年底是发 10 个月年终奖。 很多创业公司 996 ，但是到了年底毛都没得。\u003C/p\u003E\u000A\u000A\u003Cp\u003E5 、成长， 很多创业公司忽悠说来了我们这里可以全面锻炼自己， 实际是那种买 VPS ， 搭建 VPN ， 写公司主页这些事情， 锻炼个毛线。 在创业公司可能存在几年不涨薪水， 但是大公司呀很多是 1 年涨薪两次。\u003C/p\u003E\u000A\u000A\u003Cp\u003E6 、人脉， 小公司就那么几个人， 积累个毛线， 一般来说小公司离职很多时候都闹得不欢而散， 而大公司就不同了。\u003C/p\u003E\u000A",
+        "replies" : 72,
+        "member" : {
+            "id" : 35131,
+            "username" : "yangxin0",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/f98e/d892/35131_mini.png?m=1384570385",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/f98e/d892/35131_normal.png?m=1384570385",
+            "avatar_large" : "//cdn.v2ex.co/avatar/f98e/d892/35131_large.png?m=1384570385"
+        },
+        "node" : {
+            "id" : 770,
+            "name" : "career",
+            "title" : "职场话题",
+            "title_alternative" : "Career",
+            "url" : "http://www.v2ex.com/go/career",
+            "topics" : 1271,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1450315732",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1450315732",
+            "avatar_large" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1450315732"
+        },
+        "created" : 1456727642,
+        "last_modified" : 1456737387,
+        "last_touched" : 1456763567
+    },
+    
+    {
+        "id" : 259916,
+        "title" : "[发码] New File Menu \u002D Mac OS X 鼠标右键菜单新建文件神器！",
+        "url" : "http://www.v2ex.com/t/259916",
+        "content" : "New File Menu 是 Mac 系统中创建文件 /文档的最佳利器，安装软件后可以直接在 Finder 文件夹中点击鼠标右键菜单新建文档。\u000D\u000A\u000D\u000A通过用户自定义模板的方式， New File Menu 可以支持创建几乎所有的文件格式。\u000D\u000A\u000D\u000A下面是兑换码，各位 V 友领用后请回复一下，以方便后面的人\u000D\u000AT3L6JFANH73P\u000D\u000AR6N3N9LWW6LX\u000D\u000AXWWWK4LN4NJJ\u000D\u000AFHKNRM34MYHL\u000D\u000A7PLEL464HMW6\u000D\u000A7AX9AK9JAHA7\u000D\u000AFEH6R9L6XJJP\u000D\u000ANJRL9KY33J49\u000D\u000AWPY3A634P793\u000D\u000A6JR7H4AHTXWA\u000D\u000A\u000D\u000A[New File Menu 完整版下载地址]( https://itunes.apple.com/cn/app/new\u002Dfile\u002Dmenu/id1064959555?mt\u003D12)\u000D\u000A[New File Menu 免费版下载地址]( https://itunes.apple.com/cn/app/new\u002Dfile\u002Dmenu\u002Dfree/id1066302071?mt\u003D12)",
+        "content_rendered" : "\u003Cp\u003ENew File Menu 是 Mac 系统中创建文件 /文档的最佳利器，安装软件后可以直接在 Finder 文件夹中点击鼠标右键菜单新建文档。\u003C/p\u003E\u000A\u000A\u003Cp\u003E通过用户自定义模板的方式， New File Menu 可以支持创建几乎所有的文件格式。\u003C/p\u003E\u000A\u000A\u003Cp\u003E下面是兑换码，各位 V 友领用后请回复一下，以方便后面的人\u003Cbr\u003E\u000AT3L6JFANH73P\u003Cbr\u003E\u000AR6N3N9LWW6LX\u003Cbr\u003E\u000AXWWWK4LN4NJJ\u003Cbr\u003E\u000AFHKNRM34MYHL\u003Cbr\u003E\u000A7PLEL464HMW6\u003Cbr\u003E\u000A7AX9AK9JAHA7\u003Cbr\u003E\u000AFEH6R9L6XJJP\u003Cbr\u003E\u000ANJRL9KY33J49\u003Cbr\u003E\u000AWPY3A634P793\u003Cbr\u003E\u000A6JR7H4AHTXWA\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://itunes.apple.com/cn/app/new\u002Dfile\u002Dmenu/id1064959555?mt\u003D12\u0022\u003ENew File Menu 完整版下载地址\u003C/a\u003E\u003Cbr\u003E\u000A\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://itunes.apple.com/cn/app/new\u002Dfile\u002Dmenu\u002Dfree/id1066302071?mt\u003D12\u0022\u003ENew File Menu 免费版下载地址\u003C/a\u003E\u003C/p\u003E\u000A",
+        "replies" : 50,
+        "member" : {
+            "id" : 149589,
+            "username" : "us",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/907328eba94c39f31dec18e1583d59bc?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/907328eba94c39f31dec18e1583d59bc?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/907328eba94c39f31dec18e1583d59bc?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 22,
+            "name" : "macosx",
+            "title" : "Mac OS X",
+            "title_alternative" : "Mac OS X",
+            "url" : "http://www.v2ex.com/go/macosx",
+            "topics" : 7796,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/b6d7/67d2/22_mini.png?m=1454545260",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/b6d7/67d2/22_normal.png?m=1454545260",
+            "avatar_large" : "//cdn.v2ex.co/navatar/b6d7/67d2/22_large.png?m=1454545260"
+        },
+        "created" : 1456730782,
+        "last_modified" : 1456730782,
+        "last_touched" : 1456763196
+    },
+    
+    {
+        "id" : 259757,
+        "title" : "胆汁反流性胃炎 怎么治？",
+        "url" : "http://www.v2ex.com/t/259757",
+        "content" : "去医院查出这个病，看了西医中医，感觉都不好。\u000D\u000A请问大家有身边的人治好过这个病的吗？",
+        "content_rendered" : "去医院查出这个病，看了西医中医，感觉都不好。\u000D\u003Cbr /\u003E请问大家有身边的人治好过这个病的吗？",
+        "replies" : 39,
+        "member" : {
+            "id" : 61924,
+            "username" : "n37r06u3",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/411c/8202/61924_mini.png?m=1423994181",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/411c/8202/61924_normal.png?m=1423994181",
+            "avatar_large" : "//cdn.v2ex.co/avatar/411c/8202/61924_large.png?m=1423994181"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 65187,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1456308340",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1456308340",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1456308340"
+        },
+        "created" : 1456704907,
+        "last_modified" : 1456704907,
+        "last_touched" : 1456756442
+    }
+    
+]

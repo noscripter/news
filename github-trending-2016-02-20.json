@@ -1,0 +1,72 @@
+[
+    {
+        "author": "timothycrosley",
+        "category": "Python",
+        "stars": "1,067",
+        "title": "hug - Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.",
+        "url": "https://github.com/timothycrosley/hug"
+    },
+    {
+        "author": "jflesch",
+        "category": "Python",
+        "stars": "698",
+        "title": "paperwork - Using scanners and OCR to grep paper documents the easy way (Linux only)",
+        "url": "https://github.com/jflesch/paperwork"
+    },
+    {
+        "author": "wardowsmcc",
+        "category": "PHP",
+        "stars": "655",
+        "title": "badass - This is a badass repository.",
+        "url": "https://github.com/wardowsmcc/badass"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "641",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "defaultnamehere",
+        "category": "Python",
+        "stars": "506",
+        "title": "zzzzz - Roleplay as the NSA by making creepy graphs of your friends",
+        "url": "https://github.com/defaultnamehere/zzzzz"
+    },
+    {
+        "author": "Hashnode",
+        "category": "JavaScript",
+        "stars": "409",
+        "title": "mern-starter - Boilerplate for getting started with MERN stack",
+        "url": "https://github.com/Hashnode/mern-starter"
+    },
+    {
+        "author": "allenwong",
+        "category": "Swift",
+        "stars": "352",
+        "title": "30DaysofSwift - A self taught project to learn Swift.",
+        "url": "https://github.com/allenwong/30DaysofSwift"
+    },
+    {
+        "author": "callmecavs",
+        "category": "JavaScript",
+        "stars": "308",
+        "title": "bricks.js - A blazing fast masonry layout generator for fixed width elements.",
+        "url": "https://github.com/callmecavs/bricks.js"
+    },
+    {
+        "author": "google",
+        "category": "Objective-C",
+        "stars": "262",
+        "title": "EarlGrey - iOS UI Automation Test Framework",
+        "url": "https://github.com/google/EarlGrey"
+    },
+    {
+        "author": "schachmat",
+        "category": "Go",
+        "stars": "247",
+        "title": "wego - weather app for the terminal",
+        "url": "https://github.com/schachmat/wego"
+    }
+]

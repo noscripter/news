@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "776",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "git-tips",
+        "category": "JavaScript",
+        "stars": "506",
+        "title": "tips - Most commonly used git tips and tricks.",
+        "url": "https://github.com/git-tips/tips"
+    },
+    {
+        "author": "Microsoft",
+        "category": "TeX",
+        "stars": "449",
+        "title": "checkedc - Checked C is an extension of C that adds bounds checking to C. This repo contains the specification for the extension, test code, and samples.",
+        "url": "https://github.com/Microsoft/checkedc"
+    },
+    {
+        "author": "quiet",
+        "category": "C",
+        "stars": "293",
+        "title": "quiet-lwip - lwIP driver for libquiet",
+        "url": "https://github.com/quiet/quiet-lwip"
+    },
+    {
+        "author": "habitat-sh",
+        "category": "Rust",
+        "stars": "197",
+        "title": "habitat - Modern applications with built-in automation",
+        "url": "https://github.com/habitat-sh/habitat"
+    },
+    {
+        "author": "tianzhuo112",
+        "category": "Objective-C",
+        "stars": "170",
+        "title": "VTMagic - ",
+        "url": "https://github.com/tianzhuo112/VTMagic"
+    },
+    {
+        "author": "sjchoi86",
+        "category": "Jupyter Notebook",
+        "stars": "151",
+        "title": "Tensorflow-101 - TensorFlow Tutorials",
+        "url": "https://github.com/sjchoi86/Tensorflow-101"
+    },
+    {
+        "author": "michalsnik",
+        "category": "JavaScript",
+        "stars": "148",
+        "title": "aos - Animate on scroll library",
+        "url": "https://github.com/michalsnik/aos"
+    },
+    {
+        "author": "jaredrummler",
+        "category": "Java",
+        "stars": "142",
+        "title": "AnimatedSvgView - Animated SVG Drawing for Android",
+        "url": "https://github.com/jaredrummler/AnimatedSvgView"
+    },
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "138",
+        "title": "HEAD - A list of everything that could go in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    }
+]

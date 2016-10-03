@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "545",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "danielzeller",
+        "category": "Java",
+        "stars": "366",
+        "title": "Depth-LIB-Android- - A library gives depth to Views. It also contains some examples of Canvas drawing techniques to create particle systems, waves and grain effect. I was not really happy with the default shadows in android beacuse they start misbehaving when they are rotated som I made my own shadow solution. Don't expect to much from this lib, it was written as a \u2026",
+        "url": "https://github.com/danielzeller/Depth-LIB-Android-"
+    },
+    {
+        "author": "carekit-apple",
+        "category": "Objective-C",
+        "stars": "252",
+        "title": "CareKit - CareKit is an open source software framework for creating apps that help people better understand and manage their health.",
+        "url": "https://github.com/carekit-apple/CareKit"
+    },
+    {
+        "author": "google",
+        "category": "Rust",
+        "stars": "247",
+        "title": "xi-editor - A modern editor with a backend written in Rust.",
+        "url": "https://github.com/google/xi-editor"
+    },
+    {
+        "author": "openai",
+        "category": "Python",
+        "stars": "224",
+        "title": "gym - A toolkit for developing and comparing reinforcement learning algorithms.",
+        "url": "https://github.com/openai/gym"
+    },
+    {
+        "author": "bartobri",
+        "category": "C",
+        "stars": "171",
+        "title": "no-more-secrets - A tool set to recreate the famous \"decrypting text\" effect as seen in the 1992 movie Sneakers.",
+        "url": "https://github.com/bartobri/no-more-secrets"
+    },
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "171",
+        "title": "HEAD - A list of everything that goes in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    },
+    {
+        "author": "chartjs",
+        "category": "JavaScript",
+        "stars": "139",
+        "title": "Chart.js - Simple HTML5 Charts using the <canvas> tag",
+        "url": "https://github.com/chartjs/Chart.js"
+    },
+    {
+        "author": "teachthenet",
+        "category": "Python",
+        "stars": "132",
+        "title": "TeachCraft-Challenges - Learn programming in python by giving yourself superpowers in a minecraft world!",
+        "url": "https://github.com/teachthenet/TeachCraft-Challenges"
+    },
+    {
+        "author": "Rogero0o",
+        "category": "Java",
+        "stars": "106",
+        "title": "GifLoadingView - ",
+        "url": "https://github.com/Rogero0o/GifLoadingView"
+    }
+]

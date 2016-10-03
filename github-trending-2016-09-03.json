@@ -1,0 +1,72 @@
+[
+    {
+        "author": "rubensousa",
+        "category": "Java",
+        "stars": "512",
+        "title": "RecyclerViewSnap - RecyclerView snapping example with SnapHelper",
+        "url": "https://github.com/rubensousa/RecyclerViewSnap"
+    },
+    {
+        "author": "facebook",
+        "category": "C",
+        "stars": "466",
+        "title": "zstd - Zstandard - Fast real-time compression algorithm",
+        "url": "https://github.com/facebook/zstd"
+    },
+    {
+        "author": "david-gpu",
+        "category": "Python",
+        "stars": "380",
+        "title": "srez - Image super-resolution through deep learning",
+        "url": "https://github.com/david-gpu/srez"
+    },
+    {
+        "author": "baidu",
+        "category": "C++",
+        "stars": "289",
+        "title": "Paddle - PArallel Distributed Deep LEarning",
+        "url": "https://github.com/baidu/Paddle"
+    },
+    {
+        "author": "brillout",
+        "category": "",
+        "stars": "306",
+        "title": "awesome-react-components - Catalog of React components / libraries",
+        "url": "https://github.com/brillout/awesome-react-components"
+    },
+    {
+        "author": "thejameskyle",
+        "category": "JavaScript",
+        "stars": "301",
+        "title": "itsy-bitsy-data-structures - \ud83c\udff0 All the things you didn't know you wanted to know about data structures",
+        "url": "https://github.com/thejameskyle/itsy-bitsy-data-structures"
+    },
+    {
+        "author": "anthonynsimon",
+        "category": "Go",
+        "stars": "302",
+        "title": "bild - A collection of image processing algorithms in pure Go",
+        "url": "https://github.com/anthonynsimon/bild"
+    },
+    {
+        "author": "ncw",
+        "category": "Go",
+        "stars": "247",
+        "title": "rclone - \"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+        "url": "https://github.com/ncw/rclone"
+    },
+    {
+        "author": "ManoMarks",
+        "category": "JavaScript",
+        "stars": "216",
+        "title": "docker-swarm-visualizer - A visualizer for Docker Swarm using the Docker Remote API, Node.JS, and D3",
+        "url": "https://github.com/ManoMarks/docker-swarm-visualizer"
+    },
+    {
+        "author": "eleme",
+        "category": "Java",
+        "stars": "179",
+        "title": "Amigo - A hotfix library for Android platform, and not just this...",
+        "url": "https://github.com/eleme/Amigo"
+    }
+]

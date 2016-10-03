@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "647",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "sahat",
+        "category": "CSS",
+        "stars": "390",
+        "title": "megaboilerplate - \ud83d\ude80 Handcrafted starter projects, optimized for simplicity and ease of use.",
+        "url": "https://github.com/sahat/megaboilerplate"
+    },
+    {
+        "author": "git-tips",
+        "category": "JavaScript",
+        "stars": "293",
+        "title": "tips - Most commonly used git tips and tricks.",
+        "url": "https://github.com/git-tips/tips"
+    },
+    {
+        "author": "airbnb",
+        "category": "JavaScript",
+        "stars": "304",
+        "title": "hypernova - A service for server-side rendering your JavaScript views",
+        "url": "https://github.com/airbnb/hypernova"
+    },
+    {
+        "author": "cloudflare",
+        "category": "JavaScript",
+        "stars": "286",
+        "title": "cf-ui - \ud83d\udc8e CloudFlare UI Framework",
+        "url": "https://github.com/cloudflare/cf-ui"
+    },
+    {
+        "author": "coreylynch",
+        "category": "Python",
+        "stars": "226",
+        "title": "async-rl - Tensorflow + Keras + OpenAI Gym implementation of 1-step Q Learning from \"Asynchronous Methods for Deep Reinforcement Learning\"",
+        "url": "https://github.com/coreylynch/async-rl"
+    },
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "198",
+        "title": "HEAD - A list of everything that could go in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    },
+    {
+        "author": "Haroenv",
+        "category": "JavaScript",
+        "stars": "200",
+        "title": "holmes - Fast and easy searching inside a page",
+        "url": "https://github.com/Haroenv/holmes"
+    },
+    {
+        "author": "michalsnik",
+        "category": "JavaScript",
+        "stars": "178",
+        "title": "aos - Animate on scroll library",
+        "url": "https://github.com/michalsnik/aos"
+    },
+    {
+        "author": "lerna",
+        "category": "JavaScript",
+        "stars": "174",
+        "title": "lerna - \ud83d\udc09 A tool for managing JavaScript projects with multiple packages.",
+        "url": "https://github.com/lerna/lerna"
+    }
+]

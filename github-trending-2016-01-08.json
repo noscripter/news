@@ -1,0 +1,72 @@
+[
+    {
+        "author": "braydie",
+        "category": "",
+        "stars": "886",
+        "title": "HowToBeAProgrammer - A guide on how to be a Programmer - originally published by Robert L Read",
+        "url": "https://github.com/braydie/HowToBeAProgrammer"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "605",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "keithwhor",
+        "category": "JavaScript",
+        "stars": "420",
+        "title": "nodal - Web Servers Made Easy With Node.js",
+        "url": "https://github.com/keithwhor/nodal"
+    },
+    {
+        "author": "petehunt",
+        "category": "",
+        "stars": "397",
+        "title": "react-howto - Your guide to the (sometimes overwhelming!) React ecosystem.",
+        "url": "https://github.com/petehunt/react-howto"
+    },
+    {
+        "author": "loverajoel",
+        "category": "JavaScript",
+        "stars": "392",
+        "title": "jstips - This is about one JS tip every day!",
+        "url": "https://github.com/loverajoel/jstips"
+    },
+    {
+        "author": "mhinz",
+        "category": "",
+        "stars": "380",
+        "title": "vim-galore - Everything you need to know about Vim.",
+        "url": "https://github.com/mhinz/vim-galore"
+    },
+    {
+        "author": "0x5e",
+        "category": "Python",
+        "stars": "321",
+        "title": "wechat-deleted-friends - \u67e5\u770b\u88ab\u5220\u7684\u5fae\u4fe1\u597d\u53cb",
+        "url": "https://github.com/0x5e/wechat-deleted-friends"
+    },
+    {
+        "author": "matryer",
+        "category": "Objective-C",
+        "stars": "375",
+        "title": "bitbar - Put the output from any script or program in your Mac OS X Menu Bar",
+        "url": "https://github.com/matryer/bitbar"
+    },
+    {
+        "author": "jlevy",
+        "category": "",
+        "stars": "238",
+        "title": "the-art-of-command-line - Master the command line, in one page",
+        "url": "https://github.com/jlevy/the-art-of-command-line"
+    },
+    {
+        "author": "dongjunkun",
+        "category": "Java",
+        "stars": "195",
+        "title": "DropDownMenu - a simple practical multiple condition filter drop down menu",
+        "url": "https://github.com/dongjunkun/DropDownMenu"
+    }
+]

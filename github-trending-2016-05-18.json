@@ -1,0 +1,72 @@
+[
+    {
+        "author": "Selz",
+        "category": "JavaScript",
+        "stars": "729",
+        "title": "plyr - A simple HTML5, YouTube and Vimeo player",
+        "url": "https://github.com/Selz/plyr"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "617",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "Nickersoft",
+        "category": "JavaScript",
+        "stars": "573",
+        "title": "push.js - A compact, cross-browser solution for Javascript desktop notifications",
+        "url": "https://github.com/Nickersoft/push.js"
+    },
+    {
+        "author": "rethinkdb",
+        "category": "JavaScript",
+        "stars": "539",
+        "title": "horizon - Horizon is a realtime, open-source backend for JavaScript apps.",
+        "url": "https://github.com/rethinkdb/horizon"
+    },
+    {
+        "author": "nlp-compromise",
+        "category": "JavaScript",
+        "stars": "484",
+        "title": "nlp_compromise - a cool way to use natural language in javascript",
+        "url": "https://github.com/nlp-compromise/nlp_compromise"
+    },
+    {
+        "author": "JoelOtter",
+        "category": "JavaScript",
+        "stars": "431",
+        "title": "kajero - Interactive JavaScript notebooks with clever graphing",
+        "url": "https://github.com/JoelOtter/kajero"
+    },
+    {
+        "author": "amznlabs",
+        "category": "C++",
+        "stars": "399",
+        "title": "amazon-dsstne - Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models",
+        "url": "https://github.com/amznlabs/amazon-dsstne"
+    },
+    {
+        "author": "buunguyen",
+        "category": "JavaScript",
+        "stars": "325",
+        "title": "octotree - Code tree for GitHub and GitLab",
+        "url": "https://github.com/buunguyen/octotree"
+    },
+    {
+        "author": "javierbyte",
+        "category": "JavaScript",
+        "stars": "301",
+        "title": "visual-center - This is a tool that will find the visual center of your images.",
+        "url": "https://github.com/javierbyte/visual-center"
+    },
+    {
+        "author": "google",
+        "category": "Java",
+        "stars": "266",
+        "title": "flexbox-layout - Flexbox for Android",
+        "url": "https://github.com/google/flexbox-layout"
+    }
+]

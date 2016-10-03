@@ -1,0 +1,72 @@
+[
+    {
+        "author": "jaywcjlove",
+        "category": "",
+        "stars": "1,285",
+        "title": "awesome-mac - \uf8ff \u8fd9\u4e2a\u4ed3\u5e93\u4e3b\u8981\u662f\u6536\u96c6\u975e\u5e38\u597d\u7528\u7684Mac\u5e94\u7528\u7a0b\u5e8f\u3001\u8f6f\u4ef6\u4ee5\u53ca\u5de5\u5177\uff0c\u4e3b\u8981\u9762\u5411\u5f00\u53d1\u8005\u548c\u8bbe\u8ba1\u5e08\u3002",
+        "url": "https://github.com/jaywcjlove/awesome-mac"
+    },
+    {
+        "author": "AHAAAAAAA",
+        "category": "Python",
+        "stars": "961",
+        "title": "PokemonGo-Map - Live visualization of all the pokemon in your area... and more!",
+        "url": "https://github.com/AHAAAAAAA/PokemonGo-Map"
+    },
+    {
+        "author": "FallibleInc",
+        "category": "",
+        "stars": "1,020",
+        "title": "security-guide-for-developers - Security Guide for Developers",
+        "url": "https://github.com/FallibleInc/security-guide-for-developers"
+    },
+    {
+        "author": "sahat",
+        "category": "CSS",
+        "stars": "1,002",
+        "title": "hackathon-starter - A boilerplate for Node.js web applications",
+        "url": "https://github.com/sahat/hackathon-starter"
+    },
+    {
+        "author": "nerevu",
+        "category": "Python",
+        "stars": "586",
+        "title": "riko - A python stream processing engine modeled after Yahoo! Pipes",
+        "url": "https://github.com/nerevu/riko"
+    },
+    {
+        "author": "Microsoft",
+        "category": "",
+        "stars": "551",
+        "title": "api-guidelines - Microsoft REST API Guidelines",
+        "url": "https://github.com/Microsoft/api-guidelines"
+    },
+    {
+        "author": "zeit",
+        "category": "JavaScript",
+        "stars": "392",
+        "title": "hyperterm - ",
+        "url": "https://github.com/zeit/hyperterm"
+    },
+    {
+        "author": "sjchoi86",
+        "category": "",
+        "stars": "320",
+        "title": "dl_tutorials - Deep learning tutorials (2nd ed.)",
+        "url": "https://github.com/sjchoi86/dl_tutorials"
+    },
+    {
+        "author": "gatsbyjs",
+        "category": "JavaScript",
+        "stars": "318",
+        "title": "gatsby - Transform plain text into dynamic blogs and websites using React.js",
+        "url": "https://github.com/gatsbyjs/gatsby"
+    },
+    {
+        "author": "goldfire",
+        "category": "JavaScript",
+        "stars": "287",
+        "title": "howler.js - Javascript audio library for the modern web.",
+        "url": "https://github.com/goldfire/howler.js"
+    }
+]

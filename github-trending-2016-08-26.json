@@ -1,0 +1,72 @@
+[
+    {
+        "author": "DevLight-Mobile-Agency",
+        "category": "Java",
+        "stars": "550",
+        "title": "InfiniteCycleViewPager - Infinite cycle ViewPager with two-way orientation and interactive effect.",
+        "url": "https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager"
+    },
+    {
+        "author": "reactotron",
+        "category": "JavaScript",
+        "stars": "365",
+        "title": "reactotron - A CLI and OS X app for inspecting your React JS and React Native apps.",
+        "url": "https://github.com/reactotron/reactotron"
+    },
+    {
+        "author": "Yelp",
+        "category": "Python",
+        "stars": "281",
+        "title": "undebt - A fast, straightforward, reliable tool for performing massive, automated code refactoring",
+        "url": "https://github.com/Yelp/undebt"
+    },
+    {
+        "author": "nasa",
+        "category": "JavaScript",
+        "stars": "244",
+        "title": "openmct - A web based mission control framework.",
+        "url": "https://github.com/nasa/openmct"
+    },
+    {
+        "author": "benhowdle89",
+        "category": "JavaScript",
+        "stars": "219",
+        "title": "grade - This JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images.",
+        "url": "https://github.com/benhowdle89/grade"
+    },
+    {
+        "author": "mehrdadrad",
+        "category": "Go",
+        "stars": "213",
+        "title": "mylg - Network Diagnostic Tool",
+        "url": "https://github.com/mehrdadrad/mylg"
+    },
+    {
+        "author": "facebookresearch",
+        "category": "Lua",
+        "stars": "197",
+        "title": "deepmask - Torch implementation of DeepMask and SharpMask",
+        "url": "https://github.com/facebookresearch/deepmask"
+    },
+    {
+        "author": "tensorflow",
+        "category": "Python",
+        "stars": "187",
+        "title": "models - Models built with TensorFlow",
+        "url": "https://github.com/tensorflow/models"
+    },
+    {
+        "author": "jaywcjlove",
+        "category": "JavaScript",
+        "stars": "180",
+        "title": "awesome-mac - \uf8ff This repo is a collection of awesome Mac applications and tools for developers and designers.",
+        "url": "https://github.com/jaywcjlove/awesome-mac"
+    },
+    {
+        "author": "leriomaggio",
+        "category": "Jupyter Notebook",
+        "stars": "168",
+        "title": "deep-learning-keras-euroscipy2016 - # Deep Learning with Keras",
+        "url": "https://github.com/leriomaggio/deep-learning-keras-euroscipy2016"
+    }
+]

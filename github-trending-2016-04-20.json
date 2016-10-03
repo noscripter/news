@@ -1,0 +1,72 @@
+[
+    {
+        "author": "vurtun",
+        "category": "C",
+        "stars": "1,756",
+        "title": "nuklear - A small ANSI C gui toolkit",
+        "url": "https://github.com/vurtun/nuklear"
+    },
+    {
+        "author": "google",
+        "category": "Java",
+        "stars": "1,371",
+        "title": "agera - Reactive Programming for Android",
+        "url": "https://github.com/google/agera"
+    },
+    {
+        "author": "schollz",
+        "category": "Go",
+        "stars": "730",
+        "title": "find - High-precision indoor positioning framework for most wifi-enabled devices.",
+        "url": "https://github.com/schollz/find"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "643",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "traverseda",
+        "category": "Python",
+        "stars": "512",
+        "title": "pycraft - A fork of \"Minecraft in 500 lines of python\" intended to be used as a real engine, instead of as a learning example.",
+        "url": "https://github.com/traverseda/pycraft"
+    },
+    {
+        "author": "kyleneideck",
+        "category": "C++",
+        "stars": "498",
+        "title": "BackgroundMusic - Background Music, an OS X audio utility",
+        "url": "https://github.com/kyleneideck/BackgroundMusic"
+    },
+    {
+        "author": "donnemartin",
+        "category": "Python",
+        "stars": "359",
+        "title": "haxor-news - Browse Hacker News like a haxor.",
+        "url": "https://github.com/donnemartin/haxor-news"
+    },
+    {
+        "author": "BradLarson",
+        "category": "Swift",
+        "stars": "353",
+        "title": "GPUImage2 - GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.",
+        "url": "https://github.com/BradLarson/GPUImage2"
+    },
+    {
+        "author": "zyedidia",
+        "category": "Go",
+        "stars": "320",
+        "title": "micro - A modern and intuitive terminal-based text editor",
+        "url": "https://github.com/zyedidia/micro"
+    },
+    {
+        "author": "fbsamples",
+        "category": "JavaScript",
+        "stars": "284",
+        "title": "f8app - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.",
+        "url": "https://github.com/fbsamples/f8app"
+    }
+]

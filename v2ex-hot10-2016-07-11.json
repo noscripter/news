@@ -1,0 +1,313 @@
+[
+    
+    {
+        "id" : 291493,
+        "title" : "在新疆（克拉玛依）出差了一段时间，深感内地人对新疆的陌生，各位有什么要问的没？",
+        "url" : "http://www.v2ex.com/t/291493",
+        "content" : "今天闲得无聊，跟各位来做个关于新疆，特别是新疆克拉玛依的在线问答。  \u000D\u000A\u000D\u000A以前的做项目也算跑遍大半个中国，新疆给我的感觉最为特别，与想象中的差别实在太大，故开此贴。  \u000D\u000A\u000D\u000A各位对新疆有什么问题，我基于自己的背景和理解，尽量如实回答你，如有错漏，请知情的朋友补上。  \u000D\u000A  \u000D\u000A\u000D\u000A\u000D\u000A我的背景： 82 年生的老码农，漂在深圳的湖南人， 2014 年参与公司一个大项目运作第一次来到新疆， 2015 年底项目中标并担任项目经理，从此每个月都要在新疆呆半个月（主要在克拉玛依）。  \u000D\u000A\u000D\u000A附这个季节的新疆美图:\u000D\u000A###### 万亩葵花：\u000D\u000A![万亩葵花]( http://ww2.sinaimg.cn/large/6233ece3jw1f5oqeee6s1j22o01s0e84.jpg)\u000D\u000A###### 鲜果：\u000D\u000A![苹果]( http://ww3.sinaimg.cn/large/6233ece3jw1f5oqh956k5j22o01s0qv6.jpg)\u000D\u000A###### 磕头机：\u000D\u000A![磕头机]( http://ww1.sinaimg.cn/large/6233ece3jw1f5oq7q4ejfj243k2b0kjp.jpg)",
+        "content_rendered" : "\u003Cp\u003E今天闲得无聊，跟各位来做个关于新疆，特别是新疆克拉玛依的在线问答。\u003C/p\u003E\u000A\u003Cp\u003E以前的做项目也算跑遍大半个中国，新疆给我的感觉最为特别，与想象中的差别实在太大，故开此贴。\u003C/p\u003E\u000A\u003Cp\u003E各位对新疆有什么问题，我基于自己的背景和理解，尽量如实回答你，如有错漏，请知情的朋友补上。\u003C/p\u003E\u000A\u003Cp\u003E我的背景： 82 年生的老码农，漂在深圳的湖南人， 2014 年参与公司一个大项目运作第一次来到新疆， 2015 年底项目中标并担任项目经理，从此每个月都要在新疆呆半个月（主要在克拉玛依）。\u003C/p\u003E\u000A\u003Cp\u003E附这个季节的新疆美图:\u003C/p\u003E\u000A\u003Ch6\u003E万亩葵花：\u003C/h6\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022万亩葵花\u0022 src\u003D\u0022http://ww2.sinaimg.cn/large/6233ece3jw1f5oqeee6s1j22o01s0e84.jpg\u0022\u003E\u003C/p\u003E\u000A\u003Ch6\u003E鲜果：\u003C/h6\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022苹果\u0022 src\u003D\u0022http://ww3.sinaimg.cn/large/6233ece3jw1f5oqh956k5j22o01s0qv6.jpg\u0022\u003E\u003C/p\u003E\u000A\u003Ch6\u003E磕头机：\u003C/h6\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022磕头机\u0022 src\u003D\u0022http://ww1.sinaimg.cn/large/6233ece3jw1f5oq7q4ejfj243k2b0kjp.jpg\u0022\u003E\u003C/p\u003E\u000A",
+        "replies" : 145,
+        "member" : {
+            "id" : 11888,
+            "username" : "mlhorizon",
+            "tagline" : "做软件，玩硬件；爱生活，爱折腾。",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/94c2/8dcf/11888_mini.png?m=1372641551",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/94c2/8dcf/11888_normal.png?m=1372641551",
+            "avatar_large" : "//cdn.v2ex.co/avatar/94c2/8dcf/11888_large.png?m=1372641551"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 72490,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1467867963",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1467867963",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1467867963"
+        },
+        "created" : 1468133131,
+        "last_modified" : 1468133585,
+        "last_touched" : 1468219131
+    },
+    
+    {
+        "id" : 291524,
+        "title" : "突然想换一个发行版，不知道有什么建议",
+        "url" : "http://www.v2ex.com/t/291524",
+        "content" : "我现在在用 Fedora 23 ，最近 24 版发布了，到 Google 查了一下还没有 AMD 驱动的安装方法。\u000D\u000A\u000D\u000A再加上最近想装个 Steam 别免得无聊或者心烦的时候没事干，突然就想换一个 Linux 发行版。\u000D\u000A\u000D\u000A原先我是想考虑换个 lubuntu 的，不过听说 Ubuntu 16.04 LTS 问题比较多（主要是中文字体换了大家不习惯），再加上我以前用 Ubuntu 系列发行版的时候经常画面卡（不动鼠标画面就不会动那种）以及各种卡顿问题又不想换。\u000D\u000A\u000D\u000A另外我已经用 RPM 系已经有一段时间了，再换成 DEB 系怕一下子反应不过来。\u000D\u000A\u000D\u000A不知道各位有什么建议？\u000D\u000A\u000D\u000A哦对了， Arch 这种既要折腾还不稳定（滚动更新）的就免了，虽然我喜欢折腾但还是要追求稳定。",
+        "content_rendered" : "\u003Cp\u003E我现在在用 Fedora 23 ，最近 24 版发布了，到 Google 查了一下还没有 AMD 驱动的安装方法。\u003C/p\u003E\u000A\u003Cp\u003E再加上最近想装个 Steam 别免得无聊或者心烦的时候没事干，突然就想换一个 Linux 发行版。\u003C/p\u003E\u000A\u003Cp\u003E原先我是想考虑换个 lubuntu 的，不过听说 Ubuntu 16.04 LTS 问题比较多（主要是中文字体换了大家不习惯），再加上我以前用 Ubuntu 系列发行版的时候经常画面卡（不动鼠标画面就不会动那种）以及各种卡顿问题又不想换。\u003C/p\u003E\u000A\u003Cp\u003E另外我已经用 RPM 系已经有一段时间了，再换成 DEB 系怕一下子反应不过来。\u003C/p\u003E\u000A\u003Cp\u003E不知道各位有什么建议？\u003C/p\u003E\u000A\u003Cp\u003E哦对了， Arch 这种既要折腾还不稳定（滚动更新）的就免了，虽然我喜欢折腾但还是要追求稳定。\u003C/p\u003E\u000A",
+        "replies" : 97,
+        "member" : {
+            "id" : 165367,
+            "username" : "DoraJDJ",
+            "tagline" : "DUST.",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/8796/6021/165367_mini.png?m=1467051136",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/8796/6021/165367_normal.png?m=1467051136",
+            "avatar_large" : "//cdn.v2ex.co/avatar/8796/6021/165367_large.png?m=1467051136"
+        },
+        "node" : {
+            "id" : 11,
+            "name" : "linux",
+            "title" : "Linux",
+            "title_alternative" : "Linux",
+            "url" : "http://www.v2ex.com/go/linux",
+            "topics" : 2539,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/6512/bd43/11_mini.png?m=1467868128",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/6512/bd43/11_normal.png?m=1467868128",
+            "avatar_large" : "//cdn.v2ex.co/navatar/6512/bd43/11_large.png?m=1467868128"
+        },
+        "created" : 1468142048,
+        "last_modified" : 1468142048,
+        "last_touched" : 1468162625
+    },
+    
+    {
+        "id" : 291561,
+        "title" : "已决心抛去 Chrome ，全部拥抱 Safari",
+        "url" : "http://www.v2ex.com/t/291561",
+        "content" : "Chrome 的制暖模式确实让人害怕。",
+        "content_rendered" : "Chrome 的制暖模式确实让人害怕。",
+        "replies" : 88,
+        "member" : {
+            "id" : 55846,
+            "username" : "boro",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/9be7/9c01/55846_mini.png?m=1433917021",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/9be7/9c01/55846_normal.png?m=1433917021",
+            "avatar_large" : "//cdn.v2ex.co/avatar/9be7/9c01/55846_large.png?m=1433917021"
+        },
+        "node" : {
+            "id" : 22,
+            "name" : "macos",
+            "title" : "macOS",
+            "title_alternative" : "macOS",
+            "url" : "http://www.v2ex.com/go/macos",
+            "topics" : 8462,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/b6d7/67d2/22_mini.png?m=1467834994",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/b6d7/67d2/22_normal.png?m=1467834994",
+            "avatar_large" : "//cdn.v2ex.co/navatar/b6d7/67d2/22_large.png?m=1467834994"
+        },
+        "created" : 1468157599,
+        "last_modified" : 1468157599,
+        "last_touched" : 1468215995
+    },
+    
+    {
+        "id" : 291593,
+        "title" : "千万 PV 级别的网站，如何解决大流量的烦恼？",
+        "url" : "http://www.v2ex.com/t/291593",
+        "content" : "网站目前达到千万 pv/天，但是每到晚上流量高峰期，就经常打开缓慢，或者出现 503 错误等等，希望找一个高手帮忙优化下， Q\u002D\u002DQ15 七 8 零 666 二八，有重谢！（希望懂得 php7 以及 mysql 的优化，python）",
+        "content_rendered" : "\u003Cp\u003E网站目前达到千万 pv/天，但是每到晚上流量高峰期，就经常打开缓慢，或者出现 503 错误等等，希望找一个高手帮忙优化下， Q\u002D\u002DQ15 七 8 零 666 二八，有重谢！（希望懂得 php7 以及 mysql 的优化，python）\u003C/p\u003E\u000A",
+        "replies" : 69,
+        "member" : {
+            "id" : 177764,
+            "username" : "playboy1357",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/801881966ad4d972cbfabf0ab0b1e1b1?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/801881966ad4d972cbfabf0ab0b1e1b1?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/801881966ad4d972cbfabf0ab0b1e1b1?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 622,
+            "name" : "devops",
+            "title" : "DevOps",
+            "title_alternative" : "DevOps",
+            "url" : "http://www.v2ex.com/go/devops",
+            "topics" : 131,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/3871/bd64/622_mini.png?m=1467366630",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/3871/bd64/622_normal.png?m=1467366630",
+            "avatar_large" : "//cdn.v2ex.co/navatar/3871/bd64/622_large.png?m=1467366630"
+        },
+        "created" : 1468167806,
+        "last_modified" : 1468170838,
+        "last_touched" : 1468218978
+    },
+    
+    {
+        "id" : 291499,
+        "title" : "第一次遇到这样厚颜无耻之人",
+        "url" : "http://www.v2ex.com/t/291499",
+        "content" : "其实把代码放到 Github 上我就预想到有人会换名字作为自己的作品的了。但是这些都无所谓。我都不在乎，但是确实有一些人实在是太恶心了，我这里这是列出来一下给大家看看，吐槽一下。\u000D\u000A\u000D\u000A这个是我的作品： https://github.com/LoeiFy/Diaspora\u000D\u000A\u000D\u000A这个是另一个人的： https://github.com/wichie/icamera\u000D\u000A\u000D\u000A简单点说，这个人就是把我代码拷贝过去，然后把所有相关信息改称他的\u000D\u000A\u000D\u000A还有跟无耻的是，这个人拿我代码拿去卖： https://github.com/LoeiFy/Diaspora/issues/3\u000D\u000A\u000D\u000A想之前他还加我微信，我还好心的帮他解决问题，我还是 too young 啊\u000D\u000A\u000D\u000A这些恶心的事情都是同一人做的，我还真是开了眼界",
+        "content_rendered" : "\u003Cp\u003E其实把代码放到 Github 上我就预想到有人会换名字作为自己的作品的了。但是这些都无所谓。我都不在乎，但是确实有一些人实在是太恶心了，我这里这是列出来一下给大家看看，吐槽一下。\u003C/p\u003E\u000A\u003Cp\u003E这个是我的作品： \u003Ca href\u003D\u0022https://github.com/LoeiFy/Diaspora\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://github.com/LoeiFy/Diaspora\u003C/a\u003E\u003C/p\u003E\u000A\u003Cp\u003E这个是另一个人的： \u003Ca href\u003D\u0022https://github.com/wichie/icamera\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://github.com/wichie/icamera\u003C/a\u003E\u003C/p\u003E\u000A\u003Cp\u003E简单点说，这个人就是把我代码拷贝过去，然后把所有相关信息改称他的\u003C/p\u003E\u000A\u003Cp\u003E还有跟无耻的是，这个人拿我代码拿去卖： \u003Ca href\u003D\u0022https://github.com/LoeiFy/Diaspora/issues/3\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://github.com/LoeiFy/Diaspora/issues/3\u003C/a\u003E\u003C/p\u003E\u000A\u003Cp\u003E想之前他还加我微信，我还好心的帮他解决问题，我还是 too young 啊\u003C/p\u003E\u000A\u003Cp\u003E这些恶心的事情都是同一人做的，我还真是开了眼界\u003C/p\u003E\u000A",
+        "replies" : 63,
+        "member" : {
+            "id" : 42922,
+            "username" : "coraline",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/f0ab/ad49/42922_mini.png?m=1395712423",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/f0ab/ad49/42922_normal.png?m=1395712423",
+            "avatar_large" : "//cdn.v2ex.co/avatar/f0ab/ad49/42922_large.png?m=1395712423"
+        },
+        "node" : {
+            "id" : 16,
+            "name" : "share",
+            "title" : "分享发现",
+            "title_alternative" : "Share",
+            "url" : "http://www.v2ex.com/go/share",
+            "topics" : 19670,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c74d/97b0/16_mini.png?m=1467971141",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c74d/97b0/16_normal.png?m=1467971141",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c74d/97b0/16_large.png?m=1467971141"
+        },
+        "created" : 1468134268,
+        "last_modified" : 1468134268,
+        "last_touched" : 1468211646
+    },
+    
+    {
+        "id" : 291497,
+        "title" : "[MSDN 我告诉你] 域名过期了.....",
+        "url" : "http://www.v2ex.com/t/291497",
+        "content" : "有谁知道是站长忘记续费了还是......",
+        "content_rendered" : "\u003Cp\u003E有谁知道是站长忘记续费了还是......\u003C/p\u003E\u000A",
+        "replies" : 62,
+        "member" : {
+            "id" : 112291,
+            "username" : "mikicomo",
+            "tagline" : "行若无事　汝心所向　梦之彼方",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/98a6/df6c/112291_mini.png?m=1450001371",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/98a6/df6c/112291_normal.png?m=1450001371",
+            "avatar_large" : "//cdn.v2ex.co/avatar/98a6/df6c/112291_large.png?m=1450001371"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 12513,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1468214837",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1468214837",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1468214837"
+        },
+        "created" : 1468133883,
+        "last_modified" : 1468133883,
+        "last_touched" : 1468197949
+    },
+    
+    {
+        "id" : 291653,
+        "title" : "Pokemon Go 国内解封了？",
+        "url" : "http://www.v2ex.com/t/291653",
+        "content" : "坐标上海，刚在一个 stop 刷出精灵球了， nearby 重新能看到 pokemon 了",
+        "content_rendered" : "坐标上海，刚在一个 stop 刷出精灵球了， nearby 重新能看到 pokemon 了",
+        "replies" : 57,
+        "member" : {
+            "id" : 4560,
+            "username" : "windmils",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/bed4b5ce9c2c3295b795491a8a97cd8d?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/bed4b5ce9c2c3295b795491a8a97cd8d?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/bed4b5ce9c2c3295b795491a8a97cd8d?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 926,
+            "name" : "pokemon",
+            "title" : "精灵宝可梦",
+            "title_alternative" : "Pokémon",
+            "url" : "http://www.v2ex.com/go/pokemon",
+            "topics" : 18,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/cbb6/a3b8/926_mini.png?m=1468046738",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/cbb6/a3b8/926_normal.png?m=1468046738",
+            "avatar_large" : "//cdn.v2ex.co/navatar/cbb6/a3b8/926_large.png?m=1468046738"
+        },
+        "created" : 1468206292,
+        "last_modified" : 1468206292,
+        "last_touched" : 1468218094
+    },
+    
+    {
+        "id" : 291623,
+        "title" : "发起个讨论，你们公司有 code review 吗？",
+        "url" : "http://www.v2ex.com/t/291623",
+        "content" : "code review 好处很多，可以规范代码、传递知识和保证代码质量等，但是因为项目进度和其他因素，不一定保证 review 被有效执行。请教各路大神都是怎么做的？有没有啥套路、工具、方法之类的。",
+        "content_rendered" : "\u003Cp\u003Ecode review 好处很多，可以规范代码、传递知识和保证代码质量等，但是因为项目进度和其他因素，不一定保证 review 被有效执行。请教各路大神都是怎么做的？有没有啥套路、工具、方法之类的。\u003C/p\u003E\u000A",
+        "replies" : 50,
+        "member" : {
+            "id" : 75153,
+            "username" : "zzzzzy",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/606a48f1e154f644f297bd2e6438b779?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/606a48f1e154f644f297bd2e6438b779?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/606a48f1e154f644f297bd2e6438b779?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 12513,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1468214837",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1468214837",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1468214837"
+        },
+        "created" : 1468202542,
+        "last_modified" : 1468202542,
+        "last_touched" : 1468218272
+    },
+    
+    {
+        "id" : 291550,
+        "title" : "保护眼睛用什么软件比较好？",
+        "url" : "http://www.v2ex.com/t/291550",
+        "content" : "整天盯着电脑，感觉最近看东西都是模糊的：（",
+        "content_rendered" : "整天盯着电脑，感觉最近看东西都是模糊的：（",
+        "replies" : 50,
+        "member" : {
+            "id" : 176882,
+            "username" : "clorts",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/fe8d591b55ed6b752467eaec27b9e57f?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/fe8d591b55ed6b752467eaec27b9e57f?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/fe8d591b55ed6b752467eaec27b9e57f?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 12513,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1468214837",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1468214837",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1468214837"
+        },
+        "created" : 1468152358,
+        "last_modified" : 1468152358,
+        "last_touched" : 1468215992
+    },
+    
+    {
+        "id" : 291595,
+        "title" : "多次失败后真诚求内推\u002DFLAG, Twitter, Uber,Apple, Yahoo 等",
+        "url" : "http://www.v2ex.com/t/291595",
+        "content" : "我曾经在 mitbbs ，一亩三分地， LinkedInTwitter 搜索内推信息，虽然很多人贴上自己邮箱说可以内推，但是发了 50 个人，基本没有人回复。我也试过向其他公司直接 online 申请，几个被拒，大多数没有回复。\u000D\u000A现在我只想到 V2EX 了(⊙o⊙) 请问有朋友可以提供北美公司的内推吗？我经过考虑，还是想去体验下外面的公司。日本，德国这些都在考虑中\u000D\u000A\u000D\u000A我是国内大三下 new grad ，现在重复刷了 100 道 leetcode 的题目以及其他 100 道 ACM 题目。\u000D\u000A我的中文简历是： http://av.jejeso.com/yonghao2.pdf \u000D\u000A英文简历是： http://av.jejeso.com/YongHao%20Hu\u002DResume.pdf\u000D\u000A我的第三人称简介是：\u000D\u000AStudent of Guangdong Pharmaceutical University, major in Computer Science.\u000D\u000A\u000D\u000AExperienced in C, C++ and PHP, familiar with Python.\u000D\u000A\u000D\u000AContributor of WineHQ, had sent more than 50 patches about VC++ runtime(msvcr/msvcp). Some of them are the implementation of tr2::Filesystem Library, tests of tr2::Threads and implementation of complex istream and ostream::operator. See  http://source.winehq.org/git/wine.git/?a\u003Dsearch\u0026h\u003DHEAD\u0026st\u003Dauthor\u0026s\u003DYongHao+Hu\u0026sr\u003D1\u000D\u000A\u000D\u000AAccepted by Google Summer Of Code 2015, project is implementing Filesystem functions from tr2 namespace on Wine.\u000D\u000A\u000D\u000A谢谢大家！",
+        "content_rendered" : "我曾经在 mitbbs ，一亩三分地， LinkedInTwitter 搜索内推信息，虽然很多人贴上自己邮箱说可以内推，但是发了 50 个人，基本没有人回复。我也试过向其他公司直接 online 申请，几个被拒，大多数没有回复。\u000D\u003Cbr /\u003E现在我只想到 V2EX 了(⊙o⊙) 请问有朋友可以提供北美公司的内推吗？我经过考虑，还是想去体验下外面的公司。日本，德国这些都在考虑中\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E我是国内大三下 new grad ，现在重复刷了 100 道 leetcode 的题目以及其他 100 道 ACM 题目。\u000D\u003Cbr /\u003E我的中文简历是： \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://av.jejeso.com/yonghao2.pdf\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://av.jejeso.com/yonghao2.pdf\u003C/a\u003E \u000D\u003Cbr /\u003E英文简历是： \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://av.jejeso.com/YongHao%20Hu\u002DResume.pdf\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://av.jejeso.com/YongHao%20Hu\u002DResume.pdf\u003C/a\u003E\u000D\u003Cbr /\u003E我的第三人称简介是：\u000D\u003Cbr /\u003EStudent of Guangdong Pharmaceutical University, major in Computer Science.\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003EExperienced in C, C++ and PHP, familiar with Python.\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003EContributor of WineHQ, had sent more than 50 patches about VC++ runtime(msvcr/msvcp). Some of them are the implementation of tr2::Filesystem Library, tests of tr2::Threads and implementation of complex istream and ostream::operator. See  \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://source.winehq.org/git/wine.git/?a\u003Dsearch\u0026amp\u003Bh\u003DHEAD\u0026amp\u003Bst\u003Dauthor\u0026amp\u003Bs\u003DYongHao+Hu\u0026amp\u003Bsr\u003D1\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://source.winehq.org/git/wine.git/?a\u003Dsearch\u0026amp\u003Bh\u003DHEAD\u0026amp\u003Bst\u003Dauthor\u0026amp\u003Bs\u003DYongHao+Hu\u0026amp\u003Bsr\u003D1\u003C/a\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003EAccepted by Google Summer Of Code 2015, project is implementing Filesystem functions from tr2 namespace on Wine.\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E谢谢大家！",
+        "replies" : 41,
+        "member" : {
+            "id" : 164255,
+            "username" : "ChristopherWu",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/d7ea9a378d5409478f2717aae6354396?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/d7ea9a378d5409478f2717aae6354396?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/d7ea9a378d5409478f2717aae6354396?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 507,
+            "name" : "cv",
+            "title" : "求职",
+            "title_alternative" : "CV",
+            "url" : "http://www.v2ex.com/go/cv",
+            "topics" : 2122,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/2d6c/c4b2/507_mini.png?m=1467630284",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/2d6c/c4b2/507_normal.png?m=1467630284",
+            "avatar_large" : "//cdn.v2ex.co/navatar/2d6c/c4b2/507_large.png?m=1467630284"
+        },
+        "created" : 1468168064,
+        "last_modified" : 1468168064,
+        "last_touched" : 1468214012
+    }
+    
+]

@@ -1,0 +1,282 @@
+[
+
+    {
+        "id" : 297032,
+        "title" : "各位升级完 WIN10 周年更新的用起来怎么样？",
+        "url" : "http://www.v2ex.com/t/297032",
+        "content" : "我看微博上好多蓝屏、死机的，吓的我不敢升了...",
+        "content_rendered" : "我看微博上好多蓝屏、死机的，吓的我不敢升了...",
+        "replies" : 134,
+        "member" : {
+            "id" : 15072,
+            "username" : "depress",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/0a90/e494/15072_mini.png?m=1342442015",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/0a90/e494/15072_normal.png?m=1342442015",
+            "avatar_large" : "//cdn.v2ex.co/avatar/0a90/e494/15072_large.png?m=1342442015"
+        },
+        "node" : {
+            "id" : 360,
+            "name" : "windows",
+            "title" : "Windows",
+            "title_alternative" : "Windows",
+            "url" : "http://www.v2ex.com/go/windows",
+            "topics" : 535,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/e7b2/4b11/360_mini.png?m=1470282277",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/e7b2/4b11/360_normal.png?m=1470282277",
+            "avatar_large" : "//cdn.v2ex.co/navatar/e7b2/4b11/360_large.png?m=1470282277"
+        },
+        "created" : 1470280130,
+        "last_modified" : 1470280130,
+        "last_touched" : 1470360402
+    },
+
+    {
+        "id" : 297094,
+        "title" : "国产开源 NAS 系统内测招募",
+        "url" : "http://www.v2ex.com/t/297094",
+        "content" : "情况是这样的，我们是国内的软件公司，目前我们自主开发的免费 NAS OS 准备内测，现在招募愿意折腾的朋友，有意者可以加入一下我们的 QQ 群 469096636.\u000D\u000A\u000D\u000A我们的 OS 叫 Wisnuc Appifi ，总结一下有这么几个特点：\u000D\u000A\u000D\u000A1.免费正版\u000D\u000A2.围绕 Docker 做的 OS ，可以一键安装 Owncloud,Wordpress,Transmisson 等热门 Docker 应用，并且应用还在不断扩展中。\u000D\u000A3.移动端 PC 端均有适配软件。\u000D\u000A\u000D\u000A开发者可以移步下面网址看看我们的介绍：\u000D\u000A\u000D\u000Ahttp://bbs.winsuntech.cn/showtopic\u002D13940.aspx\u000D\u000A\u000D\u000A完整的系统介绍：\u000D\u000A\u000D\u000Ahttp://bbs.winsuntech.cn/showtopic\u002D13933.aspx\u000D\u000A\u000D\u000A\u000D\u000A目前我们在 QQ 群里发布了 U 盘版，标准 X86 的机器都可以使用起来，身边有闲置的笔记本也都能够利用起来，感兴趣的话可以加入一下我们的 QQ 群，群文件内有文件下载！",
+        "content_rendered" : "情况是这样的，我们是国内的软件公司，目前我们自主开发的免费 NAS OS 准备内测，现在招募愿意折腾的朋友，有意者可以加入一下我们的 QQ 群 469096636.\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E我们的 OS 叫 Wisnuc Appifi ，总结一下有这么几个特点：\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E1.免费正版\u000D\u003Cbr /\u003E2.围绕 Docker 做的 OS ，可以一键安装 Owncloud,Wordpress,Transmisson 等热门 Docker 应用，并且应用还在不断扩展中。\u000D\u003Cbr /\u003E3.移动端 PC 端均有适配软件。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E开发者可以移步下面网址看看我们的介绍：\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://bbs.winsuntech.cn/showtopic\u002D13940.aspx\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://bbs.winsuntech.cn/showtopic\u002D13940.aspx\u003C/a\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E完整的系统介绍：\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://bbs.winsuntech.cn/showtopic\u002D13933.aspx\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://bbs.winsuntech.cn/showtopic\u002D13933.aspx\u003C/a\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E目前我们在 QQ 群里发布了 U 盘版，标准 X86 的机器都可以使用起来，身边有闲置的笔记本也都能够利用起来，感兴趣的话可以加入一下我们的 QQ 群，群文件内有文件下载！",
+        "replies" : 86,
+        "member" : {
+            "id" : 174886,
+            "username" : "Tervor",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/5c8c/90ae/174886_mini.png?m=1470290615",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/5c8c/90ae/174886_normal.png?m=1470290615",
+            "avatar_large" : "//cdn.v2ex.co/avatar/5c8c/90ae/174886_large.png?m=1470290615"
+        },
+        "node" : {
+            "id" : 11,
+            "name" : "linux",
+            "title" : "Linux",
+            "title_alternative" : "Linux",
+            "url" : "http://www.v2ex.com/go/linux",
+            "topics" : 2597,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/6512/bd43/11_mini.png?m=1469612626",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/6512/bd43/11_normal.png?m=1469612626",
+            "avatar_large" : "//cdn.v2ex.co/navatar/6512/bd43/11_large.png?m=1469612626"
+        },
+        "created" : 1470290948,
+        "last_modified" : 1470290948,
+        "last_touched" : 1470361168
+    },
+
+    {
+        "id" : 297125,
+        "title" : "在西安月薪 2.5 万是啥体验？是不是工资一般？",
+        "url" : "http://www.v2ex.com/t/297125",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 85,
+        "member" : {
+            "id" : 169925,
+            "username" : "ideaplat",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/475a9d595d4a996bbdd34cd130416e3b?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/475a9d595d4a996bbdd34cd130416e3b?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/475a9d595d4a996bbdd34cd130416e3b?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 770,
+            "name" : "career",
+            "title" : "职场话题",
+            "title_alternative" : "Career",
+            "url" : "http://www.v2ex.com/go/career",
+            "topics" : 1739,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1467368688",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1467368688",
+            "avatar_large" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1467368688"
+        },
+        "created" : 1470297393,
+        "last_modified" : 1470306643,
+        "last_touched" : 1470360987
+    },
+
+    {
+        "id" : 297070,
+        "title" : "对于守望先锋收费 198 有什么看法？",
+        "url" : "http://www.v2ex.com/t/297070",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 82,
+        "member" : {
+            "id" : 169925,
+            "username" : "ideaplat",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/475a9d595d4a996bbdd34cd130416e3b?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/475a9d595d4a996bbdd34cd130416e3b?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/475a9d595d4a996bbdd34cd130416e3b?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 913,
+            "name" : "overwatch",
+            "title" : "Overwatch",
+            "title_alternative" : "Overwatch",
+            "url" : "http://www.v2ex.com/go/overwatch",
+            "topics" : 35,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/8b50/40a8/913_mini.png?m=1466493764",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/8b50/40a8/913_normal.png?m=1466493764",
+            "avatar_large" : "//cdn.v2ex.co/navatar/8b50/40a8/913_large.png?m=1466493764"
+        },
+        "created" : 1470287006,
+        "last_modified" : 1470287684,
+        "last_touched" : 1470326921
+    },
+
+    {
+        "id" : 297081,
+        "title" : "同事非让我把代码写成这样，该怎么办？",
+        "url" : "http://www.v2ex.com/t/297081",
+        "content" : "我们代码提交有比较严格的 review 机制，必须得到两个人以上点赞了，才能够 merge 。\u000D\u000A\u000D\u000A写 lexer 的时候，提交的一段代码，用了个 trie 结构打了张表，遍历得到相应的 token 。\u000D\u000A\u000D\u000A```\u000D\u000A\u0009// search a trie to scan a token\u000D\u000A\u0009ch :\u003D ch0\u000D\u000A\u0009node :\u003D \u0026ruleTable\u000D\u000A\u0009for {\u000D\u000A\u0009\u0009if node.childs[ch] \u003D\u003D nil || s.r.eof() {\u000D\u000A\u0009\u0009\u0009break\u000D\u000A\u0009\u0009}\u000D\u000A\u0009\u0009node \u003D node.childs[ch]\u000D\u000A\u0009\u0009s.r.inc()\u000D\u000A\u0009\u0009ch \u003D s.r.peek()\u000D\u000A\u0009}\u000D\u000A\u000D\u000A\u000D\u000A\u0009initTokenByte(\u0027\u003E\u0027, int(\u0027\u003E\u0027))\u000D\u000A\u0009initTokenByte(\u0027\u003C\u0027, int(\u0027\u003C\u0027))\u000D\u000A\u0009initTokenByte(\u0027(\u0027, int(\u0027(\u0027))\u000D\u000A\u0009initTokenByte(\u0027)\u0027, int(\u0027)\u0027))\u000D\u000A\u0009initTokenByte(\u0027\u003B\u0027, int(\u0027\u003B\u0027))\u000D\u000A\u0009initTokenByte(\u0027,\u0027, int(\u0027,\u0027))\u000D\u000A\u0009initTokenByte(\u0027\u0026\u0027, int(\u0027\u0026\u0027))\u000D\u000A\u0009initTokenByte(\u0027%\u0027, int(\u0027%\u0027))\u000D\u000A\u0009initTokenByte(\u0027:\u0027, int(\u0027:\u0027))\u000D\u000A\u0009initTokenByte(\u0027|\u0027, int(\u0027|\u0027))\u000D\u000A\u0009initTokenByte(\u0027!\u0027, int(\u0027!\u0027))\u000D\u000A\u0009initTokenByte(\u0027^\u0027, int(\u0027^\u0027))\u000D\u000A\u0009initTokenByte(\u0027~\u0027, int(\u0027~\u0027))\u000D\u000A\u0009initTokenByte(\u0027\u005C\u005C\u0027, int(\u0027\u005C\u005C\u0027))\u000D\u000A\u0009initTokenByte(\u0027?\u0027, placeholder)\u000D\u000A\u0009initTokenByte(\u0027\u003D\u0027, eq)\u000D\u000A\u000D\u000A\u0009initTokenString(\u0022||\u0022, oror)\u000D\u000A\u0009initTokenString(\u0022\u0026\u0026\u0022, andand)\u000D\u000A\u0009initTokenString(\u0022\u0026^\u0022, andnot)\u000D\u000A\u0009initTokenString(\u0022:\u003D\u0022, assignmentEq)\u000D\u000A\u0009initTokenString(\u0022\u003C\u003D\u003E\u0022, nulleq)\u000D\u000A\u0009initTokenString(\u0022\u003E\u003D\u0022, ge)\u000D\u000A\u0009initTokenString(\u0022\u003C\u003D\u0022, le)\u000D\u000A\u0009initTokenString(\u0022!\u003D\u0022, neq)\u000D\u000A\u0009initTokenString(\u0022\u003C\u003E\u0022, neqSynonym)\u000D\u000A\u0009initTokenString(\u0022\u003C\u003C\u0022, lsh)\u000D\u000A\u0009initTokenString(\u0022\u003E\u003E\u0022, rsh)\u000D\u000A```\u000D\u000A\u000D\u000A有个同事非要把代码改成这样子，用非常长的 switch\u002Dcase ，代码丑到暴：\u000D\u000A\u000D\u000A```\u000D\u000A\u0009switch ch0 {\u000D\u000A\u0009case \u0027|\u0027:\u000D\u000A\u0009\u0009s.r.inc()\u000D\u000A\u0009\u0009if s.r.peek() \u003D\u003D \u0027|\u0027 {\u000D\u000A\u0009\u0009\u0009s.r.inc()\u000D\u000A\u0009\u0009\u0009return oror\u000D\u000A\u0009\u0009}\u000D\u000A\u0009\u0009return \u0027|\u0027\u000D\u000A\u0009case \u0027\u0026\u0027:\u000D\u000A\u0009\u0009s.r.inc()\u000D\u000A\u0009\u0009switch s.r.peek() {\u000D\u000A\u0009\u0009case \u0027\u0026\u0027:\u000D\u000A\u0009\u0009\u0009s.r.inc()\u000D\u000A\u0009\u0009\u0009return andand\u000D\u000A\u0009\u0009case \u0027^\u0027:\u000D\u000A\u0009\u0009\u0009s.r.inc()\u000D\u000A\u0009\u0009\u0009return andnot\u000D\u000A\u0009\u0009}\u000D\u000A\u0009\u0009return \u0027|\u0027\u000D\u000A\u0009case \u0027\u003C\u0027:\u000D\u000A\u0009\u0009s.r.inc()\u000D\u000A\u0009\u0009ch1 :\u003D s.r.inc()\u000D\u000A\u0009\u0009switch ch1 {\u000D\u000A\u0009\u0009case \u0027\u003D\u0027:\u000D\u000A\u0009\u0009\u0009s.r.inc()\u000D\u000A\u0009\u0009\u0009if s.r.peek() \u003D\u003D \u0027\u003E\u0027 {\u000D\u000A\u0009\u0009\u0009\u0009s.r.inc()\u000D\u000A\u0009\u0009\u0009\u0009return \u0027\u003E\u0027\u000D\u000A\u0009\u0009\u0009}\u000D\u000A\u0009\u0009\u0009return \u0027\u003D\u0027\u000D\u000A\u0009\u0009}\u000D\u000A\u0009\u0009return \u0027\u003C\u0027\u000D\u000A\u0009case \u0027!\u0027:\u000D\u000A\u0009\u0009s.r.inc()\u000D\u000A\u0009\u0009if s.r.peek() \u003D\u003D \u0027\u003D\u0027 {\u000D\u000A\u0009\u0009\u0009s.r.inc()\u000D\u000A\u0009\u0009\u0009return neq\u000D\u000A\u0009\u0009}\u000D\u000A\u0009\u0009return \u0027!\u0027\u000D\u000A\u0009\u0009case \u0027@\u0027:\u000D\u000A\u0009\u0009return s.startWithAt()\u000D\u000A\u0009case \u0027/\u0027:\u000D\u000A\u0009\u0009return s.startWithSlash()\u000D\u000A\u0009case \u0027\u002D\u0027:\u000D\u000A\u0009\u0009return s.startWithDash()\u000D\u000A\u0009case \u0027#\u0027:\u000D\u000A\u0009\u0009s.r.incAsLongAs(func(ch byte) bool {\u000D\u000A\u0009\u0009\u0009return ch !\u003D \u0027\u005Cn\u0027\u000D\u000A\u0009\u0009})\u000D\u000A\u0009\u0009return s.scan()\u000D\u000A\u0009}\u000D\u000A\u0009...以下省略几百行的 switch\u002Dcase\u000D\u000A\u0009...\u000D\u000A```\u000D\u000A\u000D\u000A争执在于，他说这样写可读性好，性能高。他认为代码长一点不重要。他认为这样写的代码最直观。 switch\u002Dcase 里面长一点的缩进提出到函数里就行了。\u000D\u000A\u000D\u000A我认为写成这样可读性一点都不好。性能高的那一点点根本不值得把代码写这么丑。代码长了直接影响阅读。提到函数里不会让总的代码量减少，不会被重用的代码提成函数没太多价值。\u000D\u000A\u000D\u000A现在我没法说服他，他没法说服我，但是他不给赞同就没法合进去。我又不想为了得到赞同把自己不喜欢的代码提交进去。\u000D\u000A遇到这种情况我该怎么办？\u000D\u000A\u000D\u000A\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u000D\u000A\u000D\u000A最后补一个笑话：据说写 C++的人分很多派系，有的人喜欢 boost 。有的人不喜欢 boost ，对付异类很简单，用了 boost 的代码 review 就不给通过，他们合不了代码年底评审打分就低，一直打分低就让他让们走人，于是世界就是美好的大同社会了。",
+        "content_rendered" : "\u003Cp\u003E我们代码提交有比较严格的 review 机制，必须得到两个人以上点赞了，才能够 merge 。\u003C/p\u003E\u000A\u003Cp\u003E写 lexer 的时候，提交的一段代码，用了个 trie 结构打了张表，遍历得到相应的 token 。\u003C/p\u003E\u000A\u003Cpre\u003E\u003Ccode\u003E\u0009// search a trie to scan a token\u000A\u0009ch :\u003D ch0\u000A\u0009node :\u003D \u0026amp\u003BruleTable\u000A\u0009for {\u000A\u0009\u0009if node.childs[ch] \u003D\u003D nil || s.r.eof() {\u000A\u0009\u0009\u0009break\u000A\u0009\u0009}\u000A\u0009\u0009node \u003D node.childs[ch]\u000A\u0009\u0009s.r.inc()\u000A\u0009\u0009ch \u003D s.r.peek()\u000A\u0009}\u000A\u000A\u000A\u0009initTokenByte(\u0027\u0026gt\u003B\u0027, int(\u0027\u0026gt\u003B\u0027))\u000A\u0009initTokenByte(\u0027\u0026lt\u003B\u0027, int(\u0027\u0026lt\u003B\u0027))\u000A\u0009initTokenByte(\u0027(\u0027, int(\u0027(\u0027))\u000A\u0009initTokenByte(\u0027)\u0027, int(\u0027)\u0027))\u000A\u0009initTokenByte(\u0027\u003B\u0027, int(\u0027\u003B\u0027))\u000A\u0009initTokenByte(\u0027,\u0027, int(\u0027,\u0027))\u000A\u0009initTokenByte(\u0027\u0026amp\u003B\u0027, int(\u0027\u0026amp\u003B\u0027))\u000A\u0009initTokenByte(\u0027%\u0027, int(\u0027%\u0027))\u000A\u0009initTokenByte(\u0027:\u0027, int(\u0027:\u0027))\u000A\u0009initTokenByte(\u0027|\u0027, int(\u0027|\u0027))\u000A\u0009initTokenByte(\u0027!\u0027, int(\u0027!\u0027))\u000A\u0009initTokenByte(\u0027^\u0027, int(\u0027^\u0027))\u000A\u0009initTokenByte(\u0027~\u0027, int(\u0027~\u0027))\u000A\u0009initTokenByte(\u0027\u005C\u005C\u0027, int(\u0027\u005C\u005C\u0027))\u000A\u0009initTokenByte(\u0027?\u0027, placeholder)\u000A\u0009initTokenByte(\u0027\u003D\u0027, eq)\u000A\u000A\u0009initTokenString(\u0022||\u0022, oror)\u000A\u0009initTokenString(\u0022\u0026amp\u003B\u0026amp\u003B\u0022, andand)\u000A\u0009initTokenString(\u0022\u0026amp\u003B^\u0022, andnot)\u000A\u0009initTokenString(\u0022:\u003D\u0022, assignmentEq)\u000A\u0009initTokenString(\u0022\u0026lt\u003B\u003D\u0026gt\u003B\u0022, nulleq)\u000A\u0009initTokenString(\u0022\u0026gt\u003B\u003D\u0022, ge)\u000A\u0009initTokenString(\u0022\u0026lt\u003B\u003D\u0022, le)\u000A\u0009initTokenString(\u0022!\u003D\u0022, neq)\u000A\u0009initTokenString(\u0022\u0026lt\u003B\u0026gt\u003B\u0022, neqSynonym)\u000A\u0009initTokenString(\u0022\u0026lt\u003B\u0026lt\u003B\u0022, lsh)\u000A\u0009initTokenString(\u0022\u0026gt\u003B\u0026gt\u003B\u0022, rsh)\u000A\u003C/code\u003E\u003C/pre\u003E\u000A\u003Cp\u003E有个同事非要把代码改成这样子，用非常长的 switch\u002Dcase ，代码丑到暴：\u003C/p\u003E\u000A\u003Cpre\u003E\u003Ccode\u003E\u0009switch ch0 {\u000A\u0009case \u0027|\u0027:\u000A\u0009\u0009s.r.inc()\u000A\u0009\u0009if s.r.peek() \u003D\u003D \u0027|\u0027 {\u000A\u0009\u0009\u0009s.r.inc()\u000A\u0009\u0009\u0009return oror\u000A\u0009\u0009}\u000A\u0009\u0009return \u0027|\u0027\u000A\u0009case \u0027\u0026amp\u003B\u0027:\u000A\u0009\u0009s.r.inc()\u000A\u0009\u0009switch s.r.peek() {\u000A\u0009\u0009case \u0027\u0026amp\u003B\u0027:\u000A\u0009\u0009\u0009s.r.inc()\u000A\u0009\u0009\u0009return andand\u000A\u0009\u0009case \u0027^\u0027:\u000A\u0009\u0009\u0009s.r.inc()\u000A\u0009\u0009\u0009return andnot\u000A\u0009\u0009}\u000A\u0009\u0009return \u0027|\u0027\u000A\u0009case \u0027\u0026lt\u003B\u0027:\u000A\u0009\u0009s.r.inc()\u000A\u0009\u0009ch1 :\u003D s.r.inc()\u000A\u0009\u0009switch ch1 {\u000A\u0009\u0009case \u0027\u003D\u0027:\u000A\u0009\u0009\u0009s.r.inc()\u000A\u0009\u0009\u0009if s.r.peek() \u003D\u003D \u0027\u0026gt\u003B\u0027 {\u000A\u0009\u0009\u0009\u0009s.r.inc()\u000A\u0009\u0009\u0009\u0009return \u0027\u0026gt\u003B\u0027\u000A\u0009\u0009\u0009}\u000A\u0009\u0009\u0009return \u0027\u003D\u0027\u000A\u0009\u0009}\u000A\u0009\u0009return \u0027\u0026lt\u003B\u0027\u000A\u0009case \u0027!\u0027:\u000A\u0009\u0009s.r.inc()\u000A\u0009\u0009if s.r.peek() \u003D\u003D \u0027\u003D\u0027 {\u000A\u0009\u0009\u0009s.r.inc()\u000A\u0009\u0009\u0009return neq\u000A\u0009\u0009}\u000A\u0009\u0009return \u0027!\u0027\u000A\u0009\u0009case \u0027@\u0027:\u000A\u0009\u0009return s.startWithAt()\u000A\u0009case \u0027/\u0027:\u000A\u0009\u0009return s.startWithSlash()\u000A\u0009case \u0027\u002D\u0027:\u000A\u0009\u0009return s.startWithDash()\u000A\u0009case \u0027#\u0027:\u000A\u0009\u0009s.r.incAsLongAs(func(ch byte) bool {\u000A\u0009\u0009\u0009return ch !\u003D \u0027\u005Cn\u0027\u000A\u0009\u0009})\u000A\u0009\u0009return s.scan()\u000A\u0009}\u000A\u0009...以下省略几百行的 switch\u002Dcase\u000A\u0009...\u000A\u003C/code\u003E\u003C/pre\u003E\u000A\u003Cp\u003E争执在于，他说这样写可读性好，性能高。他认为代码长一点不重要。他认为这样写的代码最直观。 switch\u002Dcase 里面长一点的缩进提出到函数里就行了。\u003C/p\u003E\u000A\u003Cp\u003E我认为写成这样可读性一点都不好。性能高的那一点点根本不值得把代码写这么丑。代码长了直接影响阅读。提到函数里不会让总的代码量减少，不会被重用的代码提成函数没太多价值。\u003C/p\u003E\u000A\u003Cp\u003E现在我没法说服他，他没法说服我，但是他不给赞同就没法合进去。我又不想为了得到赞同把自己不喜欢的代码提交进去。\u000A遇到这种情况我该怎么办？\u003C/p\u003E\u000A\u003Chr\u003E\u000A\u003Cp\u003E最后补一个笑话：据说写 C++的人分很多派系，有的人喜欢 boost 。有的人不喜欢 boost ，对付异类很简单，用了 boost 的代码 review 就不给通过，他们合不了代码年底评审打分就低，一直打分低就让他让们走人，于是世界就是美好的大同社会了。\u003C/p\u003E\u000A",
+        "replies" : 54,
+        "member" : {
+            "id" : 42762,
+            "username" : "tiancaiamao",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/414b/ec0a/42762_mini.png?m=1397088962",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/414b/ec0a/42762_normal.png?m=1397088962",
+            "avatar_large" : "//cdn.v2ex.co/avatar/414b/ec0a/42762_large.png?m=1397088962"
+        },
+        "node" : {
+            "id" : 413,
+            "name" : "programming",
+            "title" : "编程",
+            "title_alternative" : "Programming",
+            "url" : "http://www.v2ex.com/go/programming",
+            "topics" : 426,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/0deb/1c54/413_mini.png?m=1436505210",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/0deb/1c54/413_normal.png?m=1436505210",
+            "avatar_large" : "//cdn.v2ex.co/navatar/0deb/1c54/413_large.png?m=1436505210"
+        },
+        "created" : 1470288549,
+        "last_modified" : 1470289109,
+        "last_touched" : 1470342303
+    },
+
+    {
+        "id" : 297050,
+        "title" : "微软越来越可爱了！[有图有真相]",
+        "url" : "http://www.v2ex.com/t/297050",
+        "content" : "今天在重启 Windows Explorer 的时候发现的：\u000D\u000A\u000D\u000AWindiws 10 Redstone 的 Task Manager 里面。\u000D\u000A\u000D\u000AWindows Explorer 的操作按钮不再是 End task 而改成了 **Restart**.\u000D\u000A\u000D\u000A\u000D\u000A![]( http://i.imgur.com/xvrCI5X.png)\u000D\u000A\u000D\u000A突然觉得重启  Windows Explorer so esay 了呢。\u000D\u000A微软真的很懂哦。",
+        "content_rendered" : "\u003Cp\u003E今天在重启 Windows Explorer 的时候发现的：\u003C/p\u003E\u000A\u003Cp\u003EWindiws 10 Redstone 的 Task Manager 里面。\u003C/p\u003E\u000A\u003Cp\u003EWindows Explorer 的操作按钮不再是 End task 而改成了 \u003Cstrong\u003ERestart\u003C/strong\u003E.\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://i.imgur.com/xvrCI5X.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E突然觉得重启  Windows Explorer so esay 了呢。\u000A微软真的很懂哦。\u003C/p\u003E\u000A",
+        "replies" : 41,
+        "member" : {
+            "id" : 46679,
+            "username" : "xpol",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/eac18a2f4fa00286b293801f826ce521?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/eac18a2f4fa00286b293801f826ce521?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/eac18a2f4fa00286b293801f826ce521?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 360,
+            "name" : "windows",
+            "title" : "Windows",
+            "title_alternative" : "Windows",
+            "url" : "http://www.v2ex.com/go/windows",
+            "topics" : 535,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/e7b2/4b11/360_mini.png?m=1470282277",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/e7b2/4b11/360_normal.png?m=1470282277",
+            "avatar_large" : "//cdn.v2ex.co/navatar/e7b2/4b11/360_large.png?m=1470282277"
+        },
+        "created" : 1470282633,
+        "last_modified" : 1470283221,
+        "last_touched" : 1470325670
+    },
+
+    {
+        "id" : 297072,
+        "title" : "都说 Filco minila air 好。。。我来吐槽几个大 bug。。。",
+        "url" : "http://www.v2ex.com/t/297072",
+        "content" : "\u003E 系统是 ubuntu 16.04 ， 笔记本电脑\u000D\u000A\u003E1. 蓝牙信号弱，笔记本放在座子底下就经常卡顿。最后不得不加了外接的蓝牙接收器放在桌子上。\u000D\u000A\u003E2. 键盘待机或系统重新启动后，键盘的连接就断开了，而且在 ubuntu 的登陆界面无法设置蓝牙，导致只能通过软键盘输入密码进入系统，更严重的是 xmodmap 的设置也丢失了。\u000D\u000A\u003E3. Fn 无法修改键位，这个是大多数键盘的 bug ，不过 filco 有两个 fn 也不考虑这个需求，太不应该。\u000D\u000A\u003E4. 多台电脑的时候不能快速切换，只能通过断开电脑的蓝牙来实现。效率低下不说，这意味着每台电脑都得额外的配备一个鼠标或键盘。而 ubutnu 系统的图形界面我已经抛弃了鼠标。\u000D\u000A\u003E5.“~”这个键居然有两个，而 ctrl 居然只是一边的。\u000D\u000A\u000D\u000A## 无数的反人类设计，我纳闷为什么 V2EX 的键盘帖子都是 filco 和 hhkb ，电脑贴都是 mac 和 XPS 。有多少人是真正比较过的啊。",
+        "content_rendered" : "\u003Cblockquote\u003E\u000A\u003Cp\u003E系统是 ubuntu 16.04 ， 笔记本电脑\u003C/p\u003E\u000A\u003Col\u003E\u000A\u003Cli\u003E蓝牙信号弱，笔记本放在座子底下就经常卡顿。最后不得不加了外接的蓝牙接收器放在桌子上。\u003C/li\u003E\u000A\u003Cli\u003E键盘待机或系统重新启动后，键盘的连接就断开了，而且在 ubuntu 的登陆界面无法设置蓝牙，导致只能通过软键盘输入密码进入系统，更严重的是 xmodmap 的设置也丢失了。\u003C/li\u003E\u000A\u003Cli\u003EFn 无法修改键位，这个是大多数键盘的 bug ，不过 filco 有两个 fn 也不考虑这个需求，太不应该。\u003C/li\u003E\u000A\u003Cli\u003E多台电脑的时候不能快速切换，只能通过断开电脑的蓝牙来实现。效率低下不说，这意味着每台电脑都得额外的配备一个鼠标或键盘。而 ubutnu 系统的图形界面我已经抛弃了鼠标。\u000A5.“~”这个键居然有两个，而 ctrl 居然只是一边的。\u003C/li\u003E\u000A\u003C/ol\u003E\u000A\u003C/blockquote\u003E\u000A\u003Ch2\u003E无数的反人类设计，我纳闷为什么 V2EX 的键盘帖子都是 filco 和 hhkb ，电脑贴都是 mac 和 XPS 。有多少人是真正比较过的啊。\u003C/h2\u003E\u000A",
+        "replies" : 41,
+        "member" : {
+            "id" : 33357,
+            "username" : "yech1990",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/bdeb/e2f1/33357_mini.png?m=1359567498",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/bdeb/e2f1/33357_normal.png?m=1359567498",
+            "avatar_large" : "//cdn.v2ex.co/avatar/bdeb/e2f1/33357_large.png?m=1359567498"
+        },
+        "node" : {
+            "id" : 693,
+            "name" : "mechanical",
+            "title" : "机械键盘",
+            "title_alternative" : "Mechanical Keyboard",
+            "url" : "http://www.v2ex.com/go/mechanical",
+            "topics" : 414,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/53e3/a716/693_mini.png?m=1442293085",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/53e3/a716/693_normal.png?m=1442293085",
+            "avatar_large" : "//cdn.v2ex.co/navatar/53e3/a716/693_large.png?m=1442293085"
+        },
+        "created" : 1470287115,
+        "last_modified" : 1470288679,
+        "last_touched" : 1470333153
+    },
+
+    {
+        "id" : 297097,
+        "title" : "256GB SSD 安装 Linux ，如何分配各个挂载点？",
+        "url" : "http://www.v2ex.com/t/297097",
+        "content" : "机子的内存是 8GB 的，不知道我下面这个配置行不行？\u000D\u000A\u000D\u000A\u000D\u000A512 MB /boot \u000D\u000A8 Gig /swap \u000D\u000A50 Gig / \u000D\u000Arest /home",
+        "content_rendered" : "机子的内存是 8GB 的，不知道我下面这个配置行不行？\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E512 MB /boot \u000D\u003Cbr /\u003E8 Gig /swap \u000D\u003Cbr /\u003E50 Gig / \u000D\u003Cbr /\u003Erest /home",
+        "replies" : 38,
+        "member" : {
+            "id" : 71794,
+            "username" : "DaCong",
+            "tagline" : "Work hard every day.",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/db03/0f90/71794_mini.png?m=1442650498",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/db03/0f90/71794_normal.png?m=1442650498",
+            "avatar_large" : "//cdn.v2ex.co/avatar/db03/0f90/71794_large.png?m=1442650498"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 73677,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1469612548",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1469612548",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1469612548"
+        },
+        "created" : 1470291458,
+        "last_modified" : 1470291458,
+        "last_touched" : 1470313117
+    },
+
+    {
+        "id" : 297208,
+        "title" : "结婚之前都要进行哪些必要的体验项目？",
+        "url" : "http://www.v2ex.com/t/297208",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 33,
+        "member" : {
+            "id" : 28881,
+            "username" : "googlefans",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/27b5/429c/28881_mini.png?m=1351474159",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/27b5/429c/28881_normal.png?m=1351474159",
+            "avatar_large" : "//cdn.v2ex.co/avatar/27b5/429c/28881_large.png?m=1351474159"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 73677,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1469612548",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1469612548",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1469612548"
+        },
+        "created" : 1470318492,
+        "last_modified" : 1470318492,
+        "last_touched" : 1470360640
+    }
+
+]

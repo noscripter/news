@@ -1,0 +1,72 @@
+[
+    {
+        "author": "sarcadass",
+        "category": "JavaScript",
+        "stars": "613",
+        "title": "granim.js - Create fluid and interactive gradients animations with this small (< 10 kB) js library.",
+        "url": "https://github.com/sarcadass/granim.js"
+    },
+    {
+        "author": "tmrts",
+        "category": "Go",
+        "stars": "449",
+        "title": "go-patterns - A curated list of Go patterns and idioms",
+        "url": "https://github.com/tmrts/go-patterns"
+    },
+    {
+        "author": "ElemeFE",
+        "category": "Vue",
+        "stars": "342",
+        "title": "element - Desktop UI elements for Vue.js 2.0",
+        "url": "https://github.com/ElemeFE/element"
+    },
+    {
+        "author": "BitFunnel",
+        "category": "C++",
+        "stars": "334",
+        "title": "NativeJIT - Open sourcing a JIT. Documentation not yet ready for public consumption",
+        "url": "https://github.com/BitFunnel/NativeJIT"
+    },
+    {
+        "author": "HotBitmapGG",
+        "category": "Java",
+        "stars": "253",
+        "title": "CreditSesameRingView - Imitation of Ali credit sesame new old ring view.http://www.jianshu.com/p/8486a5baa708",
+        "url": "https://github.com/HotBitmapGG/CreditSesameRingView"
+    },
+    {
+        "author": "shekhargulati",
+        "category": "JavaScript",
+        "stars": "241",
+        "title": "52-technologies-in-2016 - Let's learn a new technology every week. A new technology blog every Sunday in 2016.",
+        "url": "https://github.com/shekhargulati/52-technologies-in-2016"
+    },
+    {
+        "author": "heynickc",
+        "category": "",
+        "stars": "230",
+        "title": "awesome-ddd - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
+        "url": "https://github.com/heynickc/awesome-ddd"
+    },
+    {
+        "author": "sylnsfar",
+        "category": "Python",
+        "stars": "215",
+        "title": "qrcode - artistic QR Code in Python \uff08Animated GIF qr code\uff09- Python \u827a\u672f\u4e8c\u7ef4\u7801\u751f\u6210\u5668 \uff08GIF\u52a8\u6001\u4e8c\u7ef4\u7801\u3001\u56fe\u7247\u4e8c\u7ef4\u7801\uff09",
+        "url": "https://github.com/sylnsfar/qrcode"
+    },
+    {
+        "author": "still-life-studios",
+        "category": "CSS",
+        "stars": "209",
+        "title": "txt.wav - some weird text animations the internet deserves",
+        "url": "https://github.com/still-life-studios/txt.wav"
+    },
+    {
+        "author": "rubensousa",
+        "category": "Java",
+        "stars": "200",
+        "title": "RecyclerViewSnap - RecyclerView snapping example with SnapHelper",
+        "url": "https://github.com/rubensousa/RecyclerViewSnap"
+    }
+]

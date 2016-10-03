@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "751",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "braydie",
+        "category": "",
+        "stars": "690",
+        "title": "HowToBeAProgrammer - A guide on how to be a Programmer - originally published by Robert L Read",
+        "url": "https://github.com/braydie/HowToBeAProgrammer"
+    },
+    {
+        "author": "citusdata",
+        "category": "C",
+        "stars": "593",
+        "title": "citus - Scalable PostgreSQL",
+        "url": "https://github.com/citusdata/citus"
+    },
+    {
+        "author": "toddmotto",
+        "category": "",
+        "stars": "519",
+        "title": "public-apis - A collective list of public JSON APIs for use in web development.",
+        "url": "https://github.com/toddmotto/public-apis"
+    },
+    {
+        "author": "jezen",
+        "category": "JavaScript",
+        "stars": "349",
+        "title": "is-thirteen - Check if a number is equal to 13.",
+        "url": "https://github.com/jezen/is-thirteen"
+    },
+    {
+        "author": "gravitational",
+        "category": "JavaScript",
+        "stars": "319",
+        "title": "teleport - SSH infrastructure for clusters and teams",
+        "url": "https://github.com/gravitational/teleport"
+    },
+    {
+        "author": "appetizermonster",
+        "category": "JavaScript",
+        "stars": "277",
+        "title": "hain - An 'alt+space' launcher for Windows, built with Electron",
+        "url": "https://github.com/appetizermonster/hain"
+    },
+    {
+        "author": "amzn",
+        "category": "",
+        "stars": "261",
+        "title": "alexa-avs-raspberry-pi - This project demonstrates how to access and test the Alexa Voice Service using a Java client (running on a Raspberry Pi), and a Node.js server.",
+        "url": "https://github.com/amzn/alexa-avs-raspberry-pi"
+    },
+    {
+        "author": "rengwuxian",
+        "category": "Java",
+        "stars": "251",
+        "title": "RxJavaSamples - RxJava \u548c Retrofit \u7ed3\u5408\u4f7f\u7528\u7684\u51e0\u4e2a\u6700\u5e38\u89c1\u4f7f\u7528\u65b9\u5f0f\u4e3e\u4f8b",
+        "url": "https://github.com/rengwuxian/RxJavaSamples"
+    },
+    {
+        "author": "Nightonke",
+        "category": "Java",
+        "stars": "236",
+        "title": "BoomMenu - A menu which can ... BOOM!",
+        "url": "https://github.com/Nightonke/BoomMenu"
+    }
+]

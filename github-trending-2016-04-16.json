@@ -1,0 +1,72 @@
+[
+    {
+        "author": "fbsamples",
+        "category": "JavaScript",
+        "stars": "1,255",
+        "title": "f8app - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.",
+        "url": "https://github.com/fbsamples/f8app"
+    },
+    {
+        "author": "markerikson",
+        "category": "",
+        "stars": "577",
+        "title": "react-redux-links - Curated tutorial and resource links I've collected on React, Redux, ES6, and more",
+        "url": "https://github.com/markerikson/react-redux-links"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "530",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "phodal",
+        "category": "HTML",
+        "stars": "493",
+        "title": "growth-ebook - Ebook of Growth Engineering: The Definitive Guide\u3002\u5168\u6808\u589e\u957f\u5de5\u7a0b\u5e08\u6307\u5357",
+        "url": "https://github.com/phodal/growth-ebook"
+    },
+    {
+        "author": "Microsoft",
+        "category": "TypeScript",
+        "stars": "422",
+        "title": "vscode - Visual Studio Code",
+        "url": "https://github.com/Microsoft/vscode"
+    },
+    {
+        "author": "kiteco",
+        "category": "Java",
+        "stars": "359",
+        "title": "plugins - Editor plugins for Kite",
+        "url": "https://github.com/kiteco/plugins"
+    },
+    {
+        "author": "facebook",
+        "category": "Objective-C",
+        "stars": "331",
+        "title": "FBMemoryProfiler - iOS tool that helps with profiling iOS Memory usage.",
+        "url": "https://github.com/facebook/FBMemoryProfiler"
+    },
+    {
+        "author": "ademilter",
+        "category": "JavaScript",
+        "stars": "317",
+        "title": "bricklayer - Lightweight cascading grid layout library -",
+        "url": "https://github.com/ademilter/bricklayer"
+    },
+    {
+        "author": "facebook",
+        "category": "Objective-C",
+        "stars": "287",
+        "title": "FBRetainCycleDetector - iOS library to help detecting retain cycles in runtime.",
+        "url": "https://github.com/facebook/FBRetainCycleDetector"
+    },
+    {
+        "author": "Ramotion",
+        "category": "Java",
+        "stars": "264",
+        "title": "folding-cell-android - FoldingCell is an expanding content cell inspired by folding paper material",
+        "url": "https://github.com/Ramotion/folding-cell-android"
+    }
+]

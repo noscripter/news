@@ -1,0 +1,72 @@
+[
+    {
+        "author": "hemanth",
+        "category": "",
+        "stars": "1,719",
+        "title": "functional-programming-jargon - Jargon from the functional programming world in simple terms!",
+        "url": "https://github.com/hemanth/functional-programming-jargon"
+    },
+    {
+        "author": "facebookincubator",
+        "category": "JavaScript",
+        "stars": "906",
+        "title": "create-react-app - Create React apps with no build configuration.",
+        "url": "https://github.com/facebookincubator/create-react-app"
+    },
+    {
+        "author": "FallibleInc",
+        "category": "",
+        "stars": "783",
+        "title": "security-guide-for-developers - Security Guide for Developers",
+        "url": "https://github.com/FallibleInc/security-guide-for-developers"
+    },
+    {
+        "author": "AHAAAAAAA",
+        "category": "Python",
+        "stars": "496",
+        "title": "PokemonGo-Map - \ud83c\udf0f Live visualization of all the pokemon in your area... and more!",
+        "url": "https://github.com/AHAAAAAAA/PokemonGo-Map"
+    },
+    {
+        "author": "jaywcjlove",
+        "category": "",
+        "stars": "272",
+        "title": "awesome-mac - \uf8ff This repo is a collection of awesome Mac applications and tools for developers and designers.",
+        "url": "https://github.com/jaywcjlove/awesome-mac"
+    },
+    {
+        "author": "wireapp",
+        "category": "Java",
+        "stars": "260",
+        "title": "wire-android - Wire Android UI",
+        "url": "https://github.com/wireapp/wire-android"
+    },
+    {
+        "author": "PokemonGoF",
+        "category": "Python",
+        "stars": "198",
+        "title": "PokemonGo-Bot - The Pokemon Go Bot script, baking with community.",
+        "url": "https://github.com/PokemonGoF/PokemonGo-Bot"
+    },
+    {
+        "author": "robinhood",
+        "category": "Java",
+        "stars": "210",
+        "title": "ticker - An Android text view with scrolling text change animation",
+        "url": "https://github.com/robinhood/ticker"
+    },
+    {
+        "author": "wireapp",
+        "category": "Objective-C",
+        "stars": "197",
+        "title": "wire-ios - Wire iOS client (iPhone and iPad)",
+        "url": "https://github.com/wireapp/wire-ios"
+    },
+    {
+        "author": "Microsoft",
+        "category": "",
+        "stars": "201",
+        "title": "api-guidelines - Microsoft REST API Guidelines",
+        "url": "https://github.com/Microsoft/api-guidelines"
+    }
+]

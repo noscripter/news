@@ -1,0 +1,282 @@
+[
+    
+    {
+        "id" : 258816,
+        "title" : "请问你们的 Ubuntu 也会因为官方的升级而挂掉吗？",
+        "url" : "http://www.v2ex.com/t/258816",
+        "content" : "RT\u000D\u000A我平时也不怎么用 linux ，一月份在 VMWare 上装的 Ubuntu15.10 。\u000D\u000A也没做其他的，就是做了这些：\u000D\u000A1. 装了 solarized 给终端染下色\u000D\u000A2. 弄了个 powerline font pack 弄个好看点的字体，\u000D\u000A3. 换了个清华的源，\u000D\u000A4. 用 nginx 官方源和 nodejs 官方源装了 nginx 和 nodejs ，\u000D\u000A5. 用的纯英文安装，也没想其他的，毕竟我这么淳朴的玩家，装 Ubuntu 就是纯写代码用的，犯不着用中文。\u000D\u000A——这是背景。\u000D\u000A\u000D\u000A因为上个月很忙，等我终于想到要去开 Ubuntu 写 linux 下的项目的时候突然就弹出个框，说什么有升级，然后我想“唔，不错嘛，还有升级”，来来来，官方升级补丁肯定靠谱嘛，走起来走起来。\u000D\u000A结果升级完就挂了图形界面，一般人升级挂都是挂掉图形界面，起码有个 terminal 的界面让人用，大不了就当纯字符环境用，我这滚挂就是纯黑屏。进 recovery mode 进去看了一大堆莫名其妙的 log ，大致就是说：有 Warning ！上 google 一搜， Stack Overflow 上的几个回答的意思大致是说“不管他完全没问题的”——然后今天搜了一整天，得了吧，就没啥有意义的结果。\u000D\u000A\u000D\u000A我现在整个人都不好了，开始反思我用 linux 的原因，我在 VM 里面装 Ubuntu 主要是因为想在台式上获得高性能的\u005C*nix 体验和好用的包管理器，这为啥官方给的 official update 都能滚挂？\u000D\u000A——请问我是不是应该转到 Arch linux 上去了？反正都是滚挂，死也要当个明白鬼啊。",
+        "content_rendered" : "\u003Cp\u003ERT\u003Cbr\u003E\u000A我平时也不怎么用 linux ，一月份在 VMWare 上装的 Ubuntu15.10 。\u003Cbr\u003E\u000A也没做其他的，就是做了这些：\u003Cbr\u003E\u000A1. 装了 solarized 给终端染下色\u003Cbr\u003E\u000A2. 弄了个 powerline font pack 弄个好看点的字体，\u003Cbr\u003E\u000A3. 换了个清华的源，\u003Cbr\u003E\u000A4. 用 nginx 官方源和 nodejs 官方源装了 nginx 和 nodejs ，\u003Cbr\u003E\u000A5. 用的纯英文安装，也没想其他的，毕竟我这么淳朴的玩家，装 Ubuntu 就是纯写代码用的，犯不着用中文。\u003Cbr\u003E\u000A——这是背景。\u003C/p\u003E\u000A\u000A\u003Cp\u003E因为上个月很忙，等我终于想到要去开 Ubuntu 写 linux 下的项目的时候突然就弹出个框，说什么有升级，然后我想“唔，不错嘛，还有升级”，来来来，官方升级补丁肯定靠谱嘛，走起来走起来。\u003Cbr\u003E\u000A结果升级完就挂了图形界面，一般人升级挂都是挂掉图形界面，起码有个 terminal 的界面让人用，大不了就当纯字符环境用，我这滚挂就是纯黑屏。进 recovery mode 进去看了一大堆莫名其妙的 log ，大致就是说：有 Warning ！上 google 一搜， Stack Overflow 上的几个回答的意思大致是说“不管他完全没问题的”——然后今天搜了一整天，得了吧，就没啥有意义的结果。\u003C/p\u003E\u000A\u000A\u003Cp\u003E我现在整个人都不好了，开始反思我用 linux 的原因，我在 VM 里面装 Ubuntu 主要是因为想在台式上获得高性能的*nix 体验和好用的包管理器，这为啥官方给的 official update 都能滚挂？\u003Cbr\u003E\u000A——请问我是不是应该转到 Arch linux 上去了？反正都是滚挂，死也要当个明白鬼啊。\u003C/p\u003E\u000A",
+        "replies" : 86,
+        "member" : {
+            "id" : 43155,
+            "username" : "cnnblike",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/12076b426c4bf4ef17cfc4f3c62f8f66?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/12076b426c4bf4ef17cfc4f3c62f8f66?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/12076b426c4bf4ef17cfc4f3c62f8f66?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 536,
+            "name" : "ubuntu",
+            "title" : "Ubuntu",
+            "title_alternative" : "Ubuntu",
+            "url" : "http://www.v2ex.com/go/ubuntu",
+            "topics" : 195,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/6565/8fde/536_mini.png?m=1435230351",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/6565/8fde/536_normal.png?m=1435230351",
+            "avatar_large" : "//cdn.v2ex.co/navatar/6565/8fde/536_large.png?m=1435230351"
+        },
+        "created" : 1456307045,
+        "last_modified" : 1456307045,
+        "last_touched" : 1456365274
+    },
+    
+    {
+        "id" : 258757,
+        "title" : "小米 5 or iPhone ？",
+        "url" : "http://www.v2ex.com/t/258757",
+        "content" : "大家都看了小米的发布会么？觉得小米 5 和 iPhone 6s plus 哪个好？",
+        "content_rendered" : "大家都看了小米的发布会么？觉得小米 5 和 iPhone 6s plus 哪个好？",
+        "replies" : 82,
+        "member" : {
+            "id" : 108967,
+            "username" : "Blackricky",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/c179/0fc2/108967_mini.png?m=1451148826",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/c179/0fc2/108967_normal.png?m=1451148826",
+            "avatar_large" : "//cdn.v2ex.co/avatar/c179/0fc2/108967_large.png?m=1451148826"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 64926,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1456308340",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1456308340",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1456308340"
+        },
+        "created" : 1456299163,
+        "last_modified" : 1456299163,
+        "last_touched" : 1456365174
+    },
+    
+    {
+        "id" : 258686,
+        "title" : "大家觉得 ios 上，哪款天气应用最值得推荐",
+        "url" : "http://www.v2ex.com/t/258686",
+        "content" : "（－请不要推荐国产应用，因为天气数据和语言原因，只有国人才会使用这些天气应用。）\u000D\u000A\u000D\u000A口碑比较不错的几个天气 app\u000D\u000A\u000D\u000A－ 系统自带天气应用\u000D\u000A－ the Weather Channel\u000D\u000A－ Yahoo Weather\u000D\u000A－ Dark Sky\u000D\u000A－ Accurate Weather\u000D\u000A\u000D\u000A不知道大家最喜欢哪款天气应用？ Weather Channel 居然每年需要缴费$3.99 去广告！",
+        "content_rendered" : "（－请不要推荐国产应用，因为天气数据和语言原因，只有国人才会使用这些天气应用。）\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E口碑比较不错的几个天气 app\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E－ 系统自带天气应用\u000D\u003Cbr /\u003E－ the Weather Channel\u000D\u003Cbr /\u003E－ Yahoo Weather\u000D\u003Cbr /\u003E－ Dark Sky\u000D\u003Cbr /\u003E－ Accurate Weather\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E不知道大家最喜欢哪款天气应用？ Weather Channel 居然每年需要缴费$3.99 去广告！",
+        "replies" : 64,
+        "member" : {
+            "id" : 90449,
+            "username" : "endosome",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/c200/6858/90449_mini.png?m=1453847157",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/c200/6858/90449_normal.png?m=1453847157",
+            "avatar_large" : "//cdn.v2ex.co/avatar/c200/6858/90449_large.png?m=1453847157"
+        },
+        "node" : {
+            "id" : 8,
+            "name" : "iphone",
+            "title" : "iPhone",
+            "title_alternative" : "iPhone",
+            "url" : "http://www.v2ex.com/go/iphone",
+            "topics" : 3346,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c9f0/f895/8_mini.png?m=1454545245",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c9f0/f895/8_normal.png?m=1454545245",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c9f0/f895/8_large.png?m=1454545245"
+        },
+        "created" : 1456285154,
+        "last_modified" : 1456285154,
+        "last_touched" : 1456364496
+    },
+    
+    {
+        "id" : 258717,
+        "title" : "某 Touch ID 贴膜太屌了...",
+        "url" : "http://www.v2ex.com/t/258717",
+        "content" : "非广告.我手汗多.冬天用 Touch ID 解锁基本上不可能..前天买了这个贴膜.今天中午送到的贴上以后实测手上有汗或者有水都能秒解...太牛逼...我是 6s.\u000D\u000A\u000D\u000A\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u000D\u000A有人知道这是什么原理么...求指点..",
+        "content_rendered" : "\u003Cp\u003E非广告.我手汗多.冬天用 Touch ID 解锁基本上不可能..前天买了这个贴膜.今天中午送到的贴上以后实测手上有汗或者有水都能秒解...太牛逼...我是 6s.\u003C/p\u003E\u000A\u000A\u003Chr\u003E\u000A\u000A\u003Cp\u003E有人知道这是什么原理么...求指点..\u003C/p\u003E\u000A",
+        "replies" : 60,
+        "member" : {
+            "id" : 61759,
+            "username" : "xuyihan5150",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/0479/081e/61759_mini.png?m=1410691273",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/0479/081e/61759_normal.png?m=1410691273",
+            "avatar_large" : "//cdn.v2ex.co/avatar/0479/081e/61759_large.png?m=1410691273"
+        },
+        "node" : {
+            "id" : 8,
+            "name" : "iphone",
+            "title" : "iPhone",
+            "title_alternative" : "iPhone",
+            "url" : "http://www.v2ex.com/go/iphone",
+            "topics" : 3346,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c9f0/f895/8_mini.png?m=1454545245",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c9f0/f895/8_normal.png?m=1454545245",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c9f0/f895/8_large.png?m=1454545245"
+        },
+        "created" : 1456292807,
+        "last_modified" : 1456292898,
+        "last_touched" : 1456349295
+    },
+    
+    {
+        "id" : 258878,
+        "title" : "坐在肯德基写代码 见到件趣事",
+        "url" : "http://www.v2ex.com/t/258878",
+        "content" : "刚到重庆 合租了间公寓 公寓里太冷 就跑来肯德基点了杯热饮然后开始写代码\u000D\u000A\u000D\u000A餐厅里人很少 我对面那桌刚来了对情侣 没吃多少就走了 留下一桌残羹\u000D\u000A接着 一个身穿黑色棉衣的青年男人很敏捷地坐到那个位置上 吧唧吧唧吃了起来\u000D\u000A我没留神地抬眼看了一下 然后接着写代码\u000D\u000A...\u000D\u000A......\u000D\u000A不对！—— 脑子忽然意识到 他在吃别人的剩饭！！！\u000D\u000A\u000D\u000A我抬眼看着他 他正好看过来 冲我笑了笑\u000D\u000A我下意识的躲开了他的眼神 假装看向窗外 但从玻璃的反光里继续观察着他\u000D\u000A他看上去不到三十岁 但皮肤很粗糙 发型随意但似乎是修剪过的 一张典型的南方人面孔\u000D\u000A他麻利地收拾完桌上的薯条 又看向剩下的饮料 端起来晃了一下一口喝掉\u000D\u000A他满意地擦擦手扭过头瞄了一眼身后 不远处刚好有人起身 他利索地闪了过去\u000D\u000A...\u000D\u000A\u000D\u000A我不禁去想 他有工作吗？有伙伴吗？也是外乡人？\u000D\u000A他有什么样的故事？\u000D\u000A他为什么不去乞讨呢？",
+        "content_rendered" : "\u003Cp\u003E刚到重庆 合租了间公寓 公寓里太冷 就跑来肯德基点了杯热饮然后开始写代码\u003C/p\u003E\u000A\u000A\u003Cp\u003E餐厅里人很少 我对面那桌刚来了对情侣 没吃多少就走了 留下一桌残羹\u003Cbr\u003E\u000A接着 一个身穿黑色棉衣的青年男人很敏捷地坐到那个位置上 吧唧吧唧吃了起来\u003Cbr\u003E\u000A我没留神地抬眼看了一下 然后接着写代码\u003Cbr\u003E\u000A...\u003Cbr\u003E\u000A......\u003Cbr\u003E\u000A不对！—— 脑子忽然意识到 他在吃别人的剩饭！！！\u003C/p\u003E\u000A\u000A\u003Cp\u003E我抬眼看着他 他正好看过来 冲我笑了笑\u003Cbr\u003E\u000A我下意识的躲开了他的眼神 假装看向窗外 但从玻璃的反光里继续观察着他\u003Cbr\u003E\u000A他看上去不到三十岁 但皮肤很粗糙 发型随意但似乎是修剪过的 一张典型的南方人面孔\u003Cbr\u003E\u000A他麻利地收拾完桌上的薯条 又看向剩下的饮料 端起来晃了一下一口喝掉\u003Cbr\u003E\u000A他满意地擦擦手扭过头瞄了一眼身后 不远处刚好有人起身 他利索地闪了过去\u003Cbr\u003E\u000A...\u003C/p\u003E\u000A\u000A\u003Cp\u003E我不禁去想 他有工作吗？有伙伴吗？也是外乡人？\u003Cbr\u003E\u000A他有什么样的故事？\u003Cbr\u003E\u000A他为什么不去乞讨呢？\u003C/p\u003E\u000A",
+        "replies" : 52,
+        "member" : {
+            "id" : 95444,
+            "username" : "tongchia",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/3c91ea2cd3ed0b9a3fb4a9eccf369079?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/3c91ea2cd3ed0b9a3fb4a9eccf369079?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/3c91ea2cd3ed0b9a3fb4a9eccf369079?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 241,
+            "name" : "lifestyle",
+            "title" : "生活方式",
+            "title_alternative" : "Lifestyle",
+            "url" : "http://www.v2ex.com/go/lifestyle",
+            "topics" : 24,
+            "avatar_mini" : "/static/img/node_mini.png",
+            "avatar_normal" : "/static/img/node_normal.png",
+            "avatar_large" : "/static/img/node_large.png"
+        },
+        "created" : 1456319393,
+        "last_modified" : 1456319470,
+        "last_touched" : 1456365759
+    },
+    
+    {
+        "id" : 258673,
+        "title" : "手撸了一个简单 web 框架，拿来做博客",
+        "url" : "http://www.v2ex.com/t/258673",
+        "content" : "# 手撸了一个简单 web 框架，拿来做博客\u000D\u000A\u000D\u000A这两个半个月自己简单手撸了个 web 框架。用得是 PureScript 撸的， PureScript 跟 CoffeeScript 一样是一门 target 到 JavaScript 的语言，虽然 PureScript 从语言本身的设计角度来说比 CoffeeScript 不知道高到哪里去了……但那也架不住 CoffeeScript 简单方便易学大众有生态。\u000D\u000A\u000D\u000A其实拿 PureScript 手撸这个 web 框架是用来炫技的， PureScript 的强类型纯函数式的特性我觉得真的不太适合应用场景，把本身很简单的事情变复杂了。用 JavaScript / Ruby / Python / PHP 我实现这些东西顶多就两三天。\u000D\u000A\u000D\u000A》》[Github 传送门]( https://github.com/bramblex/loveaira.me)\u000D\u000A》》[LoveAria.Me 博客主站]( http://lovearia.me/)\u000D\u000A\u000D\u000A下面讲讲我主要做的事情：\u000D\u000A\u000D\u000A###1.SQLite3 的 PureScript Binding ，以及一个简单的 ORM （还是半残状态，连 JOIN 我都没实现好，强类型面对这种场景只能日狗）。\u000D\u000A\u000D\u000A虽然是自己手撸的……但是放心，注入不了的，本宝宝做了防注入的。\u000D\u000A\u000D\u000A可以用下面哪种好看的方式做查询了，例如：\u000D\u000A\u000D\u000A```Haskell\u000D\u000Ainsert \u0022article\u0022 [ \u0022title\u0022 .\u003D title\u000D\u000A                , \u0022category_id\u0022 .\u003D category_id\u000D\u000A                , \u0022raw_content\u0022 .\u003D content\u000D\u000A                , \u0022content\u0022 .\u003D Markdown content ]\u000D\u000A                \u000D\u000Aupdate \u0022article\u0022 [ \u0022title\u0022 .\u003D title\u000D\u000A                , \u0022category_id\u0022 .\u003D category_id\u000D\u000A                , \u0022raw_content\u0022 .\u003D content\u000D\u000A                , \u0022content\u0022 .\u003D Markdown content] (\u0022id\u0022 .\u003D\u003D id)\u000D\u000A                \u000D\u000Afirst \u0022article\u0022 (\u0022id\u0022 .\u003D\u003D id .\u0026\u0026 \u0022user_id\u0022 .\u003D\u003D user_id) (Asc \u0022id\u0022)\u000D\u000A\u000D\u000Afindall \u0022article\u0022 (\u0022category_id\u0022 .\u003C\u002D [cid1, cid2, cid3]) (Desc \u0022id\u0022)\u000D\u000A```\u000D\u000A\u000D\u000A###2.一门 HTML 模板 DSL 。因为是 PureScript 的 DSL ，所以其实还是 PureScript 本身。只是语法看上去像一门单独的语言而已, 并且还是有些丑的。\u000D\u000A\u000D\u000A```Haskell\u000D\u000Alist :: Array Category.RichArticle \u002D\u003E Template\u000D\u000Alist articles \u003D do\u000D\u000A  base\u000D\u000A  title \u0022Article\u0022\u000D\u000A  extend \u0022body\u0022 $ do\u000D\u000A\u000D\u000A    ifLogined $ \u005C_ \u002D\u003E\u000D\u000A      t_a [a_href :\u003D \u0022/article/create\u0022] $ text \u0022Create\u0022\u000D\u000A\u000D\u000A    article_list articles\u000D\u000A    \u000D\u000Aarticle_list :: Array Category.RichArticle \u002D\u003E Template\u000D\u000Aarticle_list articles \u003D do\u000D\u000A  t_table [] do\u000D\u000A    t_tr [] do\u000D\u000A      t_th [] $ text \u0022Id\u0022\u000D\u000A      t_th [] $ text \u0022Title\u0022\u000D\u000A      t_th [] $ text \u0022Category\u0022\u000D\u000A      t_th [] $ text \u0022Create At\u0022\u000D\u000A      t_th [] $ text \u0022Update At\u0022\u000D\u000A\u000D\u000A      forT articles $ \u005Carticle \u002D\u003E do\u000D\u000A        t_tr [] do\u000D\u000A          t_td [] $ text $ show article.id\u000D\u000A          t_td [] do\u000D\u000A            t_a [a_href :\u003D \u0022/article/show/\u0022 ++ show article.id]\u000D\u000A              $ text article.title\u000D\u000A          t_td []  do\u000D\u000A            t_a [a_href :\u003D \u0022/article/category/\u0022 ++ show article.category.id]\u000D\u000A              $ text article.category.name\u000D\u000A          t_td [] $ text article.create_at\u000D\u000A          t_td [] $ text article.update_at\u000D\u000A```\u000D\u000A\u000D\u000A###3.基础的框架是在 PureScript\u002DExpress 上面建立的。所以基本的 handler 处理还是沿用 Express 。\u000D\u000A\u000D\u000A```Haskell\u000D\u000Amain :: forall e. ModelApp (console :: CONSOLE | e)\u000D\u000Amain \u003D do\u000D\u000A  liftEff $ log \u0022Setting up\u0022\u000D\u000A  setProp \u0022json spaces\u0022 4.0\u000D\u000A\u000D\u000A  useExternal $ MW.bodyParser {extended: false}\u000D\u000A  static_path \u003C\u002D liftEff $ Config.static_path\u000D\u000A  useExternalAt \u0022/static\u0022 $ MW.static static_path\u000D\u000A\u000D\u000A  useExternal $ cookieSession {secret: Config.security_key}\u000D\u000A  useExternal $ MW.setCookiesMaxAge (3600 * 24 * 30)\u000D\u000A\u000D\u000A  use CacheHandler.logger\u000D\u000A  use CacheHandler.cacheMiddleware\u000D\u000A\u000D\u000A  mount \u0022/\u0022 HomeHandler.main\u000D\u000A\u000D\u000A  mount \u0022/user\u0022 UserHandler.main\u000D\u000A  mount \u0022/article\u0022 ArticleHandler.main\u000D\u000A  mount \u0022/category\u0022 CategoryHandler.main\u000D\u000A  mount \u0022/cache\u0022 CacheHandler.main\u000D\u000A  \u000D\u000A\u000D\u000A```\u000D\u000A\u000D\u000A###4.现在博客的功能基本完善。讲一下框架之上博客的功能：\u000D\u000A    \u000D\u000A1. 文章的增删改，搜索功能还没做，感觉没什么必要做。在下一条讲\u000D\u000A2. 不限制层次的分类。对的，分类就是树状递归结构，不限制层数。你爱几层就几层，跟文件系统的目录类似。用这样的分类来整理文章，我觉得根本没必要搜索了吧。而且我这一辈子能写一千篇高质量的博客不？\u000D\u000A3. 页面缓存。因为 ORM 设计的问题和分类目录递归查询量很大，所以我干脆就直接给他们做了一个 10 分钟的页面缓存。登录成功的用户忽略缓存。成功发布或者修改 文章和分类 会简单全部刷新缓存。\u000D\u000A\u000D\u000A\u000D\u000A###5.关于前端\u000D\u000A\u000D\u000A前端方面我准备使用 PureCSS 来做基本的 CSS 框架，然后做一个简洁好看的 UI 。 /w\u005C\u005C 没错，本宝宝就是那么纯（ Pure ） 。 JavaScript 部分依旧还是用 PureScript 来做。当然 PureScript 写前端也有些蛋疼，不过我能折腾 /w\u005C\u005C。\u000D\u000A\u000D\u000A啊~ 终于能够好好写东西并且实验奇怪小东西的地方啊啦~\u000D\u000A\u000D\u000A》》[Github 传送门]( https://github.com/bramblex/loveaira.me)\u000D\u000A》》[LoveAria.Me 博客主站]( http://lovearia.me/)",
+        "content_rendered" : "\u003Ch1\u003E手撸了一个简单 web 框架，拿来做博客\u003C/h1\u003E\u000A\u000A\u003Cp\u003E这两个半个月自己简单手撸了个 web 框架。用得是 PureScript 撸的， PureScript 跟 CoffeeScript 一样是一门 target 到 JavaScript 的语言，虽然 PureScript 从语言本身的设计角度来说比 CoffeeScript 不知道高到哪里去了……但那也架不住 CoffeeScript 简单方便易学大众有生态。\u003C/p\u003E\u000A\u000A\u003Cp\u003E其实拿 PureScript 手撸这个 web 框架是用来炫技的， PureScript 的强类型纯函数式的特性我觉得真的不太适合应用场景，把本身很简单的事情变复杂了。用 JavaScript / Ruby / Python / PHP 我实现这些东西顶多就两三天。\u003C/p\u003E\u000A\u000A\u003Cp\u003E》》\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://github.com/bramblex/loveaira.me\u0022\u003EGithub 传送门\u003C/a\u003E\u003Cbr\u003E\u000A》》\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://lovearia.me/\u0022\u003ELoveAria.Me 博客主站\u003C/a\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E下面讲讲我主要做的事情：\u003C/p\u003E\u000A\u000A\u003Ch3\u003E1.SQLite3 的 PureScript Binding ，以及一个简单的 ORM （还是半残状态，连 JOIN 我都没实现好，强类型面对这种场景只能日狗）。\u003C/h3\u003E\u000A\u000A\u003Cp\u003E虽然是自己手撸的……但是放心，注入不了的，本宝宝做了防注入的。\u003C/p\u003E\u000A\u000A\u003Cp\u003E可以用下面哪种好看的方式做查询了，例如：\u003C/p\u003E\u000A\u003Cdiv class\u003D\u0022highlight\u0022\u003E\u003Cpre\u003E\u003Cspan class\u003D\u0022nf\u0022\u003Einsert\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003Barticle\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022p\u0022\u003E[\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003Btitle\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E.\u003D\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Etitle\u003C/span\u003E\u000A                \u003Cspan class\u003D\u0022p\u0022\u003E,\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003Bcategory_id\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E.\u003D\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Ecategory_id\u003C/span\u003E\u000A                \u003Cspan class\u003D\u0022p\u0022\u003E,\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003Braw_content\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E.\u003D\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Econtent\u003C/span\u003E\u000A                \u003Cspan class\u003D\u0022p\u0022\u003E,\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003Bcontent\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E.\u003D\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003EMarkdown\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Econtent\u003C/span\u003E \u003Cspan class\u003D\u0022p\u0022\u003E]\u003C/span\u003E\u000A\u000A\u003Cspan class\u003D\u0022nf\u0022\u003Eupdate\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003Barticle\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022p\u0022\u003E[\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003Btitle\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E.\u003D\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Etitle\u003C/span\u003E\u000A                \u003Cspan class\u003D\u0022p\u0022\u003E,\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003Bcategory_id\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E.\u003D\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Ecategory_id\u003C/span\u003E\u000A                \u003Cspan class\u003D\u0022p\u0022\u003E,\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003Braw_content\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E.\u003D\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Econtent\u003C/span\u003E\u000A                \u003Cspan class\u003D\u0022p\u0022\u003E,\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003Bcontent\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E.\u003D\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003EMarkdown\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Econtent\u003C/span\u003E\u003Cspan class\u003D\u0022p\u0022\u003E]\u003C/span\u003E \u003Cspan class\u003D\u0022p\u0022\u003E(\u003C/span\u003E\u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003Bid\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E.\u003D\u003D\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Eid\u003C/span\u003E\u003Cspan class\u003D\u0022p\u0022\u003E)\u003C/span\u003E\u000A\u000A\u003Cspan class\u003D\u0022nf\u0022\u003Efirst\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003Barticle\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022p\u0022\u003E(\u003C/span\u003E\u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003Bid\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E.\u003D\u003D\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Eid\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E.\u0026amp\u003B\u0026amp\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003Buser_id\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E.\u003D\u003D\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Euser_id\u003C/span\u003E\u003Cspan class\u003D\u0022p\u0022\u003E)\u003C/span\u003E \u003Cspan class\u003D\u0022p\u0022\u003E(\u003C/span\u003E\u003Cspan class\u003D\u0022kt\u0022\u003EAsc\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003Bid\u0026quot\u003B\u003C/span\u003E\u003Cspan class\u003D\u0022p\u0022\u003E)\u003C/span\u003E\u000A\u000A\u003Cspan class\u003D\u0022nf\u0022\u003Efindall\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003Barticle\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022p\u0022\u003E(\u003C/span\u003E\u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003Bcategory_id\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E.\u0026lt\u003B\u002D\u003C/span\u003E \u003Cspan class\u003D\u0022p\u0022\u003E[\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Ecid1\u003C/span\u003E\u003Cspan class\u003D\u0022p\u0022\u003E,\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Ecid2\u003C/span\u003E\u003Cspan class\u003D\u0022p\u0022\u003E,\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Ecid3\u003C/span\u003E\u003Cspan class\u003D\u0022p\u0022\u003E])\u003C/span\u003E \u003Cspan class\u003D\u0022p\u0022\u003E(\u003C/span\u003E\u003Cspan class\u003D\u0022kt\u0022\u003EDesc\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003Bid\u0026quot\u003B\u003C/span\u003E\u003Cspan class\u003D\u0022p\u0022\u003E)\u003C/span\u003E\u000A\u003C/pre\u003E\u003C/div\u003E\u000A\u000A\u003Ch3\u003E2.一门 HTML 模板 DSL 。因为是 PureScript 的 DSL ，所以其实还是 PureScript 本身。只是语法看上去像一门单独的语言而已, 并且还是有些丑的。\u003C/h3\u003E\u000A\u003Cdiv class\u003D\u0022highlight\u0022\u003E\u003Cpre\u003E\u003Cspan class\u003D\u0022nf\u0022\u003Elist\u003C/span\u003E \u003Cspan class\u003D\u0022ow\u0022\u003E::\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003EArray\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003ECategory\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022kt\u0022\u003ERichArticle\u003C/span\u003E \u003Cspan class\u003D\u0022ow\u0022\u003E\u002D\u0026gt\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003ETemplate\u003C/span\u003E\u000A\u003Cspan class\u003D\u0022nf\u0022\u003Elist\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Earticles\u003C/span\u003E \u003Cspan class\u003D\u0022ow\u0022\u003E\u003D\u003C/span\u003E \u003Cspan class\u003D\u0022kr\u0022\u003Edo\u003C/span\u003E\u000A  \u003Cspan class\u003D\u0022n\u0022\u003Ebase\u003C/span\u003E\u000A  \u003Cspan class\u003D\u0022n\u0022\u003Etitle\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003BArticle\u0026quot\u003B\u003C/span\u003E\u000A  \u003Cspan class\u003D\u0022n\u0022\u003Eextend\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003Bbody\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E$\u003C/span\u003E \u003Cspan class\u003D\u0022kr\u0022\u003Edo\u003C/span\u003E\u000A\u000A    \u003Cspan class\u003D\u0022n\u0022\u003EifLogined\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E$\u003C/span\u003E \u003Cspan class\u003D\u0022nf\u0022\u003E\u005C\u003C/span\u003E\u003Cspan class\u003D\u0022kr\u0022\u003E_\u003C/span\u003E \u003Cspan class\u003D\u0022ow\u0022\u003E\u002D\u0026gt\u003B\u003C/span\u003E\u000A      \u003Cspan class\u003D\u0022n\u0022\u003Et_a\u003C/span\u003E \u003Cspan class\u003D\u0022p\u0022\u003E[\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Ea_href\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003E:\u003D\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003B/article/create\u0026quot\u003B\u003C/span\u003E\u003Cspan class\u003D\u0022p\u0022\u003E]\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E$\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Etext\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003BCreate\u0026quot\u003B\u003C/span\u003E\u000A\u000A    \u003Cspan class\u003D\u0022n\u0022\u003Earticle_list\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Earticles\u003C/span\u003E\u000A\u000A\u003Cspan class\u003D\u0022nf\u0022\u003Earticle_list\u003C/span\u003E \u003Cspan class\u003D\u0022ow\u0022\u003E::\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003EArray\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003ECategory\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022kt\u0022\u003ERichArticle\u003C/span\u003E \u003Cspan class\u003D\u0022ow\u0022\u003E\u002D\u0026gt\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003ETemplate\u003C/span\u003E\u000A\u003Cspan class\u003D\u0022nf\u0022\u003Earticle_list\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Earticles\u003C/span\u003E \u003Cspan class\u003D\u0022ow\u0022\u003E\u003D\u003C/span\u003E \u003Cspan class\u003D\u0022kr\u0022\u003Edo\u003C/span\u003E\u000A  \u003Cspan class\u003D\u0022n\u0022\u003Et_table\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003E[]\u003C/span\u003E \u003Cspan class\u003D\u0022kr\u0022\u003Edo\u003C/span\u003E\u000A    \u003Cspan class\u003D\u0022n\u0022\u003Et_tr\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003E[]\u003C/span\u003E \u003Cspan class\u003D\u0022kr\u0022\u003Edo\u003C/span\u003E\u000A      \u003Cspan class\u003D\u0022n\u0022\u003Et_th\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003E[]\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E$\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Etext\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003BId\u0026quot\u003B\u003C/span\u003E\u000A      \u003Cspan class\u003D\u0022n\u0022\u003Et_th\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003E[]\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E$\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Etext\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003BTitle\u0026quot\u003B\u003C/span\u003E\u000A      \u003Cspan class\u003D\u0022n\u0022\u003Et_th\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003E[]\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E$\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Etext\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003BCategory\u0026quot\u003B\u003C/span\u003E\u000A      \u003Cspan class\u003D\u0022n\u0022\u003Et_th\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003E[]\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E$\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Etext\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003BCreate At\u0026quot\u003B\u003C/span\u003E\u000A      \u003Cspan class\u003D\u0022n\u0022\u003Et_th\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003E[]\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E$\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Etext\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003BUpdate At\u0026quot\u003B\u003C/span\u003E\u000A\u000A      \u003Cspan class\u003D\u0022n\u0022\u003EforT\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Earticles\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E$\u003C/span\u003E \u003Cspan class\u003D\u0022nf\u0022\u003E\u005C\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Earticle\u003C/span\u003E \u003Cspan class\u003D\u0022ow\u0022\u003E\u002D\u0026gt\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022kr\u0022\u003Edo\u003C/span\u003E\u000A        \u003Cspan class\u003D\u0022n\u0022\u003Et_tr\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003E[]\u003C/span\u003E \u003Cspan class\u003D\u0022kr\u0022\u003Edo\u003C/span\u003E\u000A          \u003Cspan class\u003D\u0022n\u0022\u003Et_td\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003E[]\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E$\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Etext\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E$\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Eshow\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Earticle\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Eid\u003C/span\u003E\u000A          \u003Cspan class\u003D\u0022n\u0022\u003Et_td\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003E[]\u003C/span\u003E \u003Cspan class\u003D\u0022kr\u0022\u003Edo\u003C/span\u003E\u000A            \u003Cspan class\u003D\u0022n\u0022\u003Et_a\u003C/span\u003E \u003Cspan class\u003D\u0022p\u0022\u003E[\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Ea_href\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003E:\u003D\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003B/article/show/\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E++\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Eshow\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Earticle\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Eid\u003C/span\u003E\u003Cspan class\u003D\u0022p\u0022\u003E]\u003C/span\u003E\u000A              \u003Cspan class\u003D\u0022o\u0022\u003E$\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Etext\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Earticle\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Etitle\u003C/span\u003E\u000A          \u003Cspan class\u003D\u0022n\u0022\u003Et_td\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003E[]\u003C/span\u003E  \u003Cspan class\u003D\u0022kr\u0022\u003Edo\u003C/span\u003E\u000A            \u003Cspan class\u003D\u0022n\u0022\u003Et_a\u003C/span\u003E \u003Cspan class\u003D\u0022p\u0022\u003E[\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Ea_href\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003E:\u003D\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003B/article/category/\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E++\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Eshow\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Earticle\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Ecategory\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Eid\u003C/span\u003E\u003Cspan class\u003D\u0022p\u0022\u003E]\u003C/span\u003E\u000A              \u003Cspan class\u003D\u0022o\u0022\u003E$\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Etext\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Earticle\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Ecategory\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Ename\u003C/span\u003E\u000A          \u003Cspan class\u003D\u0022n\u0022\u003Et_td\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003E[]\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E$\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Etext\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Earticle\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Ecreate_at\u003C/span\u003E\u000A          \u003Cspan class\u003D\u0022n\u0022\u003Et_td\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003E[]\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E$\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Etext\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Earticle\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Eupdate_at\u003C/span\u003E\u000A\u003C/pre\u003E\u003C/div\u003E\u000A\u000A\u003Ch3\u003E3.基础的框架是在 PureScript\u002DExpress 上面建立的。所以基本的 handler 处理还是沿用 Express 。\u003C/h3\u003E\u000A\u003Cdiv class\u003D\u0022highlight\u0022\u003E\u003Cpre\u003E\u003Cspan class\u003D\u0022nf\u0022\u003Emain\u003C/span\u003E \u003Cspan class\u003D\u0022ow\u0022\u003E::\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Eforall\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Ee\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003EModelApp\u003C/span\u003E \u003Cspan class\u003D\u0022p\u0022\u003E(\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Econsole\u003C/span\u003E \u003Cspan class\u003D\u0022ow\u0022\u003E::\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003ECONSOLE\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E|\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Ee\u003C/span\u003E\u003Cspan class\u003D\u0022p\u0022\u003E)\u003C/span\u003E\u000A\u003Cspan class\u003D\u0022nf\u0022\u003Emain\u003C/span\u003E \u003Cspan class\u003D\u0022ow\u0022\u003E\u003D\u003C/span\u003E \u003Cspan class\u003D\u0022kr\u0022\u003Edo\u003C/span\u003E\u000A  \u003Cspan class\u003D\u0022n\u0022\u003EliftEff\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E$\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Elog\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003BSetting up\u0026quot\u003B\u003C/span\u003E\u000A  \u003Cspan class\u003D\u0022n\u0022\u003EsetProp\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003Bjson spaces\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022mf\u0022\u003E4.0\u003C/span\u003E\u000A\u000A  \u003Cspan class\u003D\u0022n\u0022\u003EuseExternal\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E$\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003EMW\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003EbodyParser\u003C/span\u003E \u003Cspan class\u003D\u0022p\u0022\u003E{\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Eextended\u003C/span\u003E\u003Cspan class\u003D\u0022kt\u0022\u003E:\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Efalse\u003C/span\u003E\u003Cspan class\u003D\u0022p\u0022\u003E}\u003C/span\u003E\u000A  \u003Cspan class\u003D\u0022n\u0022\u003Estatic_path\u003C/span\u003E \u003Cspan class\u003D\u0022ow\u0022\u003E\u0026lt\u003B\u002D\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003EliftEff\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E$\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003EConfig\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Estatic_path\u003C/span\u003E\u000A  \u003Cspan class\u003D\u0022n\u0022\u003EuseExternalAt\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003B/static\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E$\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003EMW\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Estatic\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003Estatic_path\u003C/span\u003E\u000A\u000A  \u003Cspan class\u003D\u0022n\u0022\u003EuseExternal\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E$\u003C/span\u003E \u003Cspan class\u003D\u0022n\u0022\u003EcookieSession\u003C/span\u003E \u003Cspan class\u003D\u0022p\u0022\u003E{\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Esecret\u003C/span\u003E\u003Cspan class\u003D\u0022kt\u0022\u003E:\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003EConfig\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Esecurity_key\u003C/span\u003E\u003Cspan class\u003D\u0022p\u0022\u003E}\u003C/span\u003E\u000A  \u003Cspan class\u003D\u0022n\u0022\u003EuseExternal\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E$\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003EMW\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003EsetCookiesMaxAge\u003C/span\u003E \u003Cspan class\u003D\u0022p\u0022\u003E(\u003C/span\u003E\u003Cspan class\u003D\u0022mi\u0022\u003E3600\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E*\u003C/span\u003E \u003Cspan class\u003D\u0022mi\u0022\u003E24\u003C/span\u003E \u003Cspan class\u003D\u0022o\u0022\u003E*\u003C/span\u003E \u003Cspan class\u003D\u0022mi\u0022\u003E30\u003C/span\u003E\u003Cspan class\u003D\u0022p\u0022\u003E)\u003C/span\u003E\u000A\u000A  \u003Cspan class\u003D\u0022n\u0022\u003Euse\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003ECacheHandler\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Elogger\u003C/span\u003E\u000A  \u003Cspan class\u003D\u0022n\u0022\u003Euse\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003ECacheHandler\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003EcacheMiddleware\u003C/span\u003E\u000A\u000A  \u003Cspan class\u003D\u0022n\u0022\u003Emount\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003B/\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003EHomeHandler\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Emain\u003C/span\u003E\u000A\u000A  \u003Cspan class\u003D\u0022n\u0022\u003Emount\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003B/user\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003EUserHandler\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Emain\u003C/span\u003E\u000A  \u003Cspan class\u003D\u0022n\u0022\u003Emount\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003B/article\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003EArticleHandler\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Emain\u003C/span\u003E\u000A  \u003Cspan class\u003D\u0022n\u0022\u003Emount\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003B/category\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003ECategoryHandler\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Emain\u003C/span\u003E\u000A  \u003Cspan class\u003D\u0022n\u0022\u003Emount\u003C/span\u003E \u003Cspan class\u003D\u0022s\u0022\u003E\u0026quot\u003B/cache\u0026quot\u003B\u003C/span\u003E \u003Cspan class\u003D\u0022kt\u0022\u003ECacheHandler\u003C/span\u003E\u003Cspan class\u003D\u0022o\u0022\u003E.\u003C/span\u003E\u003Cspan class\u003D\u0022n\u0022\u003Emain\u003C/span\u003E\u000A\u003C/pre\u003E\u003C/div\u003E\u000A\u000A\u003Ch3\u003E4.现在博客的功能基本完善。讲一下框架之上博客的功能：\u003C/h3\u003E\u000A\u000A\u003Col\u003E\u000A\u003Cli\u003E文章的增删改，搜索功能还没做，感觉没什么必要做。在下一条讲\u003C/li\u003E\u000A\u003Cli\u003E不限制层次的分类。对的，分类就是树状递归结构，不限制层数。你爱几层就几层，跟文件系统的目录类似。用这样的分类来整理文章，我觉得根本没必要搜索了吧。而且我这一辈子能写一千篇高质量的博客不？\u003C/li\u003E\u000A\u003Cli\u003E页面缓存。因为 ORM 设计的问题和分类目录递归查询量很大，所以我干脆就直接给他们做了一个 10 分钟的页面缓存。登录成功的用户忽略缓存。成功发布或者修改 文章和分类 会简单全部刷新缓存。\u003C/li\u003E\u000A\u003C/ol\u003E\u000A\u000A\u003Ch3\u003E5.关于前端\u003C/h3\u003E\u000A\u000A\u003Cp\u003E前端方面我准备使用 PureCSS 来做基本的 CSS 框架，然后做一个简洁好看的 UI 。 /w\u005C 没错，本宝宝就是那么纯（ Pure ） 。 JavaScript 部分依旧还是用 PureScript 来做。当然 PureScript 写前端也有些蛋疼，不过我能折腾 /w\u005C。\u003C/p\u003E\u000A\u000A\u003Cp\u003E啊~ 终于能够好好写东西并且实验奇怪小东西的地方啊啦~\u003C/p\u003E\u000A\u000A\u003Cp\u003E》》\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://github.com/bramblex/loveaira.me\u0022\u003EGithub 传送门\u003C/a\u003E\u003Cbr\u003E\u000A》》\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://lovearia.me/\u0022\u003ELoveAria.Me 博客主站\u003C/a\u003E\u003C/p\u003E\u000A",
+        "replies" : 52,
+        "member" : {
+            "id" : 65890,
+            "username" : "bramblex",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/2ba510bb109542d32178dfa6cd621cb4?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/2ba510bb109542d32178dfa6cd621cb4?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/2ba510bb109542d32178dfa6cd621cb4?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 146,
+            "name" : "js",
+            "title" : "JavaScript",
+            "title_alternative" : "JavaScript",
+            "url" : "http://www.v2ex.com/go/js",
+            "topics" : 822,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/a5e0/0132/146_mini.png?m=1456308228",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/a5e0/0132/146_normal.png?m=1456308228",
+            "avatar_large" : "//cdn.v2ex.co/navatar/a5e0/0132/146_large.png?m=1456308228"
+        },
+        "created" : 1456283659,
+        "last_modified" : 1456283659,
+        "last_touched" : 1456329397
+    },
+    
+    {
+        "id" : 258716,
+        "title" : "我是来专门吐槽阿里云的",
+        "url" : "http://www.v2ex.com/t/258716",
+        "content" : "做一个爬虫项目为了省钱用的本地磁盘存储，数据写入速度极限也就 20mb/s 跟个 u 盘差不多，然后更要命的是磁盘还出现的坏道数据丢失一大堆，去找客服完全是个机器人，还有个更坏的是阿里云盾根本不能关闭我们这种穷人玩不起啊",
+        "content_rendered" : "做一个爬虫项目为了省钱用的本地磁盘存储，数据写入速度极限也就 20mb/s 跟个 u 盘差不多，然后更要命的是磁盘还出现的坏道数据丢失一大堆，去找客服完全是个机器人，还有个更坏的是阿里云盾根本不能关闭我们这种穷人玩不起啊",
+        "replies" : 51,
+        "member" : {
+            "id" : 159346,
+            "username" : "SlipStupig",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/d378/8b97/159346_mini.png?m=1455768425",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/d378/8b97/159346_normal.png?m=1455768425",
+            "avatar_large" : "//cdn.v2ex.co/avatar/d378/8b97/159346_large.png?m=1455768425"
+        },
+        "node" : {
+            "id" : 104,
+            "name" : "cloud",
+            "title" : "云计算",
+            "title_alternative" : "Cloud Computing",
+            "url" : "http://www.v2ex.com/go/cloud",
+            "topics" : 1338,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c9e1/074f/104_mini.png?m=1456308273",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c9e1/074f/104_normal.png?m=1456308273",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c9e1/074f/104_large.png?m=1456308273"
+        },
+        "created" : 1456292555,
+        "last_modified" : 1456292555,
+        "last_touched" : 1456342879
+    },
+    
+    {
+        "id" : 258774,
+        "title" : "[完成 C 轮融资大数据公司招聘] HR 直招各种研发职位",
+        "url" : "http://www.v2ex.com/t/258774",
+        "content" : "新的一年啦，去年年终奖拿了吗？觉得工作不爽?工作环境不够 nice?福利不够齐全？薪资不满意？公司帅哥美女太少？厌烦了上下班打卡？个人发展空间受限？等等等等等。。。。。\u000D\u000A好了，言归正传，不然被认为是卖产品的了。其实是来招聘的。\u000D\u000A2016 年我司已经完成 C 轮融资，目前准备好一切，只等你来！\u000D\u000A\u000D\u000A我们专注于大数据分析平台及企业级移动互联网应用。利用移动互联网和大数据技术帮助企业更简单高效。\u000D\u000A \u000D\u000A团队由国内互联网巨头前创始团队成员、高管和硅谷资深互联网专家构成，已获得多家顶级 VC 的投资，目前已经完成 C 轮融资。\u000D\u000A \u000D\u000A公司信奉硅谷的 IT 文化，团队文化轻松欢快，管理风格民主自由；\u000D\u000A \u000D\u000A福利保障高标准、全面且不断翻新。期待一个优秀的你加盟！\u000D\u000A \u000D\u000A \u000D\u000A \u000D\u000A我们的福利待遇：\u000D\u000A \u000D\u000A富有竞争力的薪酬；\u000D\u000A \u000D\u000A五险一金+期权+高额补助+丰厚的季度奖金及项目奖金+24 小时茶点+丰富的团队活动；\u000D\u000A \u000D\u000A休息室，图书室，健身房，茶水间，一应俱全。\u000D\u000A\u000D\u000A我们还为你准备了 MacBook 。\u000D\u000A\u000D\u000A\u000D\u000A目前在招职位：前端工程师，前端 leader ， spark 专家，服务端工程师，客户端工程师，客户端 leader ，测试工程师，产品经理， UI 设计师。\u000D\u000A期待有兴趣的同学私聊，怒砸简历！\u000D\u000AQQ ： 2408821299",
+        "content_rendered" : "新的一年啦，去年年终奖拿了吗？觉得工作不爽?工作环境不够 nice?福利不够齐全？薪资不满意？公司帅哥美女太少？厌烦了上下班打卡？个人发展空间受限？等等等等等。。。。。\u000D\u003Cbr /\u003E好了，言归正传，不然被认为是卖产品的了。其实是来招聘的。\u000D\u003Cbr /\u003E2016 年我司已经完成 C 轮融资，目前准备好一切，只等你来！\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E我们专注于大数据分析平台及企业级移动互联网应用。利用移动互联网和大数据技术帮助企业更简单高效。\u000D\u003Cbr /\u003E \u000D\u003Cbr /\u003E团队由国内互联网巨头前创始团队成员、高管和硅谷资深互联网专家构成，已获得多家顶级 VC 的投资，目前已经完成 C 轮融资。\u000D\u003Cbr /\u003E \u000D\u003Cbr /\u003E公司信奉硅谷的 IT 文化，团队文化轻松欢快，管理风格民主自由；\u000D\u003Cbr /\u003E \u000D\u003Cbr /\u003E福利保障高标准、全面且不断翻新。期待一个优秀的你加盟！\u000D\u003Cbr /\u003E \u000D\u003Cbr /\u003E \u000D\u003Cbr /\u003E \u000D\u003Cbr /\u003E我们的福利待遇：\u000D\u003Cbr /\u003E \u000D\u003Cbr /\u003E富有竞争力的薪酬；\u000D\u003Cbr /\u003E \u000D\u003Cbr /\u003E五险一金+期权+高额补助+丰厚的季度奖金及项目奖金+24 小时茶点+丰富的团队活动；\u000D\u003Cbr /\u003E \u000D\u003Cbr /\u003E休息室，图书室，健身房，茶水间，一应俱全。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E我们还为你准备了 MacBook 。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E目前在招职位：前端工程师，前端 leader ， spark 专家，服务端工程师，客户端工程师，客户端 leader ，测试工程师，产品经理， UI 设计师。\u000D\u003Cbr /\u003E期待有兴趣的同学私聊，怒砸简历！\u000D\u003Cbr /\u003EQQ ： 2408821299",
+        "replies" : 50,
+        "member" : {
+            "id" : 14053,
+            "username" : "niki",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/249b/96bd/14053_mini.png?m=1456301135",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/249b/96bd/14053_normal.png?m=1456301135",
+            "avatar_large" : "//cdn.v2ex.co/avatar/249b/96bd/14053_large.png?m=1456301135"
+        },
+        "node" : {
+            "id" : 43,
+            "name" : "jobs",
+            "title" : "酷工作",
+            "title_alternative" : "Jobs",
+            "url" : "http://www.v2ex.com/go/jobs",
+            "topics" : 14124,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/17e6/2166/43_mini.png?m=1456115322",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/17e6/2166/43_normal.png?m=1456115322",
+            "avatar_large" : "//cdn.v2ex.co/navatar/17e6/2166/43_large.png?m=1456115322"
+        },
+        "created" : 1456301995,
+        "last_modified" : 1456301995,
+        "last_touched" : 1456344419
+    },
+    
+    {
+        "id" : 258852,
+        "title" : "[安全警告] 一键 php 开发环境暗藏杀机， phpstudy 一键包",
+        "url" : "http://www.v2ex.com/t/258852",
+        "content" : "昨晚在某群讨论 phpStudy 时，某大牛直说， phpstudy 的 fastcgi 安全性问题，并说了是解析漏洞 a.jpg/1.php\u000D\u000A\u000D\u000A本人也是一方良辰，对于此漏洞也分析过，这个漏洞是 nginx 和 fastCGI 下触发的，由于 phpFPM 默认只解析 php 文件，如果用解析漏洞访问会返回 Access denied ，所以我是没测试过这个漏洞的。\u000D\u000A\u000D\u000A本着以理服人的原则，本人还是对 phpstudy 进行了一下测试，结果自己的脸肿的都不敢摸了。。\u000D\u000A\u000D\u000A\u000D\u000Aphpstudy 刚刚更新， nginx 更新到了 1.9.9 ，增加了 php7 的支持，由于 win10 兼容问题，我这里只能启用 php5.5\u000D\u000A当我用 /.php 访问时\u000D\u000A我他么尿了。。\u000D\u000A\u000D\u000A![QQ 截图 20160224184800.png][1]\u000D\u000A\u000D\u000A\u000D\u000A\u000D\u000A解析了，先不惊慌，能跨目录吗？\u000D\u000A\u000D\u000A\u000D\u000A![QQ 截图 20160224185412.png][2]\u000D\u000A\u000D\u000A不惊慌，跨目录怕啥，权限在这不是？\u000D\u000A嗯？权限呢？？\u000D\u000A没错，是当前用户，所有目录畅行无阻\u000D\u000A![QQ 截图 20160224185518.png][3]\u000D\u000A\u000D\u000A![QQ 截图 20160224185455.png][4]\u000D\u000A\u000D\u000A\u000D\u000A你可能会说，这有啥？别人能访问吗？\u000D\u000A能，因为默认监听了所有 IP\u000D\u000A\u000D\u000A![QQ 截图 20160224190150.png][5]\u000D\u000A触发漏洞的条件也是默认开启的。\u000D\u000A\u000D\u000A![QQ 截图 20160224184934.png][6]\u000D\u000A\u000D\u000A\u000D\u000A\u000D\u000A你可能疑问，这有啥？\u000D\u000A我们设想一下，当你在咖啡厅，愉快的写着 PHP ，然后第二天，你的源码满天飞\u000D\u000A这并不可怕，最可怕的是，什么都没发生。\u000D\u000A就如同 linux 某编译器后门，多年后才被发现\u000D\u000A\u000D\u000A\u000D\u000A为什么会发生？\u000D\u000A1.默认监听了所有 IP ，内网都可以访问\u000D\u000A2.触发漏洞的条件具备\u000D\u000A3.fastCGI 权限过高，导致硬盘访问无阻\u000D\u000A\u000D\u000A你必须承认，在你写代码的时候不会过多考虑权限问题，甚至你会用一个 update.php 上传文件，这本身已经足够严重了。\u000D\u000A\u000D\u000ASO ？便捷的危险，复杂的安全，是时候选一个了！\u000D\u000A\u000D\u000A最后可能有人会说，我不是 windows 啊？\u000D\u000A那我只能说，我尽力了，但我救不了你\u000D\u000A\u000D\u000A\u000D\u000A  [1]: https://dn\u002Dtntsec.qbox.me/2016/02/2044898818.png\u000D\u000A  [2]: https://dn\u002Dtntsec.qbox.me/2016/02/2282855438.png\u000D\u000A  [3]: https://dn\u002Dtntsec.qbox.me/2016/02/463949830.png\u000D\u000A  [4]: https://dn\u002Dtntsec.qbox.me/2016/02/927132893.png\u000D\u000A  [5]: https://dn\u002Dtntsec.qbox.me/2016/02/325599397.png\u000D\u000A  [6]: https://dn\u002Dtntsec.qbox.me/2016/02/546711525.png",
+        "content_rendered" : "\u003Cp\u003E昨晚在某群讨论 phpStudy 时，某大牛直说， phpstudy 的 fastcgi 安全性问题，并说了是解析漏洞 a.jpg/1.php\u003C/p\u003E\u000A\u000A\u003Cp\u003E本人也是一方良辰，对于此漏洞也分析过，这个漏洞是 nginx 和 fastCGI 下触发的，由于 phpFPM 默认只解析 php 文件，如果用解析漏洞访问会返回 Access denied ，所以我是没测试过这个漏洞的。\u003C/p\u003E\u000A\u000A\u003Cp\u003E本着以理服人的原则，本人还是对 phpstudy 进行了一下测试，结果自己的脸肿的都不敢摸了。。\u003C/p\u003E\u000A\u000A\u003Cp\u003Ephpstudy 刚刚更新， nginx 更新到了 1.9.9 ，增加了 php7 的支持，由于 win10 兼容问题，我这里只能启用 php5.5\u003Cbr\u003E\u000A当我用 /.php 访问时\u003Cbr\u003E\u000A我他么尿了。。\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Cimg src\u003D\u0022https://dn\u002Dtntsec.qbox.me/2016/02/2044898818.png\u0022 alt\u003D\u0022QQ 截图 20160224184800.png\u0022\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E解析了，先不惊慌，能跨目录吗？\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Cimg src\u003D\u0022https://dn\u002Dtntsec.qbox.me/2016/02/2282855438.png\u0022 alt\u003D\u0022QQ 截图 20160224185412.png\u0022\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E不惊慌，跨目录怕啥，权限在这不是？\u003Cbr\u003E\u000A嗯？权限呢？？\u003Cbr\u003E\u000A没错，是当前用户，所有目录畅行无阻\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://dn\u002Dtntsec.qbox.me/2016/02/463949830.png\u0022 alt\u003D\u0022QQ 截图 20160224185518.png\u0022\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Cimg src\u003D\u0022https://dn\u002Dtntsec.qbox.me/2016/02/927132893.png\u0022 alt\u003D\u0022QQ 截图 20160224185455.png\u0022\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E你可能会说，这有啥？别人能访问吗？\u003Cbr\u003E\u000A能，因为默认监听了所有 IP\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Cimg src\u003D\u0022https://dn\u002Dtntsec.qbox.me/2016/02/325599397.png\u0022 alt\u003D\u0022QQ 截图 20160224190150.png\u0022\u003E\u003Cbr\u003E\u000A触发漏洞的条件也是默认开启的。\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Cimg src\u003D\u0022https://dn\u002Dtntsec.qbox.me/2016/02/546711525.png\u0022 alt\u003D\u0022QQ 截图 20160224184934.png\u0022\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E你可能疑问，这有啥？\u003Cbr\u003E\u000A我们设想一下，当你在咖啡厅，愉快的写着 PHP ，然后第二天，你的源码满天飞\u003Cbr\u003E\u000A这并不可怕，最可怕的是，什么都没发生。\u003Cbr\u003E\u000A就如同 linux 某编译器后门，多年后才被发现\u003C/p\u003E\u000A\u000A\u003Cp\u003E为什么会发生？\u003Cbr\u003E\u000A1.默认监听了所有 IP ，内网都可以访问\u003Cbr\u003E\u000A2.触发漏洞的条件具备\u003Cbr\u003E\u000A3.fastCGI 权限过高，导致硬盘访问无阻\u003C/p\u003E\u000A\u000A\u003Cp\u003E你必须承认，在你写代码的时候不会过多考虑权限问题，甚至你会用一个 update.php 上传文件，这本身已经足够严重了。\u003C/p\u003E\u000A\u000A\u003Cp\u003ESO ？便捷的危险，复杂的安全，是时候选一个了！\u003C/p\u003E\u000A\u000A\u003Cp\u003E最后可能有人会说，我不是 windows 啊？\u003Cbr\u003E\u000A那我只能说，我尽力了，但我救不了你\u003C/p\u003E\u000A",
+        "replies" : 41,
+        "member" : {
+            "id" : 138765,
+            "username" : "tntsec",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/28b6/6929/138765_mini.png?m=1442494576",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/28b6/6929/138765_normal.png?m=1442494576",
+            "avatar_large" : "//cdn.v2ex.co/avatar/28b6/6929/138765_large.png?m=1442494576"
+        },
+        "node" : {
+            "id" : 56,
+            "name" : "internet",
+            "title" : "互联网",
+            "title_alternative" : "Internet",
+            "url" : "http://www.v2ex.com/go/internet",
+            "topics" : 837,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/9f61/408e/56_mini.png?m=1456308213",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/9f61/408e/56_normal.png?m=1456308213",
+            "avatar_large" : "//cdn.v2ex.co/navatar/9f61/408e/56_large.png?m=1456308213"
+        },
+        "created" : 1456314810,
+        "last_modified" : 1456314810,
+        "last_touched" : 1456335382
+    }
+    
+]

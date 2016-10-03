@@ -1,0 +1,72 @@
+[
+    {
+        "author": "pyupio",
+        "category": "Python",
+        "stars": "960",
+        "title": "statuspage - A statuspage generator that lets you host your statuspage for free on Github.",
+        "url": "https://github.com/pyupio/statuspage"
+    },
+    {
+        "author": "amperser",
+        "category": "JavaScript",
+        "stars": "773",
+        "title": "proselint - A linter for prose.",
+        "url": "https://github.com/amperser/proselint"
+    },
+    {
+        "author": "awentzonline",
+        "category": "Python",
+        "stars": "769",
+        "title": "image-analogies - Generate image analogies using neural matching and blending.",
+        "url": "https://github.com/awentzonline/image-analogies"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "419",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "MarshallOfSound",
+        "category": "JavaScript",
+        "stars": "382",
+        "title": "Google-Play-Music-Desktop-Player-UNOFFICIAL- - A beautiful cross platform Desktop Player for Google Play Music",
+        "url": "https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-"
+    },
+    {
+        "author": "jonsuh",
+        "category": "CSS",
+        "stars": "333",
+        "title": "hamburgers - Tasty CSS-animated Hamburgers",
+        "url": "https://github.com/jonsuh/hamburgers"
+    },
+    {
+        "author": "dsanson",
+        "category": "Shell",
+        "stars": "304",
+        "title": "termpdf - barebones graphic pdf viewer that works inside terminals that support inline graphics",
+        "url": "https://github.com/dsanson/termpdf"
+    },
+    {
+        "author": "tj",
+        "category": "C",
+        "stars": "277",
+        "title": "luna - luna programming language - a small, elegant VM implemented in C",
+        "url": "https://github.com/tj/luna"
+    },
+    {
+        "author": "storehouse",
+        "category": "Swift",
+        "stars": "274",
+        "title": "Advance - A powerful animation framework for iOS.",
+        "url": "https://github.com/storehouse/Advance"
+    },
+    {
+        "author": "filipedeschamps",
+        "category": "JavaScript",
+        "stars": "261",
+        "title": "rss-feed-emitter - Super RSS News Feed aggregator written in Node.js and ES6",
+        "url": "https://github.com/filipedeschamps/rss-feed-emitter"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FormidableLabs",
+        "category": "JavaScript",
+        "stars": "696",
+        "title": "react-game-kit - Component library for making games with React & React Native",
+        "url": "https://github.com/FormidableLabs/react-game-kit"
+    },
+    {
+        "author": "elendirx",
+        "category": "HTML",
+        "stars": "367",
+        "title": "web2web - P2P web powered by torrents and blockchain.",
+        "url": "https://github.com/elendirx/web2web"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "347",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "devtools-html",
+        "category": "JavaScript",
+        "stars": "279",
+        "title": "debugger.html - The Firefox debugger that works anywhere",
+        "url": "https://github.com/devtools-html/debugger.html"
+    },
+    {
+        "author": "shoutem",
+        "category": "JavaScript",
+        "stars": "251",
+        "title": "ui - Customizable set of components for React Native applications",
+        "url": "https://github.com/shoutem/ui"
+    },
+    {
+        "author": "gztchan",
+        "category": "",
+        "stars": "240",
+        "title": "awesome-design - \ud83c\udf8f Best UI/UX Design Resources For Developer & Designer Ever :)",
+        "url": "https://github.com/gztchan/awesome-design"
+    },
+    {
+        "author": "AnyChart",
+        "category": "JavaScript",
+        "stars": "170",
+        "title": "graphicsjs - A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.",
+        "url": "https://github.com/AnyChart/graphicsjs"
+    },
+    {
+        "author": "shu223",
+        "category": "Swift",
+        "stars": "159",
+        "title": "iOS-10-Sampler - Code examples for new APIs of iOS 10.",
+        "url": "https://github.com/shu223/iOS-10-Sampler"
+    },
+    {
+        "author": "vhf",
+        "category": "",
+        "stars": "140",
+        "title": "free-programming-books - \ud83d\udcda Freely available programming books",
+        "url": "https://github.com/vhf/free-programming-books"
+    },
+    {
+        "author": "open-source-society",
+        "category": "",
+        "stars": "140",
+        "title": "computer-science - \ud83c\udf93 Path to a free self-taught education in Computer Science!",
+        "url": "https://github.com/open-source-society/computer-science"
+    }
+]

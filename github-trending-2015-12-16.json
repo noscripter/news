@@ -1,0 +1,72 @@
+[
+    {
+        "author": "phanan",
+        "category": "PHP",
+        "stars": "904",
+        "title": "koel - A personal music streaming server that works.",
+        "url": "https://github.com/phanan/koel"
+    },
+    {
+        "author": "google",
+        "category": "Go",
+        "stars": "797",
+        "title": "git-appraise - Distributed code review system for Git repos",
+        "url": "https://github.com/google/git-appraise"
+    },
+    {
+        "author": "AllThingsSmitty",
+        "category": "",
+        "stars": "721",
+        "title": "css-protips - A collection of tips to help take your CSS skills pro",
+        "url": "https://github.com/AllThingsSmitty/css-protips"
+    },
+    {
+        "author": "ujjwalkarn",
+        "category": "",
+        "stars": "404",
+        "title": "Machine-Learning-Tutorials - machine learning and deep learning tutorials, articles and other resources",
+        "url": "https://github.com/ujjwalkarn/Machine-Learning-Tutorials"
+    },
+    {
+        "author": "oneuijs",
+        "category": "JavaScript",
+        "stars": "390",
+        "title": "You-Dont-Need-jQuery - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.",
+        "url": "https://github.com/oneuijs/You-Dont-Need-jQuery"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "392",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "ericjang",
+        "category": "JavaScript",
+        "stars": "343",
+        "title": "tdb - Interactive, node-by-node debugging and visualization for TensorFlow",
+        "url": "https://github.com/ericjang/tdb"
+    },
+    {
+        "author": "Kinto",
+        "category": "Python",
+        "stars": "337",
+        "title": "kinto - A lightweight JSON storage service with synchronisation and sharing abilities.",
+        "url": "https://github.com/Kinto/kinto"
+    },
+    {
+        "author": "GovernmentCommunicationsHeadquarters",
+        "category": "Java",
+        "stars": "306",
+        "title": "Gaffer - A large-scale graph database",
+        "url": "https://github.com/GovernmentCommunicationsHeadquarters/Gaffer"
+    },
+    {
+        "author": "apple",
+        "category": "C++",
+        "stars": "274",
+        "title": "swift - The Swift Programming Language",
+        "url": "https://github.com/apple/swift"
+    }
+]

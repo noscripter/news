@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "656",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "decosoftware",
+        "category": "JavaScript",
+        "stars": "469",
+        "title": "deco-ide - The React Native IDE",
+        "url": "https://github.com/decosoftware/deco-ide"
+    },
+    {
+        "author": "parkjs814",
+        "category": "JavaScript",
+        "stars": "362",
+        "title": "AlgorithmVisualizer - Algorithm Visualizer",
+        "url": "https://github.com/parkjs814/AlgorithmVisualizer"
+    },
+    {
+        "author": "onmyway133",
+        "category": "Swift",
+        "stars": "328",
+        "title": "fantastic-ios-animation - \u2614 A collection of iOS animation repos",
+        "url": "https://github.com/onmyway133/fantastic-ios-animation"
+    },
+    {
+        "author": "eladnava",
+        "category": "HTML",
+        "stars": "313",
+        "title": "mailgen - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.",
+        "url": "https://github.com/eladnava/mailgen"
+    },
+    {
+        "author": "twitter",
+        "category": "Java",
+        "stars": "292",
+        "title": "heron - Heron is a realtime, distributed, fault-tolerant stream processing engine from Twitter",
+        "url": "https://github.com/twitter/heron"
+    },
+    {
+        "author": "CRYTEK-CRYENGINE",
+        "category": "C++",
+        "stars": "218",
+        "title": "CRYENGINE - CRYENGINE source code.",
+        "url": "https://github.com/CRYTEK-CRYENGINE/CRYENGINE"
+    },
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "195",
+        "title": "HEAD - A list of everything that could go in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    },
+    {
+        "author": "sachinchoolur",
+        "category": "JavaScript",
+        "stars": "183",
+        "title": "lightgallery-desktop - A modern, electron and nodejs based image viewer for Mac, Windows and Linux.",
+        "url": "https://github.com/sachinchoolur/lightgallery-desktop"
+    },
+    {
+        "author": "brownhci",
+        "category": "JavaScript",
+        "stars": "179",
+        "title": "WebGazer - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions",
+        "url": "https://github.com/brownhci/WebGazer"
+    }
+]

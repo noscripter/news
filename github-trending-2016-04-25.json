@@ -1,0 +1,72 @@
+[
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "539",
+        "title": "HEAD - A list of everything that goes in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "462",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "humaan",
+        "category": "CSS",
+        "stars": "211",
+        "title": "Modaal - An accessible dialog window library for all humans.",
+        "url": "https://github.com/humaan/Modaal"
+    },
+    {
+        "author": "dleitee",
+        "category": "JavaScript",
+        "stars": "173",
+        "title": "strman - A Javascript string manipulation library without npm dependences.",
+        "url": "https://github.com/dleitee/strman"
+    },
+    {
+        "author": "braydie",
+        "category": "",
+        "stars": "164",
+        "title": "HowToBeAProgrammer - A guide on how to be a Programmer - originally published by Robert L Read",
+        "url": "https://github.com/braydie/HowToBeAProgrammer"
+    },
+    {
+        "author": "Yelp",
+        "category": "Python",
+        "stars": "171",
+        "title": "elastalert - Easy & Flexible Alerting With ElasticSearch",
+        "url": "https://github.com/Yelp/elastalert"
+    },
+    {
+        "author": "pavelgonchar",
+        "category": "Python",
+        "stars": "146",
+        "title": "colornet - Neural Network to colorize grayscale images",
+        "url": "https://github.com/pavelgonchar/colornet"
+    },
+    {
+        "author": "Vedenin",
+        "category": "Java",
+        "stars": "138",
+        "title": "useful-java-links - A list of useful Java frameworks, libraries, software and hello worlds examples",
+        "url": "https://github.com/Vedenin/useful-java-links"
+    },
+    {
+        "author": "google",
+        "category": "Java",
+        "stars": "134",
+        "title": "agera - Reactive Programming for Android",
+        "url": "https://github.com/google/agera"
+    },
+    {
+        "author": "isocpp",
+        "category": "Python",
+        "stars": "128",
+        "title": "CppCoreGuidelines - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+        "url": "https://github.com/isocpp/CppCoreGuidelines"
+    }
+]

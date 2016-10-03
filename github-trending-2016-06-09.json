@@ -1,0 +1,72 @@
+[
+    {
+        "author": "git-tips",
+        "category": "JavaScript",
+        "stars": "786",
+        "title": "tips - Most commonly used git tips and tricks.",
+        "url": "https://github.com/git-tips/tips"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "664",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "googlecreativelab",
+        "category": "C",
+        "stars": "432",
+        "title": "anypixel - A web-friendly way for anyone to build unusual displays",
+        "url": "https://github.com/googlecreativelab/anypixel"
+    },
+    {
+        "author": "insidegui",
+        "category": "Swift",
+        "stars": "341",
+        "title": "WWDC - WWDC app for OS X",
+        "url": "https://github.com/insidegui/WWDC"
+    },
+    {
+        "author": "wiseio",
+        "category": "C++",
+        "stars": "331",
+        "title": "paratext - A library for reading text files over multiple cores.",
+        "url": "https://github.com/wiseio/paratext"
+    },
+    {
+        "author": "luruke",
+        "category": "JavaScript",
+        "stars": "316",
+        "title": "barba.js - Create badass, fluid and smooth transition between your website's pages.",
+        "url": "https://github.com/luruke/barba.js"
+    },
+    {
+        "author": "raywenderlich",
+        "category": "Swift",
+        "stars": "305",
+        "title": "swift-algorithm-club - Algorithms and data structures in Swift, with explanations!",
+        "url": "https://github.com/raywenderlich/swift-algorithm-club"
+    },
+    {
+        "author": "saiprashanths",
+        "category": "Python",
+        "stars": "264",
+        "title": "dl-docker - An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)",
+        "url": "https://github.com/saiprashanths/dl-docker"
+    },
+    {
+        "author": "rasbt",
+        "category": "Jupyter Notebook",
+        "stars": "239",
+        "title": "python-machine-learning-book - The \"Python Machine Learning\" book code repository and info resource",
+        "url": "https://github.com/rasbt/python-machine-learning-book"
+    },
+    {
+        "author": "mosra",
+        "category": "C++",
+        "stars": "234",
+        "title": "magnum - C++11/C++14 and OpenGL graphics engine",
+        "url": "https://github.com/mosra/magnum"
+    }
+]

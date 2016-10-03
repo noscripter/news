@@ -1,0 +1,72 @@
+[
+    {
+        "author": "vic317yeh",
+        "category": "",
+        "stars": "1,447",
+        "title": "One-Click-to-Be-Pro - A list of the best resources to help you get started in becoming a pro",
+        "url": "https://github.com/vic317yeh/One-Click-to-Be-Pro"
+    },
+    {
+        "author": "jorgebastida",
+        "category": "Python",
+        "stars": "905",
+        "title": "gordon - \u03bb Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation",
+        "url": "https://github.com/jorgebastida/gordon"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "730",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "rohitkrai03",
+        "category": "CSS",
+        "stars": "703",
+        "title": "pills - A simple responsive CSS Grid for humans. View Demo -",
+        "url": "https://github.com/rohitkrai03/pills"
+    },
+    {
+        "author": "tensorflow",
+        "category": "Python",
+        "stars": "407",
+        "title": "magenta - Magenta: Music and Art Generation with Machine Intelligence",
+        "url": "https://github.com/tensorflow/magenta"
+    },
+    {
+        "author": "jlund",
+        "category": "Python",
+        "stars": "332",
+        "title": "streisand - Streisand sets up a new server running L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, and a Tor bridge. It also generates custom configuration instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.",
+        "url": "https://github.com/jlund/streisand"
+    },
+    {
+        "author": "coreos",
+        "category": "Go",
+        "stars": "326",
+        "title": "torus - Torus Distributed Storage",
+        "url": "https://github.com/coreos/torus"
+    },
+    {
+        "author": "guysoft",
+        "category": "Shell",
+        "stars": "322",
+        "title": "FullPageOS - A raspberrypi distro to display a full page browser on boot",
+        "url": "https://github.com/guysoft/FullPageOS"
+    },
+    {
+        "author": "aymericdamien",
+        "category": "Jupyter Notebook",
+        "stars": "251",
+        "title": "TensorFlow-Examples - TensorFlow tutorials and code examples for beginners",
+        "url": "https://github.com/aymericdamien/TensorFlow-Examples"
+    },
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "223",
+        "title": "HEAD - A list of everything that could go in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    }
+]

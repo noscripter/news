@@ -1,0 +1,282 @@
+[
+    
+    {
+        "id" : 263222,
+        "title" : "关于 Linux 的图形界面………想法（无心引战）",
+        "url" : "http://www.v2ex.com/t/263222",
+        "content" : "图形界面永远是 Linux 的痛处好像，每当提到这个，很多 Geek 就会站出来，宣称图形界面完全是没有用的东西，你看我用终端命令工作的多快？\u000D\u000A\u000D\u000A这明显是自欺欺人嘛。\u000D\u000A\u000D\u000A\u000D\u000A命令行确实效率很高，尤其是重复作业的时候。可是真的，所有的东西都可以用命令行搞定么？\u000D\u000A命令行和图形完全就是两个方向的东西，谁也不能取代谁。两者就是两个需要的方向，都应该存在。都应该在一套系统中被完善的很好。\u000D\u000A\u000D\u000A计算机要面令的任务不光光是跑代码，跑一个服务器。 Geek 们总是觉得……他们自己不用，全世界其他人就不需要了。\u000D\u000A\u000D\u000A绘图，创作 3D 模型，图像处理，位图编辑， Office 套件所做的事情—— 文字编辑，表格处理，幻灯片，印刷业排版，等等。这些都是实实在在的生活需求。\u000D\u000A\u000D\u000A你不能指望所有的位图，都在终端里用 ASCII 显示出来吧。\u000D\u000A如果你出现绘图，看图，那么图形界面就一定会诞生。\u000D\u000A\u000D\u000ALinux 真的需要往这方面努力，而不是一个极客们自产自销的玩具。\u000D\u000A\u000D\u000ALinux 宣称的稳定……赶脚也是在久经考验的服务器领域。仰赖的也是长久的自我除错和 fix bug 。一旦超出这个领域，赶脚不杂地。\u000D\u000A\u000D\u000A实际上每个发行版，都没有形成很强悍的生态体系。一升级内核，驱动立刻都完蛋。频繁的内核省级。发行版彼此版本之间也不是那么好。\u000D\u000A\u000D\u000AArch 那些，太费精力。基本上是用户承担了社区的调试工作。\u000D\u000A\u000D\u000A总之， Linux 还有很长的路要走。\u000D\u000A\u000D\u000A宗赶脚 Linux 在啃老本，哈哈\u000D\u000A\u000D\u000A感觉在找喷。\u000D\u000A\u000D\u000A好的系统，图形界面，和命令行都应该支持，并且尽量做的很完美。\u000D\u000A即使是 bug ，也应该尽量避免官感，界面稳定性，方面出问题,ubuntu 放出的稳定版里，弹出内部错误，文件夹残影无法拖动……装逼的时候，遇到这个……完全就是人间惨剧。\u000D\u000A\u000D\u000A我到挺希望有一个“流氓”企业进驻 Linux ，搞一个驱动管家，内核升级迁移助手之类的东西\u000D\u000A抹平 Linux 这种和用户之间的隔阂。\u000D\u000A\u000D\u000A本来一个系统要做的很多事情，边边角角的细节， Linux 这边的都没人作。\u000D\u000AMac OS X 好像是最好的系统。\u000D\u000A可惜商业化运作，还有仰赖于昂贵的硬件。\u000D\u000A用苹果的东西，感觉一点都不自由。选择很受限制。\u000D\u000A\u000D\u000A有一天苹果，微软和谷歌联手毁灭世界，每一个人都不会找到第二个取代品。\u000D\u000A这就是我不喜欢过分依赖商业公司。",
+        "content_rendered" : "\u003Cp\u003E图形界面永远是 Linux 的痛处好像，每当提到这个，很多 Geek 就会站出来，宣称图形界面完全是没有用的东西，你看我用终端命令工作的多快？\u003C/p\u003E\u000A\u000A\u003Cp\u003E这明显是自欺欺人嘛。\u003C/p\u003E\u000A\u000A\u003Cp\u003E命令行确实效率很高，尤其是重复作业的时候。可是真的，所有的东西都可以用命令行搞定么？\u003Cbr\u003E\u000A命令行和图形完全就是两个方向的东西，谁也不能取代谁。两者就是两个需要的方向，都应该存在。都应该在一套系统中被完善的很好。\u003C/p\u003E\u000A\u000A\u003Cp\u003E计算机要面令的任务不光光是跑代码，跑一个服务器。 Geek 们总是觉得……他们自己不用，全世界其他人就不需要了。\u003C/p\u003E\u000A\u000A\u003Cp\u003E绘图，创作 3D 模型，图像处理，位图编辑， Office 套件所做的事情—— 文字编辑，表格处理，幻灯片，印刷业排版，等等。这些都是实实在在的生活需求。\u003C/p\u003E\u000A\u000A\u003Cp\u003E你不能指望所有的位图，都在终端里用 ASCII 显示出来吧。\u003Cbr\u003E\u000A如果你出现绘图，看图，那么图形界面就一定会诞生。\u003C/p\u003E\u000A\u000A\u003Cp\u003ELinux 真的需要往这方面努力，而不是一个极客们自产自销的玩具。\u003C/p\u003E\u000A\u000A\u003Cp\u003ELinux 宣称的稳定……赶脚也是在久经考验的服务器领域。仰赖的也是长久的自我除错和 fix bug 。一旦超出这个领域，赶脚不杂地。\u003C/p\u003E\u000A\u000A\u003Cp\u003E实际上每个发行版，都没有形成很强悍的生态体系。一升级内核，驱动立刻都完蛋。频繁的内核省级。发行版彼此版本之间也不是那么好。\u003C/p\u003E\u000A\u000A\u003Cp\u003EArch 那些，太费精力。基本上是用户承担了社区的调试工作。\u003C/p\u003E\u000A\u000A\u003Cp\u003E总之， Linux 还有很长的路要走。\u003C/p\u003E\u000A\u000A\u003Cp\u003E宗赶脚 Linux 在啃老本，哈哈\u003C/p\u003E\u000A\u000A\u003Cp\u003E感觉在找喷。\u003C/p\u003E\u000A\u000A\u003Cp\u003E好的系统，图形界面，和命令行都应该支持，并且尽量做的很完美。\u003Cbr\u003E\u000A即使是 bug ，也应该尽量避免官感，界面稳定性，方面出问题,ubuntu 放出的稳定版里，弹出内部错误，文件夹残影无法拖动……装逼的时候，遇到这个……完全就是人间惨剧。\u003C/p\u003E\u000A\u000A\u003Cp\u003E我到挺希望有一个“流氓”企业进驻 Linux ，搞一个驱动管家，内核升级迁移助手之类的东西\u003Cbr\u003E\u000A抹平 Linux 这种和用户之间的隔阂。\u003C/p\u003E\u000A\u000A\u003Cp\u003E本来一个系统要做的很多事情，边边角角的细节， Linux 这边的都没人作。\u003Cbr\u003E\u000AMac OS X 好像是最好的系统。\u003Cbr\u003E\u000A可惜商业化运作，还有仰赖于昂贵的硬件。\u003Cbr\u003E\u000A用苹果的东西，感觉一点都不自由。选择很受限制。\u003C/p\u003E\u000A\u000A\u003Cp\u003E有一天苹果，微软和谷歌联手毁灭世界，每一个人都不会找到第二个取代品。\u003Cbr\u003E\u000A这就是我不喜欢过分依赖商业公司。\u003C/p\u003E\u000A",
+        "replies" : 75,
+        "member" : {
+            "id" : 62847,
+            "username" : "Mark24",
+            "tagline" : "『 Less is more 』",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/edea/c9b0/62847_mini.png?m=1447062838",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/edea/c9b0/62847_normal.png?m=1447062838",
+            "avatar_large" : "//cdn.v2ex.co/avatar/edea/c9b0/62847_large.png?m=1447062838"
+        },
+        "node" : {
+            "id" : 11,
+            "name" : "linux",
+            "title" : "Linux",
+            "title_alternative" : "Linux",
+            "url" : "http://www.v2ex.com/go/linux",
+            "topics" : 2266,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/6512/bd43/11_mini.png?m=1456560866",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/6512/bd43/11_normal.png?m=1456560866",
+            "avatar_large" : "//cdn.v2ex.co/navatar/6512/bd43/11_large.png?m=1456560866"
+        },
+        "created" : 1457874286,
+        "last_modified" : 1457874286,
+        "last_touched" : 1457917902
+    },
+    
+    {
+        "id" : 263195,
+        "title" : "第四盘， Alpha Go 输了",
+        "url" : "http://www.v2ex.com/t/263195",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 65,
+        "member" : {
+            "id" : 10491,
+            "username" : "glasslion",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/b626/82b1/10491_mini.png?m=1361696293",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/b626/82b1/10491_normal.png?m=1361696293",
+            "avatar_large" : "//cdn.v2ex.co/avatar/b626/82b1/10491_large.png?m=1361696293"
+        },
+        "node" : {
+            "id" : 827,
+            "name" : "goban",
+            "title" : "围棋",
+            "title_alternative" : "Goban",
+            "url" : "http://www.v2ex.com/go/goban",
+            "topics" : 44,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/fa3a/3c40/827_mini.png?m=1418112761",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/fa3a/3c40/827_normal.png?m=1418112761",
+            "avatar_large" : "//cdn.v2ex.co/navatar/fa3a/3c40/827_large.png?m=1418112761"
+        },
+        "created" : 1457858701,
+        "last_modified" : 1457858731,
+        "last_touched" : 1457891265
+    },
+    
+    {
+        "id" : 263157,
+        "title" : "怒喷苹果、微软和 Google",
+        "url" : "http://www.v2ex.com/t/263157",
+        "content" : "这两天折腾系统搞得很不爽，实在忍不住想吐槽下。\u000D\u000A我一台 macbook 整盘抹了重装 10.11 ，还有一台 pc 因为 win10 不习惯整盘格了重装 win7 。\u000D\u000A本来以为分分钟就搞定的事，没想到折腾了大半夜。\u000D\u000A家人看着我熬红的双眼，深表同情。同时又表示不是很懂你们修电脑专业（ CS ）科班出身又工作多年的人干事。\u000D\u000A好吧，且待我一一喷来。\u000D\u000A\u000D\u000A首先，先说说苹果。\u000D\u000Amb 已抹盘，网络恢复的话不用我喷大家也都知道要多久，远不如 U 盘装来得快。我从 MAS 下载 10.11 也就半个小时，还算顺利。\u000D\u000A制作安装盘的方法也简单，官网就有介绍：\u000D\u000Ahttps://support.apple.com/en\u002Dus/HT201372\u000D\u000A然后问题就来了，这 U 盘启动后，滚动条走完就会出现灰色禁止符号，根本没法安装。\u000D\u000A这个我已在 /t/263103 吐过了，就不多说了。\u000D\u000A我只想说，看看微软家的，把安装文件直接复制到 U 盘就能马上安装了，哪像你这还得敲一大串命令，结果还莫名其妙就不行了，连点有用的提示都没有。磁盘工具吧，渣就一个字，离 win 能差几十条街。如果不是 diskutil 命令还能用，恐怕我得为这点小事去店里了，要么就忍受漫长的网络恢复。\u000D\u000A我这场景应该算是最简单的了，单一分区，全新重装，网络也不差，都能搞到这步田地，可以想像这功能也就是个摆设。\u000D\u000A当然了，苹果也可以吐槽我，花钱官网买系统 U 盘，或者按个键直接网络装，都这么简单了你还想怎样？只有又抠又事儿的才在这乱喷。\u000D\u000A呵呵。。。\u000D\u000A\u000D\u000A然后，再说微软。\u000D\u000A不要以为我上面夸了微软就觉得我是果黑软粉。我不是针对谁，我只是想说在座的两位都。。。\u000D\u000A我上面说了，还有一台 pc 同时在装 win7 。本来以为我这多线程两边同时开搞，效率大大的呢。没想到这边也是个不省心的货。\u000D\u000A安装过程倒是很顺利，几分钟就装完了。\u000D\u000A进到系统第一件事就是更新补丁。可万万没想到的是，它一直停在检查更新的状态， cpu 占用 100%。\u000D\u000A不过因为我同时还在折腾着 mac ，也没在意。随它吧。\u000D\u000A一夜过去，我回来再看，还特么在检查更新， CPU 还是 100%，有个 svchost 进程占了大概 2G 内存。\u000D\u000A无奈只好网上搜了下，发现原来是 win10 出来后就这样了，这是在逼着升 win10 么。。。\u000D\u000A官网倒是有个解决办法，新系统在更新补丁之前，要先打个补丁!\u000D\u000Ahttps://support.microsoft.com/en\u002Dus/kb/3102810\u000D\u000A好吧。。。你不说我还以为是我网络不好呢，不然，我全新安装的系统怎么就连更新都更不了了呢？\u000D\u000A话说你就不能在升级服务器上做些优雅的处理吗？\u000D\u000A当然了，微软也可以吐槽我，有新系统干嘛不用非要用老的？况且升级 win10 还是免费的呢。免费的呢。免费的呢。\u000D\u000A\u000D\u000A最后，说说 Google 。\u000D\u000A装好系统后，不管 mac 还是 win 我一般都是先装上 Chrome+插件，不然都不知道怎么上网了。\u000D\u000A可是，那个 GoogleUpdate 算怎么回事，老是自动运行，删掉还不知道什么时候又出来了。你这样跟那些流氓软件有什么区别？我就是不想自动升级怎么了？况且在某些地方你能连得上升级服务器么？\u000D\u000A可能你会说，不好用为啥不转型？就不能换个别的浏览器？\u000D\u000A好吧，那就说说 Google 搜索，这可是它的正业，也是暂时找不到替代品的。可是，现在搜出来的结果凡是跟中文沾边的，几乎大部分都毫无价值。垃圾扒站，垃圾 SEO ，根本没法看。我装上 Personal Blocklist ，列表都上百页了，经常出来搜索结果一整页都是空白的情况。前段时间还盛传 Google 要回来，就这样的体验，能用吗？你 Google 那么牛，阿法狗都出来了，这点事都搞不定？\u000D\u000A\u000D\u000A真是奇了怪了，这些伟大的公司，里面聚集的也都是大牛，怎么做出的东西就这么糙呢？",
+        "content_rendered" : "这两天折腾系统搞得很不爽，实在忍不住想吐槽下。\u000D\u003Cbr /\u003E我一台 macbook 整盘抹了重装 10.11 ，还有一台 pc 因为 win10 不习惯整盘格了重装 win7 。\u000D\u003Cbr /\u003E本来以为分分钟就搞定的事，没想到折腾了大半夜。\u000D\u003Cbr /\u003E家人看着我熬红的双眼，深表同情。同时又表示不是很懂你们修电脑专业（ CS ）科班出身又工作多年的人干事。\u000D\u003Cbr /\u003E好吧，且待我一一喷来。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E首先，先说说苹果。\u000D\u003Cbr /\u003Emb 已抹盘，网络恢复的话不用我喷大家也都知道要多久，远不如 U 盘装来得快。我从 MAS 下载 10.11 也就半个小时，还算顺利。\u000D\u003Cbr /\u003E制作安装盘的方法也简单，官网就有介绍：\u000D\u003Cbr /\u003E\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022https://support.apple.com/en\u002Dus/HT201372\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://support.apple.com/en\u002Dus/HT201372\u003C/a\u003E\u000D\u003Cbr /\u003E然后问题就来了，这 U 盘启动后，滚动条走完就会出现灰色禁止符号，根本没法安装。\u000D\u003Cbr /\u003E这个我已在 \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022/t/263103\u0022\u003E/t/263103\u003C/a\u003E 吐过了，就不多说了。\u000D\u003Cbr /\u003E我只想说，看看微软家的，把安装文件直接复制到 U 盘就能马上安装了，哪像你这还得敲一大串命令，结果还莫名其妙就不行了，连点有用的提示都没有。磁盘工具吧，渣就一个字，离 win 能差几十条街。如果不是 diskutil 命令还能用，恐怕我得为这点小事去店里了，要么就忍受漫长的网络恢复。\u000D\u003Cbr /\u003E我这场景应该算是最简单的了，单一分区，全新重装，网络也不差，都能搞到这步田地，可以想像这功能也就是个摆设。\u000D\u003Cbr /\u003E当然了，苹果也可以吐槽我，花钱官网买系统 U 盘，或者按个键直接网络装，都这么简单了你还想怎样？只有又抠又事儿的才在这乱喷。\u000D\u003Cbr /\u003E呵呵。。。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E然后，再说微软。\u000D\u003Cbr /\u003E不要以为我上面夸了微软就觉得我是果黑软粉。我不是针对谁，我只是想说在座的两位都。。。\u000D\u003Cbr /\u003E我上面说了，还有一台 pc 同时在装 win7 。本来以为我这多线程两边同时开搞，效率大大的呢。没想到这边也是个不省心的货。\u000D\u003Cbr /\u003E安装过程倒是很顺利，几分钟就装完了。\u000D\u003Cbr /\u003E进到系统第一件事就是更新补丁。可万万没想到的是，它一直停在检查更新的状态， cpu 占用 100%。\u000D\u003Cbr /\u003E不过因为我同时还在折腾着 mac ，也没在意。随它吧。\u000D\u003Cbr /\u003E一夜过去，我回来再看，还特么在检查更新， CPU 还是 100%，有个 svchost 进程占了大概 2G 内存。\u000D\u003Cbr /\u003E无奈只好网上搜了下，发现原来是 win10 出来后就这样了，这是在逼着升 win10 么。。。\u000D\u003Cbr /\u003E官网倒是有个解决办法，新系统在更新补丁之前，要先打个补丁!\u000D\u003Cbr /\u003E\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022https://support.microsoft.com/en\u002Dus/kb/3102810\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://support.microsoft.com/en\u002Dus/kb/3102810\u003C/a\u003E\u000D\u003Cbr /\u003E好吧。。。你不说我还以为是我网络不好呢，不然，我全新安装的系统怎么就连更新都更不了了呢？\u000D\u003Cbr /\u003E话说你就不能在升级服务器上做些优雅的处理吗？\u000D\u003Cbr /\u003E当然了，微软也可以吐槽我，有新系统干嘛不用非要用老的？况且升级 win10 还是免费的呢。免费的呢。免费的呢。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E最后，说说 Google 。\u000D\u003Cbr /\u003E装好系统后，不管 mac 还是 win 我一般都是先装上 Chrome+插件，不然都不知道怎么上网了。\u000D\u003Cbr /\u003E可是，那个 GoogleUpdate 算怎么回事，老是自动运行，删掉还不知道什么时候又出来了。你这样跟那些流氓软件有什么区别？我就是不想自动升级怎么了？况且在某些地方你能连得上升级服务器么？\u000D\u003Cbr /\u003E可能你会说，不好用为啥不转型？就不能换个别的浏览器？\u000D\u003Cbr /\u003E好吧，那就说说 Google 搜索，这可是它的正业，也是暂时找不到替代品的。可是，现在搜出来的结果凡是跟中文沾边的，几乎大部分都毫无价值。垃圾扒站，垃圾 SEO ，根本没法看。我装上 Personal Blocklist ，列表都上百页了，经常出来搜索结果一整页都是空白的情况。前段时间还盛传 Google 要回来，就这样的体验，能用吗？你 Google 那么牛，阿法狗都出来了，这点事都搞不定？\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E真是奇了怪了，这些伟大的公司，里面聚集的也都是大牛，怎么做出的东西就这么糙呢？",
+        "replies" : 58,
+        "member" : {
+            "id" : 62292,
+            "username" : "benmaowang",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/86fa/edcb/62292_mini.png?m=1399649142",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/86fa/edcb/62292_normal.png?m=1399649142",
+            "avatar_large" : "//cdn.v2ex.co/avatar/86fa/edcb/62292_large.png?m=1399649142"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 11188,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1457521102",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1457521102",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1457521102"
+        },
+        "created" : 1457848160,
+        "last_modified" : 1457848160,
+        "last_touched" : 1457896352
+    },
+    
+    {
+        "id" : 263238,
+        "title" : "今天向全世界那些坚定认为 AlphaGo 会 5:0 碾压李世石的“专家”竖起我最长的手指。",
+        "url" : "http://www.v2ex.com/t/263238",
+        "content" : "不要太多，一局已经能够证明。",
+        "content_rendered" : "\u003Cp\u003E不要太多，一局已经能够证明。\u003C/p\u003E\u000A",
+        "replies" : 50,
+        "member" : {
+            "id" : 5310,
+            "username" : "jamiesun",
+            "tagline" : "想象力比知识更重要",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/a753/a435/5310_mini.png?m=1449058174",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/a753/a435/5310_normal.png?m=1449058174",
+            "avatar_large" : "//cdn.v2ex.co/avatar/a753/a435/5310_large.png?m=1449058174"
+        },
+        "node" : {
+            "id" : 827,
+            "name" : "goban",
+            "title" : "围棋",
+            "title_alternative" : "Goban",
+            "url" : "http://www.v2ex.com/go/goban",
+            "topics" : 44,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/fa3a/3c40/827_mini.png?m=1418112761",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/fa3a/3c40/827_normal.png?m=1418112761",
+            "avatar_large" : "//cdn.v2ex.co/navatar/fa3a/3c40/827_large.png?m=1418112761"
+        },
+        "created" : 1457879999,
+        "last_modified" : 1457879999,
+        "last_touched" : 1457914575
+    },
+    
+    {
+        "id" : 263127,
+        "title" : "看看攒机这个配置如何？",
+        "url" : "http://www.v2ex.com/t/263127",
+        "content" : "CPU ： intel i5\u002D6500\u000D\u000A硬盘： intel ssd 535 240G\u000D\u000A主板：华硕 Z170M\u002D PLUS\u000D\u000A电源：海盗船 RM550x \u000D\u000A内存：海盗船 铂金统治者 DDR4 3000 8G X2\u000D\u000A机箱：乔伯思 RM3\u000D\u000A显示器： Dell U2415\u000D\u000A\u000D\u000A无显卡",
+        "content_rendered" : "CPU ： intel i5\u002D6500\u000D\u003Cbr /\u003E硬盘： intel ssd 535 240G\u000D\u003Cbr /\u003E主板：华硕 Z170M\u002D PLUS\u000D\u003Cbr /\u003E电源：海盗船 RM550x \u000D\u003Cbr /\u003E内存：海盗船 铂金统治者 DDR4 3000 8G X2\u000D\u003Cbr /\u003E机箱：乔伯思 RM3\u000D\u003Cbr /\u003E显示器： Dell U2415\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E无显卡",
+        "replies" : 38,
+        "member" : {
+            "id" : 53361,
+            "username" : "razios",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/23bf25ca6d4df60efc393c6b2cf5fb50?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/23bf25ca6d4df60efc393c6b2cf5fb50?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/23bf25ca6d4df60efc393c6b2cf5fb50?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 52,
+            "name" : "hardware",
+            "title" : "硬件",
+            "title_alternative" : "Hardware",
+            "url" : "http://www.v2ex.com/go/hardware",
+            "topics" : 908,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/9a11/5815/52_mini.png?m=1442293057",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/9a11/5815/52_normal.png?m=1442293057",
+            "avatar_large" : "//cdn.v2ex.co/navatar/9a11/5815/52_large.png?m=1442293057"
+        },
+        "created" : 1457836548,
+        "last_modified" : 1457840978,
+        "last_touched" : 1457889484
+    },
+    
+    {
+        "id" : 263120,
+        "title" : "Gmail 出来十几年了 有没有已经用完免费空间的人? 你们是选择付费还是删旧邮件还是转移阵地?",
+        "url" : "http://www.v2ex.com/t/263120",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 35,
+        "member" : {
+            "id" : 99999,
+            "username" : "done",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/d036bd5f2e4708e27790862f8cc6d45c?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/d036bd5f2e4708e27790862f8cc6d45c?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/d036bd5f2e4708e27790862f8cc6d45c?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 65867,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1457336460",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1457336460",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1457336460"
+        },
+        "created" : 1457832635,
+        "last_modified" : 1457832635,
+        "last_touched" : 1457897534
+    },
+    
+    {
+        "id" : 263205,
+        "title" : "联通 LTE 死慢 完全不知道原因",
+        "url" : "http://www.v2ex.com/t/263205",
+        "content" : "坐标：江苏镇江\u000A\u000A用了快一年的联通 4G 了，才发现速度慢的和 3G 一样\u000A\u000Ahttp://i.imgur.com/oYmva35.jpg",
+        "content_rendered" : "坐标：江苏镇江\u003Cbr /\u003E\u003Cbr /\u003E用了快一年的联通 4G 了，才发现速度慢的和 3G 一样\u003Cbr /\u003E\u003Cbr /\u003E\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://i.imgur.com/oYmva35.jpg\u0022 target\u003D\u0022_blank\u0022\u003E\u003Cimg src\u003D\u0022http://i.imgur.com/oYmva35.jpg\u0022 border\u003D\u00220\u0022 style\u003D\u0022max\u002Dwidth: 660px\u003B\u0022 class\u003D\u0022imgly\u0022 /\u003E\u003C/a\u003E",
+        "replies" : 28,
+        "member" : {
+            "id" : 62932,
+            "username" : "Love4Taylor",
+            "tagline" : "如果你不能得到幸福，我所做的一切都毫无意义 \u002D\u002D\u002D 嫌疑人X的献身",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/1a66/ee81/62932_mini.png?m=1450872152",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/1a66/ee81/62932_normal.png?m=1450872152",
+            "avatar_large" : "//cdn.v2ex.co/avatar/1a66/ee81/62932_large.png?m=1450872152"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 65867,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1457336460",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1457336460",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1457336460"
+        },
+        "created" : 1457864517,
+        "last_modified" : 1457864517,
+        "last_touched" : 1457918082
+    },
+    
+    {
+        "id" : 263190,
+        "title" : "围棋怎样才算真正的围?",
+        "url" : "http://www.v2ex.com/t/263190",
+        "content" : "最近很火的阿尔法狗新闻，但是从来没有学过围棋，所以规则也看不懂。搜索一下，只要**围住**就行了。\u000D\u000A\u000D\u000A不知道怎么才算围住呢?\u000D\u000A\u000D\u000A比如下面的个算不算围住了？\u000D\u000A![1]( http://ww4.sinaimg.cn/large/006fVPCvjw1f1vb0n28zcj30y00ywn2c.jpg)\u000D\u000A\u000D\u000A![2]( http://ww3.sinaimg.cn/large/006fVPCvjw1f1vb2nyt9uj30vk0to42i.jpg)\u000D\u000A\u000D\u000A![3]( http://ww1.sinaimg.cn/large/006fVPCvjw1f1vb308stvj30w40r8q6q.jpg)\u000D\u000A\u000D\u000A![4]( http://ww2.sinaimg.cn/large/006fVPCvjw1f1vb3a72n4j30zc0x8797.jpg)",
+        "content_rendered" : "\u003Cp\u003E最近很火的阿尔法狗新闻，但是从来没有学过围棋，所以规则也看不懂。搜索一下，只要\u003Cstrong\u003E围住\u003C/strong\u003E就行了。\u003C/p\u003E\u000A\u000A\u003Cp\u003E不知道怎么才算围住呢?\u003C/p\u003E\u000A\u000A\u003Cp\u003E比如下面的个算不算围住了？\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022http://ww4.sinaimg.cn/large/006fVPCvjw1f1vb0n28zcj30y00ywn2c.jpg\u0022 alt\u003D\u00221\u0022\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Cimg src\u003D\u0022http://ww3.sinaimg.cn/large/006fVPCvjw1f1vb2nyt9uj30vk0to42i.jpg\u0022 alt\u003D\u00222\u0022\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Cimg src\u003D\u0022http://ww1.sinaimg.cn/large/006fVPCvjw1f1vb308stvj30w40r8q6q.jpg\u0022 alt\u003D\u00223\u0022\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Cimg src\u003D\u0022http://ww2.sinaimg.cn/large/006fVPCvjw1f1vb3a72n4j30zc0x8797.jpg\u0022 alt\u003D\u00224\u0022\u003E\u003C/p\u003E\u000A",
+        "replies" : 23,
+        "member" : {
+            "id" : 151982,
+            "username" : "zhanshi",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/1990/62bd/151982_mini.png?m=1457856507",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/1990/62bd/151982_normal.png?m=1457856507",
+            "avatar_large" : "//cdn.v2ex.co/avatar/1990/62bd/151982_large.png?m=1457856507"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 65867,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1457336460",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1457336460",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1457336460"
+        },
+        "created" : 1457857021,
+        "last_modified" : 1457857021,
+        "last_touched" : 1457882327
+    },
+    
+    {
+        "id" : 263203,
+        "title" : "现在百度云（网盘）下载，非会员只有几 K 的速度？",
+        "url" : "http://www.v2ex.com/t/263203",
+        "content" : "好久没有下载云盘的东西了，今天要下个以前的文件， Windows 下用客户端下起，结果只有几 K 的速度，又试了试其他文件，都是几 K 的速度，偶尔几十 K ，不超过 60K 。\u000D\u000A\u000D\u000A老衲孤陋寡闻，是不是这样子很久了？",
+        "content_rendered" : "好久没有下载云盘的东西了，今天要下个以前的文件， Windows 下用客户端下起，结果只有几 K 的速度，又试了试其他文件，都是几 K 的速度，偶尔几十 K ，不超过 60K 。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E老衲孤陋寡闻，是不是这样子很久了？",
+        "replies" : 23,
+        "member" : {
+            "id" : 145026,
+            "username" : "7timesonenight",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/497f/ce41/145026_mini.png?m=1446152360",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/497f/ce41/145026_normal.png?m=1446152360",
+            "avatar_large" : "//cdn.v2ex.co/avatar/497f/ce41/145026_large.png?m=1446152360"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 65867,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1457336460",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1457336460",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1457336460"
+        },
+        "created" : 1457863784,
+        "last_modified" : 1457863784,
+        "last_touched" : 1457899681
+    }
+    
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "ParsePlatform",
+        "category": "JavaScript",
+        "stars": "1,014",
+        "title": "parse-server - Parse-compatible API server module for Node/Express",
+        "url": "https://github.com/ParsePlatform/parse-server"
+    },
+    {
+        "author": "veltman",
+        "category": "",
+        "stars": "1,051",
+        "title": "clmystery - A command-line murder mystery",
+        "url": "https://github.com/veltman/clmystery"
+    },
+    {
+        "author": "Kinto",
+        "category": "Python",
+        "stars": "879",
+        "title": "kinto - A lightweight JSON storage service with synchronisation and sharing abilities.",
+        "url": "https://github.com/Kinto/kinto"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "469",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "google",
+        "category": "Go",
+        "stars": "369",
+        "title": "seesaw - Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.",
+        "url": "https://github.com/google/seesaw"
+    },
+    {
+        "author": "developit",
+        "category": "JavaScript",
+        "stars": "305",
+        "title": "preact - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.",
+        "url": "https://github.com/developit/preact"
+    },
+    {
+        "author": "jgthms",
+        "category": "CSS",
+        "stars": "255",
+        "title": "bulma - Modern CSS framework based on Flexbox",
+        "url": "https://github.com/jgthms/bulma"
+    },
+    {
+        "author": "rstacruz",
+        "category": "JavaScript",
+        "stars": "244",
+        "title": "pnpm - Performant npm",
+        "url": "https://github.com/rstacruz/pnpm"
+    },
+    {
+        "author": "sgaurav",
+        "category": "JavaScript",
+        "stars": "221",
+        "title": "understanding-es6 - Simple examples to help you understand ES6",
+        "url": "https://github.com/sgaurav/understanding-es6"
+    },
+    {
+        "author": "rabbitmq",
+        "category": "",
+        "stars": "204",
+        "title": "internals - High level architecture overview",
+        "url": "https://github.com/rabbitmq/internals"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FormidableLabs",
+        "category": "JavaScript",
+        "stars": "734",
+        "title": "webpack-dashboard - A CLI dashboard for webpack dev server",
+        "url": "https://github.com/FormidableLabs/webpack-dashboard"
+    },
+    {
+        "author": "sdispater",
+        "category": "Python",
+        "stars": "598",
+        "title": "pendulum - Python datetimes made easy",
+        "url": "https://github.com/sdispater/pendulum"
+    },
+    {
+        "author": "sourcegraph",
+        "category": "Go",
+        "stars": "538",
+        "title": "thyme - Automatically track which applications you use and for how long.",
+        "url": "https://github.com/sourcegraph/thyme"
+    },
+    {
+        "author": "RafalWilinski",
+        "category": "HTML",
+        "stars": "407",
+        "title": "express-status-monitor - \ud83d\ude80 Realtime Monitoring solution for Express.js apps, inspired by status.github.com",
+        "url": "https://github.com/RafalWilinski/express-status-monitor"
+    },
+    {
+        "author": "danklammer",
+        "category": "",
+        "stars": "337",
+        "title": "bytesize-icons - A tiny style-controlled SVG iconset",
+        "url": "https://github.com/danklammer/bytesize-icons"
+    },
+    {
+        "author": "raganwald",
+        "category": "",
+        "stars": "303",
+        "title": "presentations - Conference Talks and Proposals",
+        "url": "https://github.com/raganwald/presentations"
+    },
+    {
+        "author": "airbnb",
+        "category": "JavaScript",
+        "stars": "301",
+        "title": "react-dates - An accessible, easily internationalizable, mobile-friendly datepicker library for the web",
+        "url": "https://github.com/airbnb/react-dates"
+    },
+    {
+        "author": "brookhong",
+        "category": "JavaScript",
+        "stars": "284",
+        "title": "Surfingkeys - Map your keys for web surfing, expand your browser with javascript and keyboard.",
+        "url": "https://github.com/brookhong/Surfingkeys"
+    },
+    {
+        "author": "mchav",
+        "category": "Shell",
+        "stars": "268",
+        "title": "with - Command prefixing for continuous workflow using a single tool.",
+        "url": "https://github.com/mchav/with"
+    },
+    {
+        "author": "recharts",
+        "category": "JavaScript",
+        "stars": "264",
+        "title": "recharts - Redefined chart library built with React and D3",
+        "url": "https://github.com/recharts/recharts"
+    }
+]

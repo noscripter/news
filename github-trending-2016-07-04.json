@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "472",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "impress",
+        "category": "JavaScript",
+        "stars": "283",
+        "title": "impress.js - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.",
+        "url": "https://github.com/impress/impress.js"
+    },
+    {
+        "author": "juliangarnier",
+        "category": "JavaScript",
+        "stars": "190",
+        "title": "anime - Javascript Animation Engine",
+        "url": "https://github.com/juliangarnier/anime"
+    },
+    {
+        "author": "cht8687",
+        "category": "JavaScript",
+        "stars": "174",
+        "title": "You-Dont-Need-Lodash-Underscore - Lists of Javascript methods which you can use natively",
+        "url": "https://github.com/cht8687/You-Dont-Need-Lodash-Underscore"
+    },
+    {
+        "author": "terwanerik",
+        "category": "JavaScript",
+        "stars": "147",
+        "title": "ScrollTrigger - Triggers classes on html elements based on the scroll position. Uses requestAnimationFrame so it doesn't jack the users scroll.",
+        "url": "https://github.com/terwanerik/ScrollTrigger"
+    },
+    {
+        "author": "guarinogabriel",
+        "category": "Shell",
+        "stars": "139",
+        "title": "Mac-CLI - \uf8ff OS X command line tools for developers \u2013 The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.",
+        "url": "https://github.com/guarinogabriel/Mac-CLI"
+    },
+    {
+        "author": "olistic",
+        "category": "JavaScript",
+        "stars": "131",
+        "title": "warriorjs - Game written in JavaScript for learning JavaScript and artificial intelligence.",
+        "url": "https://github.com/olistic/warriorjs"
+    },
+    {
+        "author": "alibaba",
+        "category": "Java",
+        "stars": "114",
+        "title": "weex - A framework for building Mobile cross-platform UI",
+        "url": "https://github.com/alibaba/weex"
+    },
+    {
+        "author": "getify",
+        "category": "JavaScript",
+        "stars": "92",
+        "title": "You-Dont-Know-JS - A book series on JavaScript. @YDKJS on twitter.",
+        "url": "https://github.com/getify/You-Dont-Know-JS"
+    },
+    {
+        "author": "MenaraSolutions",
+        "category": "PHP",
+        "stars": "95",
+        "title": "geographer - PHP library that knows how countries and cities are called in any language",
+        "url": "https://github.com/MenaraSolutions/geographer"
+    }
+]

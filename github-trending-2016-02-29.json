@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "749",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "correll",
+        "category": "Mathematica",
+        "stars": "466",
+        "title": "Introduction-to-Autonomous-Robots - Introduction to Autonomous Robots",
+        "url": "https://github.com/correll/Introduction-to-Autonomous-Robots"
+    },
+    {
+        "author": "ImagicalMine",
+        "category": "PHP",
+        "stars": "17",
+        "title": "ImagicalMine - ImagicalMine. The first third-party build of PocketMine-MP that rocked the world.",
+        "url": "https://github.com/ImagicalMine/ImagicalMine"
+    },
+    {
+        "author": "hollance",
+        "category": "Swift",
+        "stars": "255",
+        "title": "swift-algorithm-club - Algorithms and data structures in Swift, with explanations!",
+        "url": "https://github.com/hollance/swift-algorithm-club"
+    },
+    {
+        "author": "otoolep",
+        "category": "Go",
+        "stars": "242",
+        "title": "rqlite - Replicating SQLite using the Raft consensus protocol",
+        "url": "https://github.com/otoolep/rqlite"
+    },
+    {
+        "author": "DreaminginCodeZH",
+        "category": "Java",
+        "stars": "207",
+        "title": "Douya - \u5f00\u6e90\u7684 Material Design \u8c46\u74e3\u5ba2\u6237\u7aef\u3002",
+        "url": "https://github.com/DreaminginCodeZH/Douya"
+    },
+    {
+        "author": "lyle-nel",
+        "category": "C++",
+        "stars": "208",
+        "title": "siga - Population based metaheuristic for password cracking. Siga(Simple genetic algorithm)",
+        "url": "https://github.com/lyle-nel/siga"
+    },
+    {
+        "author": "probonopd",
+        "category": "Python",
+        "stars": "201",
+        "title": "AppImageKit - Using AppImageKit you can package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives.",
+        "url": "https://github.com/probonopd/AppImageKit"
+    },
+    {
+        "author": "dthree",
+        "category": "JavaScript",
+        "stars": "187",
+        "title": "cash - Cross-platform Linux without the suck",
+        "url": "https://github.com/dthree/cash"
+    },
+    {
+        "author": "thedillonb",
+        "category": "C#",
+        "stars": "172",
+        "title": "CodeHub - CodeHub is the best way to browse and maintain your GitHub repositories on any iOS device!",
+        "url": "https://github.com/thedillonb/CodeHub"
+    }
+]

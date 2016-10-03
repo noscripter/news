@@ -1,0 +1,72 @@
+[
+    {
+        "author": "MarshallOfSound",
+        "category": "JavaScript",
+        "stars": "482",
+        "title": "Google-Play-Music-Desktop-Player-UNOFFICIAL- - A beautiful cross platform Desktop Player for Google Play Music",
+        "url": "https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-"
+    },
+    {
+        "author": "tj",
+        "category": "C",
+        "stars": "382",
+        "title": "luna - luna programming language - a small, elegant VM implemented in C",
+        "url": "https://github.com/tj/luna"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "374",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "awentzonline",
+        "category": "Python",
+        "stars": "203",
+        "title": "image-analogies - Generate image analogies using neural matching and blending.",
+        "url": "https://github.com/awentzonline/image-analogies"
+    },
+    {
+        "author": "jonsuh",
+        "category": "CSS",
+        "stars": "193",
+        "title": "hamburgers - Tasty CSS-animated Hamburgers",
+        "url": "https://github.com/jonsuh/hamburgers"
+    },
+    {
+        "author": "ParsePlatform",
+        "category": "JavaScript",
+        "stars": "185",
+        "title": "parse-dashboard - A dashboard for managing your Parse apps that aren't hosted on Parse.com",
+        "url": "https://github.com/ParsePlatform/parse-dashboard"
+    },
+    {
+        "author": "Frege",
+        "category": "Frege",
+        "stars": "167",
+        "title": "frege - Frege is a Haskell for the JVM. It brings purely functional programing to the Java platform.",
+        "url": "https://github.com/Frege/frege"
+    },
+    {
+        "author": "storehouse",
+        "category": "Swift",
+        "stars": "164",
+        "title": "Advance - A powerful animation framework for iOS.",
+        "url": "https://github.com/storehouse/Advance"
+    },
+    {
+        "author": "uber-common",
+        "category": "JavaScript",
+        "stars": "166",
+        "title": "react-vis - ",
+        "url": "https://github.com/uber-common/react-vis"
+    },
+    {
+        "author": "open-source-society",
+        "category": "",
+        "stars": "151",
+        "title": "computer-science - Path to a free self-taught education in Computer Science!",
+        "url": "https://github.com/open-source-society/computer-science"
+    }
+]

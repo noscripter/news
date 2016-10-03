@@ -1,0 +1,72 @@
+[
+    {
+        "author": "braydie",
+        "category": "",
+        "stars": "403",
+        "title": "HowToBeAProgrammer - A guide on how to be a Programmer - originally published by Robert L Read",
+        "url": "https://github.com/braydie/HowToBeAProgrammer"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "357",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "loverajoel",
+        "category": "JavaScript",
+        "stars": "268",
+        "title": "jstips - This is about one JS tip every day!",
+        "url": "https://github.com/loverajoel/jstips"
+    },
+    {
+        "author": "VerbalExpressions",
+        "category": "JavaScript",
+        "stars": "245",
+        "title": "JSVerbalExpressions - JavaScript Regular expressions made easy",
+        "url": "https://github.com/VerbalExpressions/JSVerbalExpressions"
+    },
+    {
+        "author": "matryer",
+        "category": "Objective-C",
+        "stars": "196",
+        "title": "bitbar - Put the output from any script or program in your Mac OS X Menu Bar",
+        "url": "https://github.com/matryer/bitbar"
+    },
+    {
+        "author": "jlevy",
+        "category": "",
+        "stars": "171",
+        "title": "the-art-of-command-line - Master the command line, in one page",
+        "url": "https://github.com/jlevy/the-art-of-command-line"
+    },
+    {
+        "author": "mhinz",
+        "category": "",
+        "stars": "148",
+        "title": "vim-galore - Everything you need to know about Vim.",
+        "url": "https://github.com/mhinz/vim-galore"
+    },
+    {
+        "author": "vektorlab",
+        "category": "Go",
+        "stars": "147",
+        "title": "slackcat - CLI utility to post files and command output to slack",
+        "url": "https://github.com/vektorlab/slackcat"
+    },
+    {
+        "author": "datarhei",
+        "category": "JavaScript",
+        "stars": "143",
+        "title": "restreamer - Datarhei/Restreamer allows you to do h.264 real-time video streaming on your website without a streaming provider",
+        "url": "https://github.com/datarhei/restreamer"
+    },
+    {
+        "author": "mbachry",
+        "category": "Python",
+        "stars": "139",
+        "title": "exxo - Build portable Python binaries",
+        "url": "https://github.com/mbachry/exxo"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "wbkd",
+        "category": "",
+        "stars": "716",
+        "title": "awesome-interactive-journalism - A list of awesome interactive journalism projects.",
+        "url": "https://github.com/wbkd/awesome-interactive-journalism"
+    },
+    {
+        "author": "spotify",
+        "category": "Objective-C",
+        "stars": "409",
+        "title": "HubFramework - Spotify\u2019s component-driven UI framework for iOS",
+        "url": "https://github.com/spotify/HubFramework"
+    },
+    {
+        "author": "gravitational",
+        "category": "Go",
+        "stars": "384",
+        "title": "teleport - Modern SSH server for clusters and teams.",
+        "url": "https://github.com/gravitational/teleport"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "366",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "yahoo",
+        "category": "Python",
+        "stars": "321",
+        "title": "open_nsfw - code for running Model and code for Not Suitable for Work (NSFW) classification using deep neural network Caffe models",
+        "url": "https://github.com/yahoo/open_nsfw"
+    },
+    {
+        "author": "future-architect",
+        "category": "Go",
+        "stars": "289",
+        "title": "vuls - Vulnerability scanner for Linux/FreeBSD, agentless, written in Go",
+        "url": "https://github.com/future-architect/vuls"
+    },
+    {
+        "author": "tqchen",
+        "category": "C++",
+        "stars": "246",
+        "title": "tinyflow - Tutorial code on how to build your own Deep Learning System in 2k Lines",
+        "url": "https://github.com/tqchen/tinyflow"
+    },
+    {
+        "author": "iview",
+        "category": "JavaScript",
+        "stars": "235",
+        "title": "iview - UI Components with Vue.js",
+        "url": "https://github.com/iview/iview"
+    },
+    {
+        "author": "labstack",
+        "category": "Go",
+        "stars": "227",
+        "title": "armor - Simple HTTP server, supports HTTP/2 and auto TLS",
+        "url": "https://github.com/labstack/armor"
+    },
+    {
+        "author": "armcha",
+        "category": "Java",
+        "stars": "194",
+        "title": "AutoLinkTextView - AutoLinkTextView is TextView that supports Hashtags (#), Mentions (@) , URLs (http://), Phone and Email automatically detecting and ability to handle clicks.",
+        "url": "https://github.com/armcha/AutoLinkTextView"
+    }
+]

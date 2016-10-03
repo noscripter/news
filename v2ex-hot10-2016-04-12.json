@@ -1,0 +1,313 @@
+[
+    
+    {
+        "id" : 270121,
+        "title" : "求个名字：公司名字",
+        "url" : "http://www.v2ex.com/t/270121",
+        "content" : "xxx 网络科技有限公司\u000D\u000A主营业务：互联网项目\u000D\u000A\u000D\u000A自己想了一些，都觉得拗口\u000D\u000A喜欢那种简洁大气的名字：如 \u000D\u000A易方网络科技有限公司，但有人注册了\u000D\u000A其它的想得都不合适，发动 v 友智慧",
+        "content_rendered" : "xxx 网络科技有限公司\u000D\u003Cbr /\u003E主营业务：互联网项目\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E自己想了一些，都觉得拗口\u000D\u003Cbr /\u003E喜欢那种简洁大气的名字：如 \u000D\u003Cbr /\u003E易方网络科技有限公司，但有人注册了\u000D\u003Cbr /\u003E其它的想得都不合适，发动 v 友智慧",
+        "replies" : 93,
+        "member" : {
+            "id" : 7729,
+            "username" : "dbfox",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/96e0/7156/7729_mini.png?m=1328763616",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/96e0/7156/7729_normal.png?m=1328763616",
+            "avatar_large" : "//cdn.v2ex.co/avatar/96e0/7156/7729_large.png?m=1328763616"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 67504,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1459494599",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1459494599",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1459494599"
+        },
+        "created" : 1460348993,
+        "last_modified" : 1460348993,
+        "last_touched" : 1460428905
+    },
+    
+    {
+        "id" : 270210,
+        "title" : "求各位大神推荐一款 Android 系统的手机",
+        "url" : "http://www.v2ex.com/t/270210",
+        "content" : "因工作需要，需用一台 Android 系统的手机。\u000D\u000A\u000D\u000A因市场上什么样的都有，加之很多需要抢购，挑花了眼，所以求各位大神给推荐一款。\u000D\u000A\u000D\u000A价位在 1000\u002D3000 都可以。\u000D\u000A\u000D\u000A谢谢",
+        "content_rendered" : "\u003Cp\u003E因工作需要，需用一台 Android 系统的手机。\u003C/p\u003E\u000A\u003Cp\u003E因市场上什么样的都有，加之很多需要抢购，挑花了眼，所以求各位大神给推荐一款。\u003C/p\u003E\u000A\u003Cp\u003E价位在 1000\u002D3000 都可以。\u003C/p\u003E\u000A\u003Cp\u003E谢谢\u003C/p\u003E\u000A",
+        "replies" : 75,
+        "member" : {
+            "id" : 31876,
+            "username" : "Robias",
+            "tagline" : "不知道该说什么",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/3695/c150/31876_mini.png?m=1357481223",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/3695/c150/31876_normal.png?m=1357481223",
+            "avatar_large" : "//cdn.v2ex.co/avatar/3695/c150/31876_large.png?m=1357481223"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 67504,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1459494599",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1459494599",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1459494599"
+        },
+        "created" : 1460363485,
+        "last_modified" : 1460363485,
+        "last_touched" : 1460429190
+    },
+    
+    {
+        "id" : 270225,
+        "title" : "Mac OS X 和 Linux 的区别有哪些？",
+        "url" : "http://www.v2ex.com/t/270225",
+        "content" : "用过 Linux ，想买个 macbook,又担心 Linux 上一些命令没法用。\u000D\u000A我现在知道的区别：\u000D\u000A1 ，闭源和开源（这个对我来说不太重要\u000D\u000A2 ， OS X 没有包管理器， apt\u002Dget 或 yum 肯定没用了\u000D\u000A\u000D\u000A新手，准备入手 OS X ，有什么需要注意的吗？\u000D\u000A求大神们指教",
+        "content_rendered" : "\u003Cp\u003E用过 Linux ，想买个 macbook,又担心 Linux 上一些命令没法用。\u000A我现在知道的区别：\u000A1 ，闭源和开源（这个对我来说不太重要\u000A2 ， OS X 没有包管理器， apt\u002Dget 或 yum 肯定没用了\u003C/p\u003E\u000A\u003Cp\u003E新手，准备入手 OS X ，有什么需要注意的吗？\u000A求大神们指教\u003C/p\u003E\u000A",
+        "replies" : 63,
+        "member" : {
+            "id" : 154724,
+            "username" : "dongfang",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/e4171dd88ea337546034ae1eb1aa2cd1?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/e4171dd88ea337546034ae1eb1aa2cd1?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/e4171dd88ea337546034ae1eb1aa2cd1?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 184,
+            "name" : "apple",
+            "title" : "Apple",
+            "title_alternative" : "Apple",
+            "url" : "http://www.v2ex.com/go/apple",
+            "topics" : 2295,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/6cdd/60ea/184_mini.png?m=1438057435",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/6cdd/60ea/184_normal.png?m=1438057435",
+            "avatar_large" : "//cdn.v2ex.co/navatar/6cdd/60ea/184_large.png?m=1438057435"
+        },
+        "created" : 1460365778,
+        "last_modified" : 1460365778,
+        "last_touched" : 1460428678
+    },
+    
+    {
+        "id" : 270299,
+        "title" : "我研究了一条拍拖几天可以啪啪啪公式",
+        "url" : "http://www.v2ex.com/t/270299",
+        "content" : "[（40\u002DAF）^ 2 + LF ^ 3]×10÷[（LM ^ 2 + WM）×（SF + 1）^ 2] \u003D N（第ñ日可啪）\u000D\u000A\u000D\u000AAF \u003D女方年龄（年龄）40岁以上女性本公式不适用\u000D\u000ALF \u003D女方外貌（外观）10为满分\u000D\u000ALM \u003D男方外貌（外观）10为满分\u000D\u000AWM \u003D男方资产（价值），每10万港元为1个单位，不置上限，物业及汽车亦计算在内\u000D\u000ASF \u003D女方曾有性行为的男性数目（性伴侣）\u000D\u000A\u000D\u000A例子1：中女与帅哥（有房）\u000D\u000A女30岁外貌7分曾与2男有性行为\u000D\u000A男外貌8分资产300万\u000D\u000A\u000D\u000A[（40\u002D30）^ 2 + 7 ^ 3]×10÷[（8 ^ 2 + 30）×（2 + 1）^ 2]\u000D\u000A\u003D 5.24日\u000D\u000A\u000D\u000A例子2：屌丝与女神\u000D\u000A女22岁外貌9分处女\u000D\u000A男外貌3分资产0\u000D\u000A\u000D\u000A[（40\u002D22）^ 2 + 9 ^ 3]×10÷[（3 ^ 2 + 0）×（0 + 1）^ 2]\u000D\u000A\u003D 1170日（不过熬得到去那天才算:\u002D(）\u000D\u000A\u000D\u000A声明：纯理论，只作参考，实战一定有误差，过可理论日子都没啪到请先自我检讨。\u000D\u000A\u000D\u000A在线计算器： http://cheunghong.github.io/papapa.html\u000D\u000A原帖： http://forum6.hkgolden.com/view.aspx?type\u003DLV\u0026message\u003D6333232\u000D\u000A\u000D\u000A\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u000D\u000A树仁清水健2016年11月4日8:15\u000D\u000A代我自己入去......又真是蛮准@ _ @",
+        "content_rendered" : "[（40\u002DAF）^ 2 + LF ^ 3]×10÷[（LM ^ 2 + WM）×（SF + 1）^ 2] \u003D N（第ñ日可啪）\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003EAF \u003D女方年龄（年龄）40岁以上女性本公式不适用\u000D\u003Cbr /\u003ELF \u003D女方外貌（外观）10为满分\u000D\u003Cbr /\u003ELM \u003D男方外貌（外观）10为满分\u000D\u003Cbr /\u003EWM \u003D男方资产（价值），每10万港元为1个单位，不置上限，物业及汽车亦计算在内\u000D\u003Cbr /\u003ESF \u003D女方曾有性行为的男性数目（性伴侣）\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E例子1：中女与帅哥（有房）\u000D\u003Cbr /\u003E女30岁外貌7分曾与2男有性行为\u000D\u003Cbr /\u003E男外貌8分资产300万\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E[（40\u002D30）^ 2 + 7 ^ 3]×10÷[（8 ^ 2 + 30）×（2 + 1）^ 2]\u000D\u003Cbr /\u003E\u003D 5.24日\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E例子2：屌丝与女神\u000D\u003Cbr /\u003E女22岁外貌9分处女\u000D\u003Cbr /\u003E男外貌3分资产0\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E[（40\u002D22）^ 2 + 9 ^ 3]×10÷[（3 ^ 2 + 0）×（0 + 1）^ 2]\u000D\u003Cbr /\u003E\u003D 1170日（不过熬得到去那天才算:\u002D(）\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E声明：纯理论，只作参考，实战一定有误差，过可理论日子都没啪到请先自我检讨。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E在线计算器： \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://cheunghong.github.io/papapa.html\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://cheunghong.github.io/papapa.html\u003C/a\u003E\u000D\u003Cbr /\u003E原帖： \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://forum6.hkgolden.com/view.aspx?type\u003DLV\u0026amp\u003Bmessage\u003D6333232\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://forum6.hkgolden.com/view.aspx?type\u003DLV\u0026amp\u003Bmessage\u003D6333232\u003C/a\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u003D\u000D\u003Cbr /\u003E树仁清水健2016年11月4日8:15\u000D\u003Cbr /\u003E代我自己入去......又真是蛮准@ _ @",
+        "replies" : 60,
+        "member" : {
+            "id" : 33129,
+            "username" : "Asimov",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/8f5d/1c52/33129_mini.png?m=1359272498",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/8f5d/1c52/33129_normal.png?m=1359272498",
+            "avatar_large" : "//cdn.v2ex.co/avatar/8f5d/1c52/33129_large.png?m=1359272498"
+        },
+        "node" : {
+            "id" : 320,
+            "name" : "wtf",
+            "title" : "不靠谱茶话会",
+            "title_alternative" : "WTF",
+            "url" : "http://www.v2ex.com/go/wtf",
+            "topics" : 372,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/3207/2254/320_mini.png?m=1435210420",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/3207/2254/320_normal.png?m=1435210420",
+            "avatar_large" : "//cdn.v2ex.co/navatar/3207/2254/320_large.png?m=1435210420"
+        },
+        "created" : 1460382390,
+        "last_modified" : 1460393586,
+        "last_touched" : 1460429526
+    },
+    
+    {
+        "id" : 270221,
+        "title" : "请问新手学 flask 还是 django?",
+        "url" : "http://www.v2ex.com/t/270221",
+        "content" : "Python 小白菜，不打算深入！\u000A1,flask 和 django 哪个容易上手？\u000A2,这 2 个差异大否？\u000A3,如果还有更简单的框架，请推荐",
+        "content_rendered" : "Python 小白菜，不打算深入！\u003Cbr /\u003E1,flask 和 django 哪个容易上手？\u003Cbr /\u003E2,这 2 个差异大否？\u003Cbr /\u003E3,如果还有更简单的框架，请推荐",
+        "replies" : 56,
+        "member" : {
+            "id" : 166543,
+            "username" : "gogobody",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/e259/f8c2/166543_mini.png?m=1460014778",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/e259/f8c2/166543_normal.png?m=1460014778",
+            "avatar_large" : "//cdn.v2ex.co/avatar/e259/f8c2/166543_large.png?m=1460014778"
+        },
+        "node" : {
+            "id" : 90,
+            "name" : "python",
+            "title" : "Python",
+            "title_alternative" : "Python",
+            "url" : "http://www.v2ex.com/go/python",
+            "topics" : 4695,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/8613/985e/90_mini.png?m=1459875688",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/8613/985e/90_normal.png?m=1459875688",
+            "avatar_large" : "//cdn.v2ex.co/navatar/8613/985e/90_large.png?m=1459875688"
+        },
+        "created" : 1460364742,
+        "last_modified" : 1460364742,
+        "last_touched" : 1460426378
+    },
+    
+    {
+        "id" : 270155,
+        "title" : "发现好多人都有 blog，换个友链吗？",
+        "url" : "http://www.v2ex.com/t/270155",
+        "content" : "RT ,看到一个帖子晒 blog 的人很多，所以突发奇想，要不要一起换个友链呢，这样以后互相浏览博客还是很方便的，并且以前从来没有什么好渠道去发现一些好的博主；\u000D\u000A\u000D\u000A我的 blog 是： http://www.ycysky.com",
+        "content_rendered" : "\u003Cp\u003ERT ,看到一个帖子晒 blog 的人很多，所以突发奇想，要不要一起换个友链呢，这样以后互相浏览博客还是很方便的，并且以前从来没有什么好渠道去发现一些好的博主；\u003C/p\u003E\u000A\u003Cp\u003E我的 blog 是： \u003Ca href\u003D\u0022http://www.ycysky.com\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.ycysky.com\u003C/a\u003E\u003C/p\u003E\u000A",
+        "replies" : 51,
+        "member" : {
+            "id" : 87100,
+            "username" : "yiciyuansky",
+            "tagline" : "我所理解的生活，就是和喜欢的一切在一起。",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/81692b2a3d4ca3b2f7b9d674872f6b15?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/81692b2a3d4ca3b2f7b9d674872f6b15?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/81692b2a3d4ca3b2f7b9d674872f6b15?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 16,
+            "name" : "share",
+            "title" : "分享发现",
+            "title_alternative" : "Share",
+            "url" : "http://www.v2ex.com/go/share",
+            "topics" : 18900,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c74d/97b0/16_mini.png?m=1459494617",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c74d/97b0/16_normal.png?m=1459494617",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c74d/97b0/16_large.png?m=1459494617"
+        },
+        "created" : 1460356666,
+        "last_modified" : 1460356666,
+        "last_touched" : 1460429537
+    },
+    
+    {
+        "id" : 270115,
+        "title" : "今天面试太老实了，输给以个妹纸了。。",
+        "url" : "http://www.v2ex.com/t/270115",
+        "content" : "面试怎么就说了我上家工资了，哎，真的无语了。找工作前就给自己说了，打死也不能说，要不就狠狠地吹牛，没想到今天就沦陷了。 妹纸给我说你要不说，我们也可以查到，听了这话我也搞不懂怎么就说出来了，这次看来要没戏了，挺好的一个公司...",
+        "content_rendered" : "\u003Cp\u003E面试怎么就说了我上家工资了，哎，真的无语了。找工作前就给自己说了，打死也不能说，要不就狠狠地吹牛，没想到今天就沦陷了。 妹纸给我说你要不说，我们也可以查到，听了这话我也搞不懂怎么就说出来了，这次看来要没戏了，挺好的一个公司...\u003C/p\u003E\u000A",
+        "replies" : 44,
+        "member" : {
+            "id" : 145240,
+            "username" : "JustAtech",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/1ff6d77cc3dc99e5e11338335a67426d?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/1ff6d77cc3dc99e5e11338335a67426d?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/1ff6d77cc3dc99e5e11338335a67426d?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 770,
+            "name" : "career",
+            "title" : "职场话题",
+            "title_alternative" : "Career",
+            "url" : "http://www.v2ex.com/go/career",
+            "topics" : 1422,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1459494660",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1459494660",
+            "avatar_large" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1459494660"
+        },
+        "created" : 1460347901,
+        "last_modified" : 1460350220,
+        "last_touched" : 1460404581
+    },
+    
+    {
+        "id" : 270288,
+        "title" : "内存历史新低价？",
+        "url" : "http://www.v2ex.com/t/270288",
+        "content" : "英睿达 笔记本 DDR3L 1.35/1.5V 8G 单条，142.96大元/条\u000D\u000A买两条共 16G ，含运费刚好 300 ，历史新低了吧？\u000D\u000A\u000D\u000Ahttp://www.amazon.cn/gp/product/B006YG8X9Y/ref\u003Das_li_tf_tl?ie\u003DUTF8\u0026camp\u003D536\u0026creative\u003D3200\u0026creativeASIN\u003DB006YG8X9Y\u0026linkCode\u003Das2\u0026tag\u003Da0a5\u002D23",
+        "content_rendered" : "英睿达 笔记本 DDR3L 1.35/1.5V 8G 单条，142.96大元/条\u000D\u003Cbr /\u003E买两条共 16G ，含运费刚好 300 ，历史新低了吧？\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://www.amazon.cn/gp/product/B006YG8X9Y/ref\u003Das_li_tf_tl?ie\u003DUTF8\u0026amp\u003Bcamp\u003D536\u0026amp\u003Bcreative\u003D3200\u0026amp\u003BcreativeASIN\u003DB006YG8X9Y\u0026amp\u003BlinkCode\u003Das2\u0026amp\u003Btag\u003Da0a5\u002D23\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.amazon.cn/gp/product/B006YG8X9Y/ref\u003Das_li_tf_tl?ie\u003DUTF8\u0026amp\u003Bcamp\u003D536\u0026amp\u003Bcreative\u003D3200\u0026amp\u003BcreativeASIN\u003DB006YG8X9Y\u0026amp\u003BlinkCode\u003Das2\u0026amp\u003Btag\u003Da0a5\u002D23\u003C/a\u003E",
+        "replies" : 41,
+        "member" : {
+            "id" : 9603,
+            "username" : "bin456789",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/9a55/5403/9603_mini.png?m=1435040442",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/9a55/5403/9603_normal.png?m=1435040442",
+            "avatar_large" : "//cdn.v2ex.co/avatar/9a55/5403/9603_large.png?m=1435040442"
+        },
+        "node" : {
+            "id" : 52,
+            "name" : "hardware",
+            "title" : "硬件",
+            "title_alternative" : "Hardware",
+            "url" : "http://www.v2ex.com/go/hardware",
+            "topics" : 947,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/9a11/5815/52_mini.png?m=1442293057",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/9a11/5815/52_normal.png?m=1442293057",
+            "avatar_large" : "//cdn.v2ex.co/navatar/9a11/5815/52_large.png?m=1442293057"
+        },
+        "created" : 1460379699,
+        "last_modified" : 1460379999,
+        "last_touched" : 1460429515
+    },
+    
+    {
+        "id" : 270095,
+        "title" : "新轮子：查看 v2ex, HN, Reddit, Medium, Github trending 每日头条",
+        "url" : "http://www.v2ex.com/t/270095",
+        "content" : "**地址**: http://www.timqian.com/my\u002Dheadline\u000D\u000A\u000D\u000A**What it does**: 每天爬一遍题述网站，得到今日最火的 10 个帖子\u000D\u000A\u000D\u000A**Why this**: 没时间一个一个逛的时候，看这个站就够了\u000D\u000A\u000D\u000A\u000D\u000A## 实现方案\u000D\u000A\u000D\u000A**前端**： 使用 react 制作静态页面，通过 github page 方式发布。\u000D\u000A\u000D\u000A**后端**： 把每天爬到的数据用 json 的格式存在 [github repo]( https://github.com/timqian/my\u002Dheadline\u002Dcrawler) 中，前端通过 github api 获取内容。\u000D\u000A\u000D\u000A## 代码\u000D\u000A\u000D\u000A**网站源码**： https://github.com/timqian/my\u002Dheadline\u000D\u000A\u000D\u000A**爬虫源码**: https://github.com/timqian/my\u002Dheadline\u002Dcrawler\u000D\u000A\u000D\u000A## 后续\u000D\u000A\u000D\u000A（不知道有没有必要）\u000D\u000A1. 爬更多的站，让用户可以选择自己想关注的\u000D\u000A2. 订阅功能",
+        "content_rendered" : "\u003Cp\u003E\u003Cstrong\u003E地址\u003C/strong\u003E: \u003Ca href\u003D\u0022http://www.timqian.com/my\u002Dheadline\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.timqian.com/my\u002Dheadline\u003C/a\u003E\u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003EWhat it does\u003C/strong\u003E: 每天爬一遍题述网站，得到今日最火的 10 个帖子\u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003EWhy this\u003C/strong\u003E: 没时间一个一个逛的时候，看这个站就够了\u003C/p\u003E\u000A\u003Ch2\u003E实现方案\u003C/h2\u003E\u000A\u003Cp\u003E\u003Cstrong\u003E前端\u003C/strong\u003E： 使用 react 制作静态页面，通过 github page 方式发布。\u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003E后端\u003C/strong\u003E： 把每天爬到的数据用 json 的格式存在 \u003Ca href\u003D\u0022https://github.com/timqian/my\u002Dheadline\u002Dcrawler\u0022 rel\u003D\u0022nofollow\u0022\u003Egithub repo\u003C/a\u003E 中，前端通过 github api 获取内容。\u003C/p\u003E\u000A\u003Ch2\u003E代码\u003C/h2\u003E\u000A\u003Cp\u003E\u003Cstrong\u003E网站源码\u003C/strong\u003E： \u003Ca href\u003D\u0022https://github.com/timqian/my\u002Dheadline\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://github.com/timqian/my\u002Dheadline\u003C/a\u003E\u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003E爬虫源码\u003C/strong\u003E: \u003Ca href\u003D\u0022https://github.com/timqian/my\u002Dheadline\u002Dcrawler\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://github.com/timqian/my\u002Dheadline\u002Dcrawler\u003C/a\u003E\u003C/p\u003E\u000A\u003Ch2\u003E后续\u003C/h2\u003E\u000A\u003Cp\u003E（不知道有没有必要）\u003C/p\u003E\u000A\u003Col\u003E\u000A\u003Cli\u003E爬更多的站，让用户可以选择自己想关注的\u003C/li\u003E\u000A\u003Cli\u003E订阅功能\u003C/li\u003E\u000A\u003C/ol\u003E\u000A",
+        "replies" : 37,
+        "member" : {
+            "id" : 139594,
+            "username" : "timqian",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/f81a/a68e/139594_mini.png?m=1449065399",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/f81a/a68e/139594_normal.png?m=1449065399",
+            "avatar_large" : "//cdn.v2ex.co/avatar/f81a/a68e/139594_large.png?m=1449065399"
+        },
+        "node" : {
+            "id" : 17,
+            "name" : "create",
+            "title" : "分享创造",
+            "title_alternative" : "Create",
+            "url" : "http://www.v2ex.com/go/create",
+            "topics" : 5328,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/70ef/df2e/17_mini.png?m=1454545306",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/70ef/df2e/17_normal.png?m=1454545306",
+            "avatar_large" : "//cdn.v2ex.co/navatar/70ef/df2e/17_large.png?m=1454545306"
+        },
+        "created" : 1460343878,
+        "last_modified" : 1460343878,
+        "last_touched" : 1460409882
+    },
+    
+    {
+        "id" : 270191,
+        "title" : "求问职场学，如何给妹纸修电脑？",
+        "url" : "http://www.v2ex.com/t/270191",
+        "content" : "公司同事，属于另外一个部门。关系中等偏上。没有别的想法。\u000D\u000A公司我负责互联网这块，公司修电脑业务承包出去了，但是经常不及时，所以公司大小硬软件都是先找我，我搞不定或者没时间才会找电脑公司。基本也是其乐融融。换硬件我都是直接打给电脑公司，让他们处理。\u000D\u000A\u000D\u000A清明节期间妹纸加班用的台式电脑出问题了，他打电话给电脑公司，需要重装系统，但是清明放假没办法来，所以打给我，我拒绝了，因为在回老家的路上。没办法解决。约了回来了有空给你搞。\u000D\u000A\u000D\u000A节后上班第一天，妹纸 call 了电脑公司来，我就没插手了，也没时间，也懒得弄，毕竟是花钱外包出去了的。\u000D\u000A\u000D\u000A昨天妹纸家里笔记本出问题，今天带公司来了，她打给电脑公司，描述后（用了一会后蓝屏，滋滋作响），判断硬盘问题，需要换硬盘。收费几百块。\u000D\u000A然后问了我意见，说要几百，嫌贵。我说电脑公司基本算赚钱搞的，你网上买个硬盘，我直接拆机给你换即可，节约点。\u000D\u000A然后她让我给选。\u000D\u000A于是看了笔记本型号， i3M380   2G   500G \u000D\u000A京东查价，选了半天 ssd+内存 428 （ 1284G ）/538 （ 128+8G ）\u000D\u000A感觉是个不错的方案，让妹子自己选。表示不会卡了。。。。\u000D\u000A\u000D\u000A吃完午饭，\u000D\u000A下午上班一问。\u000D\u000A哔~\u000D\u000A交给电脑公司了。。。。。。\u000D\u000A顿时呵呵了。\u000D\u000A未必你嫌我赚你钱不成。\u000D\u000A我把京东链接发你，你自己拍就行。。\u000D\u000A唉。搞不懂\u000D\u000A\u000D\u000A\u000D\u000APS:自己没有选换机械硬盘原因：\u000D\u000A1 、和 SSD 相比，不追求容量情况下， SSD 性价比高啊。\u000D\u000A2 、换了 SSD ， 2G 内存捉急啊，所以加了内存。\u000D\u000A3 、换了机械盘，也是 200~300+，而且速度各方面没有明显提升，妹纸感觉不到啊。\u000D\u000A4 、之前也帮同事修过，一味最求低成本，效果没有明显提升，人家还以为你没用心。",
+        "content_rendered" : "公司同事，属于另外一个部门。关系中等偏上。没有别的想法。\u000D\u003Cbr /\u003E公司我负责互联网这块，公司修电脑业务承包出去了，但是经常不及时，所以公司大小硬软件都是先找我，我搞不定或者没时间才会找电脑公司。基本也是其乐融融。换硬件我都是直接打给电脑公司，让他们处理。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E清明节期间妹纸加班用的台式电脑出问题了，他打电话给电脑公司，需要重装系统，但是清明放假没办法来，所以打给我，我拒绝了，因为在回老家的路上。没办法解决。约了回来了有空给你搞。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E节后上班第一天，妹纸 call 了电脑公司来，我就没插手了，也没时间，也懒得弄，毕竟是花钱外包出去了的。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E昨天妹纸家里笔记本出问题，今天带公司来了，她打给电脑公司，描述后（用了一会后蓝屏，滋滋作响），判断硬盘问题，需要换硬盘。收费几百块。\u000D\u003Cbr /\u003E然后问了我意见，说要几百，嫌贵。我说电脑公司基本算赚钱搞的，你网上买个硬盘，我直接拆机给你换即可，节约点。\u000D\u003Cbr /\u003E然后她让我给选。\u000D\u003Cbr /\u003E于是看了笔记本型号， i3M380   2G   500G \u000D\u003Cbr /\u003E京东查价，选了半天 ssd+内存 428 （ 1284G ）/538 （ 128+8G ）\u000D\u003Cbr /\u003E感觉是个不错的方案，让妹子自己选。表示不会卡了。。。。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E吃完午饭，\u000D\u003Cbr /\u003E下午上班一问。\u000D\u003Cbr /\u003E哔~\u000D\u003Cbr /\u003E交给电脑公司了。。。。。。\u000D\u003Cbr /\u003E顿时呵呵了。\u000D\u003Cbr /\u003E未必你嫌我赚你钱不成。\u000D\u003Cbr /\u003E我把京东链接发你，你自己拍就行。。\u000D\u003Cbr /\u003E唉。搞不懂\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003EPS:自己没有选换机械硬盘原因：\u000D\u003Cbr /\u003E1 、和 SSD 相比，不追求容量情况下， SSD 性价比高啊。\u000D\u003Cbr /\u003E2 、换了 SSD ， 2G 内存捉急啊，所以加了内存。\u000D\u003Cbr /\u003E3 、换了机械盘，也是 200~300+，而且速度各方面没有明显提升，妹纸感觉不到啊。\u000D\u003Cbr /\u003E4 、之前也帮同事修过，一味最求低成本，效果没有明显提升，人家还以为你没用心。",
+        "replies" : 34,
+        "member" : {
+            "id" : 125995,
+            "username" : "abcde51111",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/1232d86ecefb5a2e62534e1caf6b8e37?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/1232d86ecefb5a2e62534e1caf6b8e37?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/1232d86ecefb5a2e62534e1caf6b8e37?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 67504,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1459494599",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1459494599",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1459494599"
+        },
+        "created" : 1460361300,
+        "last_modified" : 1460361300,
+        "last_touched" : 1460426427
+    }
+    
+]

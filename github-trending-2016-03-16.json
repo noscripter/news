@@ -1,0 +1,72 @@
+[
+    {
+        "author": "ageitgey",
+        "category": "CSS",
+        "stars": "846",
+        "title": "amplify - A Jekyll html theme in the vague style of Medium.com built using Google AMP",
+        "url": "https://github.com/ageitgey/amplify"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "682",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "DKirwan",
+        "category": "JavaScript",
+        "stars": "664",
+        "title": "calendar-heatmap - A d3 heatmap representing time series data similar to github's contribution chart",
+        "url": "https://github.com/DKirwan/calendar-heatmap"
+    },
+    {
+        "author": "Rochester-NRT",
+        "category": "JavaScript",
+        "stars": "425",
+        "title": "AlphaGo - A replication of DeepMind's 2016 Nature publication, \"Mastering the game of Go with deep neural networks and tree search,\" details of which can be found on their website.",
+        "url": "https://github.com/Rochester-NRT/AlphaGo"
+    },
+    {
+        "author": "easychen",
+        "category": "",
+        "stars": "327",
+        "title": "howto-make-more-money - \u7a0b\u5e8f\u5458\u5982\u4f55\u4f18\u96c5\u7684\u6323\u96f6\u82b1\u94b1",
+        "url": "https://github.com/easychen/howto-make-more-money"
+    },
+    {
+        "author": "ryanoasis",
+        "category": "Python",
+        "stars": "287",
+        "title": "nerd-fonts - Collection of over 20 patched fonts (over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more",
+        "url": "https://github.com/ryanoasis/nerd-fonts"
+    },
+    {
+        "author": "sindresorhus",
+        "category": "JavaScript",
+        "stars": "268",
+        "title": "ava - Futuristic test runner",
+        "url": "https://github.com/sindresorhus/ava"
+    },
+    {
+        "author": "srdja",
+        "category": "C",
+        "stars": "237",
+        "title": "Collections-C - A library of generic data structures.",
+        "url": "https://github.com/srdja/Collections-C"
+    },
+    {
+        "author": "pavlovml",
+        "category": "Python",
+        "stars": "231",
+        "title": "match - Scalable reverse image search built on Kubernetes and Elasticsearch",
+        "url": "https://github.com/pavlovml/match"
+    },
+    {
+        "author": "LoyaltyNZ",
+        "category": "Python",
+        "stars": "223",
+        "title": "alchemy-framework - Alchemy is a framework for creating highly available systems that are built from micro-services",
+        "url": "https://github.com/LoyaltyNZ/alchemy-framework"
+    }
+]

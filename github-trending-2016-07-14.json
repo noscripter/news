@@ -1,0 +1,72 @@
+[
+    {
+        "author": "chrislgarry",
+        "category": "Assembly",
+        "stars": "1,232",
+        "title": "Apollo-11 - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+        "url": "https://github.com/chrislgarry/Apollo-11"
+    },
+    {
+        "author": "yhatt",
+        "category": "CoffeeScript",
+        "stars": "902",
+        "title": "marp - Markdown presentation writer, powered by Electron.",
+        "url": "https://github.com/yhatt/marp"
+    },
+    {
+        "author": "nosir",
+        "category": "JavaScript",
+        "stars": "766",
+        "title": "cleave.js - Format input text content when you are typing",
+        "url": "https://github.com/nosir/cleave.js"
+    },
+    {
+        "author": "metagrover",
+        "category": "",
+        "stars": "448",
+        "title": "ES6-for-humans - A kickstarter guide to writing ES6.",
+        "url": "https://github.com/metagrover/ES6-for-humans"
+    },
+    {
+        "author": "kahopoon",
+        "category": "Swift",
+        "stars": "416",
+        "title": "Pokemon-Go-Controller - play pokemon go safely or at unavailable area",
+        "url": "https://github.com/kahopoon/Pokemon-Go-Controller"
+    },
+    {
+        "author": "dkhamsing",
+        "category": "Swift",
+        "stars": "344",
+        "title": "open-source-ios-apps - \ud83d\udcf1 Collaborative List of Open-Source iOS Apps",
+        "url": "https://github.com/dkhamsing/open-source-ios-apps"
+    },
+    {
+        "author": "NamPNQ",
+        "category": "CSS",
+        "stars": "322",
+        "title": "You-Dont-Need-Javascript - Css is powerful, you can do a lot of things without js.",
+        "url": "https://github.com/NamPNQ/You-Dont-Need-Javascript"
+    },
+    {
+        "author": "antirez",
+        "category": "C",
+        "stars": "251",
+        "title": "kilo - A text editor in less than 1000 LOC with syntax highlight and search.",
+        "url": "https://github.com/antirez/kilo"
+    },
+    {
+        "author": "booncol",
+        "category": "Java",
+        "stars": "219",
+        "title": "Pulsator4Droid - Pulse animation for Android",
+        "url": "https://github.com/booncol/Pulsator4Droid"
+    },
+    {
+        "author": "andremion",
+        "category": "Java",
+        "stars": "198",
+        "title": "Music-Player - From UI Proposal to Code",
+        "url": "https://github.com/andremion/Music-Player"
+    }
+]

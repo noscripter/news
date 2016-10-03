@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "703",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "toddmotto",
+        "category": "",
+        "stars": "603",
+        "title": "public-apis - A collective list of public JSON APIs for use in web development.",
+        "url": "https://github.com/toddmotto/public-apis"
+    },
+    {
+        "author": "thejameskyle",
+        "category": "JavaScript",
+        "stars": "603",
+        "title": "spectacle-code-slide - Present code with style",
+        "url": "https://github.com/thejameskyle/spectacle-code-slide"
+    },
+    {
+        "author": "reactjs",
+        "category": "",
+        "stars": "527",
+        "title": "react-basic - A description of the conceptual model of React without implementation burden.",
+        "url": "https://github.com/reactjs/react-basic"
+    },
+    {
+        "author": "braydie",
+        "category": "",
+        "stars": "375",
+        "title": "HowToBeAProgrammer - A guide on how to be a Programmer - originally published by Robert L Read",
+        "url": "https://github.com/braydie/HowToBeAProgrammer"
+    },
+    {
+        "author": "jezen",
+        "category": "JavaScript",
+        "stars": "344",
+        "title": "is-thirteen - Check if a number is equal to 13.",
+        "url": "https://github.com/jezen/is-thirteen"
+    },
+    {
+        "author": "littlebee",
+        "category": "CoffeeScript",
+        "stars": "332",
+        "title": "git-time-machine - Atom package that allows you to travel back in commit history",
+        "url": "https://github.com/littlebee/git-time-machine"
+    },
+    {
+        "author": "gogits",
+        "category": "Go",
+        "stars": "282",
+        "title": "gogs - Gogs (Go Git Service) is a painless self-hosted Git service.",
+        "url": "https://github.com/gogits/gogs"
+    },
+    {
+        "author": "amzn",
+        "category": "",
+        "stars": "238",
+        "title": "alexa-avs-raspberry-pi - This project demonstrates how to access and test the Alexa Voice Service using a Java client (running on a Raspberry Pi), and a Node.js server.",
+        "url": "https://github.com/amzn/alexa-avs-raspberry-pi"
+    },
+    {
+        "author": "mortenjust",
+        "category": "Swift",
+        "stars": "229",
+        "title": "cleartext-mac - A text editor that only allows the top 1000 most common words in English",
+        "url": "https://github.com/mortenjust/cleartext-mac"
+    }
+]

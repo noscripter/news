@@ -1,0 +1,72 @@
+[
+    {
+        "author": "attic-labs",
+        "category": "Go",
+        "stars": "1,519",
+        "title": "noms - The versioned, forkable, syncable database",
+        "url": "https://github.com/attic-labs/noms"
+    },
+    {
+        "author": "Blankj",
+        "category": "Java",
+        "stars": "491",
+        "title": "AndroidUtilCode - ",
+        "url": "https://github.com/Blankj/AndroidUtilCode"
+    },
+    {
+        "author": "mxstbr",
+        "category": "JavaScript",
+        "stars": "393",
+        "title": "sharingbuttons.io - Quickly generate social sharing buttons with a tiny performance footprint",
+        "url": "https://github.com/mxstbr/sharingbuttons.io"
+    },
+    {
+        "author": "yadav-rahul",
+        "category": "Java",
+        "stars": "368",
+        "title": "TastyToast - \ud83c\udf5e Make your native android Toasts Tasty",
+        "url": "https://github.com/yadav-rahul/TastyToast"
+    },
+    {
+        "author": "Curzibn",
+        "category": "Java",
+        "stars": "364",
+        "title": "Luban - Luban(\u9c81\u73ed)\u2014\u2014\u53ef\u80fd\u662f\u6700\u63a5\u8fd1\u5fae\u4fe1\u670b\u53cb\u5708\u7684\u56fe\u7247\u538b\u7f29\u7b97\u6cd5",
+        "url": "https://github.com/Curzibn/Luban"
+    },
+    {
+        "author": "vhf",
+        "category": "",
+        "stars": "270",
+        "title": "free-programming-books - \ud83d\udcda Freely available programming books",
+        "url": "https://github.com/vhf/free-programming-books"
+    },
+    {
+        "author": "CanonicalLtd",
+        "category": "JavaScript",
+        "stars": "288",
+        "title": "react-native - A framework for building native apps with React.",
+        "url": "https://github.com/CanonicalLtd/react-native"
+    },
+    {
+        "author": "facebookincubator",
+        "category": "JavaScript",
+        "stars": "269",
+        "title": "create-react-app - Create React apps with no build configuration.",
+        "url": "https://github.com/facebookincubator/create-react-app"
+    },
+    {
+        "author": "AHAAAAAAA",
+        "category": "Python",
+        "stars": "199",
+        "title": "PokemonGo-Map - \ud83c\udf0f Live visualization of all the pokemon in your area... and more!",
+        "url": "https://github.com/AHAAAAAAA/PokemonGo-Map"
+    },
+    {
+        "author": "github",
+        "category": "Go",
+        "stars": "259",
+        "title": "gh-ost - GitHub's Online Schema Change for MySQL",
+        "url": "https://github.com/github/gh-ost"
+    }
+]

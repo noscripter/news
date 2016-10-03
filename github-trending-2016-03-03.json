@@ -1,0 +1,72 @@
+[
+    {
+        "author": "fulldecent",
+        "category": "C",
+        "stars": "1,038",
+        "title": "system-bus-radio - This program transmits radio on computers without radio transmitting hardware.",
+        "url": "https://github.com/fulldecent/system-bus-radio"
+    },
+    {
+        "author": "geeeeeeeeek",
+        "category": "JavaScript",
+        "stars": "483",
+        "title": "electronic-wechat - A better WeChat client on Mac OS X and Linux.",
+        "url": "https://github.com/geeeeeeeeek/electronic-wechat"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "422",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "HelloZeroNet",
+        "category": "Python",
+        "stars": "413",
+        "title": "ZeroNet - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network",
+        "url": "https://github.com/HelloZeroNet/ZeroNet"
+    },
+    {
+        "author": "mrzool",
+        "category": "Shell",
+        "stars": "341",
+        "title": "bash-sensible - An attempt at saner Bash defaults",
+        "url": "https://github.com/mrzool/bash-sensible"
+    },
+    {
+        "author": "ReactjsProgram",
+        "category": "",
+        "stars": "314",
+        "title": "React-Fundamentals - ",
+        "url": "https://github.com/ReactjsProgram/React-Fundamentals"
+    },
+    {
+        "author": "usablica",
+        "category": "JavaScript",
+        "stars": "315",
+        "title": "intro.js - A better way for new feature introduction and step-by-step users guide for your website and project.",
+        "url": "https://github.com/usablica/intro.js"
+    },
+    {
+        "author": "ReactjsProgram",
+        "category": "",
+        "stars": "277",
+        "title": "react-fundamentals-curriculum - Curriculum for React.js Program's \"React Fundamentals\" course",
+        "url": "https://github.com/ReactjsProgram/react-fundamentals-curriculum"
+    },
+    {
+        "author": "programthink",
+        "category": "Python",
+        "stars": "230",
+        "title": "zhao - \u3010\u7f16\u7a0b\u968f\u60f3\u3011\u6574\u7406\u7684\u300a\u592a\u5b50\u515a\u5173\u7cfb\u7f51\u7edc\u300b\uff0c\u4e13\u95e8\u63ed\u9732\u8d75\u56fd\u7684\u6743\u8d35",
+        "url": "https://github.com/programthink/zhao"
+    },
+    {
+        "author": "lorentey",
+        "category": "Swift",
+        "stars": "231",
+        "title": "BTree - Fast ordered collections for Swift using in-memory B-trees",
+        "url": "https://github.com/lorentey/BTree"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "toddmotto",
+        "category": "",
+        "stars": "780",
+        "title": "public-apis - A collective list of public JSON APIs for use in web development.",
+        "url": "https://github.com/toddmotto/public-apis"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "585",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "playdeadgames",
+        "category": "C#",
+        "stars": "392",
+        "title": "temporal - Temporal Reprojection Anti-Aliasing for Unity 5.0+",
+        "url": "https://github.com/playdeadgames/temporal"
+    },
+    {
+        "author": "appetizermonster",
+        "category": "JavaScript",
+        "stars": "339",
+        "title": "hain - An 'alt+space' launcher for Windows, built with Electron",
+        "url": "https://github.com/appetizermonster/hain"
+    },
+    {
+        "author": "whyrusleeping",
+        "category": "Go",
+        "stars": "301",
+        "title": "gx - A package management tool",
+        "url": "https://github.com/whyrusleeping/gx"
+    },
+    {
+        "author": "draft-js-plugins",
+        "category": "JavaScript",
+        "stars": "272",
+        "title": "draft-js-plugins - High quality plugins for DraftJS with great UX",
+        "url": "https://github.com/draft-js-plugins/draft-js-plugins"
+    },
+    {
+        "author": "uutils",
+        "category": "Rust",
+        "stars": "232",
+        "title": "coreutils - Cross-platform Rust rewrite of the GNU coreutils",
+        "url": "https://github.com/uutils/coreutils"
+    },
+    {
+        "author": "dthree",
+        "category": "JavaScript",
+        "stars": "228",
+        "title": "cash - Cross-platform Linux commands in ES6",
+        "url": "https://github.com/dthree/cash"
+    },
+    {
+        "author": "glomadrian",
+        "category": "Java",
+        "stars": "199",
+        "title": "RoadRunner - Road Runner is a library for android which allow you to make your own loading animation using a SVG image",
+        "url": "https://github.com/glomadrian/RoadRunner"
+    },
+    {
+        "author": "carpedm20",
+        "category": "JavaScript",
+        "stars": "181",
+        "title": "DCGAN-tensorflow - A tensorflow implementation of Deep Convolutional Generative Adversarial Networks",
+        "url": "https://github.com/carpedm20/DCGAN-tensorflow"
+    }
+]

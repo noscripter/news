@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "811",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "open-power-workgroup",
+        "category": "Python",
+        "stars": "372",
+        "title": "Hospital - ",
+        "url": "https://github.com/open-power-workgroup/Hospital"
+    },
+    {
+        "author": "typicode",
+        "category": "JavaScript",
+        "stars": "318",
+        "title": "json-server - Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+        "url": "https://github.com/typicode/json-server"
+    },
+    {
+        "author": "pyGrowler",
+        "category": "Python",
+        "stars": "304",
+        "title": "Growler - A micro web-framework using asyncio coroutines and chained middleware.",
+        "url": "https://github.com/pyGrowler/Growler"
+    },
+    {
+        "author": "chassing",
+        "category": "",
+        "stars": "281",
+        "title": "linux-sysadmin-interview-questions - Collection of linux sysadmin/devop interview questions",
+        "url": "https://github.com/chassing/linux-sysadmin-interview-questions"
+    },
+    {
+        "author": "MagicStack",
+        "category": "Python",
+        "stars": "265",
+        "title": "uvloop - Ultra fast implementation of asyncio event loop on top of libuv.",
+        "url": "https://github.com/MagicStack/uvloop"
+    },
+    {
+        "author": "jimon",
+        "category": "C",
+        "stars": "261",
+        "title": "osx_app_in_plain_c - A simple showcase how to create a simple OS X app in plain C without any Objective-C",
+        "url": "https://github.com/jimon/osx_app_in_plain_c"
+    },
+    {
+        "author": "relax",
+        "category": "JavaScript",
+        "stars": "209",
+        "title": "relax - New generation CMS on top of React, Redux and GraphQL",
+        "url": "https://github.com/relax/relax"
+    },
+    {
+        "author": "buger",
+        "category": "Go",
+        "stars": "204",
+        "title": "gor - Gor is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.",
+        "url": "https://github.com/buger/gor"
+    },
+    {
+        "author": "OmniDB",
+        "category": "JavaScript",
+        "stars": "204",
+        "title": "OmniDB - Web tool for database management and conversion",
+        "url": "https://github.com/OmniDB/OmniDB"
+    }
+]

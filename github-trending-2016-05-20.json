@@ -1,0 +1,72 @@
+[
+    {
+        "author": "eliangcs",
+        "category": "Python",
+        "stars": "753",
+        "title": "http-prompt - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting",
+        "url": "https://github.com/eliangcs/http-prompt"
+    },
+    {
+        "author": "x64dbg",
+        "category": "C++",
+        "stars": "747",
+        "title": "x64dbg - An open-source x64/x32 debugger for windows.",
+        "url": "https://github.com/x64dbg/x64dbg"
+    },
+    {
+        "author": "mxstbr",
+        "category": "JavaScript",
+        "stars": "694",
+        "title": "react-boilerplate - \ud83d\udd25 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.",
+        "url": "https://github.com/mxstbr/react-boilerplate"
+    },
+    {
+        "author": "rethinkdb",
+        "category": "JavaScript",
+        "stars": "616",
+        "title": "horizon - Horizon is a realtime, open-source backend for JavaScript apps.",
+        "url": "https://github.com/rethinkdb/horizon"
+    },
+    {
+        "author": "Nickersoft",
+        "category": "JavaScript",
+        "stars": "598",
+        "title": "push.js - A compact, cross-browser solution for Javascript desktop notifications",
+        "url": "https://github.com/Nickersoft/push.js"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "512",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "nvdv",
+        "category": "Python",
+        "stars": "511",
+        "title": "vprof - Visual Python profiler",
+        "url": "https://github.com/nvdv/vprof"
+    },
+    {
+        "author": "ujjwalkarn",
+        "category": "Python",
+        "stars": "464",
+        "title": "DataSciencePython - common data analysis and machine learning tasks using python",
+        "url": "https://github.com/ujjwalkarn/DataSciencePython"
+    },
+    {
+        "author": "madmalik",
+        "category": "CSS",
+        "stars": "430",
+        "title": "mononoki - a programming typeface",
+        "url": "https://github.com/madmalik/mononoki"
+    },
+    {
+        "author": "date-fns",
+        "category": "JavaScript",
+        "stars": "306",
+        "title": "date-fns - Modern JavaScript date utility library",
+        "url": "https://github.com/date-fns/date-fns"
+    }
+]

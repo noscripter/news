@@ -1,0 +1,72 @@
+[
+    {
+        "author": "Kickball",
+        "category": "Makefile",
+        "stars": "675",
+        "title": "awesome-selfhosted - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.",
+        "url": "https://github.com/Kickball/awesome-selfhosted"
+    },
+    {
+        "author": "madler",
+        "category": "C",
+        "stars": "321",
+        "title": "pigz - A parallel implementation of gzip for modern multi-processor, multi-core machines.",
+        "url": "https://github.com/madler/pigz"
+    },
+    {
+        "author": "facebookresearch",
+        "category": "C++",
+        "stars": "295",
+        "title": "fastText - Library for fast text representation and classification.",
+        "url": "https://github.com/facebookresearch/fastText"
+    },
+    {
+        "author": "PowerShell",
+        "category": "C#",
+        "stars": "248",
+        "title": "PowerShell - PowerShell for every system!",
+        "url": "https://github.com/PowerShell/PowerShell"
+    },
+    {
+        "author": "tidwall",
+        "category": "Go",
+        "stars": "186",
+        "title": "redcon - Fast Redis compatible server framework for Go",
+        "url": "https://github.com/tidwall/redcon"
+    },
+    {
+        "author": "jlevy",
+        "category": "",
+        "stars": "140",
+        "title": "the-art-of-command-line - Master the command line, in one page",
+        "url": "https://github.com/jlevy/the-art-of-command-line"
+    },
+    {
+        "author": "FormidableLabs",
+        "category": "JavaScript",
+        "stars": "130",
+        "title": "webpack-dashboard - A CLI dashboard for webpack dev server",
+        "url": "https://github.com/FormidableLabs/webpack-dashboard"
+    },
+    {
+        "author": "jaywcjlove",
+        "category": "JavaScript",
+        "stars": "119",
+        "title": "awesome-mac - \uf8ff This repo is a collection of awesome Mac applications and tools for developers and designers.",
+        "url": "https://github.com/jaywcjlove/awesome-mac"
+    },
+    {
+        "author": "kelseyhightower",
+        "category": "",
+        "stars": "116",
+        "title": "kubernetes-the-hard-way - Bootstrap Kubernetes the hard way. No scripts.",
+        "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way"
+    },
+    {
+        "author": "parkjs814",
+        "category": "JavaScript",
+        "stars": "104",
+        "title": "AlgorithmVisualizer - Algorithm Visualizer",
+        "url": "https://github.com/parkjs814/AlgorithmVisualizer"
+    }
+]

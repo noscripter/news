@@ -1,0 +1,72 @@
+[
+    {
+        "author": "PocketMobsters",
+        "category": "C#",
+        "stars": "259",
+        "title": "PokeMobBot - The Pokemon Go Bot",
+        "url": "https://github.com/PocketMobsters/PokeMobBot"
+    },
+    {
+        "author": "AHAAAAAAA",
+        "category": "Python",
+        "stars": "213",
+        "title": "PokemonGo-Map - \ud83c\udf0f Live visualization of all the pokemon in your area... and more!",
+        "url": "https://github.com/AHAAAAAAA/PokemonGo-Map"
+    },
+    {
+        "author": "karandesai-96",
+        "category": "Python",
+        "stars": "297",
+        "title": "digit-classifier - A single handwritten digit classifier, using the MNIST dataset. Implemented through Artificial Neural Networks in python. A convolutional neural network implmentation in tensorflow is kept in separate branch (this one is under construction).",
+        "url": "https://github.com/karandesai-96/digit-classifier"
+    },
+    {
+        "author": "vhf",
+        "category": "",
+        "stars": "231",
+        "title": "free-programming-books - \ud83d\udcda Freely available programming books",
+        "url": "https://github.com/vhf/free-programming-books"
+    },
+    {
+        "author": "FallibleInc",
+        "category": "",
+        "stars": "197",
+        "title": "security-guide-for-developers - Security Guide for Developers",
+        "url": "https://github.com/FallibleInc/security-guide-for-developers"
+    },
+    {
+        "author": "uber",
+        "category": "JavaScript",
+        "stars": "201",
+        "title": "image-diff - Create image differential between two images",
+        "url": "https://github.com/uber/image-diff"
+    },
+    {
+        "author": "NecronomiconCoding",
+        "category": "C#",
+        "stars": "140",
+        "title": "NecroBot - a Pokemon Go Bot. -> https://discord.gg/VXKxNFr",
+        "url": "https://github.com/NecronomiconCoding/NecroBot"
+    },
+    {
+        "author": "facebookincubator",
+        "category": "JavaScript",
+        "stars": "149",
+        "title": "create-react-app - Create React apps with no build configuration.",
+        "url": "https://github.com/facebookincubator/create-react-app"
+    },
+    {
+        "author": "PokemonGoF",
+        "category": "Python",
+        "stars": "124",
+        "title": "PokemonGo-Bot - The Pokemon Go Bot, baking with community.",
+        "url": "https://github.com/PokemonGoF/PokemonGo-Bot"
+    },
+    {
+        "author": "ST-Apps",
+        "category": "C#",
+        "stars": "118",
+        "title": "PoGo-UWP - UWP Client for Pokemon Go",
+        "url": "https://github.com/ST-Apps/PoGo-UWP"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "573",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "chmln",
+        "category": "JavaScript",
+        "stars": "501",
+        "title": "flatpickr - lightweight, powerful datetimepicker. zero dependencies",
+        "url": "https://github.com/chmln/flatpickr"
+    },
+    {
+        "author": "torchnet",
+        "category": "Lua",
+        "stars": "214",
+        "title": "torchnet - Torch on steroids",
+        "url": "https://github.com/torchnet/torchnet"
+    },
+    {
+        "author": "baoyachi",
+        "category": "Java",
+        "stars": "199",
+        "title": "StepView - Step by step\uff0cjust use stepviewIndicator\uff0cstep indicator\uff0cflow indicator\uff0ctimeline",
+        "url": "https://github.com/baoyachi/StepView"
+    },
+    {
+        "author": "ldoublem",
+        "category": "Java",
+        "stars": "194",
+        "title": "LoadingView - a simple lodingview for android with animation",
+        "url": "https://github.com/ldoublem/LoadingView"
+    },
+    {
+        "author": "yoshuawuyts",
+        "category": "JavaScript",
+        "stars": "175",
+        "title": "choo - \ud83d\ude82\ud83d\ude8b\ud83d\ude8b\ud83d\ude8b - sturdy frontend framework",
+        "url": "https://github.com/yoshuawuyts/choo"
+    },
+    {
+        "author": "sindresorhus",
+        "category": "JavaScript",
+        "stars": "171",
+        "title": "emoj - Find relevant emoji from text on the command-line \ud83d\ude2e \u2728 \ud83d\ude4c \ud83d\udc34 \ud83d\udca5 \ud83d\ude48",
+        "url": "https://github.com/sindresorhus/emoj"
+    },
+    {
+        "author": "nikhilpanju",
+        "category": "Java",
+        "stars": "163",
+        "title": "RecyclerViewEnhanced - Android Library to provide swipe, click and other functionality to RecyclerView",
+        "url": "https://github.com/nikhilpanju/RecyclerViewEnhanced"
+    },
+    {
+        "author": "kataras",
+        "category": "Go",
+        "stars": "162",
+        "title": "iris - The fastest web framework for Go on Planet Earth",
+        "url": "https://github.com/kataras/iris"
+    },
+    {
+        "author": "infinitered",
+        "category": "JavaScript",
+        "stars": "155",
+        "title": "ignite - The unfair starting CLI, Generator, and more for React Native",
+        "url": "https://github.com/infinitered/ignite"
+    }
+]

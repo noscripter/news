@@ -1,0 +1,72 @@
+[
+    {
+        "author": "Microsoft",
+        "category": "JavaScript",
+        "stars": "1,527",
+        "title": "ChakraCore - ChakraCore is the core part of the Chakra Javascript engine that powers Microsoft Edge",
+        "url": "https://github.com/Microsoft/ChakraCore"
+    },
+    {
+        "author": "RPISEC",
+        "category": "",
+        "stars": "437",
+        "title": "Malware - Course materials for Malware Analysis by RPISEC",
+        "url": "https://github.com/RPISEC/Malware"
+    },
+    {
+        "author": "TheMozg",
+        "category": "Awk",
+        "stars": "428",
+        "title": "awk-raycaster - Pseudo-3D shooter written completely in awk using raycasting technique",
+        "url": "https://github.com/TheMozg/awk-raycaster"
+    },
+    {
+        "author": "braydie",
+        "category": "",
+        "stars": "409",
+        "title": "HowToBeAProgrammer - A guide on how to be a Programmer - originally published by Robert L Read",
+        "url": "https://github.com/braydie/HowToBeAProgrammer"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "418",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "JakeLin",
+        "category": "Swift",
+        "stars": "320",
+        "title": "IBAnimatable - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.",
+        "url": "https://github.com/JakeLin/IBAnimatable"
+    },
+    {
+        "author": "ValveSoftware",
+        "category": "",
+        "stars": "301",
+        "title": "steamlink-sdk - An SDK for creating native Steam Link applications",
+        "url": "https://github.com/ValveSoftware/steamlink-sdk"
+    },
+    {
+        "author": "somebee",
+        "category": "JavaScript",
+        "stars": "283",
+        "title": "imba - if Ruby and React had an indentation based lovechild, what would it look like? Imba is a new programming language for the web that compiles to performant and readable JavaScript.",
+        "url": "https://github.com/somebee/imba"
+    },
+    {
+        "author": "loverajoel",
+        "category": "JavaScript",
+        "stars": "263",
+        "title": "jstips - This is about one JS tip every day!",
+        "url": "https://github.com/loverajoel/jstips"
+    },
+    {
+        "author": "mhinz",
+        "category": "",
+        "stars": "256",
+        "title": "vim-galore - Everything you need to know about Vim.",
+        "url": "https://github.com/mhinz/vim-galore"
+    }
+]

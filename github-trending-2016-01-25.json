@@ -1,0 +1,72 @@
+[
+    {
+        "author": "DrkSephy",
+        "category": "JavaScript",
+        "stars": "634",
+        "title": "es6-cheatsheet - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets",
+        "url": "https://github.com/DrkSephy/es6-cheatsheet"
+    },
+    {
+        "author": "ejci",
+        "category": "JavaScript",
+        "stars": "591",
+        "title": "favico.js - Make use of your favicon with badges, images or videos",
+        "url": "https://github.com/ejci/favico.js"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "557",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "milligram",
+        "category": "CSS",
+        "stars": "404",
+        "title": "milligram - A minimalist CSS framework.",
+        "url": "https://github.com/milligram/milligram"
+    },
+    {
+        "author": "AlexTatiyants",
+        "category": "CSS",
+        "stars": "301",
+        "title": "pev - Postgres Explain Visualizer",
+        "url": "https://github.com/AlexTatiyants/pev"
+    },
+    {
+        "author": "jiahaog",
+        "category": "JavaScript",
+        "stars": "259",
+        "title": "nativefier - Wrap any web page natively without even thinking, across Windows, OSX and Linux",
+        "url": "https://github.com/jiahaog/nativefier"
+    },
+    {
+        "author": "Yalantis",
+        "category": "Java",
+        "stars": "211",
+        "title": "uCrop - Image Cropping Library for Android",
+        "url": "https://github.com/Yalantis/uCrop"
+    },
+    {
+        "author": "samshadwell",
+        "category": "Python",
+        "stars": "193",
+        "title": "TrumpScript - Make Python great again",
+        "url": "https://github.com/samshadwell/TrumpScript"
+    },
+    {
+        "author": "TencentOpen",
+        "category": "Java",
+        "stars": "155",
+        "title": "GT - ",
+        "url": "https://github.com/TencentOpen/GT"
+    },
+    {
+        "author": "tensorflow",
+        "category": "C++",
+        "stars": "115",
+        "title": "tensorflow - Computation using data flow graphs for scalable machine learning",
+        "url": "https://github.com/tensorflow/tensorflow"
+    }
+]

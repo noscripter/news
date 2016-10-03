@@ -1,0 +1,72 @@
+[
+    {
+        "author": "jgthms",
+        "category": "HTML",
+        "stars": "494",
+        "title": "web-design-in-4-minutes - Learn basics of web design in 4 minutes",
+        "url": "https://github.com/jgthms/web-design-in-4-minutes"
+    },
+    {
+        "author": "Droogans",
+        "category": "",
+        "stars": "441",
+        "title": "unmaintainable-code - An easier to share version of the infamous http://mindprod.com/jgloss/unmain.html",
+        "url": "https://github.com/Droogans/unmaintainable-code"
+    },
+    {
+        "author": "facebookincubator",
+        "category": "JavaScript",
+        "stars": "433",
+        "title": "create-react-app - Create React apps with no build configuration.",
+        "url": "https://github.com/facebookincubator/create-react-app"
+    },
+    {
+        "author": "NecronomiconCoding",
+        "category": "C#",
+        "stars": "323",
+        "title": "NecroBot - a Pokemon Go Bot based on Rocket API",
+        "url": "https://github.com/NecronomiconCoding/NecroBot"
+    },
+    {
+        "author": "krasimir",
+        "category": "JavaScript",
+        "stars": "387",
+        "title": "react-in-patterns - \ud83d\udcda List of design patterns/techniques used while developing with React",
+        "url": "https://github.com/krasimir/react-in-patterns"
+    },
+    {
+        "author": "AHAAAAAAA",
+        "category": "Python",
+        "stars": "266",
+        "title": "PokemonGo-Map - \ud83c\udf0f Live visualization of all the pokemon in your area... and more!",
+        "url": "https://github.com/AHAAAAAAA/PokemonGo-Map"
+    },
+    {
+        "author": "FallibleInc",
+        "category": "",
+        "stars": "334",
+        "title": "security-guide-for-developers - Security Guide for Developers",
+        "url": "https://github.com/FallibleInc/security-guide-for-developers"
+    },
+    {
+        "author": "LaunchKit",
+        "category": "JavaScript",
+        "stars": "322",
+        "title": "LaunchKit - A set of web-based tools for mobile app developers, now open source!",
+        "url": "https://github.com/LaunchKit/LaunchKit"
+    },
+    {
+        "author": "PokemonGoF",
+        "category": "Python",
+        "stars": "213",
+        "title": "PokemonGo-Bot - The Pokemon Go Bot, baking with community.",
+        "url": "https://github.com/PokemonGoF/PokemonGo-Bot"
+    },
+    {
+        "author": "Xyl2k",
+        "category": "",
+        "stars": "204",
+        "title": "TSA-Travel-Sentry-master-keys - 3D reproduction of TSA Master keys",
+        "url": "https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys"
+    }
+]

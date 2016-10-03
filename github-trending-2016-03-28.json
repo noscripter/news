@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "430",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "amzn",
+        "category": "",
+        "stars": "413",
+        "title": "alexa-avs-raspberry-pi - This project demonstrates how to access and test the Alexa Voice Service using a Java client (running on a Raspberry Pi), and a Node.js server.",
+        "url": "https://github.com/amzn/alexa-avs-raspberry-pi"
+    },
+    {
+        "author": "toddmotto",
+        "category": "",
+        "stars": "383",
+        "title": "public-apis - A collective list of public JSON APIs for use in web development.",
+        "url": "https://github.com/toddmotto/public-apis"
+    },
+    {
+        "author": "thejameskyle",
+        "category": "JavaScript",
+        "stars": "293",
+        "title": "spectacle-code-slide - Present code with style",
+        "url": "https://github.com/thejameskyle/spectacle-code-slide"
+    },
+    {
+        "author": "JuanitoFatas",
+        "category": "",
+        "stars": "235",
+        "title": "what-do-you-call-this-in-ruby - Solving the second hard problem in Computer Science.",
+        "url": "https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby"
+    },
+    {
+        "author": "opentoonz",
+        "category": "C++",
+        "stars": "218",
+        "title": "opentoonz - OpenToonz - \u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u5236\u4f5c\u30c4\u30fc\u30eb\u306e\u30aa\u30fc\u30d7\u30f3\u30bd\u30fc\u30b9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8",
+        "url": "https://github.com/opentoonz/opentoonz"
+    },
+    {
+        "author": "owocki",
+        "category": "Python",
+        "stars": "206",
+        "title": "pytrader - cryptocurrency trading robot",
+        "url": "https://github.com/owocki/pytrader"
+    },
+    {
+        "author": "0xAX",
+        "category": "",
+        "stars": "192",
+        "title": "linux-insides - A little bit about a linux kernel",
+        "url": "https://github.com/0xAX/linux-insides"
+    },
+    {
+        "author": "laobie",
+        "category": "Java",
+        "stars": "190",
+        "title": "StatusBarUtil - A util for setting status bar style on Android App.",
+        "url": "https://github.com/laobie/StatusBarUtil"
+    },
+    {
+        "author": "braydie",
+        "category": "",
+        "stars": "167",
+        "title": "HowToBeAProgrammer - A guide on how to be a Programmer - originally published by Robert L Read",
+        "url": "https://github.com/braydie/HowToBeAProgrammer"
+    }
+]

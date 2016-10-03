@@ -1,0 +1,72 @@
+[
+    {
+        "author": "caesar0301",
+        "category": "",
+        "stars": "1,652",
+        "title": "awesome-public-datasets - An awesome list of high-quality open datasets in public domains (on-going).",
+        "url": "https://github.com/caesar0301/awesome-public-datasets"
+    },
+    {
+        "author": "google",
+        "category": "Go",
+        "stars": "887",
+        "title": "seesaw - Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.",
+        "url": "https://github.com/google/seesaw"
+    },
+    {
+        "author": "jgthms",
+        "category": "CSS",
+        "stars": "738",
+        "title": "bulma - Modern CSS framework based on Flexbox",
+        "url": "https://github.com/jgthms/bulma"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "560",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "CosmicMind",
+        "category": "Swift",
+        "stars": "382",
+        "title": "Material - A beautiful graphics framework for Material Design in Swift.",
+        "url": "https://github.com/CosmicMind/Material"
+    },
+    {
+        "author": "ParsePlatform",
+        "category": "JavaScript",
+        "stars": "315",
+        "title": "parse-server - Parse-compatible API server module for Node/Express",
+        "url": "https://github.com/ParsePlatform/parse-server"
+    },
+    {
+        "author": "sahat",
+        "category": "CSS",
+        "stars": "257",
+        "title": "hackathon-starter - A boilerplate for Node.js web applications",
+        "url": "https://github.com/sahat/hackathon-starter"
+    },
+    {
+        "author": "relatedcode",
+        "category": "",
+        "stars": "231",
+        "title": "ParseAlternatives - A collaborative list of Parse alternative backend service providers.",
+        "url": "https://github.com/relatedcode/ParseAlternatives"
+    },
+    {
+        "author": "diafygi",
+        "category": "JavaScript",
+        "stars": "194",
+        "title": "gethttpsforfree - Source code for https://gethttpsforfree.com/",
+        "url": "https://github.com/diafygi/gethttpsforfree"
+    },
+    {
+        "author": "iammert",
+        "category": "Java",
+        "stars": "185",
+        "title": "MaterialIntroView - Material Intro View is a showcase android library.",
+        "url": "https://github.com/iammert/MaterialIntroView"
+    }
+]

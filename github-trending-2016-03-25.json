@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "647",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "toddmotto",
+        "category": "",
+        "stars": "601",
+        "title": "public-apis - A collective list of public JSON APIs for use in web development.",
+        "url": "https://github.com/toddmotto/public-apis"
+    },
+    {
+        "author": "appetizermonster",
+        "category": "JavaScript",
+        "stars": "409",
+        "title": "hain - An 'alt+space' launcher for Windows, built with Electron",
+        "url": "https://github.com/appetizermonster/hain"
+    },
+    {
+        "author": "whyrusleeping",
+        "category": "Go",
+        "stars": "376",
+        "title": "gx - A package management tool",
+        "url": "https://github.com/whyrusleeping/gx"
+    },
+    {
+        "author": "citusdata",
+        "category": "C",
+        "stars": "325",
+        "title": "citus - Scalable PostgreSQL",
+        "url": "https://github.com/citusdata/citus"
+    },
+    {
+        "author": "azer",
+        "category": "JavaScript",
+        "stars": "285",
+        "title": "left-pad - String left pad",
+        "url": "https://github.com/azer/left-pad"
+    },
+    {
+        "author": "jezen",
+        "category": "JavaScript",
+        "stars": "243",
+        "title": "is-thirteen - Check if a number is equal to 13.",
+        "url": "https://github.com/jezen/is-thirteen"
+    },
+    {
+        "author": "romannurik",
+        "category": "JavaScript",
+        "stars": "257",
+        "title": "MaterialColorsApp - A handy little Mac app that gives you quick access to the standard material design color palette.",
+        "url": "https://github.com/romannurik/MaterialColorsApp"
+    },
+    {
+        "author": "robbyrussell",
+        "category": "Shell",
+        "stars": "237",
+        "title": "oh-my-zsh - A delightful community-driven framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+        "url": "https://github.com/robbyrussell/oh-my-zsh"
+    },
+    {
+        "author": "karldray",
+        "category": "Python",
+        "stars": "232",
+        "title": "quantum - Simulate reverse causality using quantum suicide.",
+        "url": "https://github.com/karldray/quantum"
+    }
+]

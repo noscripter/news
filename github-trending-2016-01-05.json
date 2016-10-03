@@ -1,0 +1,72 @@
+[
+    {
+        "author": "VerbalExpressions",
+        "category": "JavaScript",
+        "stars": "791",
+        "title": "JSVerbalExpressions - JavaScript Regular expressions made easy",
+        "url": "https://github.com/VerbalExpressions/JSVerbalExpressions"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "485",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "0x5e",
+        "category": "Python",
+        "stars": "421",
+        "title": "wechat-deleted-friends - \u67e5\u770b\u88ab\u5220\u7684\u5fae\u4fe1\u597d\u53cb",
+        "url": "https://github.com/0x5e/wechat-deleted-friends"
+    },
+    {
+        "author": "amontalenti",
+        "category": "",
+        "stars": "430",
+        "title": "elements-of-python-style - Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.",
+        "url": "https://github.com/amontalenti/elements-of-python-style"
+    },
+    {
+        "author": "jlevy",
+        "category": "",
+        "stars": "417",
+        "title": "the-art-of-command-line - Master the command line, in one page",
+        "url": "https://github.com/jlevy/the-art-of-command-line"
+    },
+    {
+        "author": "SFTtech",
+        "category": "C++",
+        "stars": "412",
+        "title": "openage - Free (as in freedom) open source clone of the Age of Empires II engine.",
+        "url": "https://github.com/SFTtech/openage"
+    },
+    {
+        "author": "tldr-pages",
+        "category": "Shell",
+        "stars": "344",
+        "title": "tldr - Simplified and community-driven man pages",
+        "url": "https://github.com/tldr-pages/tldr"
+    },
+    {
+        "author": "rakyll",
+        "category": "Go",
+        "stars": "354",
+        "title": "gom - A visual interface to work with runtime profiling data for Go",
+        "url": "https://github.com/rakyll/gom"
+    },
+    {
+        "author": "jasperproject",
+        "category": "Python",
+        "stars": "345",
+        "title": "jasper-client - Client code for Jasper voice computing platform",
+        "url": "https://github.com/jasperproject/jasper-client"
+    },
+    {
+        "author": "jonathanslenders",
+        "category": "Python",
+        "stars": "313",
+        "title": "pymux - A terminal multiplexer (like tmux) in Python",
+        "url": "https://github.com/jonathanslenders/pymux"
+    }
+]

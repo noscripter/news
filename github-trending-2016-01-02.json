@@ -1,0 +1,72 @@
+[
+    {
+        "author": "getguesstimate",
+        "category": "JavaScript",
+        "stars": "462",
+        "title": "guesstimate-app - Create Fermi Estimates and Perform Monte Carlo Estimates",
+        "url": "https://github.com/getguesstimate/guesstimate-app"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "332",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "ericelliott",
+        "category": "ApacheConf",
+        "stars": "215",
+        "title": "essential-javascript-links - Essential JavaScript website.",
+        "url": "https://github.com/ericelliott/essential-javascript-links"
+    },
+    {
+        "author": "tj",
+        "category": "JavaScript",
+        "stars": "183",
+        "title": "frontend-boilerplate - webpack-react-redux-babel-autoprefixer-hmr-postcss-css-modules-rucksack-boilerplate",
+        "url": "https://github.com/tj/frontend-boilerplate"
+    },
+    {
+        "author": "jlevy",
+        "category": "",
+        "stars": "175",
+        "title": "the-art-of-command-line - Master the command line, in one page",
+        "url": "https://github.com/jlevy/the-art-of-command-line"
+    },
+    {
+        "author": "trailsjs",
+        "category": "JavaScript",
+        "stars": "180",
+        "title": "trails - Modern MVC Web Framework for Node.js.",
+        "url": "https://github.com/trailsjs/trails"
+    },
+    {
+        "author": "FlexMonkey",
+        "category": "Swift",
+        "stars": "171",
+        "title": "Filterpedia - Core Image Filter explorer",
+        "url": "https://github.com/FlexMonkey/Filterpedia"
+    },
+    {
+        "author": "tldr-pages",
+        "category": "Shell",
+        "stars": "153",
+        "title": "tldr - Simplified and community-driven man pages",
+        "url": "https://github.com/tldr-pages/tldr"
+    },
+    {
+        "author": "andersevenrud",
+        "category": "JavaScript",
+        "stars": "138",
+        "title": "OS.js-v2 - JavaScript Cloud/Web Desktop Platform",
+        "url": "https://github.com/andersevenrud/OS.js-v2"
+    },
+    {
+        "author": "guoc",
+        "category": "Swift",
+        "stars": "126",
+        "title": "spi - SPi \u53cc\u62fc\u8f93\u5165\u6cd5 for iPhone",
+        "url": "https://github.com/guoc/spi"
+    }
+]

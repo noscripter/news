@@ -1,0 +1,282 @@
+[
+    
+    {
+        "id" : 251298,
+        "title" : "似乎 Firefox 在逐渐被忘记....",
+        "url" : "http://www.v2ex.com/t/251298",
+        "content" : "话说不知打从什么时候起，用起了 Firefox ，就一直到了现在\u000D\u000A\u000D\u000A最近碰到了两件事情，发现 Firefox 基本上已经不被考虑了：\u000D\u000A\u000D\u000A1. **网易笔记**，新版只支持 Chrome,(最新版 360 浏览器、搜狗浏览器、猎豹浏览器等)\u000D\u000A2. **京东**的部分账户安全页面，也不支持 Firefox 打开，换成 Chrome 下才行\u000D\u000A\u000D\u000A唉....",
+        "content_rendered" : "\u003Cp\u003E话说不知打从什么时候起，用起了 Firefox ，就一直到了现在\u003C/p\u003E\u000A\u000A\u003Cp\u003E最近碰到了两件事情，发现 Firefox 基本上已经不被考虑了：\u003C/p\u003E\u000A\u000A\u003Col\u003E\u000A\u003Cli\u003E\u003Cstrong\u003E网易笔记\u003C/strong\u003E，新版只支持 Chrome,(最新版 360 浏览器、搜狗浏览器、猎豹浏览器等)\u003C/li\u003E\u000A\u003Cli\u003E\u003Cstrong\u003E京东\u003C/strong\u003E的部分账户安全页面，也不支持 Firefox 打开，换成 Chrome 下才行\u003C/li\u003E\u000A\u003C/ol\u003E\u000A\u000A\u003Cp\u003E唉....\u003C/p\u003E\u000A",
+        "replies" : 89,
+        "member" : {
+            "id" : 40953,
+            "username" : "cqcn1991",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/a346c1587befe28d6462e11a659bbed5?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/a346c1587befe28d6462e11a659bbed5?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/a346c1587befe28d6462e11a659bbed5?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 91,
+            "name" : "firefox",
+            "title" : "Firefox",
+            "title_alternative" : "Firefox",
+            "url" : "http://www.v2ex.com/go/firefox",
+            "topics" : 161,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/5422/9abf/91_mini.png?m=1380393189",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/5422/9abf/91_normal.png?m=1380393189",
+            "avatar_large" : "//cdn.v2ex.co/navatar/5422/9abf/91_large.png?m=1380393189"
+        },
+        "created" : 1452992145,
+        "last_modified" : 1452992145,
+        "last_touched" : 1453036690
+    },
+    
+    {
+        "id" : 251382,
+        "title" : "算不算百度爆谷歌一次？",
+        "url" : "http://www.v2ex.com/t/251382",
+        "content" : "http://ww1.sinaimg.cn/large/6144e556gw1f02mufn89tj20ip0k90xu.jpg \u000D\u000A\u000D\u000Ahttp://ww3.sinaimg.cn/large/6144e556gw1f02mv4kmodj20i30dowig.jpg\u000D\u000A\u000D\u000A中文容错率方面",
+        "content_rendered" : "\u003Cimg src\u003D\u0022http://ww1.sinaimg.cn/large/6144e556gw1f02mufn89tj20ip0k90xu.jpg\u0022 class\u003D\u0022imgly\u0022 style\u003D\u0022max\u002Dwidth: 660px\u003B\u0022 border\u003D\u00220\u0022 /\u003E  \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u003Cimg src\u003D\u0022http://ww3.sinaimg.cn/large/6144e556gw1f02mv4kmodj20i30dowig.jpg\u0022 class\u003D\u0022imgly\u0022 style\u003D\u0022max\u002Dwidth: 660px\u003B\u0022 border\u003D\u00220\u0022 /\u003E \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E中文容错率方面",
+        "replies" : 40,
+        "member" : {
+            "id" : 78861,
+            "username" : "ilotuo",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/16bd/b299/78861_mini.png?m=1425819301",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/16bd/b299/78861_normal.png?m=1425819301",
+            "avatar_large" : "//cdn.v2ex.co/avatar/16bd/b299/78861_large.png?m=1425819301"
+        },
+        "node" : {
+            "id" : 16,
+            "name" : "share",
+            "title" : "分享发现",
+            "title_alternative" : "Share",
+            "url" : "http://www.v2ex.com/go/share",
+            "topics" : 18022,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c74d/97b0/16_mini.png?m=1452033026",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c74d/97b0/16_normal.png?m=1452033026",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c74d/97b0/16_large.png?m=1452033026"
+        },
+        "created" : 1453023693,
+        "last_modified" : 1453023693,
+        "last_touched" : 1453036745
+    },
+    
+    {
+        "id" : 251393,
+        "title" : "室友是个女 coder",
+        "url" : "http://www.v2ex.com/t/251393",
+        "content" : "重点是人家文科生转过来的\u000D\u000A每天超级鸡血\u000D\u000A地铁上看编程书\u000D\u000A其他地方还有这样的女生吗？",
+        "content_rendered" : "重点是人家文科生转过来的\u000D\u003Cbr /\u003E每天超级鸡血\u000D\u003Cbr /\u003E地铁上看编程书\u000D\u003Cbr /\u003E其他地方还有这样的女生吗？",
+        "replies" : 39,
+        "member" : {
+            "id" : 80938,
+            "username" : "boyhailong",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/ad59/185e/80938_mini.png?m=1452315358",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/ad59/185e/80938_normal.png?m=1452315358",
+            "avatar_large" : "//cdn.v2ex.co/avatar/ad59/185e/80938_large.png?m=1452315358"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 10712,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1452923408",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1452923408",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1452923408"
+        },
+        "created" : 1453030019,
+        "last_modified" : 1453030019,
+        "last_touched" : 1453036896
+    },
+    
+    {
+        "id" : 251293,
+        "title" : "周末做些什么？",
+        "url" : "http://www.v2ex.com/t/251293",
+        "content" : "猿媛们周末都会做些什么？\u000D\u000A有木有公益性的项目推荐？(一起贡献代码或者帮助有障碍的人)\u000D\u000A或者去当志愿者？求推荐靠谱的志愿者团体和加入方式(๑• . •๑)\u000D\u000A坐标北京~",
+        "content_rendered" : "\u003Cp\u003E猿媛们周末都会做些什么？\u003Cbr\u003E\u000A有木有公益性的项目推荐？(一起贡献代码或者帮助有障碍的人)\u003Cbr\u003E\u000A或者去当志愿者？求推荐靠谱的志愿者团体和加入方式(๑• . •๑)\u003Cbr\u003E\u000A坐标北京~\u003C/p\u003E\u000A",
+        "replies" : 38,
+        "member" : {
+            "id" : 152186,
+            "username" : "ubuntugx",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/517f/e06e/152186_mini.png?m=1452988905",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/517f/e06e/152186_normal.png?m=1452988905",
+            "avatar_large" : "//cdn.v2ex.co/avatar/517f/e06e/152186_large.png?m=1452988905"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 10712,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1452923408",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1452923408",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1452923408"
+        },
+        "created" : 1452989185,
+        "last_modified" : 1452989185,
+        "last_touched" : 1453035588
+    },
+    
+    {
+        "id" : 251244,
+        "title" : "你是如何在 Mac OS X 的 Finder 里创建文本文件的？",
+        "url" : "http://www.v2ex.com/t/251244",
+        "content" : "我的方法：\u000D\u000A\u000D\u000A用一个可以打开文件目录的编辑器（我现在用的是 Visual Studio Code ）打开我的项目文件目录，然后在编辑器里的文件目录中点右键，然后“创建文件”。\u000D\u000A\u000D\u000A你有什么别的（可能更好的）方法么吗？",
+        "content_rendered" : "\u003Cp\u003E我的方法：\u003C/p\u003E\u000A\u000A\u003Cp\u003E用一个可以打开文件目录的编辑器（我现在用的是 Visual Studio Code ）打开我的项目文件目录，然后在编辑器里的文件目录中点右键，然后“创建文件”。\u003C/p\u003E\u000A\u000A\u003Cp\u003E你有什么别的（可能更好的）方法么吗？\u003C/p\u003E\u000A",
+        "replies" : 37,
+        "member" : {
+            "id" : 148346,
+            "username" : "zxgngl",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/31426793f35c665eabcebf54daebfded?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/31426793f35c665eabcebf54daebfded?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/31426793f35c665eabcebf54daebfded?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 22,
+            "name" : "macosx",
+            "title" : "Mac OS X",
+            "title_alternative" : "Mac OS X",
+            "url" : "http://www.v2ex.com/go/macosx",
+            "topics" : 7593,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/b6d7/67d2/22_mini.png?m=1448889569",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/b6d7/67d2/22_normal.png?m=1448889569",
+            "avatar_large" : "//cdn.v2ex.co/navatar/b6d7/67d2/22_large.png?m=1448889569"
+        },
+        "created" : 1452950611,
+        "last_modified" : 1452958553,
+        "last_touched" : 1453034210
+    },
+    
+    {
+        "id" : 251297,
+        "title" : "北京联通开始 DNS 劫持了……",
+        "url" : "http://www.v2ex.com/t/251297",
+        "content" : "直接修改了 apple 和 steam CDN 的 URL ，是随机的，比如： http://images.apple.com/c3pr90ntcsf0/itunes/home/images/music_logo_large.png 改为 http://120.52.72.76/images.apple.com/c3pr90ntcsf0/itunes/home/images/music_logo_large.png ，而且会返回 403 错误啊！不知道投诉是否有效",
+        "content_rendered" : "直接修改了 apple 和 steam CDN 的 URL ，是随机的，比如： \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://images.apple.com/c3pr90ntcsf0/itunes/home/images/music_logo_large.png\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://images.apple.com/c3pr90ntcsf0/itunes/home/images/music_logo_large.png\u003C/a\u003E 改为 \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://120.52.72.76/images.apple.com/c3pr90ntcsf0/itunes/home/images/music_logo_large.png\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://120.52.72.76/images.apple.com/c3pr90ntcsf0/itunes/home/images/music_logo_large.png\u003C/a\u003E ，而且会返回 403 错误啊！不知道投诉是否有效",
+        "replies" : 33,
+        "member" : {
+            "id" : 50672,
+            "username" : "gaoxt1983",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/3aa4/6445/50672_mini.png?m=1431057469",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/3aa4/6445/50672_normal.png?m=1431057469",
+            "avatar_large" : "//cdn.v2ex.co/avatar/3aa4/6445/50672_large.png?m=1431057469"
+        },
+        "node" : {
+            "id" : 108,
+            "name" : "bb",
+            "title" : "宽带症候群",
+            "title_alternative" : "Broadband Symptom Complex",
+            "url" : "http://www.v2ex.com/go/bb",
+            "topics" : 1218,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/a3c6/5c29/108_mini.png?m=1441773183",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/a3c6/5c29/108_normal.png?m=1441773183",
+            "avatar_large" : "//cdn.v2ex.co/navatar/a3c6/5c29/108_large.png?m=1441773183"
+        },
+        "created" : 1452991752,
+        "last_modified" : 1452991752,
+        "last_touched" : 1453033612
+    },
+    
+    {
+        "id" : 251251,
+        "title" : "受够了 Gradle",
+        "url" : "http://www.v2ex.com/t/251251",
+        "content" : "本身做 iOS 开发的，最近有些东西需要看 Android 的代码，简单地看了一本书大概入门，直接从 Android Studio 上手。然后下载了几个 Github 上的 Android app 开源代码学习，每次都要在 Gradle 上卡半天时间，简直是受够了，有人说它像 CocoaPods ，真的感觉与 iOS 的 CocoaPods 一个地下一个天上啊\u000D\u000A觉得 Gradle 就像是一个重要的依赖库，不同的 app 用不同版本的 Gradle ，每个 app 都要去下一次，还都是 60 多 M 的东西，这设计思路是不是要得改改？\u000D\u000A刚开始是每次都要去下载 Gradle 文件，即使爬墙也很慢，后来学乖了，知道用 Use local gradle distribution 了，然后就是在 Gradle: Configuring projects 那里总是卡，又是卡半天。。。这时间浪费得真是哗哗地。。\u000D\u000A一个 Android 新手的吐槽，大家随意看吧",
+        "content_rendered" : "本身做 iOS 开发的，最近有些东西需要看 Android 的代码，简单地看了一本书大概入门，直接从 Android Studio 上手。然后下载了几个 Github 上的 Android app 开源代码学习，每次都要在 Gradle 上卡半天时间，简直是受够了，有人说它像 CocoaPods ，真的感觉与 iOS 的 CocoaPods 一个地下一个天上啊\u000D\u003Cbr /\u003E觉得 Gradle 就像是一个重要的依赖库，不同的 app 用不同版本的 Gradle ，每个 app 都要去下一次，还都是 60 多 M 的东西，这设计思路是不是要得改改？\u000D\u003Cbr /\u003E刚开始是每次都要去下载 Gradle 文件，即使爬墙也很慢，后来学乖了，知道用 Use local gradle distribution 了，然后就是在 Gradle: Configuring projects 那里总是卡，又是卡半天。。。这时间浪费得真是哗哗地。。\u000D\u003Cbr /\u003E一个 Android 新手的吐槽，大家随意看吧",
+        "replies" : 32,
+        "member" : {
+            "id" : 44095,
+            "username" : "pheyer",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/a6a2/62e3/44095_mini.png?m=1451726430",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/a6a2/62e3/44095_normal.png?m=1451726430",
+            "avatar_large" : "//cdn.v2ex.co/avatar/a6a2/62e3/44095_large.png?m=1451726430"
+        },
+        "node" : {
+            "id" : 39,
+            "name" : "android",
+            "title" : "Android",
+            "title_alternative" : "Android",
+            "url" : "http://www.v2ex.com/go/android",
+            "topics" : 2225,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_mini.png?m=1451283286",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_normal.png?m=1451283286",
+            "avatar_large" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_large.png?m=1451283286"
+        },
+        "created" : 1452951770,
+        "last_modified" : 1452951770,
+        "last_touched" : 1452991082
+    },
+    
+    {
+        "id" : 251301,
+        "title" : "路由器需要更换吗？",
+        "url" : "http://www.v2ex.com/t/251301",
+        "content" : "家里面是 12M 电信宽带，以前很流畅，现在白天经常会卡，晚上`7.8 点左右`不能忍受\u000D\u000A  \u000D\u000A  \u003E 现在用的`tp\u002Dlink` 三根天线，\u000D\u000A \u000D\u000A  \u003E `wifi `信号也不满格。\u000D\u000A  \u000D\u000A  \u003E 下载速度 最流畅的时候（凌晨`5\u002D6.30`   夜里`9 点以后`）能到`1.0m\u002D1.2m`，\u000D\u000A  \u000D\u000A  \u003E 卡的时候顶多会在 `500kb` \u000D\u000A\u000D\u000A看 NBA 的时候每次卡一次，广告就重新播放一次，烦死了。\u000D\u000A\u000D\u000A需要换路由器吗？宽带不会也要换吧。。。",
+        "content_rendered" : "\u003Cp\u003E家里面是 12M 电信宽带，以前很流畅，现在白天经常会卡，晚上\u003Ccode\u003E7.8 点左右\u003C/code\u003E不能忍受\u003C/p\u003E\u000A\u000A\u003Cblockquote\u003E\u000A\u003Cp\u003E现在用的\u003Ccode\u003Etp\u002Dlink\u003C/code\u003E 三根天线，\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Ccode\u003Ewifi\u003C/code\u003E信号也不满格。\u003C/p\u003E\u000A\u000A\u003Cp\u003E下载速度 最流畅的时候（凌晨\u003Ccode\u003E5\u002D6.30\u003C/code\u003E   夜里\u003Ccode\u003E9 点以后\u003C/code\u003E）能到\u003Ccode\u003E1.0m\u002D1.2m\u003C/code\u003E，\u003C/p\u003E\u000A\u000A\u003Cp\u003E卡的时候顶多会在 \u003Ccode\u003E500kb\u003C/code\u003E \u003C/p\u003E\u000A\u003C/blockquote\u003E\u000A\u000A\u003Cp\u003E看 NBA 的时候每次卡一次，广告就重新播放一次，烦死了。\u003C/p\u003E\u000A\u000A\u003Cp\u003E需要换路由器吗？宽带不会也要换吧。。。\u003C/p\u003E\u000A",
+        "replies" : 31,
+        "member" : {
+            "id" : 94728,
+            "username" : "rwecho",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/d0d92cb46c209e85b2cb713a730ad836?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/d0d92cb46c209e85b2cb713a730ad836?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/d0d92cb46c209e85b2cb713a730ad836?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 63141,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1448889637",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1448889637",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1448889637"
+        },
+        "created" : 1452994474,
+        "last_modified" : 1452994474,
+        "last_touched" : 1453036474
+    },
+    
+    {
+        "id" : 251271,
+        "title" : "同学微信群发红包被差评了，郁闷！",
+        "url" : "http://www.v2ex.com/t/251271",
+        "content" : "加了一个同学的微信群，一共 55 人，看他们每次都在拼命的发红包。没抢。因为我看他们晒单都是很少，后来感觉不发不好意思，因为刷屏太狠了，一天至少有 1 万条信息。大概红包 150 次。我感觉那样不好玩，就把红包个数减少了。每次只发 1 个或是 3 个，最多不会超过 5 个，这样每个人的金额高一些，就看谁最快。感觉只要金额不低就行了，但是这样就得罪人了。因为数量少，别人抢不到。但是别人每次抢到的金额还少，看到别人手快的可以抢到很多，同学都给了我差评。我不知道大家的同学群是不是也是这样？每天就是红包发来发去。难道群里发红包也要谈策略吗？",
+        "content_rendered" : "\u003Cp\u003E加了一个同学的微信群，一共 55 人，看他们每次都在拼命的发红包。没抢。因为我看他们晒单都是很少，后来感觉不发不好意思，因为刷屏太狠了，一天至少有 1 万条信息。大概红包 150 次。我感觉那样不好玩，就把红包个数减少了。每次只发 1 个或是 3 个，最多不会超过 5 个，这样每个人的金额高一些，就看谁最快。感觉只要金额不低就行了，但是这样就得罪人了。因为数量少，别人抢不到。但是别人每次抢到的金额还少，看到别人手快的可以抢到很多，同学都给了我差评。我不知道大家的同学群是不是也是这样？每天就是红包发来发去。难道群里发红包也要谈策略吗？\u003C/p\u003E\u000A",
+        "replies" : 27,
+        "member" : {
+            "id" : 149668,
+            "username" : "Myprincess",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/f1f5/8192/149668_mini.png?m=1449213062",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/f1f5/8192/149668_normal.png?m=1449213062",
+            "avatar_large" : "//cdn.v2ex.co/avatar/f1f5/8192/149668_large.png?m=1449213062"
+        },
+        "node" : {
+            "id" : 320,
+            "name" : "wtf",
+            "title" : "不靠谱茶话会",
+            "title_alternative" : "WTF",
+            "url" : "http://www.v2ex.com/go/wtf",
+            "topics" : 208,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/3207/2254/320_mini.png?m=1435210420",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/3207/2254/320_normal.png?m=1435210420",
+            "avatar_large" : "//cdn.v2ex.co/navatar/3207/2254/320_large.png?m=1435210420"
+        },
+        "created" : 1452959512,
+        "last_modified" : 1453015260,
+        "last_touched" : 1453031079
+    }
+    
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "598",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "larrynatalicio",
+        "category": "Swift",
+        "stars": "472",
+        "title": "15DaysofAnimationsinSwift - A project to learn animations.",
+        "url": "https://github.com/larrynatalicio/15DaysofAnimationsinSwift"
+    },
+    {
+        "author": "bartobri",
+        "category": "C",
+        "stars": "417",
+        "title": "no-more-secrets - A tool set to recreate the famous \"decrypting text\" effect as seen in the 1992 movie Sneakers.",
+        "url": "https://github.com/bartobri/no-more-secrets"
+    },
+    {
+        "author": "open-power-workgroup",
+        "category": "Python",
+        "stars": "333",
+        "title": "Hospital - ",
+        "url": "https://github.com/open-power-workgroup/Hospital"
+    },
+    {
+        "author": "google",
+        "category": "Java",
+        "stars": "333",
+        "title": "flexbox-layout - Flexbox for Android",
+        "url": "https://github.com/google/flexbox-layout"
+    },
+    {
+        "author": "typicode",
+        "category": "JavaScript",
+        "stars": "313",
+        "title": "json-server - Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+        "url": "https://github.com/typicode/json-server"
+    },
+    {
+        "author": "Ramotion",
+        "category": "Swift",
+        "stars": "309",
+        "title": "paper-onboarding - PaperOnboarding is a material design slider",
+        "url": "https://github.com/Ramotion/paper-onboarding"
+    },
+    {
+        "author": "Guikunzhi",
+        "category": "Objective-C",
+        "stars": "284",
+        "title": "BeautifyFaceDemo - ",
+        "url": "https://github.com/Guikunzhi/BeautifyFaceDemo"
+    },
+    {
+        "author": "jimon",
+        "category": "C",
+        "stars": "278",
+        "title": "osx_app_in_plain_c - A simple showcase how to create a simple OS X app in plain C without any Objective-C",
+        "url": "https://github.com/jimon/osx_app_in_plain_c"
+    },
+    {
+        "author": "marmelroy",
+        "category": "Swift",
+        "stars": "194",
+        "title": "Interpolate - Swift interpolation for gesture-driven animations",
+        "url": "https://github.com/marmelroy/Interpolate"
+    }
+]

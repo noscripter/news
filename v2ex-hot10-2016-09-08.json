@@ -1,0 +1,282 @@
+[
+    
+    {
+        "id" : 304587,
+        "title" : "凌晨发布会有看直播的吗？",
+        "url" : "http://www.v2ex.com/t/304587",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 100,
+        "member" : {
+            "id" : 163706,
+            "username" : "tivupo",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/866f35ce19ddbf7b19a19c31f64b1a15?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/866f35ce19ddbf7b19a19c31f64b1a15?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/866f35ce19ddbf7b19a19c31f64b1a15?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 184,
+            "name" : "apple",
+            "title" : "Apple",
+            "title_alternative" : "Apple",
+            "url" : "http://www.v2ex.com/go/apple",
+            "topics" : 2675,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/6cdd/60ea/184_mini.png?m=1438057435",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/6cdd/60ea/184_normal.png?m=1438057435",
+            "avatar_large" : "//cdn.v2ex.co/navatar/6cdd/60ea/184_large.png?m=1438057435"
+        },
+        "created" : 1473235901,
+        "last_modified" : 1473235901,
+        "last_touched" : 1473296978
+    },
+    
+    {
+        "id" : 304519,
+        "title" : "另一个角度看 996",
+        "url" : "http://www.v2ex.com/t/304519",
+        "content" : "作为打工者，当然是希望钱多活少，不过现在整个天朝经济都不景气，私营小公司更是步履维艰，被沉重的税负和资金压力压得喘不过气。\u000D\u000A说实话在天朝，私企老板算不得强势群体，所以 996 帖子里面骂资本家不仁的是炮轰错了地方。\u000D\u000A我们都知道码农长期高压并不会增加太多工作产出，加班的增量都被质量下降抵消了，但是可以理解老板也不容易，在这个局面下一起同舟共济渡过难关是最佳选择。\u000D\u000A再说加班至少还说明有业务，比公司倒闭了重新找个 996 好吧？",
+        "content_rendered" : "\u003Cp\u003E作为打工者，当然是希望钱多活少，不过现在整个天朝经济都不景气，私营小公司更是步履维艰，被沉重的税负和资金压力压得喘不过气。\u000A说实话在天朝，私企老板算不得强势群体，所以 996 帖子里面骂资本家不仁的是炮轰错了地方。\u000A我们都知道码农长期高压并不会增加太多工作产出，加班的增量都被质量下降抵消了，但是可以理解老板也不容易，在这个局面下一起同舟共济渡过难关是最佳选择。\u000A再说加班至少还说明有业务，比公司倒闭了重新找个 996 好吧？\u003C/p\u003E\u000A",
+        "replies" : 85,
+        "member" : {
+            "id" : 58188,
+            "username" : "shyrock",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/3947/3d25/58188_mini.png?m=1403581947",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/3947/3d25/58188_normal.png?m=1403581947",
+            "avatar_large" : "//cdn.v2ex.co/avatar/3947/3d25/58188_large.png?m=1403581947"
+        },
+        "node" : {
+            "id" : 770,
+            "name" : "career",
+            "title" : "职场话题",
+            "title_alternative" : "Career",
+            "url" : "http://www.v2ex.com/go/career",
+            "topics" : 1827,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1471551960",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1471551960",
+            "avatar_large" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1471551960"
+        },
+        "created" : 1473221056,
+        "last_modified" : 1473222940,
+        "last_touched" : 1473287247
+    },
+    
+    {
+        "id" : 304546,
+        "title" : "知乎乱套了",
+        "url" : "http://www.v2ex.com/t/304546",
+        "content" : "账号串了 看到的全是别人的内容 而且每次刷新都不一样",
+        "content_rendered" : "账号串了 看到的全是别人的内容 而且每次刷新都不一样",
+        "replies" : 72,
+        "member" : {
+            "id" : 97040,
+            "username" : "Tony2ee",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/3e36/35cc/97040_mini.png?m=1472090258",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/3e36/35cc/97040_normal.png?m=1472090258",
+            "avatar_large" : "//cdn.v2ex.co/avatar/3e36/35cc/97040_large.png?m=1472090258"
+        },
+        "node" : {
+            "id" : 937,
+            "name" : "zhihu",
+            "title" : "知乎",
+            "title_alternative" : "Zhihu",
+            "url" : "http://www.v2ex.com/go/zhihu",
+            "topics" : 0,
+            "avatar_mini" : "/static/img/node_mini.png",
+            "avatar_normal" : "/static/img/node_normal.png",
+            "avatar_large" : "/static/img/node_large.png"
+        },
+        "created" : 1473229151,
+        "last_modified" : 1473231131,
+        "last_touched" : 1473274344
+    },
+    
+    {
+        "id" : 304534,
+        "title" : "马上到结婚纪念日了，想送媳妇个礼物，可是她不让花钱！想做个网站送给她，大家帮忙想想有什么好 idea!",
+        "url" : "http://www.v2ex.com/t/304534",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 67,
+        "member" : {
+            "id" : 157286,
+            "username" : "yao978318542",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/fdb7/6152/157286_mini.png?m=1453964132",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/fdb7/6152/157286_normal.png?m=1453964132",
+            "avatar_large" : "//cdn.v2ex.co/avatar/fdb7/6152/157286_large.png?m=1453964132"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 75518,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1473044652",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1473044652",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1473044652"
+        },
+        "created" : 1473226657,
+        "last_modified" : 1473226657,
+        "last_touched" : 1473298552
+    },
+    
+    {
+        "id" : 304552,
+        "title" : "非常好奇现在大学软件专业都学些什么",
+        "url" : "http://www.v2ex.com/t/304552",
+        "content" : "今天听到一个两年经验的安卓说因为她是学软件的不是学硬件的所以不知道电脑上内存和硬盘的区别我感到非常震惊，因为我是非科班出身一直以为这些对于喜欢技术的人来说都是常识性的东西，坐标三线城市小公司，非黑勿喷，谢谢",
+        "content_rendered" : "\u003Cp\u003E今天听到一个两年经验的安卓说因为她是学软件的不是学硬件的所以不知道电脑上内存和硬盘的区别我感到非常震惊，因为我是非科班出身一直以为这些对于喜欢技术的人来说都是常识性的东西，坐标三线城市小公司，非黑勿喷，谢谢\u003C/p\u003E\u000A",
+        "replies" : 60,
+        "member" : {
+            "id" : 55998,
+            "username" : "xp0729",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/a5d807bdc5810ce89d022999606ba085?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/a5d807bdc5810ce89d022999606ba085?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/a5d807bdc5810ce89d022999606ba085?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 13143,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1473153801",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1473153801",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1473153801"
+        },
+        "created" : 1473230017,
+        "last_modified" : 1473230017,
+        "last_touched" : 1473298210
+    },
+    
+    {
+        "id" : 304523,
+        "title" : "有懂经济学的朋友么？简单分析下现状呗",
+        "url" : "http://www.v2ex.com/t/304523",
+        "content" : "近 1 年多了吧，利率一直跌。最近又有好多公司开始裁员或者变相裁员（ 996 ），身边的朋友也在发生着各种公司倒闭，或者变相降薪的事情，\u000D\u000A\u000D\u000A感觉现在经济形势不太好。奇怪的是房价反而一直涨...\u000D\u000A\u000D\u000AV2 有没有经济学的大佬，给简单分析一下呗，作为普通老百姓是否这时候投资房产就对了？",
+        "content_rendered" : "近 1 年多了吧，利率一直跌。最近又有好多公司开始裁员或者变相裁员（ 996 ），身边的朋友也在发生着各种公司倒闭，或者变相降薪的事情，\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E感觉现在经济形势不太好。奇怪的是房价反而一直涨...\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003EV2 有没有经济学的大佬，给简单分析一下呗，作为普通老百姓是否这时候投资房产就对了？",
+        "replies" : 55,
+        "member" : {
+            "id" : 13718,
+            "username" : "heat",
+            "tagline" : "moment",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/1746/3ec4/13718_mini.png?m=1459679947",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/1746/3ec4/13718_normal.png?m=1459679947",
+            "avatar_large" : "//cdn.v2ex.co/avatar/1746/3ec4/13718_large.png?m=1459679947"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 75518,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1473044652",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1473044652",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1473044652"
+        },
+        "created" : 1473222219,
+        "last_modified" : 1473222305,
+        "last_touched" : 1473298864
+    },
+    
+    {
+        "id" : 304594,
+        "title" : "[上海]想尝试一次体面的 iOS 招聘",
+        "url" : "http://www.v2ex.com/t/304594",
+        "content" : "公司 iOS 开发缺人，新的 App 刚准备上线，还有些后续的开发工作需要跟进。\u000D\u000A\u000D\u000A我几乎每天都会刷一刷 V2 ，，也经常看到大家在招聘帖后面的回复，本身有几年管理网络社区的小经验，我就武断地认为自己大致了解常规求职者对互联网技术招聘的喜好和评价思路了。大家也知道最近一年国内 iOS 初级职位招聘市场处在较混乱的状态，很多求职者投了一堆简历没有回复，同时有面试官表示收到几百上千封简历但没多少能用。所以这次招 iOS 我向老板和 HR 申请了全局权限，简历和技术面试都由我负责，我希望能给公司招到想要的人，希望自己能有一个合作愉快的同事，也希望能让大家觉得我们虽然是小公司但对员工态度很真诚。\u000D\u000A\u000D\u000A#### 我们是一个什么样的公司\u000D\u000A\u000D\u000A[官网]( https://simplr.cn/)里有 App 和团队的介绍。简单地说，我们是一个从上海的大学校园里出来、曾经致力于带来靠谱校园社交平台、取得过一点成绩的小创业团队，偶尔也做些大学生喜欢穿的[T 恤]( http://www.simplr.cc/)。主体成员是毕业没有多久的年轻人，现在正在尝试往新的方向拓展。\u000D\u000A\u000D\u000A#### 我们现在需要什么样的队友\u000D\u000A\u000D\u000A\u002D 能独立完成一个简单的 iOS App 。哪种简单呢，大概就是封装一个 V2EX 客户端的那种难度（数据持久层、网络层都得有）\u000D\u000A\u002D 对 App 的稳定性、流畅度有保证，不仅仅是能跑就行。一个经常 crash 、滚动卡顿的 App 我根本不好意思跟别人说是我做的\u000D\u000A\u002D 我们的客户端业务需求并不复杂，也没什么难以实现的功能，所以不会要求你很懂 runtime 底层实现和各种黑科技，不会问你什么是 isa 指针。但是你至少明白 unrecognized selector 这种常见错误的原因，得了解为什么调用对象的方法本质是发送消息\u000D\u000A\u002D 代码规范、整洁、易读，最好是有代码洁癖，不容忍无意义空格和换行的那种\u000D\u000A\u002D 项目结构清晰，分层恰当，别告诉我你喜欢在网路层的请求里揉一堆逻辑层操作，我实在不想再重构乱耦合的代码了。 MVVM 的思路你得知道点\u000D\u000A\u002D 日常使用 Git\u000D\u000A\u002D 加分项：用过 JSPatch 、 Realm 、 ReactiveCocoa ；会写简单的动画；有自己上线了 App Store 的作品；有自己的博客\u000D\u000A\u000D\u000A#### 我们可以提供什么\u000D\u000A\u000D\u000A\u002D 我们在莘庄地铁站附近的小区里租了栋别墅，办公和吃住都在里面，有阿姨负责日常的两顿正餐，你不会有这世界上最大的苦恼——中午吃什么。别墅里的房间都比较大，所以是几个人住一间。简单地说，管吃管住，还管喵和汪\u000D\u000A\u002D 8K \u002D 12K 的薪资，能力被认可的话后期再往上调很容易。我们是真的按能力给，不像某勾网只按最低的给。五险一金这种法律规定的东西都不用担心，妥妥的\u000D\u000A\u002D Early 2015 13\u002Dinch MacBookPro ， 16G / 512G 顶配的那款；至少一台 Dell 显示器\u000D\u000A\u002D 完整规范清晰的 API 接口文档\u000D\u000A\u002D 真·弹性工作制。常规上班时间是 9:30 \u002D 19:30 （中间两顿饭一小时），技术组的考勤由技术组自己负责，有指纹打卡机，不要求具体的上下班时间，你心情不好了知会一声整天不来都行。你只需要保证每个月的工作时间是足量的\u000D\u000A\u002D 充足的学习空间。你如果想学 Python 、 Android 、 Web 前端 这边都有人能指导你，我们也认为年轻时多扩展技术栈是很有意义的事情\u000D\u000A\u002D 稳定的小飞机 ，只要不是大流量操作都无妨\u000D\u000A\u000D\u000A#### 我们不能提供什么\u000D\u000A\u000D\u000A\u002D 期权。新加入的员工肯定不会谈期权什么的，有的只是与能力匹配的 RMB 。先谈钱，再谈感情\u000D\u000A\u002D 办公室政治。现在公司正式员工 15 人，大都是毕业没多久的年轻人，所以整体的氛围开放、积极、善良。没有部门间的隔阂，下班后随时能组团狼人杀、局域网 CS 、德州扑克、恐怖电影\u000D\u000A\u002D 猪队友。其他部门我管不到，技术组目前小而精\u000D\u000A\u002D 无休止的快速迭代需求。我们目前更追求 App 流畅、稳定、易用\u000D\u000A\u002D 大饼。你最多只能吃到我司阿姨给你烙的煎饼\u000D\u000A\u000D\u000A#### 还有些其他想说的\u000D\u000A\u000D\u000A\u002D 有一个不成熟的小要求，公司所有人一周 6 天班，周日休息。这点我必须说明， 6 天班不意味着工作多需要加班，我们仅仅在集中精力开发新 App 的时候事情多点，其他大部分时间你完全能正常打卡下班。 6 天制是这个公司以前留下来的习惯，后期也有可能取消。这个挺重要的，我不会瞒着等到发 offer 时才告诉你\u000D\u000A\u002D 我在张江的软件园待过，知道那里的食堂水平，我司阿姨自己买菜做饭比食堂和外卖不知道高到哪里去了，健康又好吃。没有吃住的花销，你每月拿到手的钱相当于税前工资加了 3~4K\u000D\u000A\u002D 此次招聘要求和我们的团队性质非常适合工作了 1~2 年的年轻人。年龄超过 26 的可能不太合适，不是我们嫌弃，而是怕你不习惯这样的氛围。如果你是在校生且自认 iOS 能力尚可，我们也愿意接受实习生。实习工资应该是 200 / 天\u000D\u000A\u002D 我有朋友和同学在上海一些大的互联网公司，知道行业里现在大致是什么薪资水准，个人认为我们开出的薪水在目标技术层级和这样的工作时间上处于中等水平，不高不低\u000D\u000A\u002D 暂不接受远程办公\u000D\u000A\u002D 技术水平差点没太大关系，可以让你边学边做，但你的团队协作意识一定要到位，工作上的事情要以结果为导向，多和同事沟通，就是喊一嗓子的事情\u000D\u000A\u002D 习惯性使用盗版软件并且认为买正版很蠢的，请不要投简历\u000D\u000A\u000D\u000A\u000D\u000A#### 联系方式\u000D\u000A\u000D\u000A公司的域名邮箱放在网易上，我不太喜欢用，而且不信任网易的安全措施。个人求职简历相对来说是比较隐私的内容，但我司的行政不太注重保护此类信息。此次我有机会安排招聘流程，所以在这里直接留我个人在 Google 邮箱： voidmorn@gmail.com 接收简历。\u000D\u000A\u000D\u000A尽可能多地附上你在知名网站上 ID ，更有利于我在面试前对你有基本的认识，包括但不限于： V2EX 、微博、知乎、豆瓣、 GitHub 、 Twitter 、 Dribbble 。\u000D\u000A\u000D\u000A收到邮件我都会回复，筛选通过的，会用工作邮箱再和你约时间面试，并告知具体的地点和线路。地铁站出来可以直接坐出租车或滴滴来我司，给你报销来回车费。简历没过的回复后可能就没有后续了。\u000D\u000A\u000D\u000A如果你想和我聊聊，或者有什么未尽事宜需要咨询，可以直接戳我的 [Telegram]( https://telegram.me/gexiao)。这周六（ 9 月 10 日）我会去张江围观 [PyCon 2016]( http://cn.pycon.org/2016/),你也可以当面找我。",
+        "content_rendered" : "\u003Cp\u003E公司 iOS 开发缺人，新的 App 刚准备上线，还有些后续的开发工作需要跟进。\u003C/p\u003E\u000A\u003Cp\u003E我几乎每天都会刷一刷 V2 ，，也经常看到大家在招聘帖后面的回复，本身有几年管理网络社区的小经验，我就武断地认为自己大致了解常规求职者对互联网技术招聘的喜好和评价思路了。大家也知道最近一年国内 iOS 初级职位招聘市场处在较混乱的状态，很多求职者投了一堆简历没有回复，同时有面试官表示收到几百上千封简历但没多少能用。所以这次招 iOS 我向老板和 HR 申请了全局权限，简历和技术面试都由我负责，我希望能给公司招到想要的人，希望自己能有一个合作愉快的同事，也希望能让大家觉得我们虽然是小公司但对员工态度很真诚。\u003C/p\u003E\u000A\u003Ch4\u003E我们是一个什么样的公司\u003C/h4\u003E\u000A\u003Cp\u003E\u003Ca href\u003D\u0022https://simplr.cn/\u0022 rel\u003D\u0022nofollow\u0022\u003E官网\u003C/a\u003E里有 App 和团队的介绍。简单地说，我们是一个从上海的大学校园里出来、曾经致力于带来靠谱校园社交平台、取得过一点成绩的小创业团队，偶尔也做些大学生喜欢穿的\u003Ca href\u003D\u0022http://www.simplr.cc/\u0022 rel\u003D\u0022nofollow\u0022\u003ET 恤\u003C/a\u003E。主体成员是毕业没有多久的年轻人，现在正在尝试往新的方向拓展。\u003C/p\u003E\u000A\u003Ch4\u003E我们现在需要什么样的队友\u003C/h4\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003E能独立完成一个简单的 iOS App 。哪种简单呢，大概就是封装一个 V2EX 客户端的那种难度（数据持久层、网络层都得有）\u003C/li\u003E\u000A\u003Cli\u003E对 App 的稳定性、流畅度有保证，不仅仅是能跑就行。一个经常 crash 、滚动卡顿的 App 我根本不好意思跟别人说是我做的\u003C/li\u003E\u000A\u003Cli\u003E我们的客户端业务需求并不复杂，也没什么难以实现的功能，所以不会要求你很懂 runtime 底层实现和各种黑科技，不会问你什么是 isa 指针。但是你至少明白 unrecognized selector 这种常见错误的原因，得了解为什么调用对象的方法本质是发送消息\u003C/li\u003E\u000A\u003Cli\u003E代码规范、整洁、易读，最好是有代码洁癖，不容忍无意义空格和换行的那种\u003C/li\u003E\u000A\u003Cli\u003E项目结构清晰，分层恰当，别告诉我你喜欢在网路层的请求里揉一堆逻辑层操作，我实在不想再重构乱耦合的代码了。 MVVM 的思路你得知道点\u003C/li\u003E\u000A\u003Cli\u003E日常使用 Git\u003C/li\u003E\u000A\u003Cli\u003E加分项：用过 JSPatch 、 Realm 、 ReactiveCocoa ；会写简单的动画；有自己上线了 App Store 的作品；有自己的博客\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u003Ch4\u003E我们可以提供什么\u003C/h4\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003E我们在莘庄地铁站附近的小区里租了栋别墅，办公和吃住都在里面，有阿姨负责日常的两顿正餐，你不会有这世界上最大的苦恼——中午吃什么。别墅里的房间都比较大，所以是几个人住一间。简单地说，管吃管住，还管喵和汪\u003C/li\u003E\u000A\u003Cli\u003E8K \u002D 12K 的薪资，能力被认可的话后期再往上调很容易。我们是真的按能力给，不像某勾网只按最低的给。五险一金这种法律规定的东西都不用担心，妥妥的\u003C/li\u003E\u000A\u003Cli\u003EEarly 2015 13\u002Dinch MacBookPro ， 16G / 512G 顶配的那款；至少一台 Dell 显示器\u003C/li\u003E\u000A\u003Cli\u003E完整规范清晰的 API 接口文档\u003C/li\u003E\u000A\u003Cli\u003E真·弹性工作制。常规上班时间是 9:30 \u002D 19:30 （中间两顿饭一小时），技术组的考勤由技术组自己负责，有指纹打卡机，不要求具体的上下班时间，你心情不好了知会一声整天不来都行。你只需要保证每个月的工作时间是足量的\u003C/li\u003E\u000A\u003Cli\u003E充足的学习空间。你如果想学 Python 、 Android 、 Web 前端 这边都有人能指导你，我们也认为年轻时多扩展技术栈是很有意义的事情\u003C/li\u003E\u000A\u003Cli\u003E稳定的小飞机 ，只要不是大流量操作都无妨\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u003Ch4\u003E我们不能提供什么\u003C/h4\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003E期权。新加入的员工肯定不会谈期权什么的，有的只是与能力匹配的 RMB 。先谈钱，再谈感情\u003C/li\u003E\u000A\u003Cli\u003E办公室政治。现在公司正式员工 15 人，大都是毕业没多久的年轻人，所以整体的氛围开放、积极、善良。没有部门间的隔阂，下班后随时能组团狼人杀、局域网 CS 、德州扑克、恐怖电影\u003C/li\u003E\u000A\u003Cli\u003E猪队友。其他部门我管不到，技术组目前小而精\u003C/li\u003E\u000A\u003Cli\u003E无休止的快速迭代需求。我们目前更追求 App 流畅、稳定、易用\u003C/li\u003E\u000A\u003Cli\u003E大饼。你最多只能吃到我司阿姨给你烙的煎饼\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u003Ch4\u003E还有些其他想说的\u003C/h4\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003E有一个不成熟的小要求，公司所有人一周 6 天班，周日休息。这点我必须说明， 6 天班不意味着工作多需要加班，我们仅仅在集中精力开发新 App 的时候事情多点，其他大部分时间你完全能正常打卡下班。 6 天制是这个公司以前留下来的习惯，后期也有可能取消。这个挺重要的，我不会瞒着等到发 offer 时才告诉你\u003C/li\u003E\u000A\u003Cli\u003E我在张江的软件园待过，知道那里的食堂水平，我司阿姨自己买菜做饭比食堂和外卖不知道高到哪里去了，健康又好吃。没有吃住的花销，你每月拿到手的钱相当于税前工资加了 3~4K\u003C/li\u003E\u000A\u003Cli\u003E此次招聘要求和我们的团队性质非常适合工作了 1~2 年的年轻人。年龄超过 26 的可能不太合适，不是我们嫌弃，而是怕你不习惯这样的氛围。如果你是在校生且自认 iOS 能力尚可，我们也愿意接受实习生。实习工资应该是 200 / 天\u003C/li\u003E\u000A\u003Cli\u003E我有朋友和同学在上海一些大的互联网公司，知道行业里现在大致是什么薪资水准，个人认为我们开出的薪水在目标技术层级和这样的工作时间上处于中等水平，不高不低\u003C/li\u003E\u000A\u003Cli\u003E暂不接受远程办公\u003C/li\u003E\u000A\u003Cli\u003E技术水平差点没太大关系，可以让你边学边做，但你的团队协作意识一定要到位，工作上的事情要以结果为导向，多和同事沟通，就是喊一嗓子的事情\u003C/li\u003E\u000A\u003Cli\u003E习惯性使用盗版软件并且认为买正版很蠢的，请不要投简历\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u003Ch4\u003E联系方式\u003C/h4\u003E\u000A\u003Cp\u003E公司的域名邮箱放在网易上，我不太喜欢用，而且不信任网易的安全措施。个人求职简历相对来说是比较隐私的内容，但我司的行政不太注重保护此类信息。此次我有机会安排招聘流程，所以在这里直接留我个人在 Google 邮箱： voidmorn@gmail.com 接收简历。\u003C/p\u003E\u000A\u003Cp\u003E尽可能多地附上你在知名网站上 ID ，更有利于我在面试前对你有基本的认识，包括但不限于： V2EX 、微博、知乎、豆瓣、 GitHub 、 Twitter 、 Dribbble 。\u003C/p\u003E\u000A\u003Cp\u003E收到邮件我都会回复，筛选通过的，会用工作邮箱再和你约时间面试，并告知具体的地点和线路。地铁站出来可以直接坐出租车或滴滴来我司，给你报销来回车费。简历没过的回复后可能就没有后续了。\u003C/p\u003E\u000A\u003Cp\u003E如果你想和我聊聊，或者有什么未尽事宜需要咨询，可以直接戳我的 \u003Ca href\u003D\u0022https://telegram.me/gexiao\u0022 rel\u003D\u0022nofollow\u0022\u003ETelegram\u003C/a\u003E。这周六（ 9 月 10 日）我会去张江围观 \u003Ca href\u003D\u0022http://cn.pycon.org/2016/\u0022 rel\u003D\u0022nofollow\u0022\u003EPyCon 2016\u003C/a\u003E,你也可以当面找我。\u003C/p\u003E\u000A",
+        "replies" : 52,
+        "member" : {
+            "id" : 50494,
+            "username" : "mornlight",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/4668/c712/50494_mini.png?m=1460095000",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/4668/c712/50494_normal.png?m=1460095000",
+            "avatar_large" : "//cdn.v2ex.co/avatar/4668/c712/50494_large.png?m=1460095000"
+        },
+        "node" : {
+            "id" : 43,
+            "name" : "jobs",
+            "title" : "酷工作",
+            "title_alternative" : "Jobs",
+            "url" : "http://www.v2ex.com/go/jobs",
+            "topics" : 17450,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/17e6/2166/43_mini.png?m=1471906172",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/17e6/2166/43_normal.png?m=1471906172",
+            "avatar_large" : "//cdn.v2ex.co/navatar/17e6/2166/43_large.png?m=1471906172"
+        },
+        "created" : 1473236961,
+        "last_modified" : 1473245184,
+        "last_touched" : 1473284032
+    },
+    
+    {
+        "id" : 304521,
+        "title" : "《星际争霸 2》这个游戏太可惜了，用户量这么少",
+        "url" : "http://www.v2ex.com/t/304521",
+        "content" : "我还在玩虚空之遗，主要是即时战略类，除了星际 2 ，在画面和策略、平衡性等方面，实在是没有同级别的游戏。\u000D\u000A\u000D\u000A而游戏中，能平衡战略战术和操作的，也只有即时战略游戏。那些 qwer 游戏比不了。\u000D\u000A\u000D\u000A现在暴雪玩法上丰富了不少，但主要玩法当然还是人跟人的对战，想放松可以玩玩剧情战役或者 4v4 的星空堡垒。\u000D\u000A\u000D\u000A——————不过最大的问题就是，暴雪再怎么降低游戏门槛，对用户来说还是感觉太高了。\u000D\u000A\u000D\u000A按理说 V2EX 这里程序员不少，这类用户应该是会比较喜欢星际游戏类型的吧，可是，这里的帖子时间表明…………这里的用户也基本没人对星际感冒了。\u000D\u000A\u000D\u000A太可惜，这么好的一个游戏。",
+        "content_rendered" : "我还在玩虚空之遗，主要是即时战略类，除了星际 2 ，在画面和策略、平衡性等方面，实在是没有同级别的游戏。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E而游戏中，能平衡战略战术和操作的，也只有即时战略游戏。那些 qwer 游戏比不了。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E现在暴雪玩法上丰富了不少，但主要玩法当然还是人跟人的对战，想放松可以玩玩剧情战役或者 4v4 的星空堡垒。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E——————不过最大的问题就是，暴雪再怎么降低游戏门槛，对用户来说还是感觉太高了。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E按理说 V2EX 这里程序员不少，这类用户应该是会比较喜欢星际游戏类型的吧，可是，这里的帖子时间表明…………这里的用户也基本没人对星际感冒了。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E太可惜，这么好的一个游戏。",
+        "replies" : 46,
+        "member" : {
+            "id" : 82986,
+            "username" : "rainex",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/b312/9344/82986_mini.png?m=1417786295",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/b312/9344/82986_normal.png?m=1417786295",
+            "avatar_large" : "//cdn.v2ex.co/avatar/b312/9344/82986_large.png?m=1417786295"
+        },
+        "node" : {
+            "id" : 98,
+            "name" : "sc2",
+            "title" : "StarCraft 2",
+            "title_alternative" : "StarCraft 2",
+            "url" : "http://www.v2ex.com/go/sc2",
+            "topics" : 135,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/ed3d/2c21/98_mini.png?m=1438587565",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/ed3d/2c21/98_normal.png?m=1438587565",
+            "avatar_large" : "//cdn.v2ex.co/navatar/ed3d/2c21/98_large.png?m=1438587565"
+        },
+        "created" : 1473221425,
+        "last_modified" : 1473221425,
+        "last_touched" : 1473266603
+    },
+    
+    {
+        "id" : 304666,
+        "title" : "夜路走多了 终于见到鬼了 ios 神奇广告",
+        "url" : "http://www.v2ex.com/t/304666",
+        "content" : "iphone6 已越狱 今天晚上开始突然会播放国产页游视频， 播放期间无法推出，也无法切换应用。\u000D\u000A锁屏的时候也会播放，吓死了\u003D\u002D\u003D\u000D\u000A有什么好办法能找出是哪个应用吗？ 求教\u000D\u000A\u000D\u000A只找到下广告的包，但是不知道是哪个应用发起的，大半夜的快吓死了\u000D\u000A\u000D\u000AGET /adtools/videoads/prod/bbebad7ca8d644baa3c4546198b1958b/videos/1747b080\u002D3872\u002D4825\u002Db26f\u002D42d8dbd980e8/video.360p.mp4 HTTP/1.1\u000D\u000AHost: i.l.inmobicdn.net\u000D\u000AX\u002DPlayback\u002DSession\u002DId: 988289A6\u002DE5F6\u002D490A\u002D985E\u002D017C09F597C0\u000D\u000ARange: bytes\u003D525122\u002D2548576\u000D\u000AAccept: */*\u000D\u000AUser\u002DAgent: Mozilla/5.0 (iPhone\u003B CPU iPhone OS 9_0_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A452 Safari/601.1\u000D\u000AAccept\u002DLanguage: zh\u002Dcn\u000D\u000AAccept\u002DEncoding: identity\u000D\u000AConnection: keep\u002Dalive",
+        "content_rendered" : "\u003Cp\u003Eiphone6 已越狱 今天晚上开始突然会播放国产页游视频， 播放期间无法推出，也无法切换应用。\u000A锁屏的时候也会播放，吓死了\u003D\u002D\u003D\u000A有什么好办法能找出是哪个应用吗？ 求教\u003C/p\u003E\u000A\u003Cp\u003E只找到下广告的包，但是不知道是哪个应用发起的，大半夜的快吓死了\u003C/p\u003E\u000A\u003Cp\u003EGET /adtools/videoads/prod/bbebad7ca8d644baa3c4546198b1958b/videos/1747b080\u002D3872\u002D4825\u002Db26f\u002D42d8dbd980e8/video.360p.mp4 HTTP/1.1\u000AHost: \u003Ca href\u003D\u0022http://i.l.inmobicdn.net\u0022 rel\u003D\u0022nofollow\u0022\u003Ei.l.inmobicdn.net\u003C/a\u003E\u000AX\u002DPlayback\u002DSession\u002DId: 988289A6\u002DE5F6\u002D490A\u002D985E\u002D017C09F597C0\u000ARange: bytes\u003D525122\u002D2548576\u000AAccept: \u003Cem\u003E/\u003C/em\u003E\u000AUser\u002DAgent: Mozilla/5.0 (iPhone\u003B CPU iPhone OS 9_0_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A452 Safari/601.1\u000AAccept\u002DLanguage: zh\u002Dcn\u000AAccept\u002DEncoding: identity\u000AConnection: keep\u002Dalive\u003C/p\u003E\u000A",
+        "replies" : 41,
+        "member" : {
+            "id" : 72480,
+            "username" : "qwjhb",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/ca85/a11d/72480_mini.png?m=1448334256",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/ca85/a11d/72480_normal.png?m=1448334256",
+            "avatar_large" : "//cdn.v2ex.co/avatar/ca85/a11d/72480_large.png?m=1448334256"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 75518,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1473044652",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1473044652",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1473044652"
+        },
+        "created" : 1473256030,
+        "last_modified" : 1473256593,
+        "last_touched" : 1473286311
+    }
+    
+]

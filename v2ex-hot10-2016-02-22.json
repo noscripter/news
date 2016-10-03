@@ -1,0 +1,313 @@
+[
+    
+    {
+        "id" : 257973,
+        "title" : "你们学编程，在 IDE 上挣扎了多久",
+        "url" : "http://www.v2ex.com/t/257973",
+        "content" : "俗话说的好，工欲善其事，必先利其器。\u000D\u000A我平时开发的语言主要是 java 、 python 、 javascript ，自己玩玩 Scheme ，用 markdown 记笔记、写博客，下面说下我平时不同编辑工作所用到的编辑器：\u000D\u000A\u000D\u000A\u002D `Sublime`，多行选中是我最喜欢的功能，记笔记、写博客是够了，一直也能满足需求。\u000D\u000A\u002D java 的话就是 `eclipse`，大学就用它，之后一直没改过，期间也用过 IntellJ ，但是感觉快捷键都不一样，就放弃了，虽然有很多高大上的功能。\u000D\u000A\u002D python 的话一直用的也是 sublime ，有可能都是一些小脚本的原因，所以觉得也还凑合，最近也开始用`PyCharm`，自动提示什么的好不少，支持 virtualenv ，下面应该会研究一段时间，发现一些常用快捷键还是不一样了\u000D\u000A\u002D 我学 Scheme 主要是做 sicp 上的习题，刚开始一直用的 sublime ，后来代码越来越长，出现问题时不好 debug ，这时我会把代码拷贝到 Racket 里面，期间尝试过 `Emacs`，但是成本太高了，一大堆配置，嫌蛮烦，就一直也搁浅了\u000D\u000A\u000D\u000A最近我把主力编辑器 Sublime 换成了 Atom ，发现爽了很多，很多实用的功能，而且大部分常用快捷键也与 Sublime 兼容，无缝迁移。除了多占用点资源，没发现什么坏处。\u000D\u000A\u000D\u000A不知道你们在 IDE 上花费了多少时间？\u000D\u000A\u000D\u000APS：发现年龄越大，折腾的心越来越少了，哎，\u000D\u000A\u000D\u000A（服务器上肯定 vim 是王道了，这里主要说的是桌面编辑器，请不要歪楼）",
+        "content_rendered" : "\u003Cp\u003E俗话说的好，工欲善其事，必先利其器。\u003Cbr\u003E\u000A我平时开发的语言主要是 java 、 python 、 javascript ，自己玩玩 Scheme ，用 markdown 记笔记、写博客，下面说下我平时不同编辑工作所用到的编辑器：\u003C/p\u003E\u000A\u000A\u003Cul\u003E\u000A\u003Cli\u003E\u003Ccode\u003ESublime\u003C/code\u003E，多行选中是我最喜欢的功能，记笔记、写博客是够了，一直也能满足需求。\u003C/li\u003E\u000A\u003Cli\u003Ejava 的话就是 \u003Ccode\u003Eeclipse\u003C/code\u003E，大学就用它，之后一直没改过，期间也用过 IntellJ ，但是感觉快捷键都不一样，就放弃了，虽然有很多高大上的功能。\u003C/li\u003E\u000A\u003Cli\u003Epython 的话一直用的也是 sublime ，有可能都是一些小脚本的原因，所以觉得也还凑合，最近也开始用\u003Ccode\u003EPyCharm\u003C/code\u003E，自动提示什么的好不少，支持 virtualenv ，下面应该会研究一段时间，发现一些常用快捷键还是不一样了\u003C/li\u003E\u000A\u003Cli\u003E我学 Scheme 主要是做 sicp 上的习题，刚开始一直用的 sublime ，后来代码越来越长，出现问题时不好 debug ，这时我会把代码拷贝到 Racket 里面，期间尝试过 \u003Ccode\u003EEmacs\u003C/code\u003E，但是成本太高了，一大堆配置，嫌蛮烦，就一直也搁浅了\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u000A\u003Cp\u003E最近我把主力编辑器 Sublime 换成了 Atom ，发现爽了很多，很多实用的功能，而且大部分常用快捷键也与 Sublime 兼容，无缝迁移。除了多占用点资源，没发现什么坏处。\u003C/p\u003E\u000A\u000A\u003Cp\u003E不知道你们在 IDE 上花费了多少时间？\u003C/p\u003E\u000A\u000A\u003Cp\u003EPS ：发现年龄越大，折腾的心越来越少了，哎，\u003C/p\u003E\u000A\u000A\u003Cp\u003E（服务器上肯定 vim 是王道了，这里主要说的是桌面编辑器，请不要歪楼）\u003C/p\u003E\u000A",
+        "replies" : 82,
+        "member" : {
+            "id" : 58407,
+            "username" : "lcj2class",
+            "tagline" : "Heal the world, Make it a better place",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/b23f/7246/58407_mini.png?m=1418218224",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/b23f/7246/58407_normal.png?m=1418218224",
+            "avatar_large" : "//cdn.v2ex.co/avatar/b23f/7246/58407_large.png?m=1418218224"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 10938,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1455764196",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1455764196",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1455764196"
+        },
+        "created" : 1456023091,
+        "last_modified" : 1456023170,
+        "last_touched" : 1456080937
+    },
+    
+    {
+        "id" : 258038,
+        "title" : "码农们你们最喜欢用的编程字体是什么?",
+        "url" : "http://www.v2ex.com/t/258038",
+        "content" : "首先是好字体的标准：\u000D\u000A* 非常清晰（ Crisp clear characters ）\u000D\u000A* 支持扩展字符集（ Extended characterset ）\u000D\u000A* 对空白把握的很好\u000D\u000A* 可轻易区分’ l ’, ‘ 1 ’ 和 ‘ i ’\u000D\u000A* 可轻易区分’ 0 ′, ‘ o ’ 和 ‘ O ’\u000D\u000A* 可轻易区分左右引号 – 最好是对称的\u000D\u000A* 清晰的标点符号，特别是大括号小括号和中括号",
+        "content_rendered" : "\u003Cp\u003E首先是好字体的标准：\u003Cbr\u003E\u000A* 非常清晰（ Crisp clear characters ）\u003Cbr\u003E\u000A* 支持扩展字符集（ Extended characterset ）\u003Cbr\u003E\u000A* 对空白把握的很好\u003Cbr\u003E\u000A* 可轻易区分’ l ’, ‘ 1 ’ 和 ‘ i ’\u003Cbr\u003E\u000A* 可轻易区分’ 0 ′, ‘ o ’ 和 ‘ O ’\u003Cbr\u003E\u000A* 可轻易区分左右引号 – 最好是对称的\u003Cbr\u003E\u000A* 清晰的标点符号，特别是大括号小括号和中括号\u003C/p\u003E\u000A",
+        "replies" : 57,
+        "member" : {
+            "id" : 99995,
+            "username" : "eu",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/985a01215e5f7ce8db4a18c5b77c6d1e?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/985a01215e5f7ce8db4a18c5b77c6d1e?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/985a01215e5f7ce8db4a18c5b77c6d1e?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 64735,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1455764386",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1455764386",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1455764386"
+        },
+        "created" : 1456051101,
+        "last_modified" : 1456051101,
+        "last_touched" : 1456083319
+    },
+    
+    {
+        "id" : 258049,
+        "title" : "iPhone 6s： QQ 和微信耗电量长期占第一第二，怎破？",
+        "url" : "http://www.v2ex.com/t/258049",
+        "content" : "无法忍了，电量在可肉眼的情况下掉电。\u000D\u000A必须把 QQ 和微信踢出去才能正常耗电，而不是异常可肉眼的情况下掉电。\u000D\u000A\u000D\u000A电量排行它们是经常性第一第二，偶尔游戏耗电量大争夺第一之后过了几小时又被 QQ 微信超了。\u000D\u000A\u000D\u000A有没有什么办法或者查询电量的最详细记录？\u000D\u000A只有后台它们保持着 3 到 6 小时之间的后台工作时间。\u000D\u000A设置了后台刷新禁止，但 Apple 说明的是，调后台的时候一定时间内就会自动挂着，但它几小时是什么做到的？！一天没用它几次（全在电脑聊，偶尔但只是个位数的使用次数使用 QQ 或微信）\u000D\u000A同时 Apple 说明的是，除了踢出去之外，调后台如果有工作也会继续工作么？\u000D\u000A\u000D\u000A老子禁了后台刷新QQ 微信怎么还在进行啊？？？\u000D\u000A一度怀疑电量是不是不正常……\u000D\u000A\u000D\u000A我已经把 QQ 和微信删了重安装，然并卵。\u000D\u000A\u000D\u000A所以，请问有什么方法或可以查明，让我清楚地明白耗了什么电，是 GPS 还是什么。\u000D\u000A\u000D\u000APs\u0026放喷：是中国人，就摆脱不了 QQ 和微信的……叫我天天用 Telegram 或电子邮件我也乐意……\u000D\u000A所以别说什么卸载 QQ 微信。",
+        "content_rendered" : "\u003Cp\u003E无法忍了，电量在可肉眼的情况下掉电。\u003Cbr\u003E\u000A必须把 QQ 和微信踢出去才能正常耗电，而不是异常可肉眼的情况下掉电。\u003C/p\u003E\u000A\u000A\u003Cp\u003E电量排行它们是经常性第一第二，偶尔游戏耗电量大争夺第一之后过了几小时又被 QQ 微信超了。\u003C/p\u003E\u000A\u000A\u003Cp\u003E有没有什么办法或者查询电量的最详细记录？\u003Cbr\u003E\u000A只有后台它们保持着 3 到 6 小时之间的后台工作时间。\u003Cbr\u003E\u000A设置了后台刷新禁止，但 Apple 说明的是，调后台的时候一定时间内就会自动挂着，但它几小时是什么做到的？！一天没用它几次（全在电脑聊，偶尔但只是个位数的使用次数使用 QQ 或微信）\u003Cbr\u003E\u000A同时 Apple 说明的是，除了踢出去之外，调后台如果有工作也会继续工作么？\u003C/p\u003E\u000A\u000A\u003Cp\u003E老子禁了后台刷新 QQ 微信怎么还在进行啊？？？\u003Cbr\u003E\u000A一度怀疑电量是不是不正常……\u003C/p\u003E\u000A\u000A\u003Cp\u003E我已经把 QQ 和微信删了重安装，然并卵。\u003C/p\u003E\u000A\u000A\u003Cp\u003E所以，请问有什么方法或可以查明，让我清楚地明白耗了什么电，是 GPS 还是什么。\u003C/p\u003E\u000A\u000A\u003Cp\u003EPs\u0026amp\u003B放喷：是中国人，就摆脱不了 QQ 和微信的……叫我天天用 Telegram 或电子邮件我也乐意……\u003Cbr\u003E\u000A所以别说什么卸载 QQ 微信。\u003C/p\u003E\u000A",
+        "replies" : 54,
+        "member" : {
+            "id" : 43239,
+            "username" : "wclebb",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/f5dc/0915/43239_mini.png?m=1426403445",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/f5dc/0915/43239_normal.png?m=1426403445",
+            "avatar_large" : "//cdn.v2ex.co/avatar/f5dc/0915/43239_large.png?m=1426403445"
+        },
+        "node" : {
+            "id" : 8,
+            "name" : "iphone",
+            "title" : "iPhone",
+            "title_alternative" : "iPhone",
+            "url" : "http://www.v2ex.com/go/iphone",
+            "topics" : 3334,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c9f0/f895/8_mini.png?m=1454545245",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c9f0/f895/8_normal.png?m=1454545245",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c9f0/f895/8_large.png?m=1454545245"
+        },
+        "created" : 1456056878,
+        "last_modified" : 1456057215,
+        "last_touched" : 1456102088
+    },
+    
+    {
+        "id" : 258015,
+        "title" : "吐槽一下 Apple Pay",
+        "url" : "http://www.v2ex.com/t/258015",
+        "content" : "昨天去家乐福买东西，使用 Apple Pay 付款，手湿指纹无法识别，然后 POS 机可能也有问题，花了差不多 10 分钟才付款成功，而且付款后还有输入密码并签字，后面一堆人排队结账，简直尴尬死了！总之体验很不好。",
+        "content_rendered" : "\u003Cp\u003E昨天去家乐福买东西，使用 Apple Pay 付款，手湿指纹无法识别，然后 POS 机可能也有问题，花了差不多 10 分钟才付款成功，而且付款后还有输入密码并签字，后面一堆人排队结账，简直尴尬死了！总之体验很不好。\u003C/p\u003E\u000A",
+        "replies" : 49,
+        "member" : {
+            "id" : 75764,
+            "username" : "Crowbar",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/180c/bb52/75764_mini.png?m=1416202593",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/180c/bb52/75764_normal.png?m=1416202593",
+            "avatar_large" : "//cdn.v2ex.co/avatar/180c/bb52/75764_large.png?m=1416202593"
+        },
+        "node" : {
+            "id" : 842,
+            "name" : "pay",
+            "title" : " Pay",
+            "title_alternative" : " Pay",
+            "url" : "http://www.v2ex.com/go/pay",
+            "topics" : 67,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/fc3c/f452/842_mini.png?m=1429855350",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/fc3c/f452/842_normal.png?m=1429855350",
+            "avatar_large" : "//cdn.v2ex.co/navatar/fc3c/f452/842_large.png?m=1429855350"
+        },
+        "created" : 1456043553,
+        "last_modified" : 1456043553,
+        "last_touched" : 1456085914
+    },
+    
+    {
+        "id" : 257980,
+        "title" : "被阿里巴巴第三方催款公司打电话骚扰，如何投诉？",
+        "url" : "http://www.v2ex.com/t/257980",
+        "content" : "1. 我一个亲戚在阿里巴巴拿了一笔什么小额贷款预期了；\u000D\u000A2. 这个亲戚名下有一家饭店请我去帮忙打理一段时间，所以饭店宣传的时候留了我电话；\u000D\u000A3. 这个所谓「阿里巴巴委托的第三方催款公司」不知用什么方式得到了我的电话，三番五次地给我打电话要求「帮忙催一催」；\u000D\u000A4. 之前我也帮助传达了，现在我已经早已离开饭店，电话现在还是不停打给我，已经对我生活造成了困扰！\u000D\u000A5. 我在电话里通知对方我没有义务帮助催款，不要再骚扰我，并且告知对方电话已经录音。\u000D\u000A\u000D\u000A提问，有没有渠道投诉？",
+        "content_rendered" : "\u003Col\u003E\u000A\u003Cli\u003E我一个亲戚在阿里巴巴拿了一笔什么小额贷款预期了；\u003C/li\u003E\u000A\u003Cli\u003E这个亲戚名下有一家饭店请我去帮忙打理一段时间，所以饭店宣传的时候留了我电话；\u003C/li\u003E\u000A\u003Cli\u003E这个所谓「阿里巴巴委托的第三方催款公司」不知用什么方式得到了我的电话，三番五次地给我打电话要求「帮忙催一催」；\u003C/li\u003E\u000A\u003Cli\u003E之前我也帮助传达了，现在我已经早已离开饭店，电话现在还是不停打给我，已经对我生活造成了困扰！\u003C/li\u003E\u000A\u003Cli\u003E我在电话里通知对方我没有义务帮助催款，不要再骚扰我，并且告知对方电话已经录音。\u003C/li\u003E\u000A\u003C/ol\u003E\u000A\u000A\u003Cp\u003E提问，有没有渠道投诉？\u003C/p\u003E\u000A",
+        "replies" : 45,
+        "member" : {
+            "id" : 160,
+            "username" : "dimlau",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/b73c/e398/160_mini.png?m=1356070386",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/b73c/e398/160_normal.png?m=1356070386",
+            "avatar_large" : "//cdn.v2ex.co/avatar/b73c/e398/160_large.png?m=1356070386"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 64735,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1455764386",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1455764386",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1455764386"
+        },
+        "created" : 1456025701,
+        "last_modified" : 1456025701,
+        "last_touched" : 1456070991
+    },
+    
+    {
+        "id" : 258014,
+        "title" : "100 万在线用户，浏览网页，播放在线视频之类的操作， 权威 dns 服务器大概会有多少 qps？域名 ttl 为 10 秒",
+        "url" : "http://www.v2ex.com/t/258014",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 42,
+        "member" : {
+            "id" : 138764,
+            "username" : "aliipay",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/62568faa1af11fc8c67ecad6d7ba6709?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/62568faa1af11fc8c67ecad6d7ba6709?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/62568faa1af11fc8c67ecad6d7ba6709?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 61,
+            "name" : "mysql",
+            "title" : "MySQL",
+            "title_alternative" : "MySQL",
+            "url" : "http://www.v2ex.com/go/mysql",
+            "topics" : 488,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/7f39/f831/61_mini.png?m=1455764369",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/7f39/f831/61_normal.png?m=1455764369",
+            "avatar_large" : "//cdn.v2ex.co/navatar/7f39/f831/61_large.png?m=1455764369"
+        },
+        "created" : 1456042708,
+        "last_modified" : 1456042708,
+        "last_touched" : 1456083304
+    },
+    
+    {
+        "id" : 258090,
+        "title" : "20160222 午夜俱乐部",
+        "url" : "http://www.v2ex.com/t/258090",
+        "content" : "http://ww1.sinaimg.cn/large/005BRCAZjw1f0dc1x6m7xj31fl0qr48l.jpg",
+        "content_rendered" : "\u003Cimg src\u003D\u0022http://ww1.sinaimg.cn/large/005BRCAZjw1f0dc1x6m7xj31fl0qr48l.jpg\u0022 class\u003D\u0022imgly\u0022 style\u003D\u0022max\u002Dwidth: 660px\u003B\u0022 border\u003D\u00220\u0022 /\u003E ",
+        "replies" : 38,
+        "member" : {
+            "id" : 36997,
+            "username" : "icedx",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/1128/b910/36997_mini.png?m=1446218103",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/1128/b910/36997_normal.png?m=1446218103",
+            "avatar_large" : "//cdn.v2ex.co/avatar/1128/b910/36997_large.png?m=1446218103"
+        },
+        "node" : {
+            "id" : 286,
+            "name" : "afterdark",
+            "title" : "天黑以后",
+            "title_alternative" : "After Dark",
+            "url" : "http://www.v2ex.com/go/afterdark",
+            "topics" : 1779,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/16a5/cdae/286_mini.png?m=1433876741",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/16a5/cdae/286_normal.png?m=1433876741",
+            "avatar_large" : "//cdn.v2ex.co/navatar/16a5/cdae/286_large.png?m=1433876741"
+        },
+        "created" : 1456069801,
+        "last_modified" : 1456069801,
+        "last_touched" : 1456084941
+    },
+    
+    {
+        "id" : 257962,
+        "title" : "Rust 中文社区成立了",
+        "url" : "http://www.v2ex.com/t/257962",
+        "content" : "https://rust\u002Dchina.org\u000D\u000A\u000D\u000A新的一年已经过去一周多了，各位 Hackers/Geeks/V2ers/Coders 对新的一年有什么规划？准备如何在技术上投资？不用再多想了，果断投资 [Rust]( https://www.rust\u002Dlang.org)\u000D\u000A\u000D\u000A这是学术界与工业界完美结合的产物，拥有函数式编程的种种先进特性(类型推断、模式匹配等)，性能 blazingly fast 直逼 C/C++，没有 dangling pointer 有效防止 segfaults ，保证了线程安全，而这些都是不用借助 GC 实现的。程序写起来如动态语言一般行云流水，优秀的 package manager(cargo)，再也不用写复杂难懂的 Makefile/CMakeLists.txt 等和冗长的 XML 配置了\u000D\u000A\u000D\u000A[Rust 中文社区]( https://rust\u002Dchina.org)有\u000D\u000A\u000D\u000A* 即时聊天平台: https://chat.rust\u002Dchina.org 里面常年有大牛在上面挂着为你答疑解惑，甚至还引来歪果仁一起技术交流\u000D\u000A* 维基： https://wiki.rust\u002Dchina.org 里面记录了 Rust 学习中会遇到的一些问题的解决方案还有各种学习资源\u000D\u000A* 翻译： https://rust\u002Dchina.org/translation 社区的翻译项目\u000D\u000A* 博客： https://rust\u002Dchina.org 国内外 Rust 爱好者写的博客\u000D\u000A\u000D\u000A在 Rust 中文社区的努力下，中科大开源镜像站收录了 Rust 的安装文件 https://mirrors.ustc.edu.cn/rust\u002Dstatic/dist 和 https://crates.io 的镜像，再也不用为了编译一个项目而翻越 GFW ，构建项目下载依赖速度那是杠杠的，具体设置见 wiki 。\u000D\u000A\u000D\u000A另外社区正在集中力量写第一本中文书 [Rust Primer]( https://github.com/rustcc/RustPrimer)，要跟踪进度参与讨论可以加入我们的[聊天平台]( https://chat.rust\u002Dchina.org)里面的 #RustPrimer 频道\u000D\u000A\u000D\u000A当然我们的社区还处于成长过程中，有很多东西需要你的加入来共同完善，来吧，我们等着你的到来，为未来技术投资，为开源社区贡献自己的一份力量",
+        "content_rendered" : "\u003Cp\u003E\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://rust\u002Dchina.org\u0022\u003Ehttps://rust\u002Dchina.org\u003C/a\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E新的一年已经过去一周多了，各位 Hackers/Geeks/V2ers/Coders 对新的一年有什么规划？准备如何在技术上投资？不用再多想了，果断投资 \u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://www.rust\u002Dlang.org\u0022\u003ERust\u003C/a\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E这是学术界与工业界完美结合的产物，拥有函数式编程的种种先进特性(类型推断、模式匹配等)，性能 blazingly fast 直逼 C/C++，没有 dangling pointer 有效防止 segfaults ，保证了线程安全，而这些都是不用借助 GC 实现的。程序写起来如动态语言一般行云流水，优秀的 package manager(cargo)，再也不用写复杂难懂的 Makefile/CMakeLists.txt 等和冗长的 XML 配置了\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://rust\u002Dchina.org\u0022\u003ERust 中文社区\u003C/a\u003E有\u003C/p\u003E\u000A\u000A\u003Cul\u003E\u000A\u003Cli\u003E即时聊天平台: \u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://chat.rust\u002Dchina.org\u0022\u003Ehttps://chat.rust\u002Dchina.org\u003C/a\u003E 里面常年有大牛在上面挂着为你答疑解惑，甚至还引来歪果仁一起技术交流\u003C/li\u003E\u000A\u003Cli\u003E维基： \u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://wiki.rust\u002Dchina.org\u0022\u003Ehttps://wiki.rust\u002Dchina.org\u003C/a\u003E 里面记录了 Rust 学习中会遇到的一些问题的解决方案还有各种学习资源\u003C/li\u003E\u000A\u003Cli\u003E翻译： \u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://rust\u002Dchina.org/translation\u0022\u003Ehttps://rust\u002Dchina.org/translation\u003C/a\u003E 社区的翻译项目\u003C/li\u003E\u000A\u003Cli\u003E博客： \u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://rust\u002Dchina.org\u0022\u003Ehttps://rust\u002Dchina.org\u003C/a\u003E 国内外 Rust 爱好者写的博客\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u000A\u003Cp\u003E在 Rust 中文社区的努力下，中科大开源镜像站收录了 Rust 的安装文件 \u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://mirrors.ustc.edu.cn/rust\u002Dstatic/dist\u0022\u003Ehttps://mirrors.ustc.edu.cn/rust\u002Dstatic/dist\u003C/a\u003E 和 \u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://crates.io\u0022\u003Ehttps://crates.io\u003C/a\u003E 的镜像，再也不用为了编译一个项目而翻越 GFW ，构建项目下载依赖速度那是杠杠的，具体设置见 wiki 。\u003C/p\u003E\u000A\u000A\u003Cp\u003E另外社区正在集中力量写第一本中文书 \u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://github.com/rustcc/RustPrimer\u0022\u003ERust Primer\u003C/a\u003E，要跟踪进度参与讨论可以加入我们的\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://chat.rust\u002Dchina.org\u0022\u003E聊天平台\u003C/a\u003E里面的 #RustPrimer 频道\u003C/p\u003E\u000A\u000A\u003Cp\u003E当然我们的社区还处于成长过程中，有很多东西需要你的加入来共同完善，来吧，我们等着你的到来，为未来技术投资，为开源社区贡献自己的一份力量\u003C/p\u003E\u000A",
+        "replies" : 32,
+        "member" : {
+            "id" : 65665,
+            "username" : "tennix",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/e135/cde2/65665_mini.png?m=1456062006",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/e135/cde2/65665_normal.png?m=1456062006",
+            "avatar_large" : "//cdn.v2ex.co/avatar/e135/cde2/65665_large.png?m=1456062006"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 10938,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1455764196",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1455764196",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1455764196"
+        },
+        "created" : 1456019328,
+        "last_modified" : 1456019328,
+        "last_touched" : 1456072807
+    },
+    
+    {
+        "id" : 257971,
+        "title" : "有玩吉他🎸的吗？",
+        "url" : "http://www.v2ex.com/t/257971",
+        "content" : "去哪里买吉他比较好？\u000D\u000A自学 or 培训？",
+        "content_rendered" : "去哪里买吉他比较好？\u000D\u003Cbr /\u003E自学 or 培训？",
+        "replies" : 31,
+        "member" : {
+            "id" : 120274,
+            "username" : "ooTwToo",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/3cd6/3f45/120274_mini.png?m=1442589875",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/3cd6/3f45/120274_normal.png?m=1442589875",
+            "avatar_large" : "//cdn.v2ex.co/avatar/3cd6/3f45/120274_large.png?m=1442589875"
+        },
+        "node" : {
+            "id" : 545,
+            "name" : "guitar",
+            "title" : "吉他",
+            "title_alternative" : "Guitar",
+            "url" : "http://www.v2ex.com/go/guitar",
+            "topics" : 10,
+            "avatar_mini" : "/static/img/node_mini.png",
+            "avatar_normal" : "/static/img/node_normal.png",
+            "avatar_large" : "/static/img/node_large.png"
+        },
+        "created" : 1456022235,
+        "last_modified" : 1456043643,
+        "last_touched" : 1456071454
+    },
+    
+    {
+        "id" : 258003,
+        "title" : "显示器 p2715q 还是 p2415q mac",
+        "url" : "http://www.v2ex.com/t/258003",
+        "content" : "在配新机，准备 hackintosh ，长期使用惯了 retina 15 ，问下大家是 显示器是 dell p2715q 还是 p2415q 都是 4k 。",
+        "content_rendered" : "\u003Cp\u003E在配新机，准备 hackintosh ，长期使用惯了 retina 15 ，问下大家是 显示器是 dell p2715q 还是 p2415q 都是 4k 。\u003C/p\u003E\u000A",
+        "replies" : 31,
+        "member" : {
+            "id" : 45551,
+            "username" : "regeditms",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/bca0/870c/45551_mini.png?m=1450248282",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/bca0/870c/45551_normal.png?m=1450248282",
+            "avatar_large" : "//cdn.v2ex.co/avatar/bca0/870c/45551_large.png?m=1450248282"
+        },
+        "node" : {
+            "id" : 52,
+            "name" : "hardware",
+            "title" : "硬件",
+            "title_alternative" : "Hardware",
+            "url" : "http://www.v2ex.com/go/hardware",
+            "topics" : 880,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/9a11/5815/52_mini.png?m=1442293057",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/9a11/5815/52_normal.png?m=1442293057",
+            "avatar_large" : "//cdn.v2ex.co/navatar/9a11/5815/52_large.png?m=1442293057"
+        },
+        "created" : 1456038705,
+        "last_modified" : 1456041387,
+        "last_touched" : 1456085615
+    }
+    
+]

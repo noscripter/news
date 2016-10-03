@@ -1,0 +1,251 @@
+[
+    
+    {
+        "id" : 284771,
+        "title" : "[广州]投了几十次实习简历都直接被刷了，难道我还是太渣了",
+        "url" : "http://www.v2ex.com/t/284771",
+        "content" : "### 个人简介\u000D\u000A  1. 熟练面向 google/stackoverflow 编程： [ stackover top7% this year]( http://stackoverflow.com/users/5006372/zen)。 \u000D\u000A  2. ES6/TypeScript 用户，熟悉 MEAN 框架，了解常用 css 布局方式。 \u000D\u000A  3. 熟悉 JQuery ，有 angular2 和 vue 使用经验。 \u000D\u000A  4. **大四可以全年实习**。 \u000D\u000A  5. 会 C++和 Qt 。 \u000D\u000A  6. 了解基本网络通信协议。 \u000D\u000A  7. 会使用 git 。 \u000D\u000A  8. CET\u002D6 。 \u000D\u000A  9. 读过 SICP 原文，对函数式编程有所了解。 \u000D\u000A  10. 普通本科大三生。\u000D\u000A\u000D\u000A\u000D\u000A### 项目\u000D\u000A  \u002D [YAP]( https://github.com/Zzzen/YAP)\u000D\u000A    \u002D 这是一个 PC 端运行的播放器，支持几乎所有的格式\u000D\u000A    \u002D 基于 electron ，可以直接在网页内使用 nodejs 模块 \u000D\u000A    \u002D 使用 angular2 做数据绑定\u000D\u000A  \u002D 超声波电子白板画板软件\u000D\u000A    \u002D 使用多个超声波传感器接收超声波笔的信号，来判断笔的位置，并且将结果显示在画板软件上 \u000D\u000A    \u002D 使用 Qt 开发，实现基本图形的创建，以及笔的轨迹的滤波",
+        "content_rendered" : "\u003Ch3\u003E个人简介\u003C/h3\u003E\u000A\u003Col\u003E\u000A\u003Cli\u003E熟练面向 google/stackoverflow 编程： \u003Ca href\u003D\u0022http://stackoverflow.com/users/5006372/zen\u0022 rel\u003D\u0022nofollow\u0022\u003E stackover top7% this year\u003C/a\u003E。\u003C/li\u003E\u000A\u003Cli\u003EES6/TypeScript 用户，熟悉 MEAN 框架，了解常用 css 布局方式。\u003C/li\u003E\u000A\u003Cli\u003E熟悉 JQuery ，有 angular2 和 vue 使用经验。\u003C/li\u003E\u000A\u003Cli\u003E\u003Cstrong\u003E大四可以全年实习\u003C/strong\u003E。\u003C/li\u003E\u000A\u003Cli\u003E会 C++和 Qt 。\u003C/li\u003E\u000A\u003Cli\u003E了解基本网络通信协议。\u003C/li\u003E\u000A\u003Cli\u003E会使用 git 。\u003C/li\u003E\u000A\u003Cli\u003ECET\u002D6 。\u003C/li\u003E\u000A\u003Cli\u003E读过 SICP 原文，对函数式编程有所了解。\u003C/li\u003E\u000A\u003Cli\u003E普通本科大三生。\u003C/li\u003E\u000A\u003C/ol\u003E\u000A\u003Ch3\u003E项目\u003C/h3\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003E\u003Ca href\u003D\u0022https://github.com/Zzzen/YAP\u0022 rel\u003D\u0022nofollow\u0022\u003EYAP\u003C/a\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003E这是一个 PC 端运行的播放器，支持几乎所有的格式\u003C/li\u003E\u000A\u003Cli\u003E基于 electron ，可以直接在网页内使用 nodejs 模块\u003C/li\u003E\u000A\u003Cli\u003E使用 angular2 做数据绑定\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u003C/li\u003E\u000A\u003Cli\u003E超声波电子白板画板软件\u000A\u003Cul\u003E\u000A\u003Cli\u003E使用多个超声波传感器接收超声波笔的信号，来判断笔的位置，并且将结果显示在画板软件上\u003C/li\u003E\u000A\u003Cli\u003E使用 Qt 开发，实现基本图形的创建，以及笔的轨迹的滤波\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u003C/li\u003E\u000A\u003C/ul\u003E\u000A",
+        "replies" : 57,
+        "member" : {
+            "id" : 111332,
+            "username" : "ZenZen",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/8815e38dddd230eddec0afd6c3863400?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/8815e38dddd230eddec0afd6c3863400?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/8815e38dddd230eddec0afd6c3863400?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 507,
+            "name" : "cv",
+            "title" : "求职",
+            "title_alternative" : "CV",
+            "url" : "http://www.v2ex.com/go/cv",
+            "topics" : 2042,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/2d6c/c4b2/507_mini.png?m=1465195710",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/2d6c/c4b2/507_normal.png?m=1465195710",
+            "avatar_large" : "//cdn.v2ex.co/navatar/2d6c/c4b2/507_large.png?m=1465195710"
+        },
+        "created" : 1465543767,
+        "last_modified" : 1465543767,
+        "last_touched" : 1465584294
+    },
+    
+    {
+        "id" : 284730,
+        "title" : "这新的 macbook pro 13 看着毫无购买欲望啊",
+        "url" : "http://www.v2ex.com/t/284730",
+        "content" : "键盘功能键全部换成触摸条了，包括 esc 键，看来我之前回复转发的别人的泄露参数是正确的，触摸板更大了，不过我貌似很少用触摸板，果然也只有 type \u002Dc 开口，没有电源口了，除了不知道键盘两侧开孔到底是装饰还是有作用，其他的都被泄露的差不多了，",
+        "content_rendered" : "键盘功能键全部换成触摸条了，包括 esc 键，看来我之前回复转发的别人的泄露参数是正确的，触摸板更大了，不过我貌似很少用触摸板，果然也只有 type \u002Dc 开口，没有电源口了，除了不知道键盘两侧开孔到底是装饰还是有作用，其他的都被泄露的差不多了，",
+        "replies" : 53,
+        "member" : {
+            "id" : 73587,
+            "username" : "codeisjobs",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/e7ac/16f6/73587_mini.png?m=1449471900",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/e7ac/16f6/73587_normal.png?m=1449471900",
+            "avatar_large" : "//cdn.v2ex.co/avatar/e7ac/16f6/73587_large.png?m=1449471900"
+        },
+        "node" : {
+            "id" : 10,
+            "name" : "mbp",
+            "title" : "MacBook Pro",
+            "title_alternative" : "MacBook Pro",
+            "url" : "http://www.v2ex.com/go/mbp",
+            "topics" : 2182,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/d3d9/4468/10_mini.png?m=1457966785",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/d3d9/4468/10_normal.png?m=1457966785",
+            "avatar_large" : "//cdn.v2ex.co/navatar/d3d9/4468/10_large.png?m=1457966785"
+        },
+        "created" : 1465525655,
+        "last_modified" : 1465525655,
+        "last_touched" : 1465610756
+    },
+    
+    {
+        "id" : 284809,
+        "title" : "PNG 极限压缩工具 \u002D limitPNG",
+        "url" : "http://www.v2ex.com/t/284809",
+        "content" : "http://ww1.sinaimg.cn/large/c35419f1gw1f4qbtocnx4g20ch0cj1kx.gif\u000D\u000A\u000D\u000A前段时间由于有对 PNG 图片无损压缩的极端需求，研究了下目前的 PNG 压缩方案，找了很多工具，经过测试，找到个比较极限的压缩流程。最近有在接触 electron ,正好用其做了一个 GUI 的 PNG 的极限压缩工具，类似于 PNGGauntle ，但能比 PNGGauntle 压缩得更小。\u000D\u000A\u000D\u000A\u000D\u000A说是极限压缩工具，自然是对压缩大小有极限的追求， limitPNG 比对比测试过的同类 PNG 无损软件（ PNGGauntle 、 scriptPNG 、 Leanify 、 Caesium 等， pngout 这些就不说了，这些 GUI 压缩工具（ limitPNG 也是）都是会用到 pngout 的）能压缩得更小：\u000D\u000Ahttp://ww2.sinaimg.cn/large/c35419f1gw1f4qbxz0iq4j20n90az0uj.jpg\u000D\u000Ahttp://ww3.sinaimg.cn/large/c35419f1gw1f4qbym5unoj20la0aogo5.jpg\u000D\u000A（当然对比测试不只测这两张图片，测试过几百张， limitPNG 压缩得都最小）\u000D\u000A\u000D\u000A另外由于极限压缩耗时非常长，一张几百 KB 的图都可能会花费数分钟，可能不符合一般人常用的情景，所以 limitPNG 还提供了“快速”模式，能花极短的时间到达极限 90% 左右的效果。\u000D\u000A\u000D\u000A除了无损压缩， limitPNG 也提供了类似 tinypng 的有损压缩，压缩出来也比同类工具更小，并且提供多级质量供选择：\u000D\u000A\u000D\u000Ahttp://ww2.sinaimg.cn/large/c35419f1gw1f4qc49lpvcj20mc0a0did.jpg\u000D\u000A\u000D\u000A最后，这是个免费软件：\u000D\u000Ahttp://nullice.com/limitPNG",
+        "content_rendered" : "\u003Cimg src\u003D\u0022http://ww1.sinaimg.cn/large/c35419f1gw1f4qbtocnx4g20ch0cj1kx.gif\u0022 class\u003D\u0022embedded_image\u0022 border\u003D\u00220\u0022 /\u003E \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E前段时间由于有对 PNG 图片无损压缩的极端需求，研究了下目前的 PNG 压缩方案，找了很多工具，经过测试，找到个比较极限的压缩流程。最近有在接触 electron ,正好用其做了一个 GUI 的 PNG 的极限压缩工具，类似于 PNGGauntle ，但能比 PNGGauntle 压缩得更小。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E说是极限压缩工具，自然是对压缩大小有极限的追求， limitPNG 比对比测试过的同类 PNG 无损软件（ PNGGauntle 、 scriptPNG 、 Leanify 、 Caesium 等， pngout 这些就不说了，这些 GUI 压缩工具（ limitPNG 也是）都是会用到 pngout 的）能压缩得更小：\u000D\u003Cbr /\u003E\u003Cimg src\u003D\u0022http://ww2.sinaimg.cn/large/c35419f1gw1f4qbxz0iq4j20n90az0uj.jpg\u0022 class\u003D\u0022embedded_image\u0022 border\u003D\u00220\u0022 /\u003E \u000D\u003Cbr /\u003E\u003Cimg src\u003D\u0022http://ww3.sinaimg.cn/large/c35419f1gw1f4qbym5unoj20la0aogo5.jpg\u0022 class\u003D\u0022embedded_image\u0022 border\u003D\u00220\u0022 /\u003E \u000D\u003Cbr /\u003E（当然对比测试不只测这两张图片，测试过几百张， limitPNG 压缩得都最小）\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E另外由于极限压缩耗时非常长，一张几百 KB 的图都可能会花费数分钟，可能不符合一般人常用的情景，所以 limitPNG 还提供了“快速”模式，能花极短的时间到达极限 90% 左右的效果。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E除了无损压缩， limitPNG 也提供了类似 tinypng 的有损压缩，压缩出来也比同类工具更小，并且提供多级质量供选择：\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u003Cimg src\u003D\u0022http://ww2.sinaimg.cn/large/c35419f1gw1f4qc49lpvcj20mc0a0did.jpg\u0022 class\u003D\u0022embedded_image\u0022 border\u003D\u00220\u0022 /\u003E \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E最后，这是个免费软件：\u000D\u003Cbr /\u003E\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://nullice.com/limitPNG\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://nullice.com/limitPNG\u003C/a\u003E",
+        "replies" : 53,
+        "member" : {
+            "id" : 60821,
+            "username" : "BGLL",
+            "tagline" : "各种创作爱好者",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/9b82/a8c4/60821_mini.png?m=1465554087",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/9b82/a8c4/60821_normal.png?m=1465554087",
+            "avatar_large" : "//cdn.v2ex.co/avatar/9b82/a8c4/60821_large.png?m=1465554087"
+        },
+        "node" : {
+            "id" : 17,
+            "name" : "create",
+            "title" : "分享创造",
+            "title_alternative" : "Create",
+            "url" : "http://www.v2ex.com/go/create",
+            "topics" : 5666,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/70ef/df2e/17_mini.png?m=1465451943",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/70ef/df2e/17_normal.png?m=1465451943",
+            "avatar_large" : "//cdn.v2ex.co/navatar/70ef/df2e/17_large.png?m=1465451943"
+        },
+        "created" : 1465557260,
+        "last_modified" : 1465557260,
+        "last_touched" : 1465608340
+    },
+    
+    {
+        "id" : 284733,
+        "title" : "MAC Book 能不能长时间不关机？",
+        "url" : "http://www.v2ex.com/t/284733",
+        "content" : "RT\u000D\u000A我比较懒，一般都是直接合盖走人，第二次打开也速度快。结果前几天看到说这样会对电脑寿命有影响，具体也没说有啥影响。\u000D\u000A老司机，请问这样不关机对 mbp 寿命真的有很大的影响么？我还指望电脑能用个 3 、 4 年的样子，不想早早坏掉。\u000D\u000A谢谢。\u000D\u000A对了，忘记说了，我是 SSD 的那种 mbp ，乞丐版。",
+        "content_rendered" : "RT\u000D\u003Cbr /\u003E我比较懒，一般都是直接合盖走人，第二次打开也速度快。结果前几天看到说这样会对电脑寿命有影响，具体也没说有啥影响。\u000D\u003Cbr /\u003E老司机，请问这样不关机对 mbp 寿命真的有很大的影响么？我还指望电脑能用个 3 、 4 年的样子，不想早早坏掉。\u000D\u003Cbr /\u003E谢谢。\u000D\u003Cbr /\u003E对了，忘记说了，我是 SSD 的那种 mbp ，乞丐版。",
+        "replies" : 46,
+        "member" : {
+            "id" : 92240,
+            "username" : "jrhu05",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/6176/4e8d/92240_mini.png?m=1421460442",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/6176/4e8d/92240_normal.png?m=1421460442",
+            "avatar_large" : "//cdn.v2ex.co/avatar/6176/4e8d/92240_large.png?m=1421460442"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 70823,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1465195474",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1465195474",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1465195474"
+        },
+        "created" : 1465527393,
+        "last_modified" : 1465527399,
+        "last_touched" : 1465595662
+    },
+    
+    {
+        "id" : 284792,
+        "title" : "给服务器配什么显卡比较好？",
+        "url" : "http://www.v2ex.com/t/284792",
+        "content" : "电脑万一出问题，需要直接通过鼠标，键盘来操作电脑，还是需要块显卡，\u000D\u000A但是给服务器配什么显卡比较好呢？\u000D\u000A对显卡性能完全没要求，能显示就行，但是能耗要小点，稳定，不容易出问题。服务器显卡平时基本用不上，满足这些所以显卡价格越低越好\u000D\u000A求推荐几款满足这个要求的服务器显卡：）",
+        "content_rendered" : "电脑万一出问题，需要直接通过鼠标，键盘来操作电脑，还是需要块显卡，\u000D\u003Cbr /\u003E但是给服务器配什么显卡比较好呢？\u000D\u003Cbr /\u003E对显卡性能完全没要求，能显示就行，但是能耗要小点，稳定，不容易出问题。服务器显卡平时基本用不上，满足这些所以显卡价格越低越好\u000D\u003Cbr /\u003E求推荐几款满足这个要求的服务器显卡：）",
+        "replies" : 40,
+        "member" : {
+            "id" : 89117,
+            "username" : "arrowna",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/b20fa216059ac92a5deb74f3bffe36c2?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/b20fa216059ac92a5deb74f3bffe36c2?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/b20fa216059ac92a5deb74f3bffe36c2?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 79,
+            "name" : "server",
+            "title" : "服务器",
+            "title_alternative" : "Server",
+            "url" : "http://www.v2ex.com/go/server",
+            "topics" : 856,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/d1fe/173d/79_mini.png?m=1355936563",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/d1fe/173d/79_normal.png?m=1355936563",
+            "avatar_large" : "//cdn.v2ex.co/navatar/d1fe/173d/79_large.png?m=1355936563"
+        },
+        "created" : 1465550939,
+        "last_modified" : 1465551033,
+        "last_touched" : 1465580587
+    },
+    
+    {
+        "id" : 284830,
+        "title" : "阿里云香港虽然贵，但是如果每天只用一定时间的话，价格还是阔以接受的",
+        "url" : "http://www.v2ex.com/t/284830",
+        "content" : "阿里云香港节点 1G ， 1M 一个月还是有点小贵，但是如果选择按量付费，每天早上通过弹性伸缩创建服务器，晚上通过弹性伸缩关闭服务器，并且开机的时候通过 API 修改域名解析记录，一个月下来还是和国外的主机差不多哇。\u000D\u000A\u000D\u000A大家有没有尝试过？毕竟晚上睡着后用不着。或者可以买个搬瓦工在非紧急时段凑合着解决一下。",
+        "content_rendered" : "阿里云香港节点 1G ， 1M 一个月还是有点小贵，但是如果选择按量付费，每天早上通过弹性伸缩创建服务器，晚上通过弹性伸缩关闭服务器，并且开机的时候通过 API 修改域名解析记录，一个月下来还是和国外的主机差不多哇。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E大家有没有尝试过？毕竟晚上睡着后用不着。或者可以买个搬瓦工在非紧急时段凑合着解决一下。",
+        "replies" : 40,
+        "member" : {
+            "id" : 54221,
+            "username" : "odirus",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/08f22ef0d8509567276b7682ac90deb3?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/08f22ef0d8509567276b7682ac90deb3?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/08f22ef0d8509567276b7682ac90deb3?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 108,
+            "name" : "bb",
+            "title" : "宽带症候群",
+            "title_alternative" : "Broadband Symptom Complex",
+            "url" : "http://www.v2ex.com/go/bb",
+            "topics" : 1731,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/a3c6/5c29/108_mini.png?m=1465452502",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/a3c6/5c29/108_normal.png?m=1465452502",
+            "avatar_large" : "//cdn.v2ex.co/navatar/a3c6/5c29/108_large.png?m=1465452502"
+        },
+        "created" : 1465568929,
+        "last_modified" : 1465568929,
+        "last_touched" : 1465611493
+    },
+    
+    {
+        "id" : 284841,
+        "title" : "与野生程序员一起撸代码是一种什么体验？",
+        "url" : "http://www.v2ex.com/t/284841",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 38,
+        "member" : {
+            "id" : 143771,
+            "username" : "herogui",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/a2252986f3f4ec429466ea23bd8c01b8?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/a2252986f3f4ec429466ea23bd8c01b8?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/a2252986f3f4ec429466ea23bd8c01b8?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 12171,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1465452452",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1465452452",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1465452452"
+        },
+        "created" : 1465574002,
+        "last_modified" : 1465574002,
+        "last_touched" : 1465611426
+    },
+    
+    {
+        "id" : 284762,
+        "title" : "django 的视频教程，水平自夸一下应该是 django 中文学习教程界里面的王思聪了吧",
+        "url" : "http://www.v2ex.com/t/284762",
+        "content" : "最近花了一个星期的时间录制 django 的基础入门级的教程。\u000D\u000A一直有感于中文 django 的教程的缺乏，对于大牛们自己可以有很多办法学习。但对于真正的小白来说，一个好的入门教程的重要性就好像遇到一个好的启蒙老师一样。\u000D\u000A直接会导致你学习兴趣热度的持续性，和以后使用框架的偏好。\u000D\u000A当初我就是这么一步一步走过来的，看英文的官方文档。\u000D\u000A就在上个星期，我还在以前为了学习 django 的时候加的群里面看到没入门的小白提一些小白问题。\u000D\u000A回想当初我学习的时候，到处找人问一些现在一看就不是问题的问题。找一个有帮助的中文教程太辛苦了。\u000D\u000A\u000D\u000A所以决定录制一套 django 的学习教程，为什么我要用视频的形式了？因为在最开始的阶段，讲解和演示我个人感觉很重要。到了真的入门以后，那个时候，文字的教程可能更好一些。\u000D\u000A毕竟到了那个程度，很多问题用代码来交流最直接。\u000D\u000A\u000D\u000A一口气录制了 4 节课。高清 1080P 视频源文件我上传到了百度云\u000D\u000A\u000D\u000Ahttp://pan.baidu.com/s/1o7X4xQy\u000D\u000A\u000D\u000A你可以直接下载来看。\u000D\u000A我也上传到了几个视频网站。你也可以在线看\u000D\u000A\u000D\u000AB 站\u000D\u000A第一课\u000D\u000Ahttp://www.bilibili.com/video/av4883837/\u000D\u000A第二课\u000D\u000Ahttp://www.bilibili.com/video/av4899728/\u000D\u000A第三课\u000D\u000Ahttp://www.bilibili.com/video/av4911168/\u000D\u000A第 4 课\u000D\u000Ahttp://www.bilibili.com/video/av4918202/\u000D\u000A\u000D\u000AA 站\u000D\u000A\u000D\u000A第一课\u000D\u000Ahttp://www.acfun.tv/v/ac2797234\u000D\u000A第二课\u000D\u000Ahttp://www.acfun.tv/v/ac2800571\u000D\u000A第三课\u000D\u000Ahttp://www.acfun.tv/v/ac2804361\u000D\u000A第四课\u000D\u000Ahttp://www.acfun.tv/v/ac2804417\u000D\u000A\u000D\u000A\u000D\u000A优酷我也上传了\u000D\u000A第一课\u000D\u000Ahttp://v.youku.com/v_show/id_XMTYwMjUzODk4OA\u003D\u003D.html\u000D\u000A第二课\u000D\u000Ahttp://v.youku.com/v_show/id_XMTYwMjU1MTk1Ng\u003D\u003D.html\u000D\u000A第三课\u000D\u000Ahttp://v.youku.com/v_show/id_XMTYwMzAwNDM5Ng\u003D\u003D.html\u000D\u000A第四课\u000D\u000Ahttp://v.youku.com/v_show/id_XMTYwMzA0ODI0NA\u003D\u003D.html\u000D\u000A\u000D\u000A课程还没有完全把 django 讲解完。让 V2EX 这里的人看看，有什么建议和看法。",
+        "content_rendered" : "\u003Cp\u003E最近花了一个星期的时间录制 django 的基础入门级的教程。\u000A一直有感于中文 django 的教程的缺乏，对于大牛们自己可以有很多办法学习。但对于真正的小白来说，一个好的入门教程的重要性就好像遇到一个好的启蒙老师一样。\u000A直接会导致你学习兴趣热度的持续性，和以后使用框架的偏好。\u000A当初我就是这么一步一步走过来的，看英文的官方文档。\u000A就在上个星期，我还在以前为了学习 django 的时候加的群里面看到没入门的小白提一些小白问题。\u000A回想当初我学习的时候，到处找人问一些现在一看就不是问题的问题。找一个有帮助的中文教程太辛苦了。\u003C/p\u003E\u000A\u003Cp\u003E所以决定录制一套 django 的学习教程，为什么我要用视频的形式了？因为在最开始的阶段，讲解和演示我个人感觉很重要。到了真的入门以后，那个时候，文字的教程可能更好一些。\u000A毕竟到了那个程度，很多问题用代码来交流最直接。\u003C/p\u003E\u000A\u003Cp\u003E一口气录制了 4 节课。高清 1080P 视频源文件我上传到了百度云\u003C/p\u003E\u000A\u003Cp\u003E\u003Ca href\u003D\u0022http://pan.baidu.com/s/1o7X4xQy\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://pan.baidu.com/s/1o7X4xQy\u003C/a\u003E\u003C/p\u003E\u000A\u003Cp\u003E你可以直接下载来看。\u000A我也上传到了几个视频网站。你也可以在线看\u003C/p\u003E\u000A\u003Cp\u003EB 站\u000A第一课\u000A\u003Ca href\u003D\u0022http://www.bilibili.com/video/av4883837/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.bilibili.com/video/av4883837/\u003C/a\u003E\u000A第二课\u000A\u003Ca href\u003D\u0022http://www.bilibili.com/video/av4899728/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.bilibili.com/video/av4899728/\u003C/a\u003E\u000A第三课\u000A\u003Ca href\u003D\u0022http://www.bilibili.com/video/av4911168/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.bilibili.com/video/av4911168/\u003C/a\u003E\u000A第 4 课\u000A\u003Ca href\u003D\u0022http://www.bilibili.com/video/av4918202/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.bilibili.com/video/av4918202/\u003C/a\u003E\u003C/p\u003E\u000A\u003Cp\u003EA 站\u003C/p\u003E\u000A\u003Cp\u003E第一课\u000A\u003Ca href\u003D\u0022http://www.acfun.tv/v/ac2797234\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.acfun.tv/v/ac2797234\u003C/a\u003E\u000A第二课\u000A\u003Ca href\u003D\u0022http://www.acfun.tv/v/ac2800571\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.acfun.tv/v/ac2800571\u003C/a\u003E\u000A第三课\u000A\u003Ca href\u003D\u0022http://www.acfun.tv/v/ac2804361\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.acfun.tv/v/ac2804361\u003C/a\u003E\u000A第四课\u000A\u003Ca href\u003D\u0022http://www.acfun.tv/v/ac2804417\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.acfun.tv/v/ac2804417\u003C/a\u003E\u003C/p\u003E\u000A\u003Cp\u003E优酷我也上传了\u000A第一课\u000A\u003Ca href\u003D\u0022http://v.youku.com/v_show/id_XMTYwMjUzODk4OA\u003D\u003D.html\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://v.youku.com/v_show/id_XMTYwMjUzODk4OA\u003D\u003D.html\u003C/a\u003E\u000A第二课\u000A\u003Ca href\u003D\u0022http://v.youku.com/v_show/id_XMTYwMjU1MTk1Ng\u003D\u003D.html\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://v.youku.com/v_show/id_XMTYwMjU1MTk1Ng\u003D\u003D.html\u003C/a\u003E\u000A第三课\u000A\u003Ca href\u003D\u0022http://v.youku.com/v_show/id_XMTYwMzAwNDM5Ng\u003D\u003D.html\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://v.youku.com/v_show/id_XMTYwMzAwNDM5Ng\u003D\u003D.html\u003C/a\u003E\u000A第四课\u000A\u003Ca href\u003D\u0022http://v.youku.com/v_show/id_XMTYwMzA0ODI0NA\u003D\u003D.html\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://v.youku.com/v_show/id_XMTYwMzA0ODI0NA\u003D\u003D.html\u003C/a\u003E\u003C/p\u003E\u000A\u003Cp\u003E课程还没有完全把 django 讲解完。让 V2EX 这里的人看看，有什么建议和看法。\u003C/p\u003E\u000A",
+        "replies" : 36,
+        "member" : {
+            "id" : 24956,
+            "username" : "zzlettle",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/974c/7c43/24956_mini.png?m=1344306042",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/974c/7c43/24956_normal.png?m=1344306042",
+            "avatar_large" : "//cdn.v2ex.co/avatar/974c/7c43/24956_large.png?m=1344306042"
+        },
+        "node" : {
+            "id" : 90,
+            "name" : "python",
+            "title" : "Python",
+            "title_alternative" : "Python",
+            "url" : "http://www.v2ex.com/go/python",
+            "topics" : 5028,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/8613/985e/90_mini.png?m=1465048708",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/8613/985e/90_normal.png?m=1465048708",
+            "avatar_large" : "//cdn.v2ex.co/navatar/8613/985e/90_large.png?m=1465048708"
+        },
+        "created" : 1465541182,
+        "last_modified" : 1465541182,
+        "last_touched" : 1465593696
+    }
+    
+]

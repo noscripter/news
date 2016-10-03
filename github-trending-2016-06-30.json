@@ -1,0 +1,72 @@
+[
+    {
+        "author": "juliangarnier",
+        "category": "JavaScript",
+        "stars": "1,129",
+        "title": "anime - Javascript Animation Engine",
+        "url": "https://github.com/juliangarnier/anime"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "696",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "zonination",
+        "category": "R",
+        "stars": "681",
+        "title": "investing - Investing Returns on the Market as a Whole",
+        "url": "https://github.com/zonination/investing"
+    },
+    {
+        "author": "leonar15",
+        "category": "",
+        "stars": "532",
+        "title": "startup-checklist - A checklist for incorporation so you can get back to building your product, fundraising, etc.",
+        "url": "https://github.com/leonar15/startup-checklist"
+    },
+    {
+        "author": "guarinogabriel",
+        "category": "Shell",
+        "stars": "509",
+        "title": "mac-cli - \uf8ff OS X command line tools for developers \u2013 The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.",
+        "url": "https://github.com/guarinogabriel/mac-cli"
+    },
+    {
+        "author": "open-source-society",
+        "category": "",
+        "stars": "391",
+        "title": "data-science - \ud83d\udcca Path to a free self-taught education in Data Science!",
+        "url": "https://github.com/open-source-society/data-science"
+    },
+    {
+        "author": "d3",
+        "category": "JavaScript",
+        "stars": "272",
+        "title": "d3 - Bring data to life with SVG, Canvas and HTML. \ud83d\udcca\ud83d\udcc8\ud83c\udf89",
+        "url": "https://github.com/d3/d3"
+    },
+    {
+        "author": "Nike-Inc",
+        "category": "Swift",
+        "stars": "251",
+        "title": "Willow - Willow is a powerful, yet lightweight logging library written in Swift.",
+        "url": "https://github.com/Nike-Inc/Willow"
+    },
+    {
+        "author": "programthink",
+        "category": "Python",
+        "stars": "187",
+        "title": "zhao - \u3010\u7f16\u7a0b\u968f\u60f3\u3011\u6574\u7406\u7684\u300a\u592a\u5b50\u515a\u5173\u7cfb\u7f51\u7edc\u300b\uff0c\u4e13\u95e8\u63ed\u9732\u8d75\u56fd\u7684\u6743\u8d35",
+        "url": "https://github.com/programthink/zhao"
+    },
+    {
+        "author": "chmln",
+        "category": "JavaScript",
+        "stars": "208",
+        "title": "flatpickr - lightweight, powerful datetimepicker. zero dependencies",
+        "url": "https://github.com/chmln/flatpickr"
+    }
+]

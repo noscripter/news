@@ -1,0 +1,72 @@
+[
+    {
+        "author": "facebook",
+        "category": "JavaScript",
+        "stars": "517",
+        "title": "react - A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+        "url": "https://github.com/facebook/react"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "424",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "Leaflet",
+        "category": "JavaScript",
+        "stars": "393",
+        "title": "Leaflet - \ud83c\udf43 JavaScript library for mobile-friendly interactive maps",
+        "url": "https://github.com/Leaflet/Leaflet"
+    },
+    {
+        "author": "Tencent",
+        "category": "Java",
+        "stars": "341",
+        "title": "tinker - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",
+        "url": "https://github.com/Tencent/tinker"
+    },
+    {
+        "author": "yeun",
+        "category": "CSS",
+        "stars": "264",
+        "title": "open-color - Color scheme for UI design.",
+        "url": "https://github.com/yeun/open-color"
+    },
+    {
+        "author": "gravitational",
+        "category": "Go",
+        "stars": "264",
+        "title": "teleport - Modern SSH server for clusters and teams.",
+        "url": "https://github.com/gravitational/teleport"
+    },
+    {
+        "author": "ericoporto",
+        "category": "Python",
+        "stars": "260",
+        "title": "fgmk - Retro RPG Game Maker",
+        "url": "https://github.com/ericoporto/fgmk"
+    },
+    {
+        "author": "justjavac",
+        "category": "",
+        "stars": "232",
+        "title": "awesome-wechat-weapp - \u5fae\u4fe1\u5c0f\u7a0b\u5e8f\u5f00\u53d1\u8d44\u6e90\u6c47\u603b wechat weapp",
+        "url": "https://github.com/justjavac/awesome-wechat-weapp"
+    },
+    {
+        "author": "Aufree",
+        "category": "JavaScript",
+        "stars": "221",
+        "title": "awesome-wechat-weapp - \u6b64\u9879\u76ee\u5df2\u4e0d\u518d\u7ef4\u62a4\uff0c\u82e5\u6709\u9700\u8981\uff0c\u8bf7\u524d\u5f80\u8be5\u5144\u5f1f\u9879\u76ee\u8fdb\u884c\u67e5\u770b",
+        "url": "https://github.com/Aufree/awesome-wechat-weapp"
+    },
+    {
+        "author": "kootenpv",
+        "category": "Python",
+        "stars": "223",
+        "title": "whereami - Uses WiFi signals \ud83d\udcf6 and machine learning to predict where you are",
+        "url": "https://github.com/kootenpv/whereami"
+    }
+]

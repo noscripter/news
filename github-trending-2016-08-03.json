@@ -1,0 +1,72 @@
+[
+    {
+        "author": "attic-labs",
+        "category": "Go",
+        "stars": "703",
+        "title": "noms - The versioned, forkable, syncable database",
+        "url": "https://github.com/attic-labs/noms"
+    },
+    {
+        "author": "github",
+        "category": "Go",
+        "stars": "575",
+        "title": "gh-ost - GitHub's Online Schema Change for MySQL",
+        "url": "https://github.com/github/gh-ost"
+    },
+    {
+        "author": "Curzibn",
+        "category": "Java",
+        "stars": "475",
+        "title": "Luban - Luban(\u9c81\u73ed)\u2014\u2014\u53ef\u80fd\u662f\u6700\u63a5\u8fd1\u5fae\u4fe1\u670b\u53cb\u5708\u7684\u56fe\u7247\u538b\u7f29\u7b97\u6cd5",
+        "url": "https://github.com/Curzibn/Luban"
+    },
+    {
+        "author": "mxstbr",
+        "category": "JavaScript",
+        "stars": "371",
+        "title": "sharingbuttons.io - Quickly generate social sharing buttons with a tiny performance footprint",
+        "url": "https://github.com/mxstbr/sharingbuttons.io"
+    },
+    {
+        "author": "anishathalye",
+        "category": "Objective-C",
+        "stars": "349",
+        "title": "lumen - Magic auto brightness based on screen contents \ud83d\udca1",
+        "url": "https://github.com/anishathalye/lumen"
+    },
+    {
+        "author": "FallibleInc",
+        "category": "",
+        "stars": "332",
+        "title": "security-guide-for-developers - Security Guide for Developers",
+        "url": "https://github.com/FallibleInc/security-guide-for-developers"
+    },
+    {
+        "author": "vhf",
+        "category": "",
+        "stars": "252",
+        "title": "free-programming-books - \ud83d\udcda Freely available programming books",
+        "url": "https://github.com/vhf/free-programming-books"
+    },
+    {
+        "author": "shagabutdinov",
+        "category": "HTML",
+        "stars": "281",
+        "title": "sublime-enhanced - Set of plugins for beloved sublime text editor",
+        "url": "https://github.com/shagabutdinov/sublime-enhanced"
+    },
+    {
+        "author": "AHAAAAAAA",
+        "category": "Python",
+        "stars": "197",
+        "title": "PokemonGo-Map - \ud83c\udf0f Live visualization of all the pokemon in your area... and more!",
+        "url": "https://github.com/AHAAAAAAA/PokemonGo-Map"
+    },
+    {
+        "author": "facebookincubator",
+        "category": "JavaScript",
+        "stars": "259",
+        "title": "create-react-app - Create React apps with no build configuration.",
+        "url": "https://github.com/facebookincubator/create-react-app"
+    }
+]

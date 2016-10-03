@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "569",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "git-tips",
+        "category": "JavaScript",
+        "stars": "228",
+        "title": "tips - Most commonly used git tips and tricks.",
+        "url": "https://github.com/git-tips/tips"
+    },
+    {
+        "author": "Zomato",
+        "category": "Java",
+        "stars": "218",
+        "title": "AndroidPhotoFilters - AndroidPhotoFilters aims to provide fast, powerful and flexible image processing instrument for creating awesome effects on any image media.",
+        "url": "https://github.com/Zomato/AndroidPhotoFilters"
+    },
+    {
+        "author": "Azoft",
+        "category": "Java",
+        "stars": "192",
+        "title": "CarouselLayoutManager - Android Carousel LayoutManager for RecyclerView",
+        "url": "https://github.com/Azoft/CarouselLayoutManager"
+    },
+    {
+        "author": "Haroenv",
+        "category": "JavaScript",
+        "stars": "192",
+        "title": "holmes - Fast and easy searching inside a page",
+        "url": "https://github.com/Haroenv/holmes"
+    },
+    {
+        "author": "facebookresearch",
+        "category": "C",
+        "stars": "180",
+        "title": "darkforestGo - DarkForest, the Facebook Go engine.",
+        "url": "https://github.com/facebookresearch/darkforestGo"
+    },
+    {
+        "author": "sahat",
+        "category": "CSS",
+        "stars": "140",
+        "title": "megaboilerplate - \ud83d\ude80 Handcrafted starter projects, optimized for simplicity and ease of use.",
+        "url": "https://github.com/sahat/megaboilerplate"
+    },
+    {
+        "author": "coursera-dl",
+        "category": "HTML",
+        "stars": "134",
+        "title": "coursera-dl - Script for downloading Coursera.org videos and naming them.",
+        "url": "https://github.com/coursera-dl/coursera-dl"
+    },
+    {
+        "author": "JpressProjects",
+        "category": "JavaScript",
+        "stars": "117",
+        "title": "jpress - ",
+        "url": "https://github.com/JpressProjects/jpress"
+    },
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "134",
+        "title": "HEAD - A list of everything that could go in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    }
+]

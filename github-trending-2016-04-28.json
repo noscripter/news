@@ -1,0 +1,72 @@
+[
+    {
+        "author": "google",
+        "category": "Rust",
+        "stars": "1,551",
+        "title": "xi-editor - A modern editor with a backend written in Rust.",
+        "url": "https://github.com/google/xi-editor"
+    },
+    {
+        "author": "cisco",
+        "category": "Scheme",
+        "stars": "777",
+        "title": "ChezScheme - Chez Scheme",
+        "url": "https://github.com/cisco/ChezScheme"
+    },
+    {
+        "author": "calebmer",
+        "category": "JavaScript",
+        "stars": "618",
+        "title": "postgraphql - A GraphQL schema created by reflection over a PostgreSQL schema.",
+        "url": "https://github.com/calebmer/postgraphql"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "584",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "472",
+        "title": "HEAD - A list of everything that goes in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    },
+    {
+        "author": "chartjs",
+        "category": "JavaScript",
+        "stars": "395",
+        "title": "Chart.js - Simple HTML5 Charts using the <canvas> tag",
+        "url": "https://github.com/chartjs/Chart.js"
+    },
+    {
+        "author": "reverse-shell",
+        "category": "Python",
+        "stars": "358",
+        "title": "routersploit - The Router Exploitation Framework",
+        "url": "https://github.com/reverse-shell/routersploit"
+    },
+    {
+        "author": "xamarin",
+        "category": "C#",
+        "stars": "223",
+        "title": "Xamarin.Forms - Xamarin.Forms official home",
+        "url": "https://github.com/xamarin/Xamarin.Forms"
+    },
+    {
+        "author": "nareix",
+        "category": "JavaScript",
+        "stars": "205",
+        "title": "mama-hd - \u5988\u5988\u518d\u4e5f\u4e0d\u7528\u62c5\u5fc3\u6211\u7684 MacBook \u53d1\u70ed\u4e86\u8ba1\u5212\u4e4b 1080P",
+        "url": "https://github.com/nareix/mama-hd"
+    },
+    {
+        "author": "shekhargulati",
+        "category": "HTML",
+        "stars": "198",
+        "title": "52-technologies-in-2016 - Let's learn a new technology every week. A new technology blog every Sunday in 2016.",
+        "url": "https://github.com/shekhargulati/52-technologies-in-2016"
+    }
+]

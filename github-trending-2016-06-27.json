@@ -1,0 +1,72 @@
+[
+    {
+        "author": "guarinogabriel",
+        "category": "Shell",
+        "stars": "824",
+        "title": "mac-cli - The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.",
+        "url": "https://github.com/guarinogabriel/mac-cli"
+    },
+    {
+        "author": "getify",
+        "category": "JavaScript",
+        "stars": "781",
+        "title": "You-Dont-Know-JS - A book series on JavaScript. @YDKJS on twitter.",
+        "url": "https://github.com/getify/You-Dont-Know-JS"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "510",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "icodesign",
+        "category": "Swift",
+        "stars": "286",
+        "title": "Potatso-iOS - Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework in iOS 9.",
+        "url": "https://github.com/icodesign/Potatso-iOS"
+    },
+    {
+        "author": "chmln",
+        "category": "JavaScript",
+        "stars": "191",
+        "title": "flatpickr - lightweight, powerful datetimepicker. zero dependencies",
+        "url": "https://github.com/chmln/flatpickr"
+    },
+    {
+        "author": "herrbischoff",
+        "category": "",
+        "stars": "163",
+        "title": "awesome-osx-command-line - Use your OS X terminal shell to do awesome things.",
+        "url": "https://github.com/herrbischoff/awesome-osx-command-line"
+    },
+    {
+        "author": "blechschmidt",
+        "category": "C",
+        "stars": "110",
+        "title": "massdns - A high-performance DNS stub resolver in C",
+        "url": "https://github.com/blechschmidt/massdns"
+    },
+    {
+        "author": "MrKepzie",
+        "category": "C++",
+        "stars": "97",
+        "title": "Natron - Open-source compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.",
+        "url": "https://github.com/MrKepzie/Natron"
+    },
+    {
+        "author": "flouthoc",
+        "category": "Assembly",
+        "stars": "93",
+        "title": "calc.asm - Minimal arithmetic calculator in x86 assembly",
+        "url": "https://github.com/flouthoc/calc.asm"
+    },
+    {
+        "author": "algolia",
+        "category": "JavaScript",
+        "stars": "94",
+        "title": "places - \ud83c\udf10 Turn any <input> into an address autocomplete",
+        "url": "https://github.com/algolia/places"
+    }
+]

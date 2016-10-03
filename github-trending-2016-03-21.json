@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "559",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "dutchcoders",
+        "category": "CSS",
+        "stars": "507",
+        "title": "transfer.sh - Easy and fast file sharing from the command-line.",
+        "url": "https://github.com/dutchcoders/transfer.sh"
+    },
+    {
+        "author": "redox-os",
+        "category": "Rust",
+        "stars": "344",
+        "title": "redox - Redox: A Rust Operating System",
+        "url": "https://github.com/redox-os/redox"
+    },
+    {
+        "author": "googlei18n",
+        "category": "C++",
+        "stars": "271",
+        "title": "libphonenumber - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.",
+        "url": "https://github.com/googlei18n/libphonenumber"
+    },
+    {
+        "author": "searchkit",
+        "category": "TypeScript",
+        "stars": "172",
+        "title": "searchkit - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.",
+        "url": "https://github.com/searchkit/searchkit"
+    },
+    {
+        "author": "php-pm",
+        "category": "PHP",
+        "stars": "132",
+        "title": "php-pm - PPM is a process manager, supercharger and load balancer for PHP applications.",
+        "url": "https://github.com/php-pm/php-pm"
+    },
+    {
+        "author": "AutumnsWind",
+        "category": "PHP",
+        "stars": "122",
+        "title": "Front-end-tutorial - \u6700\u5168\u7684\u8d44\u6e90\u6559\u7a0b-\u524d\u7aef\u6d89\u53ca\u7684\u6240\u6709\u77e5\u8bc6\u4f53\u7cfb",
+        "url": "https://github.com/AutumnsWind/Front-end-tutorial"
+    },
+    {
+        "author": "1000ch",
+        "category": "HTML",
+        "stars": "125",
+        "title": "grd - A CSS grid framework using Flexbox. Only 512 bytes (Gzipped).",
+        "url": "https://github.com/1000ch/grd"
+    },
+    {
+        "author": "roughike",
+        "category": "Java",
+        "stars": "114",
+        "title": "BottomBar - A custom view component that mimics the new Material Design Bottom Navigation pattern.",
+        "url": "https://github.com/roughike/BottomBar"
+    },
+    {
+        "author": "redspread",
+        "category": "Go",
+        "stars": "110",
+        "title": "spread - Docker to Kubernetes in one command",
+        "url": "https://github.com/redspread/spread"
+    }
+]

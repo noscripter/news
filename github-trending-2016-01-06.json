@@ -1,0 +1,72 @@
+[
+    {
+        "author": "matryer",
+        "category": "Objective-C",
+        "stars": "2,175",
+        "title": "bitbar - Put the output from any script in your Mac OS X Menu Bar",
+        "url": "https://github.com/matryer/bitbar"
+    },
+    {
+        "author": "0x5e",
+        "category": "Python",
+        "stars": "992",
+        "title": "wechat-deleted-friends - \u67e5\u770b\u88ab\u5220\u7684\u5fae\u4fe1\u597d\u53cb",
+        "url": "https://github.com/0x5e/wechat-deleted-friends"
+    },
+    {
+        "author": "VerbalExpressions",
+        "category": "JavaScript",
+        "stars": "638",
+        "title": "JSVerbalExpressions - JavaScript Regular expressions made easy",
+        "url": "https://github.com/VerbalExpressions/JSVerbalExpressions"
+    },
+    {
+        "author": "petehunt",
+        "category": "",
+        "stars": "507",
+        "title": "react-howto - Your guide to the (sometimes overwhelming!) React ecosystem.",
+        "url": "https://github.com/petehunt/react-howto"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "442",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "amontalenti",
+        "category": "",
+        "stars": "408",
+        "title": "elements-of-python-style - Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.",
+        "url": "https://github.com/amontalenti/elements-of-python-style"
+    },
+    {
+        "author": "jlevy",
+        "category": "",
+        "stars": "376",
+        "title": "the-art-of-command-line - Master the command line, in one page",
+        "url": "https://github.com/jlevy/the-art-of-command-line"
+    },
+    {
+        "author": "coryhouse",
+        "category": "JavaScript",
+        "stars": "357",
+        "title": "react-slingshot - React + Redux starter kit with Babel, hot reloading, testing, linting and a working example app, all built in",
+        "url": "https://github.com/coryhouse/react-slingshot"
+    },
+    {
+        "author": "rach",
+        "category": "Go",
+        "stars": "321",
+        "title": "pome - A Postgres Metrics Dashboard which can be deployed as a binary",
+        "url": "https://github.com/rach/pome"
+    },
+    {
+        "author": "loverajoel",
+        "category": "JavaScript",
+        "stars": "264",
+        "title": "jstips - This is about one JS tip every day!",
+        "url": "https://github.com/loverajoel/jstips"
+    }
+]

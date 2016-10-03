@@ -1,0 +1,72 @@
+[
+    {
+        "author": "chrislgarry",
+        "category": "Assembly",
+        "stars": "1,098",
+        "title": "Apollo-11 - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+        "url": "https://github.com/chrislgarry/Apollo-11"
+    },
+    {
+        "author": "nosir",
+        "category": "JavaScript",
+        "stars": "695",
+        "title": "cleave.js - Format input text content when you are typing",
+        "url": "https://github.com/nosir/cleave.js"
+    },
+    {
+        "author": "dkhamsing",
+        "category": "Swift",
+        "stars": "530",
+        "title": "open-source-ios-apps - \ud83d\udcf1 Collaborative List of Open-Source iOS Apps",
+        "url": "https://github.com/dkhamsing/open-source-ios-apps"
+    },
+    {
+        "author": "dropbox",
+        "category": "C++",
+        "stars": "461",
+        "title": "lepton - Lepton is a tool and file format for losslessly compressing JPEGs by an average of 22%.",
+        "url": "https://github.com/dropbox/lepton"
+    },
+    {
+        "author": "yhatt",
+        "category": "CoffeeScript",
+        "stars": "426",
+        "title": "marp - Markdown presentation writer, powered by Electron.",
+        "url": "https://github.com/yhatt/marp"
+    },
+    {
+        "author": "kahopoon",
+        "category": "Swift",
+        "stars": "358",
+        "title": "Pokemon-Go-Controller - play pokemon go safely or at unavailable area",
+        "url": "https://github.com/kahopoon/Pokemon-Go-Controller"
+    },
+    {
+        "author": "tensorflow",
+        "category": "Python",
+        "stars": "370",
+        "title": "magenta - Magenta: Music and Art Generation with Machine Intelligence",
+        "url": "https://github.com/tensorflow/magenta"
+    },
+    {
+        "author": "ianstormtaylor",
+        "category": "JavaScript",
+        "stars": "368",
+        "title": "slate - A completely customizable framework for building rich text editors in the browser.",
+        "url": "https://github.com/ianstormtaylor/slate"
+    },
+    {
+        "author": "Laverna",
+        "category": "JavaScript",
+        "stars": "321",
+        "title": "laverna - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.",
+        "url": "https://github.com/Laverna/laverna"
+    },
+    {
+        "author": "gloomyson",
+        "category": "JavaScript",
+        "stars": "312",
+        "title": "SC_Js - Classic RTS game using html5 canvas and javascript, only js codes, all copyrighted materials removed",
+        "url": "https://github.com/gloomyson/SC_Js"
+    }
+]

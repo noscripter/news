@@ -1,0 +1,72 @@
+[
+    {
+        "author": "StevenBlack",
+        "category": "Python",
+        "stars": "1,279",
+        "title": "hosts - Extending and consolidating hosts files from a variety of sources like adaway.org, mvps.org, malwaredomains.com, someonewhocares.org, yoyo.org, and potentially others.",
+        "url": "https://github.com/StevenBlack/hosts"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "567",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "danielquinn",
+        "category": "Python",
+        "stars": "390",
+        "title": "paperless - Scan, index, and archive all of your paper documents",
+        "url": "https://github.com/danielquinn/paperless"
+    },
+    {
+        "author": "jbranchaud",
+        "category": "",
+        "stars": "365",
+        "title": "til - Today I Learned",
+        "url": "https://github.com/jbranchaud/til"
+    },
+    {
+        "author": "jakiestfu",
+        "category": "JavaScript",
+        "stars": "282",
+        "title": "himawari.js - Download real-time images of Earth from the Himawari-8 satellite",
+        "url": "https://github.com/jakiestfu/himawari.js"
+    },
+    {
+        "author": "fastlane",
+        "category": "Ruby",
+        "stars": "222",
+        "title": "screengrab - Automated localized screenshots of your Android app on every device",
+        "url": "https://github.com/fastlane/screengrab"
+    },
+    {
+        "author": "stevemao",
+        "category": "Shell",
+        "stars": "226",
+        "title": "diff-so-fancy - Unfancy git-diff",
+        "url": "https://github.com/stevemao/diff-so-fancy"
+    },
+    {
+        "author": "p-e-w",
+        "category": "Python",
+        "stars": "220",
+        "title": "maybe - See what a program does before deciding whether you really want it to happen.",
+        "url": "https://github.com/p-e-w/maybe"
+    },
+    {
+        "author": "mjmlio",
+        "category": "JavaScript",
+        "stars": "212",
+        "title": "mjml - MJML: the only framework that makes responsive-email easy",
+        "url": "https://github.com/mjmlio/mjml"
+    },
+    {
+        "author": "ParsePlatform",
+        "category": "JavaScript",
+        "stars": "173",
+        "title": "parse-server - Parse-compatible API server module for Node/Express",
+        "url": "https://github.com/ParsePlatform/parse-server"
+    }
+]

@@ -1,0 +1,313 @@
+[
+    
+    {
+        "id" : 297655,
+        "title" : "京东校招去死",
+        "url" : "http://www.v2ex.com/t/297655",
+        "content" : "京东商城的账号密码登陆不了。你特么是要我专门注册一个应聘账号吗？！\u000D\u000A\u000D\u000A外， V2EX 选择节点这东西反应也太慢了吧……",
+        "content_rendered" : "\u003Cp\u003E京东商城的账号密码登陆不了。你特么是要我专门注册一个应聘账号吗？！\u003C/p\u003E\u000A\u003Cp\u003E外， V2EX 选择节点这东西反应也太慢了吧……\u003C/p\u003E\u000A",
+        "replies" : 110,
+        "member" : {
+            "id" : 159303,
+            "username" : "dvorak4tzx",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/21a3/c882/159303_mini.png?m=1461058349",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/21a3/c882/159303_normal.png?m=1461058349",
+            "avatar_large" : "//cdn.v2ex.co/avatar/21a3/c882/159303_large.png?m=1461058349"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 12805,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1470378214",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1470378214",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1470378214"
+        },
+        "created" : 1470536573,
+        "last_modified" : 1470536573,
+        "last_touched" : 1470577498
+    },
+    
+    {
+        "id" : 297661,
+        "title" : "大家刷牙或者洗碗的时候，水龙头关起来么？",
+        "url" : "http://www.v2ex.com/t/297661",
+        "content" : "如题，泛指中间有一段时间水是白流的活动，这段时间可能十几秒到一两分钟不等。\u000A\u000Alz 小时候家那边水资源不是很丰富，所以都会关上水龙头。大学第一次看到别人这么刷牙的时候比较惊讶，后来发现好像很多人都是这样。\u000A\u000A问过部分比较熟悉的朋友，除却说手上打了肥皂，不方便开关以外，还有的说是习惯了，就喜欢这样。\u000A\u000A突然比较好奇，请问诸位是什么习惯呢？",
+        "content_rendered" : "如题，泛指中间有一段时间水是白流的活动，这段时间可能十几秒到一两分钟不等。\u003Cbr /\u003E\u003Cbr /\u003Elz 小时候家那边水资源不是很丰富，所以都会关上水龙头。大学第一次看到别人这么刷牙的时候比较惊讶，后来发现好像很多人都是这样。\u003Cbr /\u003E\u003Cbr /\u003E问过部分比较熟悉的朋友，除却说手上打了肥皂，不方便开关以外，还有的说是习惯了，就喜欢这样。\u003Cbr /\u003E\u003Cbr /\u003E突然比较好奇，请问诸位是什么习惯呢？",
+        "replies" : 76,
+        "member" : {
+            "id" : 59393,
+            "username" : "microchang",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/ab67/57e5/59393_mini.png?m=1452008220",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/ab67/57e5/59393_normal.png?m=1452008220",
+            "avatar_large" : "//cdn.v2ex.co/avatar/ab67/57e5/59393_large.png?m=1452008220"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 73797,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1469612548",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1469612548",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1469612548"
+        },
+        "created" : 1470538995,
+        "last_modified" : 1470538995,
+        "last_touched" : 1470573173
+    },
+    
+    {
+        "id" : 297647,
+        "title" : "求职 PHP，专科，今年年后入行",
+        "url" : "http://www.v2ex.com/t/297647",
+        "content" : "入行以前负责公司微信运营，慢慢转到微信开发，都是很简单的一些开发，如自定义分享。\u000D\u000A\u000D\u000A入行以后在公司已经开发两个项目和若干小需求，已经上线，一个是独立开发，一个是负责管理后台和后端。\u000D\u000A\u000D\u000A熟悉框架是 laravel ，所以也希望入职以 laravel 框架为主的公司。\u000D\u000A\u000D\u000ALA/NMP\u000D\u000A\u000D\u000Agit 版本管理\u000D\u000A\u000D\u000A熟悉 Homestead 搭建\u000D\u000A\u000D\u000Adocker 接触中，但是感觉 laravel 还是在 Homestead 中好一些\u000D\u000A\u000D\u000A面试不接受笔试，目前在职，所以希望是周末面试\u000D\u000A\u000D\u000A优先考虑帝都，其他城市也考虑",
+        "content_rendered" : "入行以前负责公司微信运营，慢慢转到微信开发，都是很简单的一些开发，如自定义分享。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E入行以后在公司已经开发两个项目和若干小需求，已经上线，一个是独立开发，一个是负责管理后台和后端。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E熟悉框架是 laravel ，所以也希望入职以 laravel 框架为主的公司。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003ELA/NMP\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003Egit 版本管理\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E熟悉 Homestead 搭建\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003Edocker 接触中，但是感觉 laravel 还是在 Homestead 中好一些\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E面试不接受笔试，目前在职，所以希望是周末面试\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E优先考虑帝都，其他城市也考虑",
+        "replies" : 62,
+        "member" : {
+            "id" : 185686,
+            "username" : "laraveler",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/63a6/bf0d/185686_mini.png?m=1470449335",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/63a6/bf0d/185686_normal.png?m=1470449335",
+            "avatar_large" : "//cdn.v2ex.co/avatar/63a6/bf0d/185686_large.png?m=1470449335"
+        },
+        "node" : {
+            "id" : 507,
+            "name" : "cv",
+            "title" : "求职",
+            "title_alternative" : "CV",
+            "url" : "http://www.v2ex.com/go/cv",
+            "topics" : 2211,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/2d6c/c4b2/507_mini.png?m=1470378116",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/2d6c/c4b2/507_normal.png?m=1470378116",
+            "avatar_large" : "//cdn.v2ex.co/navatar/2d6c/c4b2/507_large.png?m=1470378116"
+        },
+        "created" : 1470528047,
+        "last_modified" : 1470528047,
+        "last_touched" : 1470576570
+    },
+    
+    {
+        "id" : 297640,
+        "title" : "学长一个人开发了两年的游戏《Lost Soul Aside》",
+        "url" : "http://www.v2ex.com/t/297640",
+        "content" : "下面是游戏预告视频（同一个视频，不同地址而已）。\u000D\u000A\u000D\u000A腾讯：\u000D\u000Ahttp://v.qq.com/x/page/k0318xphgtw.html\u000D\u000A\u000D\u000AYouTube ：\u000D\u000Ahttps://www.youtube.com/watch?v\u003Dz5El\u002DyYNUwU",
+        "content_rendered" : "下面是游戏预告视频（同一个视频，不同地址而已）。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E腾讯：\u000D\u003Cbr /\u003E\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://v.qq.com/x/page/k0318xphgtw.html\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://v.qq.com/x/page/k0318xphgtw.html\u003C/a\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003EYouTube ：\u000D\u003Cbr /\u003E\u003Cdiv class\u003D\u0022embedded_video_wrapper\u0022\u003E\u003Ciframe id\u003D\u0022ytplayer\u0022 type\u003D\u0022text/html\u0022 class\u003D\u0022embedded_video\u0022 src\u003D\u0022//www.youtube.com/embed/z5El\u002DyYNUwU\u0022 frameborder\u003D\u00220\u0022 allowfullscreen\u003E\u003C/iframe\u003E\u003C/div\u003E",
+        "replies" : 51,
+        "member" : {
+            "id" : 62592,
+            "username" : "vnady",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/9306/c246/62592_mini.png?m=1409057848",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/9306/c246/62592_normal.png?m=1409057848",
+            "avatar_large" : "//cdn.v2ex.co/avatar/9306/c246/62592_large.png?m=1409057848"
+        },
+        "node" : {
+            "id" : 16,
+            "name" : "share",
+            "title" : "分享发现",
+            "title_alternative" : "Share",
+            "url" : "http://www.v2ex.com/go/share",
+            "topics" : 19868,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c74d/97b0/16_mini.png?m=1470172615",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c74d/97b0/16_normal.png?m=1470172615",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c74d/97b0/16_large.png?m=1470172615"
+        },
+        "created" : 1470506014,
+        "last_modified" : 1470506014,
+        "last_touched" : 1470575563
+    },
+    
+    {
+        "id" : 297666,
+        "title" : "就生活质量而言，从二线城市开始到帝都这个级别有什么本质区别吗？",
+        "url" : "http://www.v2ex.com/t/297666",
+        "content" : "月底的时候回了一趟家，超级累，回家路过同学上班的地方，就过去和她聊天，她说的一个事情让我感觉挺有意思的 !\u000D\u000A她我问在北京过的怎么样，我说还不错阿，就是拥挤，和她说北京其实和沈阳这样的城市生活起来没有什么大区别\u000D\u000A反正我感觉城市大到一定程度，再大也不会发生什么质变",
+        "content_rendered" : "月底的时候回了一趟家，超级累，回家路过同学上班的地方，就过去和她聊天，她说的一个事情让我感觉挺有意思的 !\u000D\u003Cbr /\u003E她我问在北京过的怎么样，我说还不错阿，就是拥挤，和她说北京其实和沈阳这样的城市生活起来没有什么大区别\u000D\u003Cbr /\u003E反正我感觉城市大到一定程度，再大也不会发生什么质变",
+        "replies" : 45,
+        "member" : {
+            "id" : 177741,
+            "username" : "ChenKe",
+            "tagline" : "知道创宇的忠实粉丝",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/e197/9c66/177741_mini.png?m=1466231477",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/e197/9c66/177741_normal.png?m=1466231477",
+            "avatar_large" : "//cdn.v2ex.co/avatar/e197/9c66/177741_large.png?m=1466231477"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 73797,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1469612548",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1469612548",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1469612548"
+        },
+        "created" : 1470543069,
+        "last_modified" : 1470543233,
+        "last_touched" : 1470576311
+    },
+    
+    {
+        "id" : 297626,
+        "title" : "能去工信部投诉联通吗，上网流量用了 600 多元~！",
+        "url" : "http://www.v2ex.com/t/297626",
+        "content" : "明明特意设置了可用额度是 30 ，还买了流量包，用手机做热点，电脑上网，期间还多次查询话费余额还剩几十元，就很放心的用。第二天早上起来发现停机，一查询欠费 200 多，过了一个小时再查变成欠费 600 多，敢情流量全从话费走了，没从流量包走，那这流量包买了啥用，怎么算费的搞不清楚了，还特意设置了 30 元可用额度，那这设置了有啥用啊，这玩意可以找工信部投诉吗",
+        "content_rendered" : "\u003Cp\u003E明明特意设置了可用额度是 30 ，还买了流量包，用手机做热点，电脑上网，期间还多次查询话费余额还剩几十元，就很放心的用。第二天早上起来发现停机，一查询欠费 200 多，过了一个小时再查变成欠费 600 多，敢情流量全从话费走了，没从流量包走，那这流量包买了啥用，怎么算费的搞不清楚了，还特意设置了 30 元可用额度，那这设置了有啥用啊，这玩意可以找工信部投诉吗\u003C/p\u003E\u000A",
+        "replies" : 40,
+        "member" : {
+            "id" : 86603,
+            "username" : "joeaki1983",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/29fef77ff42c61b579ccaea650849b34?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/29fef77ff42c61b579ccaea650849b34?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/29fef77ff42c61b579ccaea650849b34?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 73797,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1469612548",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1469612548",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1469612548"
+        },
+        "created" : 1470495732,
+        "last_modified" : 1470495732,
+        "last_touched" : 1470577075
+    },
+    
+    {
+        "id" : 297623,
+        "title" : "换了新 Macbook 后我第一时间安装了这些工具",
+        "url" : "http://www.v2ex.com/t/297623",
+        "content" : "http://lutaonan.com/tools\u002Dof\u002Dmy\u002Dmacbook/",
+        "content_rendered" : "\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://lutaonan.com/tools\u002Dof\u002Dmy\u002Dmacbook/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://lutaonan.com/tools\u002Dof\u002Dmy\u002Dmacbook/\u003C/a\u003E",
+        "replies" : 34,
+        "member" : {
+            "id" : 16147,
+            "username" : "djyde",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/ed4c/1b66/16147_mini.png?m=1409228135",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/ed4c/1b66/16147_normal.png?m=1409228135",
+            "avatar_large" : "//cdn.v2ex.co/avatar/ed4c/1b66/16147_large.png?m=1409228135"
+        },
+        "node" : {
+            "id" : 16,
+            "name" : "share",
+            "title" : "分享发现",
+            "title_alternative" : "Share",
+            "url" : "http://www.v2ex.com/go/share",
+            "topics" : 19868,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c74d/97b0/16_mini.png?m=1470172615",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c74d/97b0/16_normal.png?m=1470172615",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c74d/97b0/16_large.png?m=1470172615"
+        },
+        "created" : 1470494373,
+        "last_modified" : 1470499106,
+        "last_touched" : 1470555087
+    },
+    
+    {
+        "id" : 297671,
+        "title" : "[杭州] [前端] 目前有在杭州想换工作的前端同学吗？（余杭良渚首展科技）",
+        "url" : "http://www.v2ex.com/t/297671",
+        "content" : "公司目前接手了一个很紧急重要的项目，需要用框架进行快速开发，但是公司目前的前端这块急缺人才，相信可以给新同学比较大的发挥空间，公司业务在不断扩张，也有自己开发的产品，对人才也是比较渴望的，从公司创立到现在已经三年多了，相信大部分的创业公司都坚持不了多久，所以公司的前途和发展这块，公司同事都是比较认可的，公司的官网网址是 http://www.fshows.com/\u000D\u000A正在关注这个帖子的您可以先进行简单的了解。简历投递： yey@fshows.com\u000D\u000A\u000D\u000A工作职责：\u000D\u000A1.用框架快速开发\u000D\u000A2.尽可能还原设计稿\u000D\u000A3.和整个开发团队的成员配合工作\u000D\u000A\u000D\u000A任职要求：\u000D\u000A1.前端必备的基础知识，知识面广\u000D\u000A2.关注当前流行框架，并对其中一两种有实战经验或自己动手的项目\u000D\u000A3.有强烈的求知欲，学习自主性高\u000D\u000A4.比较好的抗压能力\u000D\u000A5.独立思考能力，团队合作精神\u000D\u000A6.工作主动\u000D\u000A\u000D\u000A薪资 7\u002D10 、如果你工作能力和技术能力足够好，得到技术主管的认可，薪资方面也是可以商量的，对于专业技术人才公司还是很愿意留住您的。\u000D\u000A\u000D\u000A进入公司会有一个试用期（这不废话吗╮(￣▽￣\u0022)╭），如果试用期表现领导和同事都很认可，转正的时候薪资也可以再谈。\u000D\u000A\u000D\u000A另外五险是有的，但是公积金目前没有，但是有住房补贴，您可以选择公司宿舍或者在外面自己租房拿住房补贴。",
+        "content_rendered" : "\u003Cp\u003E公司目前接手了一个很紧急重要的项目，需要用框架进行快速开发，但是公司目前的前端这块急缺人才，相信可以给新同学比较大的发挥空间，公司业务在不断扩张，也有自己开发的产品，对人才也是比较渴望的，从公司创立到现在已经三年多了，相信大部分的创业公司都坚持不了多久，所以公司的前途和发展这块，公司同事都是比较认可的，公司的官网网址是 \u003Ca href\u003D\u0022http://www.fshows.com/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.fshows.com/\u003C/a\u003E\u000A正在关注这个帖子的您可以先进行简单的了解。简历投递： yey@fshows.com\u003C/p\u003E\u000A\u003Cp\u003E工作职责：\u000A1.用框架快速开发\u000A2.尽可能还原设计稿\u000A3.和整个开发团队的成员配合工作\u003C/p\u003E\u000A\u003Cp\u003E任职要求：\u000A1.前端必备的基础知识，知识面广\u000A2.关注当前流行框架，并对其中一两种有实战经验或自己动手的项目\u000A3.有强烈的求知欲，学习自主性高\u000A4.比较好的抗压能力\u000A5.独立思考能力，团队合作精神\u000A6.工作主动\u003C/p\u003E\u000A\u003Cp\u003E薪资 7\u002D10 、如果你工作能力和技术能力足够好，得到技术主管的认可，薪资方面也是可以商量的，对于专业技术人才公司还是很愿意留住您的。\u003C/p\u003E\u000A\u003Cp\u003E进入公司会有一个试用期（这不废话吗╮(￣▽￣\u0022)╭），如果试用期表现领导和同事都很认可，转正的时候薪资也可以再谈。\u003C/p\u003E\u000A\u003Cp\u003E另外五险是有的，但是公积金目前没有，但是有住房补贴，您可以选择公司宿舍或者在外面自己租房拿住房补贴。\u003C/p\u003E\u000A",
+        "replies" : 33,
+        "member" : {
+            "id" : 142423,
+            "username" : "BeckyY",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/9e26129bbc195686ddb2571ec9e8a359?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/9e26129bbc195686ddb2571ec9e8a359?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/9e26129bbc195686ddb2571ec9e8a359?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 43,
+            "name" : "jobs",
+            "title" : "酷工作",
+            "title_alternative" : "Jobs",
+            "url" : "http://www.v2ex.com/go/jobs",
+            "topics" : 17029,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/17e6/2166/43_mini.png?m=1470378078",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/17e6/2166/43_normal.png?m=1470378078",
+            "avatar_large" : "//cdn.v2ex.co/navatar/17e6/2166/43_large.png?m=1470378078"
+        },
+        "created" : 1470544286,
+        "last_modified" : 1470544286,
+        "last_touched" : 1470578052
+    },
+    
+    {
+        "id" : 297636,
+        "title" : "手机在充电。打雷，结果废了。",
+        "url" : "http://www.v2ex.com/t/297636",
+        "content" : "手机在充电。打雷，结果废了。然后开不了机，电池放在手机里会发烫。是不是主板废了？两年前的手机。还有维修的必要吗。。。。",
+        "content_rendered" : "\u003Cp\u003E手机在充电。打雷，结果废了。然后开不了机，电池放在手机里会发烫。是不是主板废了？两年前的手机。还有维修的必要吗。。。。\u003C/p\u003E\u000A",
+        "replies" : 31,
+        "member" : {
+            "id" : 135573,
+            "username" : "liqingcan",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/8f4cad66d22e370a392d4d9bcb9d023e?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/8f4cad66d22e370a392d4d9bcb9d023e?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/8f4cad66d22e370a392d4d9bcb9d023e?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 73797,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1469612548",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1469612548",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1469612548"
+        },
+        "created" : 1470502308,
+        "last_modified" : 1470502308,
+        "last_touched" : 1470577341
+    },
+    
+    {
+        "id" : 297730,
+        "title" : "种种迹象显示 MySQL 已经启动，但是各种需要数据库的程序都无法连接？",
+        "url" : "http://www.v2ex.com/t/297730",
+        "content" : "如题。\u000D\u000A首先是基本系统情况：\u000D\u000A\u000D\u000A* OS:Ubuntu 14.04 x64 LTS\u000D\u000A* 数据库： Percona Server 5.7\u000D\u000A* PHP ： PHP 7.0.9\u000D\u000A* 应用： WordPress 、 phpMyAdmin\u000D\u000A\u000D\u000A我做的一些排查工作：\u000D\u000A```\u000D\u000A➜  blog service mysql status\u000D\u000A * Percona Server 5.7.13\u002D6 is running\u000D\u000A➜  blog netstat \u002Dap | grep mysql\u000D\u000Atcp        0      0 localhost:mysql         *:*                     LISTEN      20978/mysqld\u000D\u000A➜  blog mysql \u002Du root \u002Dp\u000D\u000AEnter password:\u000D\u000AWelcome to the MySQL monitor.  Commands end with \u003B or \u005Cg.\u000D\u000A```\u000D\u000A\u000D\u000APercona日志显示：\u000D\u000A\u000D\u000A```\u000D\u000A2016\u002D08\u002D07T11:49:26.189089Z 0 [Note] /usr/sbin/mysqld: ready for connections.\u000D\u000AVersion: \u00275.7.13\u002D6\u0027  socket: \u0027/var/run/mysqld/mysqld.sock\u0027  port: 3306  Percona Server (GPL), Release \u00276\u0027, Revision \u0027e3d58bb\u0027\u000D\u000A```\u000D\u000A\u000D\u000A但是无论 WordPress 还是 phpmyadmin ，均不能连接 percona 。数据库主机尝试过设置 localhost 和 127.0.0.1 ，均无果。\u000D\u000A\u000D\u000A下面是 percona 配置文件，完全官方，没有任何更改（/etc/mysql/my.cnf ）：\u000D\u000A```\u000D\u000A#\u000D\u000A# The MySQL database server configuration file.\u000D\u000A#\u000D\u000A# You can copy this to one of:\u000D\u000A# \u002D \u0022/etc/mysql/my.cnf\u0022 to set global options,\u000D\u000A# \u002D \u0022~/.my.cnf\u0022 to set user\u002Dspecific options.\u000D\u000A#\u000D\u000A# One can use all long options that the program supports.\u000D\u000A# Run program with \u002D\u002Dhelp to get a list of available options and with\u000D\u000A# \u002D\u002Dprint\u002Ddefaults to see which it would actually understand and use.\u000D\u000A#\u000D\u000A# For explanations see\u000D\u000A# http://dev.mysql.com/doc/mysql/en/server\u002Dsystem\u002Dvariables.html\u000D\u000A\u000D\u000A# This will be passed to all mysql clients\u000D\u000A# It has been reported that passwords should be enclosed with ticks/quotes\u000D\u000A# escpecially if they contain \u0022#\u0022 chars...\u000D\u000A# Remember to edit /etc/mysql/debian.cnf when changing the socket location.\u000D\u000A[client]\u000D\u000Aport\u0009\u0009\u003D 3306\u000D\u000Asocket\u0009\u0009\u003D /var/run/mysqld/mysqld.sock\u000D\u000A\u000D\u000A# Here is entries for some specific programs\u000D\u000A# The following values assume you have at least 32M ram\u000D\u000A\u000D\u000A# This was formally known as [safe_mysqld]. Both versions are currently parsed.\u000D\u000A[mysqld_safe]\u000D\u000Asocket\u0009\u0009\u003D /var/run/mysqld/mysqld.sock\u000D\u000Anice\u0009\u0009\u003D 0\u000D\u000A\u000D\u000A[mysqld]\u000D\u000A#\u000D\u000A# * Basic Settings\u000D\u000A#\u000D\u000Auser\u0009\u0009\u003D mysql\u000D\u000Apid\u002Dfile\u0009\u003D /var/run/mysqld/mysqld.pid\u000D\u000Asocket\u0009\u0009\u003D /var/run/mysqld/mysqld.sock\u000D\u000Aport\u0009\u0009\u003D 3306\u000D\u000Abasedir\u0009\u0009\u003D /usr\u000D\u000Adatadir\u0009\u0009\u003D /var/lib/mysql\u000D\u000Atmpdir\u0009\u0009\u003D /tmp\u000D\u000Alc\u002Dmessages\u002Ddir\u0009\u003D /usr/share/mysql\u000D\u000Askip\u002Dexternal\u002Dlocking\u000D\u000A#\u000D\u000A# Instead of skip\u002Dnetworking the default is now to listen only on\u000D\u000A# localhost which is more compatible and is not less secure.\u000D\u000Abind\u002Daddress\u0009\u0009\u003D 127.0.0.1\u000D\u000A#\u000D\u000A# * Fine Tuning\u000D\u000A#\u000D\u000A#key_buffer\u0009\u0009\u003D 16M\u000D\u000Amax_allowed_packet\u0009\u003D 16M\u000D\u000Athread_stack\u0009\u0009\u003D 192K\u000D\u000Athread_cache_size       \u003D 8\u000D\u000A# This replaces the startup script and checks MyISAM tables if needed\u000D\u000A# the first time they are touched\u000D\u000A#myisam\u002Drecover         \u003D BACKUP\u000D\u000A#max_connections        \u003D 100\u000D\u000A#table_cache            \u003D 64\u000D\u000A#thread_concurrency     \u003D 10\u000D\u000A#\u000D\u000A# * Query Cache Configuration\u000D\u000A#\u000D\u000Aquery_cache_limit\u0009\u003D 1M\u000D\u000Aquery_cache_size        \u003D 16M\u000D\u000A#\u000D\u000A# * Logging and Replication\u000D\u000A#\u000D\u000A# Both location gets rotated by the cronjob.\u000D\u000A# Be aware that this log type is a performance killer.\u000D\u000A# As of 5.1 you can enable the log at runtime!\u000D\u000A#general_log_file        \u003D /var/log/mysql/mysql.log\u000D\u000A#general_log             \u003D 1\u000D\u000A#\u000D\u000A# Error log \u002D should be very few entries.\u000D\u000A#\u000D\u000Alog_error \u003D /var/log/mysql/error.log\u000D\u000A#\u000D\u000A# Here you can see queries with especially long duration\u000D\u000A#log_slow_queries\u0009\u003D /var/log/mysql/mysql\u002Dslow.log\u000D\u000A#long_query_time \u003D 2\u000D\u000A#log\u002Dqueries\u002Dnot\u002Dusing\u002Dindexes\u000D\u000A#\u000D\u000A# The following can be used as easy to replay backup logs or for replication.\u000D\u000A# note: if you are setting up a replication slave, see README.Debian about\u000D\u000A#       other settings you may need to change.\u000D\u000A#server\u002Did\u0009\u0009\u003D 1\u000D\u000A#log_bin\u0009\u0009\u0009\u003D /var/log/mysql/mysql\u002Dbin.log\u000D\u000Aexpire_logs_days\u0009\u003D 10\u000D\u000Amax_binlog_size         \u003D 100M\u000D\u000A#binlog_do_db\u0009\u0009\u003D include_database_name\u000D\u000A#binlog_ignore_db\u0009\u003D include_database_name\u000D\u000A#\u000D\u000A# * InnoDB\u000D\u000A#\u000D\u000A# InnoDB is enabled by default with a 10MB datafile in /var/lib/mysql/.\u000D\u000A# Read the manual for more InnoDB related options. There are many!\u000D\u000A#\u000D\u000A# * Security Features\u000D\u000A#\u000D\u000A# Read the manual, too, if you want chroot!\u000D\u000A# chroot \u003D /var/lib/mysql/\u000D\u000A#\u000D\u000A# For generating SSL certificates I recommend the OpenSSL GUI \u0022tinyca\u0022.\u000D\u000A#\u000D\u000A# ssl\u002Dca\u003D/etc/mysql/cacert.pem\u000D\u000A# ssl\u002Dcert\u003D/etc/mysql/server\u002Dcert.pem\u000D\u000A# ssl\u002Dkey\u003D/etc/mysql/server\u002Dkey.pem\u000D\u000A\u000D\u000A\u000D\u000A\u000D\u000A[mysqldump]\u000D\u000Aquick\u000D\u000Aquote\u002Dnames\u000D\u000Amax_allowed_packet\u0009\u003D 16M\u000D\u000A\u000D\u000A[mysql]\u000D\u000A#no\u002Dauto\u002Drehash\u0009# faster start of mysql but no tab completition\u000D\u000A\u000D\u000A[isamchk]\u000D\u000A#key_buffer\u0009\u0009\u003D 16M\u000D\u000A\u000D\u000A#\u000D\u000A# * IMPORTANT: Additional settings that can override those from this file!\u000D\u000A#   The files must end with \u0027.cnf\u0027, otherwise they\u0027ll be ignored.\u000D\u000A#\u000D\u000A!includedir /etc/mysql/conf.d/\u000D\u000A```\u000D\u000A\u000D\u000A另外， PHP 和 MySQL 以及 nginx 的错误日志都有排查过，没有发现任何报错……\u000D\u000A\u000D\u000A求教各位大神，感谢！",
+        "content_rendered" : "\u003Cp\u003E如题。\u000A首先是基本系统情况：\u003C/p\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003EOS:Ubuntu 14.04 x64 LTS\u003C/li\u003E\u000A\u003Cli\u003E数据库： Percona Server 5.7\u003C/li\u003E\u000A\u003Cli\u003EPHP ： PHP 7.0.9\u003C/li\u003E\u000A\u003Cli\u003E应用： WordPress 、 phpMyAdmin\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u003Cp\u003E我做的一些排查工作：\u003C/p\u003E\u000A\u003Cpre\u003E\u003Ccode\u003E➜  blog service mysql status\u000A * Percona Server 5.7.13\u002D6 is running\u000A➜  blog netstat \u002Dap | grep mysql\u000Atcp        0      0 localhost:mysql         *:*                     LISTEN      20978/mysqld\u000A➜  blog mysql \u002Du root \u002Dp\u000AEnter password:\u000AWelcome to the MySQL monitor.  Commands end with \u003B or \u005Cg.\u000A\u003C/code\u003E\u003C/pre\u003E\u000A\u003Cp\u003EPercona日志显示：\u003C/p\u003E\u000A\u003Cpre\u003E\u003Ccode\u003E2016\u002D08\u002D07T11:49:26.189089Z 0 [Note] /usr/sbin/mysqld: ready for connections.\u000AVersion: \u00275.7.13\u002D6\u0027  socket: \u0027/var/run/mysqld/mysqld.sock\u0027  port: 3306  Percona Server (GPL), Release \u00276\u0027, Revision \u0027e3d58bb\u0027\u000A\u003C/code\u003E\u003C/pre\u003E\u000A\u003Cp\u003E但是无论 WordPress 还是 phpmyadmin ，均不能连接 percona 。数据库主机尝试过设置 localhost 和 127.0.0.1 ，均无果。\u003C/p\u003E\u000A\u003Cp\u003E下面是 percona 配置文件，完全官方，没有任何更改（/etc/mysql/my.cnf ）：\u003C/p\u003E\u000A\u003Cpre\u003E\u003Ccode\u003E#\u000A# The MySQL database server configuration file.\u000A#\u000A# You can copy this to one of:\u000A# \u002D \u0022/etc/mysql/my.cnf\u0022 to set global options,\u000A# \u002D \u0022~/.my.cnf\u0022 to set user\u002Dspecific options.\u000A#\u000A# One can use all long options that the program supports.\u000A# Run program with \u002D\u002Dhelp to get a list of available options and with\u000A# \u002D\u002Dprint\u002Ddefaults to see which it would actually understand and use.\u000A#\u000A# For explanations see\u000A# http://dev.mysql.com/doc/mysql/en/server\u002Dsystem\u002Dvariables.html\u000A\u000A# This will be passed to all mysql clients\u000A# It has been reported that passwords should be enclosed with ticks/quotes\u000A# escpecially if they contain \u0022#\u0022 chars...\u000A# Remember to edit /etc/mysql/debian.cnf when changing the socket location.\u000A[client]\u000Aport\u0009\u0009\u003D 3306\u000Asocket\u0009\u0009\u003D /var/run/mysqld/mysqld.sock\u000A\u000A# Here is entries for some specific programs\u000A# The following values assume you have at least 32M ram\u000A\u000A# This was formally known as [safe_mysqld]. Both versions are currently parsed.\u000A[mysqld_safe]\u000Asocket\u0009\u0009\u003D /var/run/mysqld/mysqld.sock\u000Anice\u0009\u0009\u003D 0\u000A\u000A[mysqld]\u000A#\u000A# * Basic Settings\u000A#\u000Auser\u0009\u0009\u003D mysql\u000Apid\u002Dfile\u0009\u003D /var/run/mysqld/mysqld.pid\u000Asocket\u0009\u0009\u003D /var/run/mysqld/mysqld.sock\u000Aport\u0009\u0009\u003D 3306\u000Abasedir\u0009\u0009\u003D /usr\u000Adatadir\u0009\u0009\u003D /var/lib/mysql\u000Atmpdir\u0009\u0009\u003D /tmp\u000Alc\u002Dmessages\u002Ddir\u0009\u003D /usr/share/mysql\u000Askip\u002Dexternal\u002Dlocking\u000A#\u000A# Instead of skip\u002Dnetworking the default is now to listen only on\u000A# localhost which is more compatible and is not less secure.\u000Abind\u002Daddress\u0009\u0009\u003D 127.0.0.1\u000A#\u000A# * Fine Tuning\u000A#\u000A#key_buffer\u0009\u0009\u003D 16M\u000Amax_allowed_packet\u0009\u003D 16M\u000Athread_stack\u0009\u0009\u003D 192K\u000Athread_cache_size       \u003D 8\u000A# This replaces the startup script and checks MyISAM tables if needed\u000A# the first time they are touched\u000A#myisam\u002Drecover         \u003D BACKUP\u000A#max_connections        \u003D 100\u000A#table_cache            \u003D 64\u000A#thread_concurrency     \u003D 10\u000A#\u000A# * Query Cache Configuration\u000A#\u000Aquery_cache_limit\u0009\u003D 1M\u000Aquery_cache_size        \u003D 16M\u000A#\u000A# * Logging and Replication\u000A#\u000A# Both location gets rotated by the cronjob.\u000A# Be aware that this log type is a performance killer.\u000A# As of 5.1 you can enable the log at runtime!\u000A#general_log_file        \u003D /var/log/mysql/mysql.log\u000A#general_log             \u003D 1\u000A#\u000A# Error log \u002D should be very few entries.\u000A#\u000Alog_error \u003D /var/log/mysql/error.log\u000A#\u000A# Here you can see queries with especially long duration\u000A#log_slow_queries\u0009\u003D /var/log/mysql/mysql\u002Dslow.log\u000A#long_query_time \u003D 2\u000A#log\u002Dqueries\u002Dnot\u002Dusing\u002Dindexes\u000A#\u000A# The following can be used as easy to replay backup logs or for replication.\u000A# note: if you are setting up a replication slave, see README.Debian about\u000A#       other settings you may need to change.\u000A#server\u002Did\u0009\u0009\u003D 1\u000A#log_bin\u0009\u0009\u0009\u003D /var/log/mysql/mysql\u002Dbin.log\u000Aexpire_logs_days\u0009\u003D 10\u000Amax_binlog_size         \u003D 100M\u000A#binlog_do_db\u0009\u0009\u003D include_database_name\u000A#binlog_ignore_db\u0009\u003D include_database_name\u000A#\u000A# * InnoDB\u000A#\u000A# InnoDB is enabled by default with a 10MB datafile in /var/lib/mysql/.\u000A# Read the manual for more InnoDB related options. There are many!\u000A#\u000A# * Security Features\u000A#\u000A# Read the manual, too, if you want chroot!\u000A# chroot \u003D /var/lib/mysql/\u000A#\u000A# For generating SSL certificates I recommend the OpenSSL GUI \u0022tinyca\u0022.\u000A#\u000A# ssl\u002Dca\u003D/etc/mysql/cacert.pem\u000A# ssl\u002Dcert\u003D/etc/mysql/server\u002Dcert.pem\u000A# ssl\u002Dkey\u003D/etc/mysql/server\u002Dkey.pem\u000A\u000A\u000A\u000A[mysqldump]\u000Aquick\u000Aquote\u002Dnames\u000Amax_allowed_packet\u0009\u003D 16M\u000A\u000A[mysql]\u000A#no\u002Dauto\u002Drehash\u0009# faster start of mysql but no tab completition\u000A\u000A[isamchk]\u000A#key_buffer\u0009\u0009\u003D 16M\u000A\u000A#\u000A# * IMPORTANT: Additional settings that can override those from this file!\u000A#   The files must end with \u0027.cnf\u0027, otherwise they\u0027ll be ignored.\u000A#\u000A!includedir /etc/mysql/conf.d/\u000A\u003C/code\u003E\u003C/pre\u003E\u000A\u003Cp\u003E另外， PHP 和 MySQL 以及 nginx 的错误日志都有排查过，没有发现任何报错……\u003C/p\u003E\u000A\u003Cp\u003E求教各位大神，感谢！\u003C/p\u003E\u000A",
+        "replies" : 30,
+        "member" : {
+            "id" : 97428,
+            "username" : "fourstring",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/e549f9bb1c20e4ebcabf9a97f551826f?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/e549f9bb1c20e4ebcabf9a97f551826f?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/e549f9bb1c20e4ebcabf9a97f551826f?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 61,
+            "name" : "mysql",
+            "title" : "MySQL",
+            "title_alternative" : "MySQL",
+            "url" : "http://www.v2ex.com/go/mysql",
+            "topics" : 590,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/7f39/f831/61_mini.png?m=1469612605",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/7f39/f831/61_normal.png?m=1469612605",
+            "avatar_large" : "//cdn.v2ex.co/navatar/7f39/f831/61_large.png?m=1469612605"
+        },
+        "created" : 1470571587,
+        "last_modified" : 1470571768,
+        "last_touched" : 1470577828
+    }
+    
+]

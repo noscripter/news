@@ -1,0 +1,72 @@
+[
+    {
+        "author": "dthree",
+        "category": "JavaScript",
+        "stars": "827",
+        "title": "cash - Cross-platform Linux without the suck",
+        "url": "https://github.com/dthree/cash"
+    },
+    {
+        "author": "antelle",
+        "category": "JavaScript",
+        "stars": "665",
+        "title": "keeweb - KeePass web app (unofficial)",
+        "url": "https://github.com/antelle/keeweb"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "648",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "copy",
+        "category": "JavaScript",
+        "stars": "495",
+        "title": "v86 - x86 virtualization in JavaScript, running in your browser and NodeJS",
+        "url": "https://github.com/copy/v86"
+    },
+    {
+        "author": "facebook",
+        "category": "JavaScript",
+        "stars": "358",
+        "title": "draft-js - A React framework for building text editors.",
+        "url": "https://github.com/facebook/draft-js"
+    },
+    {
+        "author": "ImagicalMine",
+        "category": "PHP",
+        "stars": "16",
+        "title": "ImagicalMine - ImagicalMine. The first third-party build of PocketMine-MP that rocked the world.",
+        "url": "https://github.com/ImagicalMine/ImagicalMine"
+    },
+    {
+        "author": "santinic",
+        "category": "JavaScript",
+        "stars": "280",
+        "title": "how2 - stackoverflow from the terminal",
+        "url": "https://github.com/santinic/how2"
+    },
+    {
+        "author": "ryanflorence",
+        "category": "JavaScript",
+        "stars": "244",
+        "title": "react-project - State of the art web development with React.js.",
+        "url": "https://github.com/ryanflorence/react-project"
+    },
+    {
+        "author": "VPenkov",
+        "category": "JavaScript",
+        "stars": "214",
+        "title": "okayNav - The world's okayest responsive navigation",
+        "url": "https://github.com/VPenkov/okayNav"
+    },
+    {
+        "author": "PerfDotNet",
+        "category": "C#",
+        "stars": "218",
+        "title": "BenchmarkDotNet - .NET library for benchmarking",
+        "url": "https://github.com/PerfDotNet/BenchmarkDotNet"
+    }
+]

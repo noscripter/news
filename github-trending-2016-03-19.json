@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "536",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "roughike",
+        "category": "Java",
+        "stars": "263",
+        "title": "BottomBar - A custom view component that mimics the new Material Design Bottom Navigation pattern.",
+        "url": "https://github.com/roughike/BottomBar"
+    },
+    {
+        "author": "Marswin",
+        "category": "Java",
+        "stars": "156",
+        "title": "MarsDaemon - A lite library, you can make your project depend it easily, and your project will be UNDEAD (contains api from 9 to 23, lol).",
+        "url": "https://github.com/Marswin/MarsDaemon"
+    },
+    {
+        "author": "yenchenlin1994",
+        "category": "Python",
+        "stars": "166",
+        "title": "DeepLearningFlappyBird - Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning).",
+        "url": "https://github.com/yenchenlin1994/DeepLearningFlappyBird"
+    },
+    {
+        "author": "AutumnsWind",
+        "category": "PHP",
+        "stars": "152",
+        "title": "Front-end-tutorial - \u6700\u5168\u7684\u8d44\u6e90\u6559\u7a0b-\u524d\u7aef\u6d89\u53ca\u7684\u6240\u6709\u77e5\u8bc6\u4f53\u7cfb",
+        "url": "https://github.com/AutumnsWind/Front-end-tutorial"
+    },
+    {
+        "author": "feathersjs",
+        "category": "JavaScript",
+        "stars": "169",
+        "title": "feathers - A minimalist real-time JavaScript framework for tomorrow's apps.",
+        "url": "https://github.com/feathersjs/feathers"
+    },
+    {
+        "author": "php-pm",
+        "category": "PHP",
+        "stars": "163",
+        "title": "php-pm - PPM - CLI process manager for modern Request-Response PHP Applications - with a builtin load-balancer.",
+        "url": "https://github.com/php-pm/php-pm"
+    },
+    {
+        "author": "1000ch",
+        "category": "HTML",
+        "stars": "162",
+        "title": "grd - A CSS grid framework using Flexbox. Only 512 bytes (Gzipped).",
+        "url": "https://github.com/1000ch/grd"
+    },
+    {
+        "author": "substance",
+        "category": "JavaScript",
+        "stars": "149",
+        "title": "substance - A JavaScript library for web-based content editing.",
+        "url": "https://github.com/substance/substance"
+    },
+    {
+        "author": "aurelhubert",
+        "category": "Java",
+        "stars": "130",
+        "title": "ahbottomnavigation - A library to reproduce the behavior of the Bottom Navigation guidelines from Material Design.",
+        "url": "https://github.com/aurelhubert/ahbottomnavigation"
+    }
+]

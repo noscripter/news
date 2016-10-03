@@ -1,0 +1,72 @@
+[
+    {
+        "author": "fogleman",
+        "category": "Go",
+        "stars": "2,121",
+        "title": "primitive - Reproducing images with geometric primitives.",
+        "url": "https://github.com/fogleman/primitive"
+    },
+    {
+        "author": "mandatoryprogrammer",
+        "category": "",
+        "stars": "507",
+        "title": "NorthKoreaDNSLeak - Snapshot of North Korea's DNS data taken from zone transfers.",
+        "url": "https://github.com/mandatoryprogrammer/NorthKoreaDNSLeak"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "433",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "thibmaek",
+        "category": "",
+        "stars": "400",
+        "title": "awesome-raspberrypi - A curated list of awesome Raspberry Pi tools, projects, images and resources",
+        "url": "https://github.com/thibmaek/awesome-raspberrypi"
+    },
+    {
+        "author": "twbs",
+        "category": "JavaScript",
+        "stars": "380",
+        "title": "bootstrap - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+        "url": "https://github.com/twbs/bootstrap"
+    },
+    {
+        "author": "nolanlawson",
+        "category": "JavaScript",
+        "stars": "362",
+        "title": "optimize-js - Optimize a JavaScript file for faster initial load by wrapping eagerly-invoked functions",
+        "url": "https://github.com/nolanlawson/optimize-js"
+    },
+    {
+        "author": "deepstreamIO",
+        "category": "JavaScript",
+        "stars": "353",
+        "title": "deepstream.io - deepstream.io server",
+        "url": "https://github.com/deepstreamIO/deepstream.io"
+    },
+    {
+        "author": "TangoAgency",
+        "category": "Java",
+        "stars": "290",
+        "title": "material-intro-screen - Inspired by Heinrich Reimer Material Intro and developed with love from scratch",
+        "url": "https://github.com/TangoAgency/material-intro-screen"
+    },
+    {
+        "author": "ankane",
+        "category": "Ruby",
+        "stars": "249",
+        "title": "pgslice - Postgres partitioning as easy as pie",
+        "url": "https://github.com/ankane/pgslice"
+    },
+    {
+        "author": "tekezo",
+        "category": "C++",
+        "stars": "238",
+        "title": "Karabiner-Elements - The next generation Karabiner prototyping for macOS Sierra",
+        "url": "https://github.com/tekezo/Karabiner-Elements"
+    }
+]

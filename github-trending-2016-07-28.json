@@ -1,0 +1,72 @@
+[
+    {
+        "author": "krasimir",
+        "category": "JavaScript",
+        "stars": "829",
+        "title": "react-in-patterns - \ud83d\udcda List of design patterns/techniques used while developing with React",
+        "url": "https://github.com/krasimir/react-in-patterns"
+    },
+    {
+        "author": "jgthms",
+        "category": "HTML",
+        "stars": "653",
+        "title": "web-design-in-4-minutes - Learn basics of web design in 4 minutes",
+        "url": "https://github.com/jgthms/web-design-in-4-minutes"
+    },
+    {
+        "author": "FallibleInc",
+        "category": "",
+        "stars": "519",
+        "title": "security-guide-for-developers - Security Guide for Developers",
+        "url": "https://github.com/FallibleInc/security-guide-for-developers"
+    },
+    {
+        "author": "facebook",
+        "category": "C++",
+        "stars": "417",
+        "title": "Surround360 - Surround360 is Facebook's open source hardware and software for capturing stereoscopic 3D 360 video for VR. The repo contains hardware designs, as well as software for camera control and rendering.",
+        "url": "https://github.com/facebook/Surround360"
+    },
+    {
+        "author": "AHAAAAAAA",
+        "category": "Python",
+        "stars": "336",
+        "title": "PokemonGo-Map - \ud83c\udf0f Live visualization of all the pokemon in your area... and more!",
+        "url": "https://github.com/AHAAAAAAA/PokemonGo-Map"
+    },
+    {
+        "author": "hemanth",
+        "category": "",
+        "stars": "398",
+        "title": "functional-programming-jargon - Jargon from the functional programming world in simple terms!",
+        "url": "https://github.com/hemanth/functional-programming-jargon"
+    },
+    {
+        "author": "birl-language",
+        "category": "JavaScript",
+        "stars": "345",
+        "title": "birl-language.github.io - Projeto B.I.R.L. (Bambam's \"It's show time\" Recursive Language), linguagem de programa\u00e7\u00e3o mutante, baseado nas frases do nosso querido mutante tupiniquim Bambam!",
+        "url": "https://github.com/birl-language/birl-language.github.io"
+    },
+    {
+        "author": "facebookincubator",
+        "category": "JavaScript",
+        "stars": "341",
+        "title": "create-react-app - Create React apps with no build configuration.",
+        "url": "https://github.com/facebookincubator/create-react-app"
+    },
+    {
+        "author": "NecronomiconCoding",
+        "category": "C#",
+        "stars": "203",
+        "title": "NecroBot - a Pokemon Go Bot based on Rocket API",
+        "url": "https://github.com/NecronomiconCoding/NecroBot"
+    },
+    {
+        "author": "PokemonGoF",
+        "category": "Python",
+        "stars": "223",
+        "title": "PokemonGo-Bot - The Pokemon Go Bot, baking with community.",
+        "url": "https://github.com/PokemonGoF/PokemonGo-Bot"
+    }
+]

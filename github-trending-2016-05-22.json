@@ -1,0 +1,72 @@
+[
+    {
+        "author": "shockone",
+        "category": "TypeScript",
+        "stars": "615",
+        "title": "black-screen - A terminal emulator for the 21st century.",
+        "url": "https://github.com/shockone/black-screen"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "484",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "tombh",
+        "category": "Go",
+        "stars": "362",
+        "title": "texttop - A fully interactive X linux desktop rendered to ASCII and streamed over SSH",
+        "url": "https://github.com/tombh/texttop"
+    },
+    {
+        "author": "eliangcs",
+        "category": "Python",
+        "stars": "343",
+        "title": "http-prompt - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting",
+        "url": "https://github.com/eliangcs/http-prompt"
+    },
+    {
+        "author": "andlabs",
+        "category": "C",
+        "stars": "250",
+        "title": "libui - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.",
+        "url": "https://github.com/andlabs/libui"
+    },
+    {
+        "author": "Nickersoft",
+        "category": "JavaScript",
+        "stars": "238",
+        "title": "push.js - A compact, cross-browser solution for using the JavaScript Notifications API",
+        "url": "https://github.com/Nickersoft/push.js"
+    },
+    {
+        "author": "parkjs814",
+        "category": "JavaScript",
+        "stars": "178",
+        "title": "AlgorithmVisualizer - Algorithm Visualizer",
+        "url": "https://github.com/parkjs814/AlgorithmVisualizer"
+    },
+    {
+        "author": "sitespeedio",
+        "category": "JavaScript",
+        "stars": "196",
+        "title": "coach - Clear Eyes. Full Hearts. Can\u2019t Lose.",
+        "url": "https://github.com/sitespeedio/coach"
+    },
+    {
+        "author": "alex",
+        "category": "",
+        "stars": "191",
+        "title": "what-happens-when - An attempt to answer the age old interview question \"What happens when you type google.com into your browser and press enter?\"",
+        "url": "https://github.com/alex/what-happens-when"
+    },
+    {
+        "author": "mxstbr",
+        "category": "JavaScript",
+        "stars": "164",
+        "title": "react-boilerplate - \ud83d\udd25 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.",
+        "url": "https://github.com/mxstbr/react-boilerplate"
+    }
+]

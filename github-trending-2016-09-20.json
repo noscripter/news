@@ -1,0 +1,72 @@
+[
+    {
+        "author": "ryanhoo",
+        "category": "Java",
+        "stars": "705",
+        "title": "StylishMusicPlayer - A stylish music player for android device 16+",
+        "url": "https://github.com/ryanhoo/StylishMusicPlayer"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "454",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "nolanlawson",
+        "category": "JavaScript",
+        "stars": "342",
+        "title": "optimize-js - Optimize a JavaScript file for faster execution by wrapping eagerly-invoked functions",
+        "url": "https://github.com/nolanlawson/optimize-js"
+    },
+    {
+        "author": "gztchan",
+        "category": "",
+        "stars": "332",
+        "title": "awesome-design - \ud83c\udf8f Best UI/UX Design Resources For Developer & Designer Ever :)",
+        "url": "https://github.com/gztchan/awesome-design"
+    },
+    {
+        "author": "hungtraan",
+        "category": "JavaScript",
+        "stars": "304",
+        "title": "FacebookBot - A Facebook Messenger Bot that supports Voice Recognition, Natural Language Processing and features such as: search nearby restaurants, search trending news, transcribe and save memos to the cloud.",
+        "url": "https://github.com/hungtraan/FacebookBot"
+    },
+    {
+        "author": "chewxy",
+        "category": "Go",
+        "stars": "294",
+        "title": "gorgonia - Gorgonia is a library that helps facilitate machine learning in Go.",
+        "url": "https://github.com/chewxy/gorgonia"
+    },
+    {
+        "author": "brillout",
+        "category": "",
+        "stars": "246",
+        "title": "awesome-react-components - Catalog of React components / libraries",
+        "url": "https://github.com/brillout/awesome-react-components"
+    },
+    {
+        "author": "CoXier",
+        "category": "Java",
+        "stars": "238",
+        "title": "LowPoly - LowPoly For Android",
+        "url": "https://github.com/CoXier/LowPoly"
+    },
+    {
+        "author": "fancymax",
+        "category": "Swift",
+        "stars": "232",
+        "title": "12306ForMac - An unofficial 12306 Client for Mac",
+        "url": "https://github.com/fancymax/12306ForMac"
+    },
+    {
+        "author": "mozilla",
+        "category": "JavaScript",
+        "stars": "237",
+        "title": "thimble.mozilla.org - Online code editor geared to people teaching and learning HTML, CSS, and JavaScript.",
+        "url": "https://github.com/mozilla/thimble.mozilla.org"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "aosabook",
+        "category": "JavaScript",
+        "stars": "951",
+        "title": "500lines - 500 Lines or Less",
+        "url": "https://github.com/aosabook/500lines"
+    },
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "621",
+        "title": "HEAD - A list of everything that could go in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "558",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "ory-am",
+        "category": "Go",
+        "stars": "406",
+        "title": "hydra - Run your own low-latency, cloud native OAuth2 and OpenID Connect provider. Written in Google Go.",
+        "url": "https://github.com/ory-am/hydra"
+    },
+    {
+        "author": "onmyway133",
+        "category": "Swift",
+        "stars": "298",
+        "title": "fantastic-ios-animation - \u2614 A collection of iOS animation repos",
+        "url": "https://github.com/onmyway133/fantastic-ios-animation"
+    },
+    {
+        "author": "Ramotion",
+        "category": "Swift",
+        "stars": "287",
+        "title": "expanding-collection - ExpandingCollection is a card peek/pop controller",
+        "url": "https://github.com/Ramotion/expanding-collection"
+    },
+    {
+        "author": "parkjs814",
+        "category": "JavaScript",
+        "stars": "263",
+        "title": "AlgorithmVisualizer - Algorithm Visualizer",
+        "url": "https://github.com/parkjs814/AlgorithmVisualizer"
+    },
+    {
+        "author": "thalesians",
+        "category": "Jupyter Notebook",
+        "stars": "254",
+        "title": "pythalesians - Python Open Source Financial Library to backtest trading strategies, plot charts, seamlessly download market data, analyse market patterns and much more!",
+        "url": "https://github.com/thalesians/pythalesians"
+    },
+    {
+        "author": "hemanth",
+        "category": "",
+        "stars": "251",
+        "title": "functional-programming-jargon - Jargon from the functional programming world in simple terms!",
+        "url": "https://github.com/hemanth/functional-programming-jargon"
+    },
+    {
+        "author": "shockone",
+        "category": "TypeScript",
+        "stars": "246",
+        "title": "black-screen - A terminal emulator for the 21st century.",
+        "url": "https://github.com/shockone/black-screen"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "634",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "jcjohnson",
+        "category": "Lua",
+        "stars": "599",
+        "title": "neural-style - Torch implementation of neural style algorithm",
+        "url": "https://github.com/jcjohnson/neural-style"
+    },
+    {
+        "author": "usablica",
+        "category": "JavaScript",
+        "stars": "483",
+        "title": "intro.js - A better way for new feature introduction and step-by-step users guide for your website and project.",
+        "url": "https://github.com/usablica/intro.js"
+    },
+    {
+        "author": "petehunt",
+        "category": "",
+        "stars": "340",
+        "title": "react-howto - Your guide to the (sometimes overwhelming!) React ecosystem.",
+        "url": "https://github.com/petehunt/react-howto"
+    },
+    {
+        "author": "xiekw2010",
+        "category": "JavaScript",
+        "stars": "280",
+        "title": "react-native-gitfeed - Yet another Github client written with react-native.",
+        "url": "https://github.com/xiekw2010/react-native-gitfeed"
+    },
+    {
+        "author": "DreaminginCodeZH",
+        "category": "Java",
+        "stars": "235",
+        "title": "Douya - \u5f00\u6e90\u7684 Material Design \u8c46\u74e3\u5ba2\u6237\u7aef\uff08A Material Design app for douban.com\uff09\u3002",
+        "url": "https://github.com/DreaminginCodeZH/Douya"
+    },
+    {
+        "author": "hollance",
+        "category": "Swift",
+        "stars": "241",
+        "title": "swift-algorithm-club - Algorithms and data structures in Swift, with explanations!",
+        "url": "https://github.com/hollance/swift-algorithm-club"
+    },
+    {
+        "author": "ImagicalMine",
+        "category": "PHP",
+        "stars": "20",
+        "title": "ImagicalMine - ImagicalMine. The first third-party build of PocketMine-MP that rocked the world.",
+        "url": "https://github.com/ImagicalMine/ImagicalMine"
+    },
+    {
+        "author": "aosabook",
+        "category": "TeX",
+        "stars": "175",
+        "title": "500lines - 500 Lines or Less",
+        "url": "https://github.com/aosabook/500lines"
+    },
+    {
+        "author": "Fuck-You-GFW",
+        "category": "JavaScript",
+        "stars": "190",
+        "title": "p2pspider - DHT Spider + BitTorrent Client = P2P Spider",
+        "url": "https://github.com/Fuck-You-GFW/p2pspider"
+    }
+]

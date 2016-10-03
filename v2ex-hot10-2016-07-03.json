@@ -1,0 +1,251 @@
+[
+    
+    {
+        "id" : 289781,
+        "title" : "来，说说你最喜欢的一句电影或美剧台词",
+        "url" : "http://www.v2ex.com/t/289781",
+        "content" : "先来，《绝命毒师》，老白： I\u0027m not in danger, I AM the danger!",
+        "content_rendered" : "\u003Cp\u003E先来，《绝命毒师》，老白： I\u0027m not in danger, I AM the danger!\u003C/p\u003E\u000A",
+        "replies" : 92,
+        "member" : {
+            "id" : 113545,
+            "username" : "slrey",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/6169/cc7f/113545_mini.png?m=1450527275",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/6169/cc7f/113545_normal.png?m=1450527275",
+            "avatar_large" : "//cdn.v2ex.co/avatar/6169/cc7f/113545_large.png?m=1450527275"
+        },
+        "node" : {
+            "id" : 48,
+            "name" : "tv",
+            "title" : "剧集",
+            "title_alternative" : "TV",
+            "url" : "http://www.v2ex.com/go/tv",
+            "topics" : 359,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/642e/92ef/48_mini.png?m=1366783293",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/642e/92ef/48_normal.png?m=1366783293",
+            "avatar_large" : "//cdn.v2ex.co/navatar/642e/92ef/48_large.png?m=1366783293"
+        },
+        "created" : 1467432109,
+        "last_modified" : 1467432109,
+        "last_touched" : 1467495355
+    },
+    
+    {
+        "id" : 289785,
+        "title" : "需要长期运营的项目，千万别用 rails",
+        "url" : "http://www.v2ex.com/t/289785",
+        "content" : "基本上 3 年以后，换服务器的时候项目就等于盼了死刑。\u000D\u000A\u000D\u000A我 13 年做了个项目，用的当时最新的 rails3.2 。现在转服务器，不知道那个 gem 依赖了 eventmachine ，并且必须是 1.0.0 版的，为了兼容这个 1.0.0 版，不得不用 ruby 2.0.0 ，但是，在这个低版本的 ruby 上， rake 已经罢工了，必须得 2.2.2 以上。\u000D\u000A\u000D\u000A其实我用的 gem 不算多， Gemfile 里满打满算也就 10 个左右。\u000D\u000A\u000D\u000Alinux环境的跨度也不算大，仅仅从ubuntu12到ubuntu14，难以想象到ubuntu18、ubuntu20，这个项目还有没有继续运行的可能。\u000D\u000A\u000D\u000A如果你的 web 项目打算让它稳定运行 10 年以上， java 和 php 仍是最佳选择，那些新技术拿来玩玩就行了，别用生产环境。",
+        "content_rendered" : "基本上 3 年以后，换服务器的时候项目就等于盼了死刑。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E我 13 年做了个项目，用的当时最新的 rails3.2 。现在转服务器，不知道那个 gem 依赖了 eventmachine ，并且必须是 1.0.0 版的，为了兼容这个 1.0.0 版，不得不用 ruby 2.0.0 ，但是，在这个低版本的 ruby 上， rake 已经罢工了，必须得 2.2.2 以上。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E其实我用的 gem 不算多， Gemfile 里满打满算也就 10 个左右。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003Elinux环境的跨度也不算大，仅仅从ubuntu12到ubuntu14，难以想象到ubuntu18、ubuntu20，这个项目还有没有继续运行的可能。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E如果你的 web 项目打算让它稳定运行 10 年以上， java 和 php 仍是最佳选择，那些新技术拿来玩玩就行了，别用生产环境。",
+        "replies" : 61,
+        "member" : {
+            "id" : 178006,
+            "username" : "lianghudou",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/2e429d8cd7c6eb8a1a52391a61dbc558?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/2e429d8cd7c6eb8a1a52391a61dbc558?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/2e429d8cd7c6eb8a1a52391a61dbc558?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 12410,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1467371376",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1467371376",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1467371376"
+        },
+        "created" : 1467433569,
+        "last_modified" : 1467433720,
+        "last_touched" : 1467509292
+    },
+    
+    {
+        "id" : 289812,
+        "title" : "不吹不黑，网易云音乐、QQ 音乐、虾米音乐，到底哪家会员更值得买？",
+        "url" : "http://www.v2ex.com/t/289812",
+        "content" : "网易云音乐会员已经到期，看到歌单里下架的歌曲越来越多，已经对它失去了信心，但另外两家尚未接触，就中外流行歌曲曲库来讲，哪家会员更值得买？",
+        "content_rendered" : "网易云音乐会员已经到期，看到歌单里下架的歌曲越来越多，已经对它失去了信心，但另外两家尚未接触，就中外流行歌曲曲库来讲，哪家会员更值得买？",
+        "replies" : 51,
+        "member" : {
+            "id" : 15072,
+            "username" : "depress",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/0a90/e494/15072_mini.png?m=1342442015",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/0a90/e494/15072_normal.png?m=1342442015",
+            "avatar_large" : "//cdn.v2ex.co/avatar/0a90/e494/15072_large.png?m=1342442015"
+        },
+        "node" : {
+            "id" : 4,
+            "name" : "music",
+            "title" : "音乐",
+            "title_alternative" : "Music",
+            "url" : "http://www.v2ex.com/go/music",
+            "topics" : 843,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/a87f/f679/4_mini.png?m=1433959296",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/a87f/f679/4_normal.png?m=1433959296",
+            "avatar_large" : "//cdn.v2ex.co/navatar/a87f/f679/4_large.png?m=1433959296"
+        },
+        "created" : 1467446620,
+        "last_modified" : 1467446620,
+        "last_touched" : 1467498209
+    },
+    
+    {
+        "id" : 289795,
+        "title" : "阿里云这次国际用户大优惠活动彻底暴露了国内企业那种啥的\u002D\u002D\u002D",
+        "url" : "http://www.v2ex.com/t/289795",
+        "content" : "啥就不说了。\u000D\u000A\u000D\u000A当初联想针对收入更高的美国人提供更低价格的笔记本，以后我就再也没想过买联想的任何产品。\u000D\u000A\u000D\u000A阿里云这是要和联想看齐的节奏？",
+        "content_rendered" : "啥就不说了。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E当初联想针对收入更高的美国人提供更低价格的笔记本，以后我就再也没想过买联想的任何产品。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E阿里云这是要和联想看齐的节奏？",
+        "replies" : 48,
+        "member" : {
+            "id" : 91715,
+            "username" : "itsme",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/7ea2532724a11f55a53bda411f39abbd?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/7ea2532724a11f55a53bda411f39abbd?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/7ea2532724a11f55a53bda411f39abbd?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 104,
+            "name" : "cloud",
+            "title" : "云计算",
+            "title_alternative" : "Cloud Computing",
+            "url" : "http://www.v2ex.com/go/cloud",
+            "topics" : 1587,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c9e1/074f/104_mini.png?m=1467371402",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c9e1/074f/104_normal.png?m=1467371402",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c9e1/074f/104_large.png?m=1467371402"
+        },
+        "created" : 1467437454,
+        "last_modified" : 1467437454,
+        "last_touched" : 1467489642
+    },
+    
+    {
+        "id" : 289877,
+        "title" : "父母一生以农业打交道，没啥文化，前几天把他们手上的二十余万元打我账户上了，说存银行利息低，想听听大伙的意见，这款项怎么理财才是最好的呢？",
+        "url" : "http://www.v2ex.com/t/289877",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 43,
+        "member" : {
+            "id" : 168,
+            "username" : "sytao",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/006f/52e9/168_mini.png?m=1399626098",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/006f/52e9/168_normal.png?m=1399626098",
+            "avatar_large" : "//cdn.v2ex.co/avatar/006f/52e9/168_large.png?m=1399626098"
+        },
+        "node" : {
+            "id" : 171,
+            "name" : "invest",
+            "title" : "投资",
+            "title_alternative" : "Invest",
+            "url" : "http://www.v2ex.com/go/invest",
+            "topics" : 285,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/a4a0/42cf/171_mini.png?m=1467513275",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/a4a0/42cf/171_normal.png?m=1467513275",
+            "avatar_large" : "//cdn.v2ex.co/navatar/a4a0/42cf/171_large.png?m=1467513275"
+        },
+        "created" : 1467470375,
+        "last_modified" : 1467513079,
+        "last_touched" : 1467512994
+    },
+    
+    {
+        "id" : 289808,
+        "title" : "拼了，为了 IT 人的健康，现磨挂耳一盒送马克杯",
+        "url" : "http://www.v2ex.com/t/289808",
+        "content" : "原本 39 元一盒的挂耳咖啡， 2 盒送一个马克杯销量也不差。\u000D\u000A但每每看到各公司人们为了贪图点所谓的免费速溶福利，就有种相劝恨晚的冲动。\u000D\u000A前所未有的来一波，也是拼了，\u000D\u000A一盒现磨挂耳咖啡送一个马克杯！全国包邮！还是 39 元 8 套送奶送糖！\u000D\u000A就算不喜欢苦味咖啡，我们送奶和糖好么\u000D\u000A只是希望更多苦难兄弟们能为自己的健康着想，试试现磨咖啡，告别速溶\u000D\u000A加班也许没有权利选择， 996 也许没有权利选择，但每天喝到身体里的健康不健康你是有选择权利的呀！\u000D\u000A\u000D\u000A就说这么多吧，就准备了一百盒，扫码微信直接下单，抢完 1 盒那个选项就会自动被 XX 掉\u000D\u000A马克杯图案款式众多，假如有特别需求请在公众号留言\u000D\u000Ahttps://i.v2ex.co/bVZ83JBTl.jpeg\u000D\u000A\u000D\u000A希望了解速溶咖啡的人，能常来给新人们科普一下差距",
+        "content_rendered" : "原本 39 元一盒的挂耳咖啡， 2 盒送一个马克杯销量也不差。\u000D\u003Cbr /\u003E但每每看到各公司人们为了贪图点所谓的免费速溶福利，就有种相劝恨晚的冲动。\u000D\u003Cbr /\u003E前所未有的来一波，也是拼了，\u000D\u003Cbr /\u003E一盒现磨挂耳咖啡送一个马克杯！全国包邮！还是 39 元 8 套送奶送糖！\u000D\u003Cbr /\u003E就算不喜欢苦味咖啡，我们送奶和糖好么\u000D\u003Cbr /\u003E只是希望更多苦难兄弟们能为自己的健康着想，试试现磨咖啡，告别速溶\u000D\u003Cbr /\u003E加班也许没有权利选择， 996 也许没有权利选择，但每天喝到身体里的健康不健康你是有选择权利的呀！\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E就说这么多吧，就准备了一百盒，扫码微信直接下单，抢完 1 盒那个选项就会自动被 XX 掉\u000D\u003Cbr /\u003E马克杯图案款式众多，假如有特别需求请在公众号留言\u000D\u003Cbr /\u003E\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022/i/bVZ83JBTl.jpeg\u0022 target\u003D\u0022_blank\u0022 title\u003D\u0022在新窗口打开图片 bVZ83JBTl.jpeg\u0022\u003E\u003Cimg src\u003D\u0022//i.v2ex.co/bVZ83JBTl.jpeg\u0022 class\u003D\u0022embedded_image\u0022 /\u003E\u003C/a\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E希望了解速溶咖啡的人，能常来给新人们科普一下差距",
+        "replies" : 37,
+        "member" : {
+            "id" : 1888,
+            "username" : "won",
+            "tagline" : "从小很丑，历经水深火热，粉身碎骨，只为一刻香浓",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/2d1b/2a5f/1888_mini.png?m=1461493218",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/2d1b/2a5f/1888_normal.png?m=1461493218",
+            "avatar_large" : "//cdn.v2ex.co/avatar/2d1b/2a5f/1888_large.png?m=1461493218"
+        },
+        "node" : {
+            "id" : 864,
+            "name" : "promotions",
+            "title" : "推广",
+            "title_alternative" : "Promotions",
+            "url" : "http://www.v2ex.com/go/promotions",
+            "topics" : 415,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/1fc2/1400/864_mini.png?m=1438866395",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/1fc2/1400/864_normal.png?m=1438866395",
+            "avatar_large" : "//cdn.v2ex.co/navatar/1fc2/1400/864_large.png?m=1438866395"
+        },
+        "created" : 1467445335,
+        "last_modified" : 1467445889,
+        "last_touched" : 1467508591
+    },
+    
+    {
+        "id" : 289772,
+        "title" : "QQ 国际版 for Android 在 Google Play Store 上更新了",
+        "url" : "http://www.v2ex.com/t/289772",
+        "content" : "https://play.google.com/store/apps/details?id\u003Dcom.tencent.mobileqqi\u000D\u000A\u000D\u000A这么久都没有动静之后，简直怀疑看错了，\u000D\u000A\u000D\u000A### 新版变化\u000D\u000A1. 兼容 Android5.0 、 6.0 系统\u000D\u000A2. 解决文件发送偶现失败的问题\u000D\u000A3. 解决收藏操作偶现失效问题\u000D\u000A4. 提升版本稳定性\u000D\u000A5. 其他 bugfix\u000D\u000A\u000D\u000Ahttp://i.imgur.com/U7BnPjT.png",
+        "content_rendered" : "\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022https://play.google.com/store/apps/details?id\u003Dcom.tencent.mobileqqi\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://play.google.com/store/apps/details?id\u003Dcom.tencent.mobileqqi\u003C/a\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E这么久都没有动静之后，简直怀疑看错了，\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E### 新版变化\u000D\u003Cbr /\u003E1. 兼容 Android5.0 、 6.0 系统\u000D\u003Cbr /\u003E2. 解决文件发送偶现失败的问题\u000D\u003Cbr /\u003E3. 解决收藏操作偶现失效问题\u000D\u003Cbr /\u003E4. 提升版本稳定性\u000D\u003Cbr /\u003E5. 其他 bugfix\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://i.imgur.com/U7BnPjT.png\u0022 target\u003D\u0022_blank\u0022\u003E\u003Cimg src\u003D\u0022http://i.imgur.com/U7BnPjT.png\u0022 border\u003D\u00220\u0022 class\u003D\u0022embedded_image\u0022 /\u003E\u003C/a\u003E",
+        "replies" : 30,
+        "member" : {
+            "id" : 126797,
+            "username" : "toadloading",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/9dac5ab27354edc3ff070db8ce1a1a66?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/9dac5ab27354edc3ff070db8ce1a1a66?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/9dac5ab27354edc3ff070db8ce1a1a66?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 16,
+            "name" : "share",
+            "title" : "分享发现",
+            "title_alternative" : "Share",
+            "url" : "http://www.v2ex.com/go/share",
+            "topics" : 19609,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c74d/97b0/16_mini.png?m=1467366558",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c74d/97b0/16_normal.png?m=1467366558",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c74d/97b0/16_large.png?m=1467366558"
+        },
+        "created" : 1467428848,
+        "last_modified" : 1467428848,
+        "last_touched" : 1467458781
+    },
+    
+    {
+        "id" : 289853,
+        "title" : "京东白条还款的 bug",
+        "url" : "http://www.v2ex.com/t/289853",
+        "content" : "今天在京东白条还款遇到一个 bug ，看看有没有人遇到一样的问题\u000D\u000A\u000D\u000A一直用的还款银行卡，之前都没出过问题\u000D\u000A\u000D\u000A今天就变这样了  \u000D\u000A![这是图]( http://ww3.sinaimg.cn/large/56d834f6gw1f5fut1mza4j20ss08egmw.jpg)\u000D\u000A\u000D\u000A已经确定手机号没问题  \u000D\u000A微信重新绑定成功  \u000D\u000A京东重新绑定也成功  \u000D\u000A但是就是支付页面判断失败  \u000D\u000A我觉得就是哪个判断的逻辑写错了",
+        "content_rendered" : "\u003Cp\u003E今天在京东白条还款遇到一个 bug ，看看有没有人遇到一样的问题\u003C/p\u003E\u000A\u003Cp\u003E一直用的还款银行卡，之前都没出过问题\u003C/p\u003E\u000A\u003Cp\u003E今天就变这样了\u003Cbr\u003E\u000A\u003Cimg alt\u003D\u0022这是图\u0022 src\u003D\u0022http://ww3.sinaimg.cn/large/56d834f6gw1f5fut1mza4j20ss08egmw.jpg\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E已经确定手机号没问题\u003Cbr\u003E\u000A微信重新绑定成功\u003Cbr\u003E\u000A京东重新绑定也成功\u003Cbr\u003E\u000A但是就是支付页面判断失败\u003Cbr\u003E\u000A我觉得就是哪个判断的逻辑写错了\u003C/p\u003E\u000A",
+        "replies" : 27,
+        "member" : {
+            "id" : 164384,
+            "username" : "crazykuma",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/9f1548f1802f6f90bc255e05cd6663ea?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/9f1548f1802f6f90bc255e05cd6663ea?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/9f1548f1802f6f90bc255e05cd6663ea?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 12410,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1467371376",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1467371376",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1467371376"
+        },
+        "created" : 1467464205,
+        "last_modified" : 1467464243,
+        "last_touched" : 1467493695
+    }
+    
+]

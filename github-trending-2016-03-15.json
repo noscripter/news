@@ -1,0 +1,72 @@
+[
+    {
+        "author": "Rochester-NRT",
+        "category": "JavaScript",
+        "stars": "779",
+        "title": "AlphaGo - A replication of DeepMind's 2016 Nature publication, \"Mastering the game of Go with deep neural networks and tree search,\" details of which can be found on their website.",
+        "url": "https://github.com/Rochester-NRT/AlphaGo"
+    },
+    {
+        "author": "srdja",
+        "category": "C",
+        "stars": "440",
+        "title": "Collections-C - A library of generic data structures.",
+        "url": "https://github.com/srdja/Collections-C"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "408",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "ryanoasis",
+        "category": "Python",
+        "stars": "390",
+        "title": "nerd-fonts - Collection of over 20 patched fonts (over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more",
+        "url": "https://github.com/ryanoasis/nerd-fonts"
+    },
+    {
+        "author": "alexjc",
+        "category": "Python",
+        "stars": "338",
+        "title": "neural-doodle - Turn your two-bit doodles into fine artworks with deep neural networks! An implementation of Semantic Style Transfer.",
+        "url": "https://github.com/alexjc/neural-doodle"
+    },
+    {
+        "author": "Croteam-official",
+        "category": "C++",
+        "stars": "297",
+        "title": "Serious-Engine - An open source version of a game engine developed by Croteam for the classic Serious Sam games.",
+        "url": "https://github.com/Croteam-official/Serious-Engine"
+    },
+    {
+        "author": "vasanthk",
+        "category": "JavaScript",
+        "stars": "303",
+        "title": "js-bits - JavaScript concepts with code!",
+        "url": "https://github.com/vasanthk/js-bits"
+    },
+    {
+        "author": "alehander42",
+        "category": "Python",
+        "stars": "296",
+        "title": "pseudo - automated algorithm translation for Python, C++, JS, Go, C#, Ruby",
+        "url": "https://github.com/alehander42/pseudo"
+    },
+    {
+        "author": "UnivaqTelegramBot",
+        "category": "Python",
+        "stars": "257",
+        "title": "UnivaqInformaticaBot - A telegram bot that shares news of our university's department",
+        "url": "https://github.com/UnivaqTelegramBot/UnivaqInformaticaBot"
+    },
+    {
+        "author": "easychen",
+        "category": "",
+        "stars": "239",
+        "title": "howto-make-more-money - \u7a0b\u5e8f\u5458\u5982\u4f55\u4f18\u96c5\u7684\u6323\u96f6\u82b1\u94b1",
+        "url": "https://github.com/easychen/howto-make-more-money"
+    }
+]

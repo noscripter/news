@@ -1,0 +1,72 @@
+[
+    {
+        "author": "parkjs814",
+        "category": "JavaScript",
+        "stars": "1,099",
+        "title": "AlgorithmVisualizer - Algorithm Visualizer",
+        "url": "https://github.com/parkjs814/AlgorithmVisualizer"
+    },
+    {
+        "author": "CRYTEK-CRYENGINE",
+        "category": "C++",
+        "stars": "1,070",
+        "title": "CRYENGINE - CRYENGINE source code.",
+        "url": "https://github.com/CRYTEK-CRYENGINE/CRYENGINE"
+    },
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "840",
+        "title": "HEAD - A list of everything that goes in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    },
+    {
+        "author": "shockone",
+        "category": "TypeScript",
+        "stars": "733",
+        "title": "black-screen - A terminal emulator for the 21st century.",
+        "url": "https://github.com/shockone/black-screen"
+    },
+    {
+        "author": "picturepan2",
+        "category": "HTML",
+        "stars": "709",
+        "title": "spectre - Spectre.css - a lightweight, responsive and modern CSS framework.",
+        "url": "https://github.com/picturepan2/spectre"
+    },
+    {
+        "author": "rishabhp",
+        "category": "JavaScript",
+        "stars": "620",
+        "title": "bideo.js - Fullscreen HTML5 Background Video for the Web.",
+        "url": "https://github.com/rishabhp/bideo.js"
+    },
+    {
+        "author": "dxa4481",
+        "category": "HTML",
+        "stars": "576",
+        "title": "Pastejacking - A demo of overriding what's in a person's clipboard",
+        "url": "https://github.com/dxa4481/Pastejacking"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "550",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "LukyVj",
+        "category": "HTML",
+        "stars": "522",
+        "title": "family.scss - Family.scss is a set of Sass mixins which will help you to manage the style of :nth-child'ified elements, in an easy way.",
+        "url": "https://github.com/LukyVj/family.scss"
+    },
+    {
+        "author": "marmelab",
+        "category": "CSS",
+        "stars": "469",
+        "title": "universal.css - The only CSS you will ever need",
+        "url": "https://github.com/marmelab/universal.css"
+    }
+]

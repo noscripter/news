@@ -1,0 +1,72 @@
+[
+    {
+        "author": "aosabook",
+        "category": "JavaScript",
+        "stars": "1,305",
+        "title": "500lines - 500 Lines or Less",
+        "url": "https://github.com/aosabook/500lines"
+    },
+    {
+        "author": "thalesians",
+        "category": "Jupyter Notebook",
+        "stars": "507",
+        "title": "pythalesians - Python Open Source Financial Library to backtest trading strategies, plot charts, seamlessly download market data, analyse market patterns and much more!",
+        "url": "https://github.com/thalesians/pythalesians"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "470",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "390",
+        "title": "HEAD - A list of everything that could go in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    },
+    {
+        "author": "parkjs814",
+        "category": "JavaScript",
+        "stars": "245",
+        "title": "AlgorithmVisualizer - Algorithm Visualizer",
+        "url": "https://github.com/parkjs814/AlgorithmVisualizer"
+    },
+    {
+        "author": "ory-am",
+        "category": "Go",
+        "stars": "253",
+        "title": "hydra - Run your own low-latency, cloud native OAuth2 and OpenID Connect provider. Written in Google Go.",
+        "url": "https://github.com/ory-am/hydra"
+    },
+    {
+        "author": "onmyway133",
+        "category": "Swift",
+        "stars": "242",
+        "title": "fantastic-ios-animation - \u2614 A collection of iOS animation repos",
+        "url": "https://github.com/onmyway133/fantastic-ios-animation"
+    },
+    {
+        "author": "eladnava",
+        "category": "HTML",
+        "stars": "235",
+        "title": "mailgen - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.",
+        "url": "https://github.com/eladnava/mailgen"
+    },
+    {
+        "author": "hemanth",
+        "category": "",
+        "stars": "209",
+        "title": "functional-programming-jargon - Jargon from the functional programming world in simple terms!",
+        "url": "https://github.com/hemanth/functional-programming-jargon"
+    },
+    {
+        "author": "alexdrone",
+        "category": "Swift",
+        "stars": "188",
+        "title": "Render - Swift and UIKit a la React.",
+        "url": "https://github.com/alexdrone/Render"
+    }
+]

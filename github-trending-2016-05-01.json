@@ -1,0 +1,72 @@
+[
+    {
+        "author": "akshayKMR",
+        "category": "JavaScript",
+        "stars": "462",
+        "title": "hogwatch - find out what's hogging your internet connection.",
+        "url": "https://github.com/akshayKMR/hogwatch"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "447",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "danielzeller",
+        "category": "Java",
+        "stars": "238",
+        "title": "Depth-LIB-Android- - A library gives depth to Views. It also contains some examples of Canvas drawing techniques to create particle systems, waves and grain effect. I was not really happy with the default shadows in android beacuse they start misbehaving when they are rotated som I made my own shadow solution. Don't expect to much from this lib, it was written as a \u2026",
+        "url": "https://github.com/danielzeller/Depth-LIB-Android-"
+    },
+    {
+        "author": "steshaw",
+        "category": "CSS",
+        "stars": "244",
+        "title": "plt - A path to Programming Language Theory enlightenment",
+        "url": "https://github.com/steshaw/plt"
+    },
+    {
+        "author": "teachthenet",
+        "category": "Python",
+        "stars": "227",
+        "title": "TeachCraft-Challenges - Learn programming in python by giving yourself superpowers in a minecraft world!",
+        "url": "https://github.com/teachthenet/TeachCraft-Challenges"
+    },
+    {
+        "author": "google",
+        "category": "Rust",
+        "stars": "205",
+        "title": "xi-editor - A modern editor with a backend written in Rust.",
+        "url": "https://github.com/google/xi-editor"
+    },
+    {
+        "author": "IonicaBizau",
+        "category": "JavaScript",
+        "stars": "166",
+        "title": "scrape-it - A Node.js scraper for humans.",
+        "url": "https://github.com/IonicaBizau/scrape-it"
+    },
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "137",
+        "title": "HEAD - A list of everything that goes in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    },
+    {
+        "author": "openai",
+        "category": "Python",
+        "stars": "133",
+        "title": "gym - A toolkit for developing and comparing reinforcement learning algorithms.",
+        "url": "https://github.com/openai/gym"
+    },
+    {
+        "author": "carekit-apple",
+        "category": "Objective-C",
+        "stars": "131",
+        "title": "CareKit - CareKit is an open source software framework for creating apps that help people better understand and manage their health.",
+        "url": "https://github.com/carekit-apple/CareKit"
+    }
+]

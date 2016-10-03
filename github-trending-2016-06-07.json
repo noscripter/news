@@ -1,0 +1,72 @@
+[
+    {
+        "author": "googlecreativelab",
+        "category": "C",
+        "stars": "985",
+        "title": "anypixel - A web-friendly way for anyone to build unusual displays",
+        "url": "https://github.com/googlecreativelab/anypixel"
+    },
+    {
+        "author": "git-tips",
+        "category": "JavaScript",
+        "stars": "818",
+        "title": "tips - Most commonly used git tips and tricks.",
+        "url": "https://github.com/git-tips/tips"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "709",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "Dimezis",
+        "category": "Java",
+        "stars": "386",
+        "title": "BlurView - Dynamic iOS-like blur of underlying Views for Android",
+        "url": "https://github.com/Dimezis/BlurView"
+    },
+    {
+        "author": "terryum",
+        "category": "",
+        "stars": "335",
+        "title": "awesome-deep-learning-papers - ",
+        "url": "https://github.com/terryum/awesome-deep-learning-papers"
+    },
+    {
+        "author": "rasbt",
+        "category": "Jupyter Notebook",
+        "stars": "334",
+        "title": "python-machine-learning-book - The \"Python Machine Learning\" book code repository and info resource",
+        "url": "https://github.com/rasbt/python-machine-learning-book"
+    },
+    {
+        "author": "vic317yeh",
+        "category": "",
+        "stars": "295",
+        "title": "One-Click-to-Be-Pro - A list of the best resources to help you get started in becoming a pro",
+        "url": "https://github.com/vic317yeh/One-Click-to-Be-Pro"
+    },
+    {
+        "author": "philackm",
+        "category": "Swift",
+        "stars": "268",
+        "title": "Scrollable-GraphView - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.",
+        "url": "https://github.com/philackm/Scrollable-GraphView"
+    },
+    {
+        "author": "trueadm",
+        "category": "JavaScript",
+        "stars": "261",
+        "title": "inferno - An extremely fast, React-like JavaScript library for building modern user interfaces",
+        "url": "https://github.com/trueadm/inferno"
+    },
+    {
+        "author": "luruke",
+        "category": "JavaScript",
+        "stars": "232",
+        "title": "barba.js - Create badass, fluid and smooth transition between your website's pages.",
+        "url": "https://github.com/luruke/barba.js"
+    }
+]

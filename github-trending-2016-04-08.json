@@ -1,0 +1,72 @@
+[
+    {
+        "author": "martanne",
+        "category": "C",
+        "stars": "717",
+        "title": "vis - a vim like text editor",
+        "url": "https://github.com/martanne/vis"
+    },
+    {
+        "author": "FezVrasta",
+        "category": "JavaScript",
+        "stars": "678",
+        "title": "popper.js - A ~3.5KB kickass library to manage your poppers",
+        "url": "https://github.com/FezVrasta/popper.js"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "533",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "mortenjust",
+        "category": "Swift",
+        "stars": "480",
+        "title": "cleartext-mac - A text editor that only allows the top 1,000 most common words in English",
+        "url": "https://github.com/mortenjust/cleartext-mac"
+    },
+    {
+        "author": "DevLight-Mobile-Agency",
+        "category": "Java",
+        "stars": "412",
+        "title": "NavigationTabBar - Navigation tab bar with colorful interactions.",
+        "url": "https://github.com/DevLight-Mobile-Agency/NavigationTabBar"
+    },
+    {
+        "author": "future-architect",
+        "category": "Go",
+        "stars": "365",
+        "title": "vuls - Vulnerability scanner for Linux, agentless, written in golang.",
+        "url": "https://github.com/future-architect/vuls"
+    },
+    {
+        "author": "jessepollak",
+        "category": "JavaScript",
+        "stars": "321",
+        "title": "command - Making the web better with Slack-like slash commands.",
+        "url": "https://github.com/jessepollak/command"
+    },
+    {
+        "author": "feross",
+        "category": "JavaScript",
+        "stars": "270",
+        "title": "webtorrent-desktop - WebTorrent, the streaming torrent client. For OS X, Windows, and Linux.",
+        "url": "https://github.com/feross/webtorrent-desktop"
+    },
+    {
+        "author": "soimort",
+        "category": "Python",
+        "stars": "255",
+        "title": "you-get - Dumb downloader that scrapes the web",
+        "url": "https://github.com/soimort/you-get"
+    },
+    {
+        "author": "puikinsh",
+        "category": "HTML",
+        "stars": "247",
+        "title": "gentelella - Free Bootstrap 3 Admin Template",
+        "url": "https://github.com/puikinsh/gentelella"
+    }
+]

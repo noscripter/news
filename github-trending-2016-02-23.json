@@ -1,0 +1,72 @@
+[
+    {
+        "author": "santinic",
+        "category": "JavaScript",
+        "stars": "1,023",
+        "title": "how2 - stackoverflow from the terminal",
+        "url": "https://github.com/santinic/how2"
+    },
+    {
+        "author": "facebook",
+        "category": "JavaScript",
+        "stars": "989",
+        "title": "draft-js - A React framework for building text editors.",
+        "url": "https://github.com/facebook/draft-js"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "770",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "VPenkov",
+        "category": "JavaScript",
+        "stars": "653",
+        "title": "okayNav - The world's okayest responsive navigation",
+        "url": "https://github.com/VPenkov/okayNav"
+    },
+    {
+        "author": "qutheory",
+        "category": "Swift",
+        "stars": "595",
+        "title": "vapor - Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.",
+        "url": "https://github.com/qutheory/vapor"
+    },
+    {
+        "author": "necolt",
+        "category": "Swift",
+        "stars": "569",
+        "title": "Swifton - A Ruby on Rails inspired Web Framework for Swift that runs on Linux and OS X",
+        "url": "https://github.com/necolt/Swifton"
+    },
+    {
+        "author": "vulpino",
+        "category": "JavaScript",
+        "stars": "500",
+        "title": "jolteon - Babel + Electron + React + Browserify + SASS application stack",
+        "url": "https://github.com/vulpino/jolteon"
+    },
+    {
+        "author": "lmatteis",
+        "category": "JavaScript",
+        "stars": "347",
+        "title": "peer-tweet - Decentralized feeds using BitTorrent's DHT. Idea from Arvid and The_8472 \"DHT RSS feeds\" http://libtorrent.org/dht_rss.html",
+        "url": "https://github.com/lmatteis/peer-tweet"
+    },
+    {
+        "author": "ImagicalMine",
+        "category": "PHP",
+        "stars": "26",
+        "title": "ImagicalMine - ImagicalMine. The first third-party build of PocketMine-MP that rocked the world.",
+        "url": "https://github.com/ImagicalMine/ImagicalMine"
+    },
+    {
+        "author": "callmecavs",
+        "category": "JavaScript",
+        "stars": "328",
+        "title": "bricks.js - A blazing fast masonry layout generator for fixed width elements.",
+        "url": "https://github.com/callmecavs/bricks.js"
+    }
+]

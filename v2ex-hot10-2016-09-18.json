@@ -1,0 +1,313 @@
+[
+    
+    {
+        "id" : 306725,
+        "title" : "聊聊你当初做的毕设吧",
+        "url" : "http://www.v2ex.com/t/306725",
+        "content" : "其实是想找点灵感。。感谢分享",
+        "content_rendered" : "其实是想找点灵感。。感谢分享",
+        "replies" : 88,
+        "member" : {
+            "id" : 101035,
+            "username" : "imNull",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/46e9/51b4/101035_mini.png?m=1444610767",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/46e9/51b4/101035_normal.png?m=1444610767",
+            "avatar_large" : "//cdn.v2ex.co/avatar/46e9/51b4/101035_large.png?m=1444610767"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 75940,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1473044652",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1473044652",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1473044652"
+        },
+        "created" : 1474081288,
+        "last_modified" : 1474081288,
+        "last_touched" : 1474127415
+    },
+    
+    {
+        "id" : 306691,
+        "title" : "关于刷月饼事件我来唱点反调",
+        "url" : "http://www.v2ex.com/t/306691",
+        "content" : "可能发得有点晚了，是因为我不是有感于事件本身，而是看了大家的讨论一边倒地黑阿里，以至于有一些逻辑显得不是那么合理，所以我想 **仅就几个细节问题** 谈一谈我的想法。\u000D\u000A\u000D\u000A## 这是不是一个价值观问题\u000D\u000A\u000D\u000A我觉得这是一个价值观问题，就好像就是有人觉得「刷月饼」不妥甚至很严重，也有人认为没什么大不了。所谓价值观就是指你如何看待一件事情的对错、如何进行选择，很难说谁对谁错，但这两种人的价值观的确是不同的。公司因为价值观不同开除一个员工其实也没什么不对，对双方都有好处，如果被开除的人不觉得是自己的错，那么也很难说是对他的伤害。\u000D\u000A\u000D\u000A## 下单但没有购买算不算得到了「利益」\u000D\u000A\u000D\u000A既然下单是需要抢的，说明这个订单很可能对应着一份库存，你下单成功了意味着你得到了这样一份权利 —— 你可以在未来的一个小时里决定要不要买这个月饼，你甚至可以等有人出了一个合适的价格之后转卖这个月饼，可以说这种购买的权利就是「抢月饼」的核心利益，所以订单最后是否成交不影响刷月饼获利的这个事实。\u000D\u000A\u000D\u000A## 信息安全相关职位刷月饼是否可以减轻责任\u000D\u000A\u000D\u000A的确可能这个职位的工作之一就是去发现漏洞，但这也是在有工作安排的情况下，而且发现漏洞（活动规则设计不合理可以认为是广义的漏洞）后也不应该去利用它为自己谋利（是否算谋利已在前一小节讨论）。所谓 Geek 精神不应该被当作一个挡箭牌，在一个大的群体里还是要去遵守普适的规则，刷月饼就好像钻公司规章中的空子。**打一个比方的话就好像办公室桌上有十几块月饼给大家吃，并没有限制一个人可以拿几块，但你一个人就拿了一大半，这显然不妥。**\u000D\u000A\u000D\u000A## 抢月饼网站设计不合理开发者是否有责任\u000D\u000A\u000D\u000A我觉得这本来就是一个内部的活动，要考虑一个投入产出的性价比，不可能做到和对外的服务一样稳定和周全，在公司内部大家是有一个基本的信任的。因为往往一个公司的同事之间有着共同的利益和相近的价值观，没必要将方方面面都限制死，相信如果为抢月饼设计一个事无巨细、毫无漏洞的规则也不是大家希望看到的。\u000D\u000A\u000D\u000A## 抢火车票和抢月饼是否是一回事\u000D\u000A\u000D\u000A和前一点有点像，对外和对内是有分别的，从抢火车票这一点来说，你对其他买不到火车票的人是不负有任何的责任的，只要你不违反法律和协议你可以做任何事情；但在公司内则不同，大家需要有基本信任，即使没有明文的规则写明，当然你也可以不遵守这种「潜规则」，后果大概就是因为价值观不符被开除了，只要补偿给到位，开除当然也是合法的。",
+        "content_rendered" : "\u003Cp\u003E可能发得有点晚了，是因为我不是有感于事件本身，而是看了大家的讨论一边倒地黑阿里，以至于有一些逻辑显得不是那么合理，所以我想 \u003Cstrong\u003E仅就几个细节问题\u003C/strong\u003E 谈一谈我的想法。\u003C/p\u003E\u000A\u003Ch2\u003E这是不是一个价值观问题\u003C/h2\u003E\u000A\u003Cp\u003E我觉得这是一个价值观问题，就好像就是有人觉得「刷月饼」不妥甚至很严重，也有人认为没什么大不了。所谓价值观就是指你如何看待一件事情的对错、如何进行选择，很难说谁对谁错，但这两种人的价值观的确是不同的。公司因为价值观不同开除一个员工其实也没什么不对，对双方都有好处，如果被开除的人不觉得是自己的错，那么也很难说是对他的伤害。\u003C/p\u003E\u000A\u003Ch2\u003E下单但没有购买算不算得到了「利益」\u003C/h2\u003E\u000A\u003Cp\u003E既然下单是需要抢的，说明这个订单很可能对应着一份库存，你下单成功了意味着你得到了这样一份权利 —— 你可以在未来的一个小时里决定要不要买这个月饼，你甚至可以等有人出了一个合适的价格之后转卖这个月饼，可以说这种购买的权利就是「抢月饼」的核心利益，所以订单最后是否成交不影响刷月饼获利的这个事实。\u003C/p\u003E\u000A\u003Ch2\u003E信息安全相关职位刷月饼是否可以减轻责任\u003C/h2\u003E\u000A\u003Cp\u003E的确可能这个职位的工作之一就是去发现漏洞，但这也是在有工作安排的情况下，而且发现漏洞（活动规则设计不合理可以认为是广义的漏洞）后也不应该去利用它为自己谋利（是否算谋利已在前一小节讨论）。所谓 Geek 精神不应该被当作一个挡箭牌，在一个大的群体里还是要去遵守普适的规则，刷月饼就好像钻公司规章中的空子。\u003Cstrong\u003E打一个比方的话就好像办公室桌上有十几块月饼给大家吃，并没有限制一个人可以拿几块，但你一个人就拿了一大半，这显然不妥。\u003C/strong\u003E\u003C/p\u003E\u000A\u003Ch2\u003E抢月饼网站设计不合理开发者是否有责任\u003C/h2\u003E\u000A\u003Cp\u003E我觉得这本来就是一个内部的活动，要考虑一个投入产出的性价比，不可能做到和对外的服务一样稳定和周全，在公司内部大家是有一个基本的信任的。因为往往一个公司的同事之间有着共同的利益和相近的价值观，没必要将方方面面都限制死，相信如果为抢月饼设计一个事无巨细、毫无漏洞的规则也不是大家希望看到的。\u003C/p\u003E\u000A\u003Ch2\u003E抢火车票和抢月饼是否是一回事\u003C/h2\u003E\u000A\u003Cp\u003E和前一点有点像，对外和对内是有分别的，从抢火车票这一点来说，你对其他买不到火车票的人是不负有任何的责任的，只要你不违反法律和协议你可以做任何事情；但在公司内则不同，大家需要有基本信任，即使没有明文的规则写明，当然你也可以不遵守这种「潜规则」，后果大概就是因为价值观不符被开除了，只要补偿给到位，开除当然也是合法的。\u003C/p\u003E\u000A",
+        "replies" : 73,
+        "member" : {
+            "id" : 15969,
+            "username" : "jybox",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/a005/7a00/15969_mini.png?m=1404672606",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/a005/7a00/15969_normal.png?m=1404672606",
+            "avatar_large" : "//cdn.v2ex.co/avatar/a005/7a00/15969_large.png?m=1404672606"
+        },
+        "node" : {
+            "id" : 770,
+            "name" : "career",
+            "title" : "职场话题",
+            "title_alternative" : "Career",
+            "url" : "http://www.v2ex.com/go/career",
+            "topics" : 1862,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1471551960",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1471551960",
+            "avatar_large" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1471551960"
+        },
+        "created" : 1474045990,
+        "last_modified" : 1474045990,
+        "last_touched" : 1474128287
+    },
+    
+    {
+        "id" : 306733,
+        "title" : "你司是不是把程序员都开除光了",
+        "url" : "http://www.v2ex.com/t/306733",
+        "content" : "https://i.v2ex.co/mMmCp8p1l.jpeg\u000D\u000A\u000D\u000A之前电脑上不能编辑，现在连查看都不能查看了",
+        "content_rendered" : "\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022/i/mMmCp8p1l.jpeg\u0022 target\u003D\u0022_blank\u0022 title\u003D\u0022在新窗口打开图片 mMmCp8p1l.jpeg\u0022\u003E\u003Cimg src\u003D\u0022//i.v2ex.co/mMmCp8p1l.jpeg\u0022 class\u003D\u0022embedded_image\u0022 /\u003E\u003C/a\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E之前电脑上不能编辑，现在连查看都不能查看了",
+        "replies" : 60,
+        "member" : {
+            "id" : 46086,
+            "username" : "mawing",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/83d5/aac4/46086_mini.png?m=1468940917",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/83d5/aac4/46086_normal.png?m=1468940917",
+            "avatar_large" : "//cdn.v2ex.co/avatar/83d5/aac4/46086_large.png?m=1468940917"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 13228,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1473824941",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1473824941",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1473824941"
+        },
+        "created" : 1474086465,
+        "last_modified" : 1474086465,
+        "last_touched" : 1474128712
+    },
+    
+    {
+        "id" : 306714,
+        "title" : "7 出来了，是时候卖掉你的 iPhone 6s 后换新了。",
+        "url" : "http://www.v2ex.com/t/306714",
+        "content" : "so ，现在一部 带 Apple Care+ 的 iPhone 6s 64GB 能卖多少钱？",
+        "content_rendered" : "so ，现在一部 带 Apple Care+ 的 iPhone 6s 64GB 能卖多少钱？",
+        "replies" : 49,
+        "member" : {
+            "id" : 173821,
+            "username" : "BMW",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/5e43/86bb/173821_mini.png?m=1467279951",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/5e43/86bb/173821_normal.png?m=1467279951",
+            "avatar_large" : "//cdn.v2ex.co/avatar/5e43/86bb/173821_large.png?m=1467279951"
+        },
+        "node" : {
+            "id" : 8,
+            "name" : "iphone",
+            "title" : "iPhone",
+            "title_alternative" : "iPhone",
+            "url" : "http://www.v2ex.com/go/iphone",
+            "topics" : 3788,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c9f0/f895/8_mini.png?m=1473730355",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c9f0/f895/8_normal.png?m=1473730355",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c9f0/f895/8_large.png?m=1473730355"
+        },
+        "created" : 1474077283,
+        "last_modified" : 1474077283,
+        "last_touched" : 1474126410
+    },
+    
+    {
+        "id" : 306722,
+        "title" : "小米路由器插入广告",
+        "url" : "http://www.v2ex.com/t/306722",
+        "content" : "手机浏览个网页上面一条广告，下面一条广告，还以为是人家网站的问题，搞了半天才发现是小米路由器升级了个版本后加的，还关不掉，只能刷回去再关自动更新\u000D\u000A小米路由器青春版，唉，不该贪便宜的",
+        "content_rendered" : "\u003Cp\u003E手机浏览个网页上面一条广告，下面一条广告，还以为是人家网站的问题，搞了半天才发现是小米路由器升级了个版本后加的，还关不掉，只能刷回去再关自动更新\u000A小米路由器青春版，唉，不该贪便宜的\u003C/p\u003E\u000A",
+        "replies" : 44,
+        "member" : {
+            "id" : 65115,
+            "username" : "kennylx",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/1e32/f94b/65115_mini.png?m=1402817899",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/1e32/f94b/65115_normal.png?m=1402817899",
+            "avatar_large" : "//cdn.v2ex.co/avatar/1e32/f94b/65115_large.png?m=1402817899"
+        },
+        "node" : {
+            "id" : 824,
+            "name" : "router",
+            "title" : "路由器",
+            "title_alternative" : "Router",
+            "url" : "http://www.v2ex.com/go/router",
+            "topics" : 323,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/677e/0972/824_mini.png?m=1467646214",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/677e/0972/824_normal.png?m=1467646214",
+            "avatar_large" : "//cdn.v2ex.co/navatar/677e/0972/824_large.png?m=1467646214"
+        },
+        "created" : 1474081128,
+        "last_modified" : 1474081128,
+        "last_touched" : 1474126372
+    },
+    
+    {
+        "id" : 306746,
+        "title" : "怎么让一个网站签发多张 letsencrypt 证书？",
+        "url" : "http://www.v2ex.com/t/306746",
+        "content" : "需要每个子域名一个 letsencrypt 证书，目前主域名 yuhaitao.com 和图片子域名 image.yuhaitao.com 已经通过 https://www.sslforfree.com 签发两张 letsencrypt 证书，且可以顺利续期。\u000D\u000A由于全站强制 https ，不知道怎么解除强制 https ，导致在 https://www.sslforfree.com 签发新的子域名:qiandao.yuhaitao.com 无法打开 http://qiandao.yuhaitao.com/.well\u002Dknown/acme\u002Dchallenge/PaJY7bcGojWV2e5dWy0QShIX9Db9\u002DDUgcN_oXNiazvU （会自动跳转到 https,导致打不开）而不能签发证书，现在已是死循环。\u000D\u000A网站是虚拟主机 cpanel 管理界面，虚拟主机有别的办法签发 letsencrypt 证书吗？\u000D\u000A或者怎么解除强制 https?",
+        "content_rendered" : "需要每个子域名一个 letsencrypt 证书，目前主域名 \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://yuhaitao.com\u0022 rel\u003D\u0022nofollow\u0022\u003Eyuhaitao.com\u003C/a\u003E 和图片子域名 \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://image.yuhaitao.com\u0022 rel\u003D\u0022nofollow\u0022\u003Eimage.yuhaitao.com\u003C/a\u003E 已经通过 \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022https://www.sslforfree.com\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://www.sslforfree.com\u003C/a\u003E 签发两张 letsencrypt 证书，且可以顺利续期。\u000D\u003Cbr /\u003E由于全站强制 https ，不知道怎么解除强制 https ，导致在 \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022https://www.sslforfree.com\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://www.sslforfree.com\u003C/a\u003E 签发新的子域名:qiandao.yuhaitao.com 无法打开 \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://qiandao.yuhaitao.com/.well\u002Dknown/acme\u002Dchallenge/PaJY7bcGojWV2e5dWy0QShIX9Db9\u002DDUgcN_oXNiazvU\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://qiandao.yuhaitao.com/.well\u002Dknown/acme\u002Dchallenge/PaJY7bcGojWV2e5dWy0QShIX9Db9\u002DDUgcN_oXNiazvU\u003C/a\u003E （会自动跳转到 https,导致打不开）而不能签发证书，现在已是死循环。\u000D\u003Cbr /\u003E网站是虚拟主机 cpanel 管理界面，虚拟主机有别的办法签发 letsencrypt 证书吗？\u000D\u003Cbr /\u003E或者怎么解除强制 https?",
+        "replies" : 35,
+        "member" : {
+            "id" : 40259,
+            "username" : "yuhaaitao",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/86ce5cf7d015a91f0b5a7c45b24d26ea?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/86ce5cf7d015a91f0b5a7c45b24d26ea?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/86ce5cf7d015a91f0b5a7c45b24d26ea?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 568,
+            "name" : "ssl",
+            "title" : "SSL",
+            "title_alternative" : "SSL",
+            "url" : "http://www.v2ex.com/go/ssl",
+            "topics" : 351,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/dd45/8505/568_mini.png?m=1471986109",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/dd45/8505/568_normal.png?m=1471986109",
+            "avatar_large" : "//cdn.v2ex.co/navatar/dd45/8505/568_large.png?m=1471986109"
+        },
+        "created" : 1474093228,
+        "last_modified" : 1474093228,
+        "last_touched" : 1474121381
+    },
+    
+    {
+        "id" : 306740,
+        "title" : "MoeTu 一个支持 HTTPS 的图床",
+        "url" : "http://www.v2ex.com/t/306740",
+        "content" : "卧槽，为什么 V2EX 的 MarkDown 不支持分级标题。。\u000D\u000A\u000D\u000A\u000D\u000A小插曲: Google 这是要倒闭了么，升级最新版的 Chrome 就一直崩溃，刚才写的一堆东西都没了。。 GG\u000D\u000A\u000D\u000A##起因\u000D\u000A\u000D\u000A最近闲得无聊检查了下手头上的 VPS/服务器，结果发现自己手上有一大堆，有的甚至闲置了一年。\u000D\u000A\u000D\u000A作为买买买小能手的 Ovear 平时见到便宜的 VPS 就想买，然后就买了一大堆闲置\u002D \u002D（看来以后要少逛些那些奇奇怪怪的论坛了_(:з」∠)_），然而这些服务器基本还都是**传家宝**系列，又舍不得扔掉，就只能放那吃灰了。\u000D\u000A\u000D\u000A寻思着做些什么能够用上这些服务器，先做了个 CDN 给自己和关系不错的菊苣用，然后发现_(:з」∠)_，这。。全都挂的博客，好像还是闲置啊。。\u000D\u000A\u000D\u000A不行我不服(╯‵□′)╯︵┻━┻，我要做点其他的！然后偶然间发现 Ovear 很久之前用 SAE 做的图床。。。老的图片几乎全炸了，官方说是多重 GZIP ，然而并没有 GZIP ，以前也是好的，突然就炸了。\u000D\u000A\u000D\u000A\u000D\u000A##正片\u000D\u000A\u000D\u000A一句话介绍\u000D\u000A\u000D\u000A[MoeTu]( https://moetu.org, \u0022萌图床\u0022) (中文名 萌图床, 域名 [moetu.org]( https://moetu.org), 是一个基于 Chevereto 支持 HTTPS, 自带全球(非洲和澳大利亚不属于全球→_→) CDN 的自用型图床。\u000D\u000A\u000D\u000A![MoeTu]( https://moetu.org/images/2016/09/17/FireShotCapture15\u002DMoeTu\u002DMoeTu\u002Dhttps___moetu.org_6d622.png)\u000D\u000A\u000D\u000A##大家关心的事\u000D\u000A\u000D\u000A###能做多久\u000D\u000A\u000D\u000A关于这个问题嘛，之前看过很多个关于图床帖子，大家都非常在意这点。\u000D\u000A\u000D\u000AOvear 在这里能保证的就是，在 Ovear 经济可承担的范围内会一直提供服务，如果已经超出 Ovear **个人经济能够允许**的范围内，可能就会采取**更改 TOS** 的做法来确保 Ovear 和 Ovear 的朋友们能够正常使用了。（恩。。一般是删除闲置图片，停止上传啥的），当然如果真的出现不再提供服务的情况，我能保证的就是**提供备份档**下载，域名嘛，除非不可抗力的原因一般不会换的。\u000D\u000A\u000D\u000A###图床性质\u000D\u000A\u000D\u000A[MoeTu]( https://moetu.org, \u0022萌图床\u0022) 是一个以**自用为主**（或者说半自用）的**福利性质**的图床。是基于 Ovear **本身使用需求**从而弄出来的东西，一般来说都**限于 Ovear 和 Ovear 所在的各种圈子**内使用，所以稳定性方面，基本不会有太大的问题。（稳定性可以参考 Wonder Project (不知道的可以看看历史发帖哈哈)， Ovear 一个两年前的项目，然而被人放到百度知道之后就 GG \u000D\u000A了）\u000D\u000A\u000D\u000A所以如果各位使用的话，麻烦请遵循 **TOS** 以及 **不主动宣传** 策略。\u000D\u000A恩。。很明确的是**不支持奇怪的图片上传**\u000D\u000A\u000D\u000A###不主动宣传策略\u000D\u000A\u000D\u000A中国有句老话叫做闷声发大财，你们滋糍不滋糍啊。\u000D\u000A\u000D\u000A基本上就是希望大家能自己用就够了，不要去奇怪的地方宣传，比如说度娘知道啊，某榴啊，反正那些奇怪的地方（天国的 SSS 。。。）\u000D\u000A\u000D\u000A一句话概括，闷声发大财，小范围使用。\u000D\u000A\u000D\u000A###TOS\u000D\u000A\u000D\u000A希望大家都能够遵守\u000D\u000A![TOS]( https://moetu.org/images/2016/09/17/FireShotCapture16\u002DTermsofservice\u002DMoeTu\u002Dhttps___moetu.org_page_tos3d551.png)\u000D\u000A\u000D\u000A)其实我是来晒晒 自架 CDN 的。。→_→",
+        "content_rendered" : "\u003Cp\u003E卧槽，为什么 V2EX 的 MarkDown 不支持分级标题。。\u003C/p\u003E\u000A\u003Cp\u003E小插曲: Google 这是要倒闭了么，升级最新版的 Chrome 就一直崩溃，刚才写的一堆东西都没了。。 GG\u003C/p\u003E\u000A\u003Cp\u003E##起因\u003C/p\u003E\u000A\u003Cp\u003E最近闲得无聊检查了下手头上的 VPS/服务器，结果发现自己手上有一大堆，有的甚至闲置了一年。\u003C/p\u003E\u000A\u003Cp\u003E作为买买买小能手的 Ovear 平时见到便宜的 VPS 就想买，然后就买了一大堆闲置\u002D \u002D（看来以后要少逛些那些奇奇怪怪的论坛了_(:з」∠)_），然而这些服务器基本还都是\u003Cstrong\u003E传家宝\u003C/strong\u003E系列，又舍不得扔掉，就只能放那吃灰了。\u003C/p\u003E\u000A\u003Cp\u003E寻思着做些什么能够用上这些服务器，先做了个 CDN 给自己和关系不错的菊苣用，然后发现_(:з」∠)_，这。。全都挂的博客，好像还是闲置啊。。\u003C/p\u003E\u000A\u003Cp\u003E不行我不服(╯‵□′)╯︵┻━┻，我要做点其他的！然后偶然间发现 Ovear 很久之前用 SAE 做的图床。。。老的图片几乎全炸了，官方说是多重 GZIP ，然而并没有 GZIP ，以前也是好的，突然就炸了。\u003C/p\u003E\u000A\u003Cp\u003E##正片\u003C/p\u003E\u000A\u003Cp\u003E一句话介绍\u003C/p\u003E\u000A\u003Cp\u003E\u003Ca href\u003D\u0022https://moetu.org,\u0022 rel\u003D\u0022nofollow\u0022 title\u003D\u0022萌图床\u0022\u003EMoeTu\u003C/a\u003E (中文名 萌图床, 域名 \u003Ca href\u003D\u0022https://moetu.org\u0022 rel\u003D\u0022nofollow\u0022\u003Emoetu.org\u003C/a\u003E, 是一个基于 Chevereto 支持 HTTPS, 自带全球(非洲和澳大利亚不属于全球→_→) CDN 的自用型图床。\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022MoeTu\u0022 src\u003D\u0022https://moetu.org/images/2016/09/17/FireShotCapture15\u002DMoeTu\u002DMoeTu\u002Dhttps___moetu.org_6d622.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E##大家关心的事\u003C/p\u003E\u000A\u003Cp\u003E###能做多久\u003C/p\u003E\u000A\u003Cp\u003E关于这个问题嘛，之前看过很多个关于图床帖子，大家都非常在意这点。\u003C/p\u003E\u000A\u003Cp\u003EOvear 在这里能保证的就是，在 Ovear 经济可承担的范围内会一直提供服务，如果已经超出 Ovear \u003Cstrong\u003E个人经济能够允许\u003C/strong\u003E的范围内，可能就会采取\u003Cstrong\u003E更改 TOS\u003C/strong\u003E 的做法来确保 Ovear 和 Ovear 的朋友们能够正常使用了。（恩。。一般是删除闲置图片，停止上传啥的），当然如果真的出现不再提供服务的情况，我能保证的就是\u003Cstrong\u003E提供备份档\u003C/strong\u003E下载，域名嘛，除非不可抗力的原因一般不会换的。\u003C/p\u003E\u000A\u003Cp\u003E###图床性质\u003C/p\u003E\u000A\u003Cp\u003E\u003Ca href\u003D\u0022https://moetu.org,\u0022 rel\u003D\u0022nofollow\u0022 title\u003D\u0022萌图床\u0022\u003EMoeTu\u003C/a\u003E 是一个以\u003Cstrong\u003E自用为主\u003C/strong\u003E（或者说半自用）的\u003Cstrong\u003E福利性质\u003C/strong\u003E的图床。是基于 Ovear \u003Cstrong\u003E本身使用需求\u003C/strong\u003E从而弄出来的东西，一般来说都\u003Cstrong\u003E限于 Ovear 和 Ovear 所在的各种圈子\u003C/strong\u003E内使用，所以稳定性方面，基本不会有太大的问题。（稳定性可以参考 Wonder Project (不知道的可以看看历史发帖哈哈)， Ovear 一个两年前的项目，然而被人放到百度知道之后就 GG\u000A了）\u003C/p\u003E\u000A\u003Cp\u003E所以如果各位使用的话，麻烦请遵循 \u003Cstrong\u003ETOS\u003C/strong\u003E 以及 \u003Cstrong\u003E不主动宣传\u003C/strong\u003E 策略。\u000A恩。。很明确的是\u003Cstrong\u003E不支持奇怪的图片上传\u003C/strong\u003E\u003C/p\u003E\u000A\u003Cp\u003E###不主动宣传策略\u003C/p\u003E\u000A\u003Cp\u003E中国有句老话叫做闷声发大财，你们滋糍不滋糍啊。\u003C/p\u003E\u000A\u003Cp\u003E基本上就是希望大家能自己用就够了，不要去奇怪的地方宣传，比如说度娘知道啊，某榴啊，反正那些奇怪的地方（天国的 SSS 。。。）\u003C/p\u003E\u000A\u003Cp\u003E一句话概括，闷声发大财，小范围使用。\u003C/p\u003E\u000A\u003Cp\u003E###TOS\u003C/p\u003E\u000A\u003Cp\u003E希望大家都能够遵守\u000A\u003Cimg alt\u003D\u0022TOS\u0022 src\u003D\u0022https://moetu.org/images/2016/09/17/FireShotCapture16\u002DTermsofservice\u002DMoeTu\u002Dhttps___moetu.org_page_tos3d551.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E)其实我是来晒晒 自架 CDN 的。。→_→\u003C/p\u003E\u000A",
+        "replies" : 34,
+        "member" : {
+            "id" : 33390,
+            "username" : "ovear",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/b4ea/4cc5/33390_mini.png?m=1376930147",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/b4ea/4cc5/33390_normal.png?m=1376930147",
+            "avatar_large" : "//cdn.v2ex.co/avatar/b4ea/4cc5/33390_large.png?m=1376930147"
+        },
+        "node" : {
+            "id" : 17,
+            "name" : "create",
+            "title" : "分享创造",
+            "title_alternative" : "Create",
+            "url" : "http://www.v2ex.com/go/create",
+            "topics" : 6153,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/70ef/df2e/17_mini.png?m=1473309452",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/70ef/df2e/17_normal.png?m=1473309452",
+            "avatar_large" : "//cdn.v2ex.co/navatar/70ef/df2e/17_large.png?m=1473309452"
+        },
+        "created" : 1474090215,
+        "last_modified" : 1474090386,
+        "last_touched" : 1474109881
+    },
+    
+    {
+        "id" : 306777,
+        "title" : "欺负一下暴力破解 SSH 密码的脚本小子，分享一个 SSH 蜜罐",
+        "url" : "http://www.v2ex.com/t/306777",
+        "content" : "这是一个在 GitHub 上找到的开源项目，名叫 Cowrie ： https://github.com/micheloosterhof/cowrie 。\u000D\u000A简单地测试了一下，支持记录暴破用的密码，支持记录登录蜜罐后执行的命令，“登录”后是一个伪装的 Debian 系统，还支持伪装的 apt\u002Dget install （笑）。\u000D\u000A还可以配置成让对方暴破一定随机次数后“登录”，简直神器。",
+        "content_rendered" : "这是一个在 GitHub 上找到的开源项目，名叫 Cowrie ： \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022https://github.com/micheloosterhof/cowrie\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://github.com/micheloosterhof/cowrie\u003C/a\u003E 。\u000D\u003Cbr /\u003E简单地测试了一下，支持记录暴破用的密码，支持记录登录蜜罐后执行的命令，“登录”后是一个伪装的 Debian 系统，还支持伪装的 apt\u002Dget install （笑）。\u000D\u003Cbr /\u003E还可以配置成让对方暴破一定随机次数后“登录”，简直神器。",
+        "replies" : 31,
+        "member" : {
+            "id" : 141191,
+            "username" : "raysonx",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/5c14/eb63/141191_mini.png?m=1459688466",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/5c14/eb63/141191_normal.png?m=1459688466",
+            "avatar_large" : "//cdn.v2ex.co/avatar/5c14/eb63/141191_large.png?m=1459688466"
+        },
+        "node" : {
+            "id" : 11,
+            "name" : "linux",
+            "title" : "Linux",
+            "title_alternative" : "Linux",
+            "url" : "http://www.v2ex.com/go/linux",
+            "topics" : 2690,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/6512/bd43/11_mini.png?m=1473826412",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/6512/bd43/11_normal.png?m=1473826412",
+            "avatar_large" : "//cdn.v2ex.co/navatar/6512/bd43/11_large.png?m=1473826412"
+        },
+        "created" : 1474106336,
+        "last_modified" : 1474106336,
+        "last_touched" : 1474126487
+    },
+    
+    {
+        "id" : 306749,
+        "title" : "无法升级 iTunes 到 12.5.1",
+        "url" : "http://www.v2ex.com/t/306749",
+        "content" : "系统是： EI Capitan （ 10.11.6 ）\u000D\u000A\u000D\u000A目前 iTunes 版本： 12.3.2.35\u000D\u000A\u000D\u000A具体表现为 downloading 后 install 阶段一闪而过，打开 itunes 还是原来的版本。",
+        "content_rendered" : "\u003Cp\u003E系统是： EI Capitan （ 10.11.6 ）\u003C/p\u003E\u000A\u003Cp\u003E目前 iTunes 版本： 12.3.2.35\u003C/p\u003E\u000A\u003Cp\u003E具体表现为 downloading 后 install 阶段一闪而过，打开 itunes 还是原来的版本。\u003C/p\u003E\u000A",
+        "replies" : 27,
+        "member" : {
+            "id" : 45104,
+            "username" : "tchekai704",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/f303/160d/45104_mini.png?m=1440045420",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/f303/160d/45104_normal.png?m=1440045420",
+            "avatar_large" : "//cdn.v2ex.co/avatar/f303/160d/45104_large.png?m=1440045420"
+        },
+        "node" : {
+            "id" : 184,
+            "name" : "apple",
+            "title" : "Apple",
+            "title_alternative" : "Apple",
+            "url" : "http://www.v2ex.com/go/apple",
+            "topics" : 2713,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/6cdd/60ea/184_mini.png?m=1438057435",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/6cdd/60ea/184_normal.png?m=1438057435",
+            "avatar_large" : "//cdn.v2ex.co/navatar/6cdd/60ea/184_large.png?m=1438057435"
+        },
+        "created" : 1474094045,
+        "last_modified" : 1474094045,
+        "last_touched" : 1474123855
+    },
+    
+    {
+        "id" : 306767,
+        "title" : "为什么普遍不推荐魔声耳机",
+        "url" : "http://www.v2ex.com/t/306767",
+        "content" : "这个结论是根据翻 v2 的历史回帖感觉到的，\u000D\u000A但是今天去试听感觉还蛮符合我口味（不是指外貌）。\u000D\u000A详情戳 www.v2ex.com/t/305415 \u000D\u000A\u000D\u000A不太懂玄学，莫不是我木耳朵听不出好坏？",
+        "content_rendered" : "\u003Cp\u003E这个结论是根据翻 v2 的历史回帖感觉到的，\u000A但是今天去试听感觉还蛮符合我口味（不是指外貌）。\u000A详情戳 \u003Ca href\u003D\u0022http://www.v2ex.com/t/305415\u0022 rel\u003D\u0022nofollow\u0022\u003Ewww.v2ex.com/t/305415\u003C/a\u003E\u003C/p\u003E\u000A\u003Cp\u003E不太懂玄学，莫不是我木耳朵听不出好坏？\u003C/p\u003E\u000A",
+        "replies" : 24,
+        "member" : {
+            "id" : 88773,
+            "username" : "ZyZyZzz",
+            "tagline" : "Nothing is true \u002D 兼听则明",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/c945/e775/88773_mini.png?m=1463734147",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/c945/e775/88773_normal.png?m=1463734147",
+            "avatar_large" : "//cdn.v2ex.co/avatar/c945/e775/88773_large.png?m=1463734147"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 75940,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1473044652",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1473044652",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1473044652"
+        },
+        "created" : 1474101780,
+        "last_modified" : 1474101780,
+        "last_touched" : 1474128637
+    }
+    
+]

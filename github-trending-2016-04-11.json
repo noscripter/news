@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "494",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "giacomocerquone",
+        "category": "JavaScript",
+        "stars": "394",
+        "title": "angular2-mean-starter - A very neat and simple starter kit for an angular2 MEAN app.",
+        "url": "https://github.com/giacomocerquone/angular2-mean-starter"
+    },
+    {
+        "author": "puikinsh",
+        "category": "HTML",
+        "stars": "281",
+        "title": "gentelella - Free Bootstrap 3 Admin Template",
+        "url": "https://github.com/puikinsh/gentelella"
+    },
+    {
+        "author": "gabrielrcouto",
+        "category": "PHP",
+        "stars": "218",
+        "title": "php-gui - Extensionless PHP Graphic User Interface library",
+        "url": "https://github.com/gabrielrcouto/php-gui"
+    },
+    {
+        "author": "akveo",
+        "category": "JavaScript",
+        "stars": "218",
+        "title": "blur-admin - Free Angular Bootstrap Admin Dashboard",
+        "url": "https://github.com/akveo/blur-admin"
+    },
+    {
+        "author": "kamranahmedse",
+        "category": "Shell",
+        "stars": "220",
+        "title": "git-standup - Recall what you did on the last working day ..Psst! or be nosy and find what some \"other guy\" in your team did ;-)",
+        "url": "https://github.com/kamranahmedse/git-standup"
+    },
+    {
+        "author": "firehol",
+        "category": "C",
+        "stars": "181",
+        "title": "netdata - Real-time performance monitoring, done right!",
+        "url": "https://github.com/firehol/netdata"
+    },
+    {
+        "author": "phodal",
+        "category": "HTML",
+        "stars": "174",
+        "title": "growth-ebook - Growth: \u5168\u6808\u589e\u957f\u5de5\u7a0b\u5e08\u6307\u5357\u3002Growth: Learning How to be a Growth Full Stack in 7 Steps.",
+        "url": "https://github.com/phodal/growth-ebook"
+    },
+    {
+        "author": "mzule",
+        "category": "Java",
+        "stars": "156",
+        "title": "ActivityRouter - Router activities.",
+        "url": "https://github.com/mzule/ActivityRouter"
+    },
+    {
+        "author": "antontarasenko",
+        "category": "",
+        "stars": "162",
+        "title": "smq - A collection of SQL queries to social media datasets.",
+        "url": "https://github.com/antontarasenko/smq"
+    }
+]

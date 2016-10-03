@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "360",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "oneuijs",
+        "category": "JavaScript",
+        "stars": "266",
+        "title": "You-Dont-Need-jQuery - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.",
+        "url": "https://github.com/oneuijs/You-Dont-Need-jQuery"
+    },
+    {
+        "author": "wjakob",
+        "category": "C++",
+        "stars": "209",
+        "title": "pybind11 - Seamless operability between C++11 and Python",
+        "url": "https://github.com/wjakob/pybind11"
+    },
+    {
+        "author": "Quartz",
+        "category": "",
+        "stars": "192",
+        "title": "bad-data-guide - An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.",
+        "url": "https://github.com/Quartz/bad-data-guide"
+    },
+    {
+        "author": "rupa",
+        "category": "Shell",
+        "stars": "179",
+        "title": "z - z is the new j, yo",
+        "url": "https://github.com/rupa/z"
+    },
+    {
+        "author": "apple",
+        "category": "C++",
+        "stars": "157",
+        "title": "swift - The Swift Programming Language",
+        "url": "https://github.com/apple/swift"
+    },
+    {
+        "author": "bvaughn",
+        "category": "JavaScript",
+        "stars": "140",
+        "title": "react-virtualized - React components for efficiently rendering large, scrollable lists and tabular data",
+        "url": "https://github.com/bvaughn/react-virtualized"
+    },
+    {
+        "author": "treasure-data",
+        "category": "JavaScript",
+        "stars": "126",
+        "title": "redux-search - Redux bindings for client-side search",
+        "url": "https://github.com/treasure-data/redux-search"
+    },
+    {
+        "author": "MaximAbramchuck",
+        "category": "",
+        "stars": "115",
+        "title": "awesome-interviews - A curated awesome list of lists of interview questions. Feel free to contribute!",
+        "url": "https://github.com/MaximAbramchuck/awesome-interviews"
+    },
+    {
+        "author": "LeaVerou",
+        "category": "JavaScript",
+        "stars": "107",
+        "title": "bliss - Blissful JavaScript",
+        "url": "https://github.com/LeaVerou/bliss"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "618",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "dutchcoders",
+        "category": "CSS",
+        "stars": "472",
+        "title": "transfer.sh - Easy and fast file sharing from the command-line.",
+        "url": "https://github.com/dutchcoders/transfer.sh"
+    },
+    {
+        "author": "searchkit",
+        "category": "TypeScript",
+        "stars": "394",
+        "title": "searchkit - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.",
+        "url": "https://github.com/searchkit/searchkit"
+    },
+    {
+        "author": "dgraph-io",
+        "category": "Go",
+        "stars": "314",
+        "title": "dgraph - Scalable, Distributed, Low Latency Graph Database",
+        "url": "https://github.com/dgraph-io/dgraph"
+    },
+    {
+        "author": "redox-os",
+        "category": "Rust",
+        "stars": "300",
+        "title": "redox - Redox: A Rust Operating System",
+        "url": "https://github.com/redox-os/redox"
+    },
+    {
+        "author": "AutumnsWind",
+        "category": "PHP",
+        "stars": "270",
+        "title": "Front-end-tutorial - \u6700\u5168\u7684\u8d44\u6e90\u6559\u7a0b-\u524d\u7aef\u6d89\u53ca\u7684\u6240\u6709\u77e5\u8bc6\u4f53\u7cfb",
+        "url": "https://github.com/AutumnsWind/Front-end-tutorial"
+    },
+    {
+        "author": "vydd",
+        "category": "Common Lisp",
+        "stars": "284",
+        "title": "sketch - A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.",
+        "url": "https://github.com/vydd/sketch"
+    },
+    {
+        "author": "MasayukiSuda",
+        "category": "Java",
+        "stars": "273",
+        "title": "EasingInterpolator - Twenty-eight different easing animation interpolators for Android.",
+        "url": "https://github.com/MasayukiSuda/EasingInterpolator"
+    },
+    {
+        "author": "celrenheit",
+        "category": "Go",
+        "stars": "272",
+        "title": "lion - Lion is a fast HTTP router for building modern scalable modular REST APIs in Go",
+        "url": "https://github.com/celrenheit/lion"
+    },
+    {
+        "author": "redspread",
+        "category": "Go",
+        "stars": "266",
+        "title": "spread - Docker to Kubernetes in one command",
+        "url": "https://github.com/redspread/spread"
+    }
+]

@@ -1,0 +1,251 @@
+[
+    
+    {
+        "id" : 268420,
+        "title" : "SSD 要不要分区呢？",
+        "url" : "http://www.v2ex.com/t/268420",
+        "content" : "网上都各执一词，还是说就和普通硬盘一样随便艹？",
+        "content_rendered" : "网上都各执一词，还是说就和普通硬盘一样随便艹？",
+        "replies" : 95,
+        "member" : {
+            "id" : 119553,
+            "username" : "freaks",
+            "tagline" : "There is no failure, only trying",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/ecea/96db/119553_mini.png?m=1459353962",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/ecea/96db/119553_normal.png?m=1459353962",
+            "avatar_large" : "//cdn.v2ex.co/avatar/ecea/96db/119553_large.png?m=1459353962"
+        },
+        "node" : {
+            "id" : 688,
+            "name" : "ssd",
+            "title" : "SSD",
+            "title_alternative" : "SSD",
+            "url" : "http://www.v2ex.com/go/ssd",
+            "topics" : 235,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/f799/21bb/688_mini.png?m=1442293067",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/f799/21bb/688_normal.png?m=1442293067",
+            "avatar_large" : "//cdn.v2ex.co/navatar/f799/21bb/688_large.png?m=1442293067"
+        },
+        "created" : 1459737913,
+        "last_modified" : 1459737913,
+        "last_touched" : 1459818745
+    },
+    
+    {
+        "id" : 268512,
+        "title" : "400M 的数据库， 1 亿 9 千行用什么索引比较好",
+        "url" : "http://www.v2ex.com/t/268512",
+        "content" : "直接 TXT 按照 hash 划分可以嘛？",
+        "content_rendered" : "直接 TXT 按照 hash 划分可以嘛？",
+        "replies" : 61,
+        "member" : {
+            "id" : 99470,
+            "username" : "Andy1999",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/0e28/94f9/99470_mini.png?m=1444030292",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/0e28/94f9/99470_normal.png?m=1444030292",
+            "avatar_large" : "//cdn.v2ex.co/avatar/0e28/94f9/99470_large.png?m=1444030292"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 11448,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1459494482",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1459494482",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1459494482"
+        },
+        "created" : 1459770747,
+        "last_modified" : 1459770747,
+        "last_touched" : 1459819954
+    },
+    
+    {
+        "id" : 268451,
+        "title" : "程序猿的素养就是英语和搜索",
+        "url" : "http://www.v2ex.com/t/268451",
+        "content" : "我发现，英语不好， stackoverflow 上的问题我能看懂，我也知道该怎么解决，为什么会是这样。但当我打英文的时候，根本不知道该怎么说，语法一通错～～～每次只能草草当一个路人。",
+        "content_rendered" : "我发现，英语不好， stackoverflow 上的问题我能看懂，我也知道该怎么解决，为什么会是这样。但当我打英文的时候，根本不知道该怎么说，语法一通错～～～每次只能草草当一个路人。",
+        "replies" : 51,
+        "member" : {
+            "id" : 113080,
+            "username" : "cc7756789",
+            "tagline" : "...",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/b73d/d7aa/113080_mini.png?m=1440127321",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/b73d/d7aa/113080_normal.png?m=1440127321",
+            "avatar_large" : "//cdn.v2ex.co/avatar/b73d/d7aa/113080_large.png?m=1440127321"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 11448,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1459494482",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1459494482",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1459494482"
+        },
+        "created" : 1459746716,
+        "last_modified" : 1459746867,
+        "last_touched" : 1459790556
+    },
+    
+    {
+        "id" : 268464,
+        "title" : "52G 的库，用什么办法检索速度最快？",
+        "url" : "http://www.v2ex.com/t/268464",
+        "content" : "只导了 126 的数据到 mysql 已经有 10G ，做了索引， like 语法查起来还是很慢。（平均： 45s 设备： 256SSD+i5 ）\u000D\u000A要想达到 163password.download 查询的速度，该用什么技术或架构？",
+        "content_rendered" : "\u003Cp\u003E只导了 126 的数据到 mysql 已经有 10G ，做了索引， like 语法查起来还是很慢。（平均： 45s 设备： 256SSD+i5 ）\u000A要想达到 163password.download 查询的速度，该用什么技术或架构？\u003C/p\u003E\u000A",
+        "replies" : 51,
+        "member" : {
+            "id" : 67476,
+            "username" : "ifconfig",
+            "tagline" : "http://ykenny.github.io/resume/",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/f653/4fa3/67476_mini.png?m=1459756032",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/f653/4fa3/67476_normal.png?m=1459756032",
+            "avatar_large" : "//cdn.v2ex.co/avatar/f653/4fa3/67476_large.png?m=1459756032"
+        },
+        "node" : {
+            "id" : 61,
+            "name" : "mysql",
+            "title" : "MySQL",
+            "title_alternative" : "MySQL",
+            "url" : "http://www.v2ex.com/go/mysql",
+            "topics" : 514,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/7f39/f831/61_mini.png?m=1459295286",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/7f39/f831/61_normal.png?m=1459295286",
+            "avatar_large" : "//cdn.v2ex.co/navatar/7f39/f831/61_large.png?m=1459295286"
+        },
+        "created" : 1459751014,
+        "last_modified" : 1459758300,
+        "last_touched" : 1459792769
+    },
+    
+    {
+        "id" : 268531,
+        "title" : "注册了一个$99 的 Apple 开发者帐号， 要开发一个什么样的 App 才能在把钱转回来呢？",
+        "url" : "http://www.v2ex.com/t/268531",
+        "content" : "最近因为公司原因自掏腰包买了个 99 刀的开发者帐号， 心里想想总觉得不划算。总想赚回来。\u000D\u000A加上最近敲代码的时间比较少， 就想做一个 Apps 放到 App Store 上赚个几百块。 \u000D\u000A即赚回了本钱，又锻炼了技术， 还可以练练 swift 刚好。 \u000D\u000A\u000D\u000A但是不知道那种 Apps 合适。自己做出来以后 Apps 到底该免费，还是付费， 还是广告收费？\u000D\u000A创意肯定是我自己想的， 但是到底那种 Apps 比较适合赚这种小钱？ 求指教。\u000D\u000A\u000D\u000A计划是一个月内，每天晚上做一点。 不包括周末。",
+        "content_rendered" : "\u003Cp\u003E最近因为公司原因自掏腰包买了个 99 刀的开发者帐号， 心里想想总觉得不划算。总想赚回来。\u000A加上最近敲代码的时间比较少， 就想做一个 Apps 放到 App Store 上赚个几百块。\u000A即赚回了本钱，又锻炼了技术， 还可以练练 swift 刚好。\u003C/p\u003E\u000A\u003Cp\u003E但是不知道那种 Apps 合适。自己做出来以后 Apps 到底该免费，还是付费， 还是广告收费？\u000A创意肯定是我自己想的， 但是到底那种 Apps 比较适合赚这种小钱？ 求指教。\u003C/p\u003E\u000A\u003Cp\u003E计划是一个月内，每天晚上做一点。 不包括周末。\u003C/p\u003E\u000A",
+        "replies" : 49,
+        "member" : {
+            "id" : 26595,
+            "username" : "chengchao0311",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/322e/03b7/26595_mini.png?m=1459777400",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/322e/03b7/26595_normal.png?m=1459777400",
+            "avatar_large" : "//cdn.v2ex.co/avatar/322e/03b7/26595_large.png?m=1459777400"
+        },
+        "node" : {
+            "id" : 13,
+            "name" : "idev",
+            "title" : "iDev",
+            "title_alternative" : "iDev",
+            "url" : "http://www.v2ex.com/go/idev",
+            "topics" : 2751,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c51c/e410/13_mini.png?m=1459494709",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c51c/e410/13_normal.png?m=1459494709",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c51c/e410/13_large.png?m=1459494709"
+        },
+        "created" : 1459778935,
+        "last_modified" : 1459778992,
+        "last_touched" : 1459820520
+    },
+    
+    {
+        "id" : 268547,
+        "title" : "看书/思考时，你们左手在做什么？",
+        "url" : "http://www.v2ex.com/t/268547",
+        "content" : "看书 /思考时，你们左手，或者说副手，在做什么？   \u000D\u000A\u000D\u000A我自己来说，多数情况下都是在 —— 拔胡子！   \u000D\u000A现在似乎已成为强迫症状之一了，很多时候也反过来影响注意力了，想改...   \u000D\u000A\u000D\u000A曾经买了串珠子，盘一盘，但没习惯下来，有时拿着珠子又继续拔胡子了。   \u000D\u000A后来，珠子弄丢了",
+        "content_rendered" : "\u003Cp\u003E看书 /思考时，你们左手，或者说副手，在做什么？\u003C/p\u003E\u000A\u003Cp\u003E我自己来说，多数情况下都是在 —— 拔胡子！\u003Cbr\u003E\u000A现在似乎已成为强迫症状之一了，很多时候也反过来影响注意力了，想改...\u003C/p\u003E\u000A\u003Cp\u003E曾经买了串珠子，盘一盘，但没习惯下来，有时拿着珠子又继续拔胡子了。\u003Cbr\u003E\u000A后来，珠子弄丢了\u003C/p\u003E\u000A",
+        "replies" : 32,
+        "member" : {
+            "id" : 140905,
+            "username" : "hxd",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/720f/c411/140905_mini.png?m=1444230797",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/720f/c411/140905_normal.png?m=1444230797",
+            "avatar_large" : "//cdn.v2ex.co/avatar/720f/c411/140905_large.png?m=1444230797"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 11448,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1459494482",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1459494482",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1459494482"
+        },
+        "created" : 1459784380,
+        "last_modified" : 1459784406,
+        "last_touched" : 1459819837
+    },
+    
+    {
+        "id" : 268442,
+        "title" : "12 枚金币中有 1 枚是假的,用天平称 3 次找出结果。",
+        "url" : "http://www.v2ex.com/t/268442",
+        "content" : "12 枚金币外观相同，正常金币重量是标准一致的，假金币只是重量异常，天平没有砝码，如何只称 3 次，找出假金币以及它比正常金币轻了还是重了。\u000D\u000A这个问题，网上随便一搜就能找到答案，只是金币换成了小球或别的什么。\u000D\u000A有没有用编程作一个通用的解决办法？例如 120 枚中 1 枚假的，称 5 次能不能找出假金币的轻重等\u000D\u000A试着用穷举法做了一个，发现计算量有点大。\u000D\u000A求思路或答案。",
+        "content_rendered" : "12 枚金币外观相同，正常金币重量是标准一致的，假金币只是重量异常，天平没有砝码，如何只称 3 次，找出假金币以及它比正常金币轻了还是重了。\u000D\u003Cbr /\u003E这个问题，网上随便一搜就能找到答案，只是金币换成了小球或别的什么。\u000D\u003Cbr /\u003E有没有用编程作一个通用的解决办法？例如 120 枚中 1 枚假的，称 5 次能不能找出假金币的轻重等\u000D\u003Cbr /\u003E试着用穷举法做了一个，发现计算量有点大。\u000D\u003Cbr /\u003E求思路或答案。",
+        "replies" : 31,
+        "member" : {
+            "id" : 32828,
+            "username" : "ncdx2009",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/b783/acd4/32828_mini.png?m=1448016835",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/b783/acd4/32828_normal.png?m=1448016835",
+            "avatar_large" : "//cdn.v2ex.co/avatar/b783/acd4/32828_large.png?m=1448016835"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 67074,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1459494599",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1459494599",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1459494599"
+        },
+        "created" : 1459743343,
+        "last_modified" : 1459743343,
+        "last_touched" : 1459775342
+    },
+    
+    {
+        "id" : 268469,
+        "title" : "如何从 G 家.com.hk 永久跳转到.com?",
+        "url" : "http://www.v2ex.com/t/268469",
+        "content" : "总是被跳转到 google.com.hk 虽然可以通过访问 google.com 然后点击使用 google.com 但是这样打开的 google 的搜索界面还是 google.com.hk 谁来支个招？别说 /ncr 啊。",
+        "content_rendered" : "总是被跳转到 google.com.hk 虽然可以通过访问 \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://google.com\u0022 rel\u003D\u0022nofollow\u0022\u003Egoogle.com\u003C/a\u003E 然后点击使用 \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://google.com\u0022 rel\u003D\u0022nofollow\u0022\u003Egoogle.com\u003C/a\u003E 但是这样打开的 google 的搜索界面还是 google.com.hk 谁来支个招？别说 /ncr 啊。",
+        "replies" : 30,
+        "member" : {
+            "id" : 112919,
+            "username" : "Tony1ee",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/896c43beb5014e6737f094f723f2feaf?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/896c43beb5014e6737f094f723f2feaf?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/896c43beb5014e6737f094f723f2feaf?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 67074,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1459494599",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1459494599",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1459494599"
+        },
+        "created" : 1459752831,
+        "last_modified" : 1459752831,
+        "last_touched" : 1459814302
+    }
+    
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "alibaba",
+        "category": "Java",
+        "stars": "819",
+        "title": "weex - A framework for building Mobile cross-platform UI",
+        "url": "https://github.com/alibaba/weex"
+    },
+    {
+        "author": "cht8687",
+        "category": "JavaScript",
+        "stars": "846",
+        "title": "You-Dont-Need-Lodash-Underscore - Lists of Javascript methods which you can use natively",
+        "url": "https://github.com/cht8687/You-Dont-Need-Lodash-Underscore"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "525",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "olistic",
+        "category": "JavaScript",
+        "stars": "510",
+        "title": "warriorjs - Game written in JavaScript for learning JavaScript and artificial intelligence.",
+        "url": "https://github.com/olistic/warriorjs"
+    },
+    {
+        "author": "juliangarnier",
+        "category": "JavaScript",
+        "stars": "452",
+        "title": "anime - Javascript Animation Engine",
+        "url": "https://github.com/juliangarnier/anime"
+    },
+    {
+        "author": "RossMcMillan92",
+        "category": "JavaScript",
+        "stars": "299",
+        "title": "djent - A metal breakdown generator",
+        "url": "https://github.com/RossMcMillan92/djent"
+    },
+    {
+        "author": "jesserayadkins",
+        "category": "C",
+        "stars": "301",
+        "title": "lily - An interpreted language with a focus on expressiveness and type safety",
+        "url": "https://github.com/jesserayadkins/lily"
+    },
+    {
+        "author": "servo",
+        "category": "",
+        "stars": "233",
+        "title": "servo - The Servo Browser Engine",
+        "url": "https://github.com/servo/servo"
+    },
+    {
+        "author": "toddmotto",
+        "category": "",
+        "stars": "204",
+        "title": "public-apis - A collective list of public JSON APIs for use in web development.",
+        "url": "https://github.com/toddmotto/public-apis"
+    },
+    {
+        "author": "guarinogabriel",
+        "category": "Shell",
+        "stars": "193",
+        "title": "mac-cli - \uf8ff OS X command line tools for developers \u2013 The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.",
+        "url": "https://github.com/guarinogabriel/mac-cli"
+    }
+]

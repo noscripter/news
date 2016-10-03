@@ -1,0 +1,72 @@
+[
+    {
+        "author": "gavinkwoe",
+        "category": "JavaScript",
+        "stars": "819",
+        "title": "weapp-ide-crack - \u3010\u5e94\u7528\u53f7\u3011IDE + \u7834\u89e3 + Demo",
+        "url": "https://github.com/gavinkwoe/weapp-ide-crack"
+    },
+    {
+        "author": "BurntSushi",
+        "category": "Rust",
+        "stars": "594",
+        "title": "ripgrep - ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+        "url": "https://github.com/BurntSushi/ripgrep"
+    },
+    {
+        "author": "Aufree",
+        "category": "JavaScript",
+        "stars": "497",
+        "title": "awesome-wechat-weapp - \u5fae\u4fe1\u5c0f\u7a0b\u5e8f\u8d44\u6e90\u6c47\u603b\u6574\u7406\uff0c Awesome WeChat WeApp\uff0c\u6db5\u62ec\u5fae\u4fe1 Web \u5f00\u53d1\u8005\u5de5\u5177\u6536\u96c6\uff0cWeApp \u6559\u7a0b\u6536\u96c6\uff0c\u7ad9\u70b9\u6536\u96c6\u548c\u4ee3\u7801\u5b9e\u4f8b",
+        "url": "https://github.com/Aufree/awesome-wechat-weapp"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "496",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "Tencent",
+        "category": "Java",
+        "stars": "426",
+        "title": "tinker - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",
+        "url": "https://github.com/Tencent/tinker"
+    },
+    {
+        "author": "alexflint",
+        "category": "Go",
+        "stars": "395",
+        "title": "gallium - Build desktop applications in Go and HTML.",
+        "url": "https://github.com/alexflint/gallium"
+    },
+    {
+        "author": "apple",
+        "category": "Swift",
+        "stars": "312",
+        "title": "swift-protobuf-plugin - Generate Swift code with this protoc plugin",
+        "url": "https://github.com/apple/swift-protobuf-plugin"
+    },
+    {
+        "author": "justjavac",
+        "category": "",
+        "stars": "283",
+        "title": "awesome-wechat-weapp - \u5fae\u4fe1\u5c0f\u7a0b\u5e8f\u5f00\u53d1\u8d44\u6e90\u6c47\u603b",
+        "url": "https://github.com/justjavac/awesome-wechat-weapp"
+    },
+    {
+        "author": "kholia",
+        "category": "Shell",
+        "stars": "273",
+        "title": "OSX-KVM - Running Mac OS X El Capitan and macOS Sierra on QEMU/KVM",
+        "url": "https://github.com/kholia/OSX-KVM"
+    },
+    {
+        "author": "fogleman",
+        "category": "Go",
+        "stars": "257",
+        "title": "primitive - Reproducing images with geometric primitives.",
+        "url": "https://github.com/fogleman/primitive"
+    }
+]

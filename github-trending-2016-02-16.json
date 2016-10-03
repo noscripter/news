@@ -1,0 +1,72 @@
+[
+    {
+        "author": "allenwong",
+        "category": "Objective-C",
+        "stars": "1,102",
+        "title": "30DaysofSwift - A self taught project to learn swift.",
+        "url": "https://github.com/allenwong/30DaysofSwift"
+    },
+    {
+        "author": "dhamaniasad",
+        "category": "",
+        "stars": "733",
+        "title": "awesome-postgres - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql",
+        "url": "https://github.com/dhamaniasad/awesome-postgres"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "614",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "joealcorn",
+        "category": "Python",
+        "stars": "350",
+        "title": "laboratory - A Python library for carefully refactoring critical paths (and a port of Github's Scientist)",
+        "url": "https://github.com/joealcorn/laboratory"
+    },
+    {
+        "author": "so-fancy",
+        "category": "Shell",
+        "stars": "337",
+        "title": "diff-so-fancy - Good-lookin' diffs with diff-highlight and more",
+        "url": "https://github.com/so-fancy/diff-so-fancy"
+    },
+    {
+        "author": "pinterest",
+        "category": "JavaScript",
+        "stars": "269",
+        "title": "teletraan - Teletraan is Pinterest's deploy system.",
+        "url": "https://github.com/pinterest/teletraan"
+    },
+    {
+        "author": "ellisonleao",
+        "category": "JavaScript",
+        "stars": "268",
+        "title": "sharer.js - Create your own social share buttons",
+        "url": "https://github.com/ellisonleao/sharer.js"
+    },
+    {
+        "author": "JetBrains",
+        "category": "Java",
+        "stars": "253",
+        "title": "kotlin - The Kotlin Programming Language",
+        "url": "https://github.com/JetBrains/kotlin"
+    },
+    {
+        "author": "jbranchaud",
+        "category": "",
+        "stars": "225",
+        "title": "til - Today I Learned",
+        "url": "https://github.com/jbranchaud/til"
+    },
+    {
+        "author": "StevenBlack",
+        "category": "Python",
+        "stars": "204",
+        "title": "hosts - Extending and consolidating hosts files from a variety of sources like adaway.org, mvps.org, malwaredomains.com, someonewhocares.org, yoyo.org, and potentially others.",
+        "url": "https://github.com/StevenBlack/hosts"
+    }
+]

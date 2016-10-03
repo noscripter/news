@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "689",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "conorpp",
+        "category": "C",
+        "stars": "599",
+        "title": "u2f-zero - U2F USB token optimized for physical security, affordability, and style",
+        "url": "https://github.com/conorpp/u2f-zero"
+    },
+    {
+        "author": "kataras",
+        "category": "Go",
+        "stars": "384",
+        "title": "iris - The fastest web framework for Go in (THIS) earth",
+        "url": "https://github.com/kataras/iris"
+    },
+    {
+        "author": "Microsoft",
+        "category": "HTML",
+        "stars": "311",
+        "title": "monaco-editor - A browser based code editor",
+        "url": "https://github.com/Microsoft/monaco-editor"
+    },
+    {
+        "author": "alexkuz",
+        "category": "JavaScript",
+        "stars": "289",
+        "title": "react-input-enhancements - Set of enhancements for input control",
+        "url": "https://github.com/alexkuz/react-input-enhancements"
+    },
+    {
+        "author": "chmln",
+        "category": "JavaScript",
+        "stars": "277",
+        "title": "flatpickr - lightweight, powerful datetimepicker. zero dependencies",
+        "url": "https://github.com/chmln/flatpickr"
+    },
+    {
+        "author": "zetbaitsu",
+        "category": "Java",
+        "stars": "242",
+        "title": "Compressor - An android image compression library.",
+        "url": "https://github.com/zetbaitsu/Compressor"
+    },
+    {
+        "author": "ManrajGrover",
+        "category": "HTML",
+        "stars": "202",
+        "title": "SingleDivProject - One <div>. Many possibilities.",
+        "url": "https://github.com/ManrajGrover/SingleDivProject"
+    },
+    {
+        "author": "qs-lll",
+        "category": "Java",
+        "stars": "188",
+        "title": "ExpandingPager - ExpandingPager is a card peek/pop controller",
+        "url": "https://github.com/qs-lll/ExpandingPager"
+    },
+    {
+        "author": "algolia",
+        "category": "JavaScript",
+        "stars": "180",
+        "title": "places - \ud83c\udf10 Turn any <input> into an address autocomplete",
+        "url": "https://github.com/algolia/places"
+    }
+]

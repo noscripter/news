@@ -1,0 +1,72 @@
+[
+    {
+        "author": "google",
+        "category": "Objective-C",
+        "stars": "907",
+        "title": "EarlGrey - iOS UI Automation Test Framework",
+        "url": "https://github.com/google/EarlGrey"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "583",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "allenwong",
+        "category": "Swift",
+        "stars": "530",
+        "title": "30DaysofSwift - A self taught project to learn Swift.",
+        "url": "https://github.com/allenwong/30DaysofSwift"
+    },
+    {
+        "author": "callmecavs",
+        "category": "JavaScript",
+        "stars": "460",
+        "title": "bricks.js - A blazing fast masonry layout generator for fixed width elements.",
+        "url": "https://github.com/callmecavs/bricks.js"
+    },
+    {
+        "author": "scup",
+        "category": "JavaScript",
+        "stars": "263",
+        "title": "atellier - The smartest way to share interactive components with your team.",
+        "url": "https://github.com/scup/atellier"
+    },
+    {
+        "author": "Hashnode",
+        "category": "JavaScript",
+        "stars": "171",
+        "title": "mern-starter - Boilerplate for getting started with MERN stack",
+        "url": "https://github.com/Hashnode/mern-starter"
+    },
+    {
+        "author": "dhamaniasad",
+        "category": "",
+        "stars": "167",
+        "title": "awesome-postgres - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql",
+        "url": "https://github.com/dhamaniasad/awesome-postgres"
+    },
+    {
+        "author": "JetBrains",
+        "category": "Java",
+        "stars": "150",
+        "title": "kotlin - The Kotlin Programming Language",
+        "url": "https://github.com/JetBrains/kotlin"
+    },
+    {
+        "author": "marmelroy",
+        "category": "Swift",
+        "stars": "145",
+        "title": "FileBrowser - Finder-style iOS file browser written in Swift",
+        "url": "https://github.com/marmelroy/FileBrowser"
+    },
+    {
+        "author": "Cleveroad",
+        "category": "Objective-C",
+        "stars": "149",
+        "title": "CRParticleEffect - A CocoaPod that simplifies creation of the particle effects.",
+        "url": "https://github.com/Cleveroad/CRParticleEffect"
+    }
+]

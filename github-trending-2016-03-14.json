@@ -1,0 +1,72 @@
+[
+    {
+        "author": "Rochester-NRT",
+        "category": "JavaScript",
+        "stars": "739",
+        "title": "AlphaGo - A replication of DeepMind's 2016 Nature publication, \"Mastering the game of Go with deep neural networks and tree search,\" details of which can be found on their website.",
+        "url": "https://github.com/Rochester-NRT/AlphaGo"
+    },
+    {
+        "author": "ryanoasis",
+        "category": "Python",
+        "stars": "541",
+        "title": "nerd-fonts - Collection of over 20 patched fonts (over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more",
+        "url": "https://github.com/ryanoasis/nerd-fonts"
+    },
+    {
+        "author": "alexjc",
+        "category": "Python",
+        "stars": "291",
+        "title": "neural-doodle - Turn your two-bit doodles into fine artworks with deep neural networks! An implementation of Semantic Style Transfer.",
+        "url": "https://github.com/alexjc/neural-doodle"
+    },
+    {
+        "author": "srdja",
+        "category": "C",
+        "stars": "274",
+        "title": "Collections-C - A library of generic data structures.",
+        "url": "https://github.com/srdja/Collections-C"
+    },
+    {
+        "author": "Croteam-official",
+        "category": "C++",
+        "stars": "237",
+        "title": "Serious-Engine - An open source version of a game engine developed by Croteam for the classic Serious Sam games.",
+        "url": "https://github.com/Croteam-official/Serious-Engine"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "247",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "jpmens",
+        "category": "C",
+        "stars": "243",
+        "title": "jo - JSON output from a shell",
+        "url": "https://github.com/jpmens/jo"
+    },
+    {
+        "author": "vasanthk",
+        "category": "JavaScript",
+        "stars": "195",
+        "title": "js-bits - JavaScript concepts with code!",
+        "url": "https://github.com/vasanthk/js-bits"
+    },
+    {
+        "author": "antoor",
+        "category": "JavaScript",
+        "stars": "126",
+        "title": "antSword - \u4e2d\u56fd\u8681\u5251\u662f\u4e00\u6b3e\u8de8\u5e73\u53f0\u7684\u5f00\u6e90\u7f51\u7ad9\u7ba1\u7406\u5de5\u5177",
+        "url": "https://github.com/antoor/antSword"
+    },
+    {
+        "author": "kazzkiq",
+        "category": "CSS",
+        "stars": "150",
+        "title": "balloon.css - Simple tooltips made of pure CSS",
+        "url": "https://github.com/kazzkiq/balloon.css"
+    }
+]

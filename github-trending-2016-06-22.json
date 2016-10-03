@@ -1,0 +1,72 @@
+[
+    {
+        "author": "kataras",
+        "category": "Go",
+        "stars": "1,092",
+        "title": "iris - The fastest web framework for Go in (THIS) earth",
+        "url": "https://github.com/kataras/iris"
+    },
+    {
+        "author": "Microsoft",
+        "category": "HTML",
+        "stars": "808",
+        "title": "monaco-editor - A browser based code editor",
+        "url": "https://github.com/Microsoft/monaco-editor"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "696",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "ManrajGrover",
+        "category": "HTML",
+        "stars": "455",
+        "title": "SingleDivProject - One <div>. Many possibilities.",
+        "url": "https://github.com/ManrajGrover/SingleDivProject"
+    },
+    {
+        "author": "a1studmuffin",
+        "category": "Python",
+        "stars": "351",
+        "title": "SpaceshipGenerator - A Blender script to procedurally generate 3D spaceships",
+        "url": "https://github.com/a1studmuffin/SpaceshipGenerator"
+    },
+    {
+        "author": "algolia",
+        "category": "JavaScript",
+        "stars": "353",
+        "title": "places - \ud83c\udf10 Turn any <input> into an address autocomplete",
+        "url": "https://github.com/algolia/places"
+    },
+    {
+        "author": "nayafia",
+        "category": "",
+        "stars": "312",
+        "title": "lemonade-stand - A handy guide to financial support for open source",
+        "url": "https://github.com/nayafia/lemonade-stand"
+    },
+    {
+        "author": "loopeer",
+        "category": "Java",
+        "stars": "262",
+        "title": "CardStackView - One Custom view for show something just like cards with animations.",
+        "url": "https://github.com/loopeer/CardStackView"
+    },
+    {
+        "author": "qs-lll",
+        "category": "Java",
+        "stars": "249",
+        "title": "ExpandingPager - ExpandingPager is a card peek/pop controller",
+        "url": "https://github.com/qs-lll/ExpandingPager"
+    },
+    {
+        "author": "UDST",
+        "category": "JavaScript",
+        "stars": "230",
+        "title": "vizicities - A framework for 3D geospatial visualisation in the browser",
+        "url": "https://github.com/UDST/vizicities"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "fbsamples",
+        "category": "JavaScript",
+        "stars": "1,012",
+        "title": "f8app - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.",
+        "url": "https://github.com/fbsamples/f8app"
+    },
+    {
+        "author": "Ramotion",
+        "category": "Java",
+        "stars": "566",
+        "title": "folding-cell-android - FoldingCell is an expanding content cell inspired by folding paper material",
+        "url": "https://github.com/Ramotion/folding-cell-android"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "549",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "tensorflow",
+        "category": "TypeScript",
+        "stars": "488",
+        "title": "playground - Play with neural networks!",
+        "url": "https://github.com/tensorflow/playground"
+    },
+    {
+        "author": "facebook",
+        "category": "Objective-C",
+        "stars": "429",
+        "title": "FBRetainCycleDetector - iOS library to help detecting retain cycles in runtime.",
+        "url": "https://github.com/facebook/FBRetainCycleDetector"
+    },
+    {
+        "author": "facebook",
+        "category": "C++",
+        "stars": "367",
+        "title": "redex - A bytecode optimizer for Android apps",
+        "url": "https://github.com/facebook/redex"
+    },
+    {
+        "author": "facebook",
+        "category": "Objective-C",
+        "stars": "357",
+        "title": "FBMemoryProfiler - iOS tool that helps with profiling iOS Memory usage.",
+        "url": "https://github.com/facebook/FBMemoryProfiler"
+    },
+    {
+        "author": "googlesamples",
+        "category": "",
+        "stars": "331",
+        "title": "android-architecture - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+        "url": "https://github.com/googlesamples/android-architecture"
+    },
+    {
+        "author": "alda-lang",
+        "category": "Clojure",
+        "stars": "319",
+        "title": "alda - A music programming language for musicians.",
+        "url": "https://github.com/alda-lang/alda"
+    },
+    {
+        "author": "tensorflow",
+        "category": "C++",
+        "stars": "246",
+        "title": "tensorflow - Computation using data flow graphs for scalable machine learning",
+        "url": "https://github.com/tensorflow/tensorflow"
+    }
+]

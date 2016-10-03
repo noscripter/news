@@ -1,0 +1,72 @@
+[
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "1,137",
+        "title": "HEAD - A list of everything that goes in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    },
+    {
+        "author": "reverse-shell",
+        "category": "Python",
+        "stars": "933",
+        "title": "routersploit - The Router Exploitation Framework",
+        "url": "https://github.com/reverse-shell/routersploit"
+    },
+    {
+        "author": "chartjs",
+        "category": "JavaScript",
+        "stars": "666",
+        "title": "Chart.js - Simple HTML5 Charts using the <canvas> tag",
+        "url": "https://github.com/chartjs/Chart.js"
+    },
+    {
+        "author": "cisco",
+        "category": "Scheme",
+        "stars": "601",
+        "title": "ChezScheme - Chez Scheme",
+        "url": "https://github.com/cisco/ChezScheme"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "588",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "humaan",
+        "category": "CSS",
+        "stars": "298",
+        "title": "Modaal - An accessible dialog window library for all humans.",
+        "url": "https://github.com/humaan/Modaal"
+    },
+    {
+        "author": "grafijs",
+        "category": "JavaScript",
+        "stars": "284",
+        "title": "grafi - ",
+        "url": "https://github.com/grafijs/grafi"
+    },
+    {
+        "author": "anishathalye",
+        "category": "Python",
+        "stars": "280",
+        "title": "git-remote-dropbox - A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote!  http://www.anishathalye.com/2015/08/19/git-remote-dropbox/",
+        "url": "https://github.com/anishathalye/git-remote-dropbox"
+    },
+    {
+        "author": "shekhargulati",
+        "category": "HTML",
+        "stars": "275",
+        "title": "52-technologies-in-2016 - Let's learn a new technology every week. A new technology blog every Sunday in 2016.",
+        "url": "https://github.com/shekhargulati/52-technologies-in-2016"
+    },
+    {
+        "author": "google",
+        "category": "Java",
+        "stars": "248",
+        "title": "agera - Reactive Programming for Android",
+        "url": "https://github.com/google/agera"
+    }
+]

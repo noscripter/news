@@ -1,0 +1,72 @@
+[
+    {
+        "author": "facebookincubator",
+        "category": "JavaScript",
+        "stars": "1,575",
+        "title": "create-react-app - Create React apps with no build configuration.",
+        "url": "https://github.com/facebookincubator/create-react-app"
+    },
+    {
+        "author": "FallibleInc",
+        "category": "",
+        "stars": "1,017",
+        "title": "security-guide-for-developers - Security Guide for Developers",
+        "url": "https://github.com/FallibleInc/security-guide-for-developers"
+    },
+    {
+        "author": "AHAAAAAAA",
+        "category": "Python",
+        "stars": "498",
+        "title": "PokemonGo-Map - Live visualization of all the pokemon in your area... and more!",
+        "url": "https://github.com/AHAAAAAAA/PokemonGo-Map"
+    },
+    {
+        "author": "wireapp",
+        "category": "Objective-C",
+        "stars": "349",
+        "title": "wire-ios - Wire iOS client (iPhone and iPad)",
+        "url": "https://github.com/wireapp/wire-ios"
+    },
+    {
+        "author": "jaywcjlove",
+        "category": "",
+        "stars": "319",
+        "title": "awesome-mac - \uf8ff This repo is a collection of awesome Mac applications and tools for developers and designers.",
+        "url": "https://github.com/jaywcjlove/awesome-mac"
+    },
+    {
+        "author": "wireapp",
+        "category": "Java",
+        "stars": "233",
+        "title": "wire-android - Wire Android UI",
+        "url": "https://github.com/wireapp/wire-android"
+    },
+    {
+        "author": "hypotext",
+        "category": "",
+        "stars": "238",
+        "title": "notation - Collection of quotes on interesting notations & how they affect thought.",
+        "url": "https://github.com/hypotext/notation"
+    },
+    {
+        "author": "sahat",
+        "category": "CSS",
+        "stars": "228",
+        "title": "hackathon-starter - A boilerplate for Node.js web applications",
+        "url": "https://github.com/sahat/hackathon-starter"
+    },
+    {
+        "author": "PokemonGoF",
+        "category": "Python",
+        "stars": "150",
+        "title": "PokemonGo-Bot - The Pokemon Go Bot script, baking with community.",
+        "url": "https://github.com/PokemonGoF/PokemonGo-Bot"
+    },
+    {
+        "author": "wireapp",
+        "category": "",
+        "stars": "181",
+        "title": "wire - Overview of the open source code for Wire",
+        "url": "https://github.com/wireapp/wire"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "alexjc",
+        "category": "Python",
+        "stars": "1,231",
+        "title": "neural-doodle - Turn your two-bit doodles into fine artworks with deep neural networks! An implementation of Semantic Style Transfer.",
+        "url": "https://github.com/alexjc/neural-doodle"
+    },
+    {
+        "author": "ssloy",
+        "category": "C++",
+        "stars": "572",
+        "title": "tinyrenderer - Support c++ code for a short computer graphics course",
+        "url": "https://github.com/ssloy/tinyrenderer"
+    },
+    {
+        "author": "Rochester-NRT",
+        "category": "JavaScript",
+        "stars": "460",
+        "title": "AlphaGo - A replication of DeepMind's 2016 Nature publication, \"Mastering the game of Go with deep neural networks and tree search,\" details of which can be found on their website.",
+        "url": "https://github.com/Rochester-NRT/AlphaGo"
+    },
+    {
+        "author": "Kickball",
+        "category": "Makefile",
+        "stars": "396",
+        "title": "awesome-selfhosted - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.",
+        "url": "https://github.com/Kickball/awesome-selfhosted"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "399",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "jed",
+        "category": "JavaScript",
+        "stars": "355",
+        "title": "lave - eval in reverse: stringifying all the stuff that JSON.stringify won't",
+        "url": "https://github.com/jed/lave"
+    },
+    {
+        "author": "kazzkiq",
+        "category": "CSS",
+        "stars": "313",
+        "title": "balloon.css - Simple tooltips made of pure CSS",
+        "url": "https://github.com/kazzkiq/balloon.css"
+    },
+    {
+        "author": "ascribe",
+        "category": "Python",
+        "stars": "305",
+        "title": "image-match - Quickly search over billions of images",
+        "url": "https://github.com/ascribe/image-match"
+    },
+    {
+        "author": "sideshow",
+        "category": "Go",
+        "stars": "238",
+        "title": "apns2 - \u26a1HTTP/2 Apple Push Notification Service (APNs) push provider for Go \u2014 Send push notifications to iOS, tvOS, and OSX apps, using the new APNs HTTP/2 protocol.",
+        "url": "https://github.com/sideshow/apns2"
+    },
+    {
+        "author": "autumnai",
+        "category": "Rust",
+        "stars": "195",
+        "title": "leaf - The Hacker's Machine Learning Engine",
+        "url": "https://github.com/autumnai/leaf"
+    }
+]

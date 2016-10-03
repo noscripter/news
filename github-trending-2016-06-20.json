@@ -1,0 +1,72 @@
+[
+    {
+        "author": "a1studmuffin",
+        "category": "Python",
+        "stars": "1,512",
+        "title": "SpaceshipGenerator - A Blender script to procedurally generate 3D spaceships",
+        "url": "https://github.com/a1studmuffin/SpaceshipGenerator"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "538",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "nayafia",
+        "category": "",
+        "stars": "373",
+        "title": "lemonade-stand - A handy guide to making $$ in open source",
+        "url": "https://github.com/nayafia/lemonade-stand"
+    },
+    {
+        "author": "algolia",
+        "category": "JavaScript",
+        "stars": "166",
+        "title": "places - \ud83c\udf10 Turn any <input> into an address autocomplete",
+        "url": "https://github.com/algolia/places"
+    },
+    {
+        "author": "kataras",
+        "category": "Go",
+        "stars": "133",
+        "title": "iris - The fastest web framework for Go in (THIS) earth",
+        "url": "https://github.com/kataras/iris"
+    },
+    {
+        "author": "coursera-dl",
+        "category": "HTML",
+        "stars": "126",
+        "title": "coursera-dl - Script for downloading Coursera.org videos and naming them.",
+        "url": "https://github.com/coursera-dl/coursera-dl"
+    },
+    {
+        "author": "dvLden",
+        "category": "JavaScript",
+        "stars": "127",
+        "title": "Vidage - Your solution to full-screen background video & image combined.",
+        "url": "https://github.com/dvLden/Vidage"
+    },
+    {
+        "author": "weixin",
+        "category": "JavaScript",
+        "stars": "102",
+        "title": "WeFlow - An efficient and powerful, cross-platform front-end development workflow tool.",
+        "url": "https://github.com/weixin/WeFlow"
+    },
+    {
+        "author": "fed135",
+        "category": "JavaScript",
+        "stars": "104",
+        "title": "Kalm - Node socket wrapper and optimizer",
+        "url": "https://github.com/fed135/Kalm"
+    },
+    {
+        "author": "donnemartin",
+        "category": "Python",
+        "stars": "99",
+        "title": "awesome-aws - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.",
+        "url": "https://github.com/donnemartin/awesome-aws"
+    }
+]

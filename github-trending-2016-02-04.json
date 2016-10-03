@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "633",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "CatchChat",
+        "category": "Swift",
+        "stars": "506",
+        "title": "Yep - Meet with Genius",
+        "url": "https://github.com/CatchChat/Yep"
+    },
+    {
+        "author": "fogleman",
+        "category": "Go",
+        "stars": "537",
+        "title": "ln - 3D line art engine.",
+        "url": "https://github.com/fogleman/ln"
+    },
+    {
+        "author": "tuvistavie",
+        "category": "JavaScript",
+        "stars": "483",
+        "title": "atomic-chrome - Edit Chrome textareas in Atom",
+        "url": "https://github.com/tuvistavie/atomic-chrome"
+    },
+    {
+        "author": "Ramotion",
+        "category": "Swift",
+        "stars": "412",
+        "title": "folding-cell - ",
+        "url": "https://github.com/Ramotion/folding-cell"
+    },
+    {
+        "author": "awalGarg",
+        "category": "JavaScript",
+        "stars": "381",
+        "title": "cv-maker - simple elegant markdown based resumes",
+        "url": "https://github.com/awalGarg/cv-maker"
+    },
+    {
+        "author": "caesar0301",
+        "category": "",
+        "stars": "366",
+        "title": "awesome-public-datasets - An awesome list of high-quality open datasets in public domains (on-going).",
+        "url": "https://github.com/caesar0301/awesome-public-datasets"
+    },
+    {
+        "author": "cantino",
+        "category": "Ruby",
+        "stars": "288",
+        "title": "huginn - Build agents that monitor and act on your behalf. Your agents are standing by!",
+        "url": "https://github.com/cantino/huginn"
+    },
+    {
+        "author": "hollance",
+        "category": "Swift",
+        "stars": "282",
+        "title": "swift-algorithm-club - Algorithms and data structures in Swift, with explanations!",
+        "url": "https://github.com/hollance/swift-algorithm-club"
+    },
+    {
+        "author": "samccone",
+        "category": "JavaScript",
+        "stars": "254",
+        "title": "The-cost-of-transpiling-es2015-in-2016 - Investigating the overhead cost of compiled es2015",
+        "url": "https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016"
+    }
+]

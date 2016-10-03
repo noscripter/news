@@ -1,0 +1,282 @@
+[
+    
+    {
+        "id" : 254057,
+        "title" : "做个市场调查: 敏感数据专用数据库",
+        "url" : "http://www.v2ex.com/t/254057",
+        "content" : "这是一个关于市场调查的帖子. 我设计了一个类 KV 储存的敏感数据专用数据库, 用来储存用户的密码 /邮箱 /手机 /信用卡信息 /..., 编写语言为 C/C++, 分布式.\u000D\u000A\u000D\u000A*    除了核心加密算法以外, 其他部分开源.\u000D\u000A*    加密算法闭源, 购买许可证后给予二进制版本, 不同公司得到的算法不同.\u000D\u000A*    提供售后服务: 技术支持 \u0026 整体定制加密方案.\u000D\u000A*    对个人提供免费版加密算法, 免费授权.\u000D\u000A*    提供 PHP/Python/...的 API 接口, 接口很简单.\u000D\u000A\u000D\u000A我知道现在已经有这样的数据库, 简单地说就是: 现有的机密数据库都太烂了, 不好用.\u000D\u000A\u000D\u000A个人业余项目, 是否有商机?",
+        "content_rendered" : "\u003Cp\u003E这是一个关于市场调查的帖子. 我设计了一个类 KV 储存的敏感数据专用数据库, 用来储存用户的密码 /邮箱 /手机 /信用卡信息 /..., 编写语言为 C/C++, 分布式.\u003C/p\u003E\u000A\u000A\u003Cul\u003E\u000A\u003Cli\u003E   除了核心加密算法以外, 其他部分开源.\u003C/li\u003E\u000A\u003Cli\u003E   加密算法闭源, 购买许可证后给予二进制版本, 不同公司得到的算法不同.\u003C/li\u003E\u000A\u003Cli\u003E   提供售后服务: 技术支持 \u0026amp\u003B 整体定制加密方案.\u003C/li\u003E\u000A\u003Cli\u003E   对个人提供免费版加密算法, 免费授权.\u003C/li\u003E\u000A\u003Cli\u003E   提供 PHP/Python/...的 API 接口, 接口很简单.\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u000A\u003Cp\u003E我知道现在已经有这样的数据库, 简单地说就是: 现有的机密数据库都太烂了, 不好用.\u003C/p\u003E\u000A\u000A\u003Cp\u003E个人业余项目, 是否有商机?\u003C/p\u003E\u000A",
+        "replies" : 95,
+        "member" : {
+            "id" : 110915,
+            "username" : "mzer0",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/23119de18be85b2f384e5f67459ccf9f?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/23119de18be85b2f384e5f67459ccf9f?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/23119de18be85b2f384e5f67459ccf9f?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 519,
+            "name" : "ideas",
+            "title" : "奇思妙想",
+            "title_alternative" : "Ideas",
+            "url" : "http://www.v2ex.com/go/ideas",
+            "topics" : 1673,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/6353/8fe6/519_mini.png?m=1424694533",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/6353/8fe6/519_normal.png?m=1424694533",
+            "avatar_large" : "//cdn.v2ex.co/navatar/6353/8fe6/519_large.png?m=1424694533"
+        },
+        "created" : 1453975107,
+        "last_modified" : 1453977398,
+        "last_touched" : 1454034398
+    },
+    
+    {
+        "id" : 254049,
+        "title" : "提醒过分依赖手机支付的 V 友们",
+        "url" : "http://www.v2ex.com/t/254049",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 66,
+        "member" : {
+            "id" : 36997,
+            "username" : "icedx",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/1128/b910/36997_mini.png?m=1446218103",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/1128/b910/36997_normal.png?m=1446218103",
+            "avatar_large" : "//cdn.v2ex.co/avatar/1128/b910/36997_large.png?m=1446218103"
+        },
+        "node" : {
+            "id" : 121,
+            "name" : "jiong",
+            "title" : "囧",
+            "title_alternative" : "Jiong",
+            "url" : "http://www.v2ex.com/go/jiong",
+            "topics" : 100,
+            "avatar_mini" : "/static/img/node_mini.png",
+            "avatar_normal" : "/static/img/node_normal.png",
+            "avatar_large" : "/static/img/node_large.png"
+        },
+        "created" : 1453973385,
+        "last_modified" : 1453983003,
+        "last_touched" : 1454033044
+    },
+    
+    {
+        "id" : 253946,
+        "title" : "你们，能打开必应吗？",
+        "url" : "http://www.v2ex.com/t/253946",
+        "content" : "必应病了。一场大型严肃疾病。\u000D\u000Acn.bing.com",
+        "content_rendered" : "必应病了。一场大型严肃疾病。\u000D\u003Cbr /\u003E\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://cn.bing.com\u0022 rel\u003D\u0022nofollow\u0022\u003Ecn.bing.com\u003C/a\u003E",
+        "replies" : 59,
+        "member" : {
+            "id" : 105944,
+            "username" : "openbaby",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/e34eae00baced642d0f91a5371cd48f8?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/e34eae00baced642d0f91a5371cd48f8?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/e34eae00baced642d0f91a5371cd48f8?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 63809,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1453538415",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1453538415",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1453538415"
+        },
+        "created" : 1453951556,
+        "last_modified" : 1453951556,
+        "last_touched" : 1454033410
+    },
+    
+    {
+        "id" : 254037,
+        "title" : "C++转 Java 开发需要注意些什么？",
+        "url" : "http://www.v2ex.com/t/254037",
+        "content" : "看哪些书比较好？",
+        "content_rendered" : "\u003Cp\u003E看哪些书比较好？\u003C/p\u003E\u000A",
+        "replies" : 56,
+        "member" : {
+            "id" : 60074,
+            "username" : "letv",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/17cd/f5a2/60074_mini.png?m=1419818224",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/17cd/f5a2/60074_normal.png?m=1419818224",
+            "avatar_large" : "//cdn.v2ex.co/avatar/17cd/f5a2/60074_large.png?m=1419818224"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 10822,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1453651118",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1453651118",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1453651118"
+        },
+        "created" : 1453970979,
+        "last_modified" : 1453970979,
+        "last_touched" : 1454034227
+    },
+    
+    {
+        "id" : 253960,
+        "title" : "火星了....阿里也出 git 协作平台了？！",
+        "url" : "http://www.v2ex.com/t/253960",
+        "content" : "阿里云 code\u000D\u000A\u000D\u000A有 V 友用过的么（大雾",
+        "content_rendered" : "\u003Cp\u003E阿里云 code\u003C/p\u003E\u000A\u000A\u003Cp\u003E有 V 友用过的么（大雾\u003C/p\u003E\u000A",
+        "replies" : 51,
+        "member" : {
+            "id" : 112291,
+            "username" : "mikicomo",
+            "tagline" : "行若无事　汝心所向　梦之彼方",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/98a6/df6c/112291_mini.png?m=1450001371",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/98a6/df6c/112291_normal.png?m=1450001371",
+            "avatar_large" : "//cdn.v2ex.co/avatar/98a6/df6c/112291_large.png?m=1450001371"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 10822,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1453651118",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1453651118",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1453651118"
+        },
+        "created" : 1453953710,
+        "last_modified" : 1453953710,
+        "last_touched" : 1454009225
+    },
+    
+    {
+        "id" : 253936,
+        "title" : "UC 浏览器 App Strore 下架",
+        "url" : "http://www.v2ex.com/t/253936",
+        "content" : "应该不是第一次了,这次好像是因为盗版小说\u000D\u000A\u000D\u000A虽然每天都在用,但强迫症表示受不了 icon 前面那个小黄点,删了...",
+        "content_rendered" : "应该不是第一次了,这次好像是因为盗版小说\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E虽然每天都在用,但强迫症表示受不了 icon 前面那个小黄点,删了...",
+        "replies" : 51,
+        "member" : {
+            "id" : 31225,
+            "username" : "gangsta",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/42ab/bf19/31225_mini.png?m=1426123827",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/42ab/bf19/31225_normal.png?m=1426123827",
+            "avatar_large" : "//cdn.v2ex.co/avatar/42ab/bf19/31225_large.png?m=1426123827"
+        },
+        "node" : {
+            "id" : 16,
+            "name" : "share",
+            "title" : "分享发现",
+            "title_alternative" : "Share",
+            "url" : "http://www.v2ex.com/go/share",
+            "topics" : 18174,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c74d/97b0/16_mini.png?m=1453442432",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c74d/97b0/16_normal.png?m=1453442432",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c74d/97b0/16_large.png?m=1453442432"
+        },
+        "created" : 1453949907,
+        "last_modified" : 1453949907,
+        "last_touched" : 1454021311
+    },
+    
+    {
+        "id" : 253932,
+        "title" : "为什么到今天我们还没有把手机变成一块玻璃？",
+        "url" : "http://www.v2ex.com/t/253932",
+        "content" : "![玻璃手机概念]( http://www.yibut.com/wp\u002Dcontent/uploads/2016/01/a548097cgbffbcb07174f690.png)\u000D\u000A上图其实已经出现了好几年了，配合还有一些视频，不难看出很多人把手机创新的希望都寄托在苹果身上，今年都 2016 年了，再把这张图拿出来晒晒，顺便我们来讨论一下，为什么我们还做不到把手机变成一块玻璃，这件事情。\u000D\u000A\u000D\u000A在实验室或者军工领域，我们或多或少已经有耳闻，诸如上图在一块玻璃板子上显示操作系统\u0026软件，或直接利用雾成像（类似与电影场景中直接在空气中操作系统），已经不成问题，但因为我们现实环境中，没有配套的基础设施所以才不能把这些东西给工业化量产。这里说的基础设施，给大家打一个比方：没有公路，要汽车有什么用？公路就是基础设施。而上述在玻璃板子上显示操作系统\u0026软件的基础设施，多数是指的“公共网络环境、网络传输速度”“云计算全球设施部署”“全球无线电能网”等等，可能这些东西大家难以理解，一会我会做重点讲解。总之，我要强调的是：电影中的高科技东西，大多数早已经实现，只是现实生活环境中没有配套的基础设施。\u000D\u000A\u000D\u000A我们先来解释为什么“公共网络环境、网络传输速度”是最重要的，可预测的基础设施的原因。大家从小都上过电脑课，知道一台电脑是有两部分组成的，即 [硬件] 和 [软件] ，手机也是一样由这两部分组成，如果手机想要实现只有一块玻璃，那么我们就需要把诸如“处理器 CPU ”“内存 RAM ”“闪存 ROM ”“主板”“电池”等等藏在手机屏幕玻璃板子之下的一切 [硬件] 给去掉。你也可以理解为：一台没有主机，只有显示器的电脑。那么如果把所有的硬件去掉，我们用什么去支撑 [软件] 运行？（软件是靠硬件来运行的，这点希望大家都能理解）答案是：云计算！\u000D\u000A\u000D\u000A云计算把所有的硬件资源集中在一个地方（现实中对照的就是服务器供应商，国内的比如阿里云、腾讯云；国际的比如亚马逊等，这也是未来服务器供应商发展的一个方向），你手里的玻璃板子通过网络获取到这些由云计算中心提供的 [软件] ，云计算中心可以在其庞大的硬件资源基础上瞬间生产上亿数量的 [软件，下文统称为操作系统] ，你手中的玻璃板子只需要内置一个网络接收设备（即可以连上 wifi ），就可以拥有由云计算中心提供的操作系统\u0026软件了。这里就牵涉到一个重点问题“网络环境”，因为你得玻璃板子需要时时刻刻联网，没有网就意味着没有操作系统了，玻璃板子就只是一块玻璃板子了。谷歌为什么要全球布点“ wifi 热气球”？美国为什么要大规模铺设公共 wifi ？这些都是要为未来你手中的玻璃板子做准备的基础设施！有了基础设施，网速必须还要快，因为稍微有一点延时，手机就会非常卡，而理想状态下网速要在 1Gb/s 以上。这在国内刚兴起的 100M/s 网速的网络环境下，是无法想象的。\u000D\u000A\u000D\u000A这里基本上已经解释完毕了到现在为什么我们实现不了把手机变成玻璃板子的原因了，但是还有一点，也是让所有科技大佬最头疼的一点：电能。特斯拉厉害不？但是还是摆脱不了要在全球部署充电柱。关于无线传输电能网，我会再后续进行更新详尽文章阐释，这里只是给大家描述一下，实现玻璃板所需要的电能网基础是什么。人类的科技发展有一个总趋势：去设备化、中心化！（很讽刺，现在满大街都在讲去中心化），未来所有可以称得上是资源的全都都需要实现 [无线传输] ，电能，可能是最重要的一个无线传输资源，未来我们用电很可能就像现在连接 wifi 一样便捷。而只有把所有的电能资源集中起来，才是实现无线传输电能的前提条件。未来甚至照相也是需要中心化控制的（有兴趣可以看本站另一篇文章[《关于照相机的未来 “天眼” 是一个理想的称呼》]( http://www.yibut.com/gj/4139.html)）。所以我们可以这样讲，去设备化的前提是中心化，中心化是实现所有无线传输资源假设的前提条件！这里我要再次批判制定《反垄断法》的愚蠢。\u000D\u000A\u000D\u000A人类的科技发展只不过才短短十几年时间，从 BBP 、大哥大、摩托罗拉、诺基亚到现在，一阵阵唏嘘声，我们希望未来是美好的，而不是 80%以上的科学家和科技大佬说的 [末日] ！\u000D\u000A\u000D\u000A原文地址：[为什么到今天我们还没有把手机变成一块玻璃？]( http://www.yibut.com/gj/4163.html)",
+        "content_rendered" : "\u003Cp\u003E\u003Cimg src\u003D\u0022http://www.yibut.com/wp\u002Dcontent/uploads/2016/01/a548097cgbffbcb07174f690.png\u0022 alt\u003D\u0022玻璃手机概念\u0022\u003E\u003Cbr\u003E\u000A上图其实已经出现了好几年了，配合还有一些视频，不难看出很多人把手机创新的希望都寄托在苹果身上，今年都 2016 年了，再把这张图拿出来晒晒，顺便我们来讨论一下，为什么我们还做不到把手机变成一块玻璃，这件事情。\u003C/p\u003E\u000A\u000A\u003Cp\u003E在实验室或者军工领域，我们或多或少已经有耳闻，诸如上图在一块玻璃板子上显示操作系统\u0026amp\u003B软件，或直接利用雾成像（类似与电影场景中直接在空气中操作系统），已经不成问题，但因为我们现实环境中，没有配套的基础设施所以才不能把这些东西给工业化量产。这里说的基础设施，给大家打一个比方：没有公路，要汽车有什么用？公路就是基础设施。而上述在玻璃板子上显示操作系统\u0026amp\u003B软件的基础设施，多数是指的“公共网络环境、网络传输速度”“云计算全球设施部署”“全球无线电能网”等等，可能这些东西大家难以理解，一会我会做重点讲解。总之，我要强调的是：电影中的高科技东西，大多数早已经实现，只是现实生活环境中没有配套的基础设施。\u003C/p\u003E\u000A\u000A\u003Cp\u003E我们先来解释为什么“公共网络环境、网络传输速度”是最重要的，可预测的基础设施的原因。大家从小都上过电脑课，知道一台电脑是有两部分组成的，即 [硬件] 和 [软件] ，手机也是一样由这两部分组成，如果手机想要实现只有一块玻璃，那么我们就需要把诸如“处理器 CPU ”“内存 RAM ”“闪存 ROM ”“主板”“电池”等等藏在手机屏幕玻璃板子之下的一切 [硬件] 给去掉。你也可以理解为：一台没有主机，只有显示器的电脑。那么如果把所有的硬件去掉，我们用什么去支撑 [软件] 运行？（软件是靠硬件来运行的，这点希望大家都能理解）答案是：云计算！\u003C/p\u003E\u000A\u000A\u003Cp\u003E云计算把所有的硬件资源集中在一个地方（现实中对照的就是服务器供应商，国内的比如阿里云、腾讯云；国际的比如亚马逊等，这也是未来服务器供应商发展的一个方向），你手里的玻璃板子通过网络获取到这些由云计算中心提供的 [软件] ，云计算中心可以在其庞大的硬件资源基础上瞬间生产上亿数量的 [软件，下文统称为操作系统] ，你手中的玻璃板子只需要内置一个网络接收设备（即可以连上 wifi ），就可以拥有由云计算中心提供的操作系统\u0026amp\u003B软件了。这里就牵涉到一个重点问题“网络环境”，因为你得玻璃板子需要时时刻刻联网，没有网就意味着没有操作系统了，玻璃板子就只是一块玻璃板子了。谷歌为什么要全球布点“ wifi 热气球”？美国为什么要大规模铺设公共 wifi ？这些都是要为未来你手中的玻璃板子做准备的基础设施！有了基础设施，网速必须还要快，因为稍微有一点延时，手机就会非常卡，而理想状态下网速要在 1Gb/s 以上。这在国内刚兴起的 100M/s 网速的网络环境下，是无法想象的。\u003C/p\u003E\u000A\u000A\u003Cp\u003E这里基本上已经解释完毕了到现在为什么我们实现不了把手机变成玻璃板子的原因了，但是还有一点，也是让所有科技大佬最头疼的一点：电能。特斯拉厉害不？但是还是摆脱不了要在全球部署充电柱。关于无线传输电能网，我会再后续进行更新详尽文章阐释，这里只是给大家描述一下，实现玻璃板所需要的电能网基础是什么。人类的科技发展有一个总趋势：去设备化、中心化！（很讽刺，现在满大街都在讲去中心化），未来所有可以称得上是资源的全都都需要实现 [无线传输] ，电能，可能是最重要的一个无线传输资源，未来我们用电很可能就像现在连接 wifi 一样便捷。而只有把所有的电能资源集中起来，才是实现无线传输电能的前提条件。未来甚至照相也是需要中心化控制的（有兴趣可以看本站另一篇文章\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://www.yibut.com/gj/4139.html\u0022\u003E《关于照相机的未来 “天眼” 是一个理想的称呼》\u003C/a\u003E）。所以我们可以这样讲，去设备化的前提是中心化，中心化是实现所有无线传输资源假设的前提条件！这里我要再次批判制定《反垄断法》的愚蠢。\u003C/p\u003E\u000A\u000A\u003Cp\u003E人类的科技发展只不过才短短十几年时间，从 BBP 、大哥大、摩托罗拉、诺基亚到现在，一阵阵唏嘘声，我们希望未来是美好的，而不是 80%以上的科学家和科技大佬说的 [末日] ！\u003C/p\u003E\u000A\u000A\u003Cp\u003E原文地址：\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://www.yibut.com/gj/4163.html\u0022\u003E为什么到今天我们还没有把手机变成一块玻璃？\u003C/a\u003E\u003C/p\u003E\u000A",
+        "replies" : 50,
+        "member" : {
+            "id" : 153560,
+            "username" : "li415488647",
+            "tagline" : "我喜欢晴天！",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/e8d0a217f87ba613e544a69f610cd6d4?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/e8d0a217f87ba613e544a69f610cd6d4?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/e8d0a217f87ba613e544a69f610cd6d4?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 63809,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1453538415",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1453538415",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1453538415"
+        },
+        "created" : 1453949570,
+        "last_modified" : 1453949618,
+        "last_touched" : 1454015982
+    },
+    
+    {
+        "id" : 254044,
+        "title" : "各位生产环境的 mysql 都切到 MariaDB 了吗，什么理由让你切过去的？",
+        "url" : "http://www.v2ex.com/t/254044",
+        "content" : "最近关注 php7 ， php7 自带了服务器按官方的说法比 hhvm 还强（我没理解，是服务器还是？？ nginx 或者 apache 货 lighttpd 不用了？），然后里面提到 mariadb ，也下了 wamp 、 xampp 、 lnmp\u002Dfull 这便捷种开发组件包，里面也带了大量的 mariadb ，所以问大家一下生产环境大家都切换到了 mariadb 了吗？为什么切换到 mariadb ？性能上得到了怎样的提高？对于大数据量高并发的业务有明显提升吗？对于集群架构有提升吗？",
+        "content_rendered" : "\u003Cp\u003E最近关注 php7 ， php7 自带了服务器按官方的说法比 hhvm 还强（我没理解，是服务器还是？？ nginx 或者 apache 货 lighttpd 不用了？），然后里面提到 mariadb ，也下了 wamp 、 xampp 、 lnmp\u002Dfull 这便捷种开发组件包，里面也带了大量的 mariadb ，所以问大家一下生产环境大家都切换到了 mariadb 了吗？为什么切换到 mariadb ？性能上得到了怎样的提高？对于大数据量高并发的业务有明显提升吗？对于集群架构有提升吗？\u003C/p\u003E\u000A",
+        "replies" : 46,
+        "member" : {
+            "id" : 93278,
+            "username" : "solaro",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/fcad/99f8/93278_mini.png?m=1450750966",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/fcad/99f8/93278_normal.png?m=1450750966",
+            "avatar_large" : "//cdn.v2ex.co/avatar/fcad/99f8/93278_large.png?m=1450750966"
+        },
+        "node" : {
+            "id" : 61,
+            "name" : "mysql",
+            "title" : "MySQL",
+            "title_alternative" : "MySQL",
+            "url" : "http://www.v2ex.com/go/mysql",
+            "topics" : 479,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/7f39/f831/61_mini.png?m=1450845883",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/7f39/f831/61_normal.png?m=1450845883",
+            "avatar_large" : "//cdn.v2ex.co/navatar/7f39/f831/61_large.png?m=1450845883"
+        },
+        "created" : 1453972482,
+        "last_modified" : 1453972482,
+        "last_touched" : 1454034263
+    },
+    
+    {
+        "id" : 253976,
+        "title" : "赚够了多少钱你才愿意放手",
+        "url" : "http://www.v2ex.com/t/253976",
+        "content" : "好吧，其实我是个标题党。\u000D\u000A\u000D\u000A其实我想表达的是， V 友里大部分应该都是还处于奋斗阶段的同学，但是我觉得大部分人打拼事业主要就是为了能过上让自己满意的生活吧。\u000D\u000A\u000D\u000A至于什么样的生活才是自己满意的，最直白的衡量就是钱了（不好意思，我很俗\u003D\u003D！）。所以你有没有考虑过当你基本的生活条件都齐备了后（如房子，车子等），你希望自己银行账户里能有多少可供你支配存款你就可以不再以赚钱作为工作的首要目标，而是可以去做自己喜欢的事。\u000D\u000A\u000D\u000A还有，如果真的到了“赚够钱\u0022的时候，你最想做的事又是什么呢？^_^",
+        "content_rendered" : "\u003Cp\u003E好吧，其实我是个标题党。\u003C/p\u003E\u000A\u000A\u003Cp\u003E其实我想表达的是， V 友里大部分应该都是还处于奋斗阶段的同学，但是我觉得大部分人打拼事业主要就是为了能过上让自己满意的生活吧。\u003C/p\u003E\u000A\u000A\u003Cp\u003E至于什么样的生活才是自己满意的，最直白的衡量就是钱了（不好意思，我很俗\u003D\u003D！）。所以你有没有考虑过当你基本的生活条件都齐备了后（如房子，车子等），你希望自己银行账户里能有多少可供你支配存款你就可以不再以赚钱作为工作的首要目标，而是可以去做自己喜欢的事。\u003C/p\u003E\u000A\u000A\u003Cp\u003E还有，如果真的到了“赚够钱\u0026quot\u003B的时候，你最想做的事又是什么呢？^_^\u003C/p\u003E\u000A",
+        "replies" : 36,
+        "member" : {
+            "id" : 148018,
+            "username" : "miaol",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/89f022312096814ff9b068bba780c2aa?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/89f022312096814ff9b068bba780c2aa?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/89f022312096814ff9b068bba780c2aa?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 63809,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1453538415",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1453538415",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1453538415"
+        },
+        "created" : 1453957213,
+        "last_modified" : 1453957213,
+        "last_touched" : 1453992053
+    }
+    
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "olistic",
+        "category": "JavaScript",
+        "stars": "900",
+        "title": "warriorjs - Game written in JavaScript for learning JavaScript and artificial intelligence.",
+        "url": "https://github.com/olistic/warriorjs"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "656",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "juliangarnier",
+        "category": "JavaScript",
+        "stars": "539",
+        "title": "anime - Javascript Animation Engine",
+        "url": "https://github.com/juliangarnier/anime"
+    },
+    {
+        "author": "alibaba",
+        "category": "Java",
+        "stars": "370",
+        "title": "weex - A framework for building Mobile cross-platform UI",
+        "url": "https://github.com/alibaba/weex"
+    },
+    {
+        "author": "zonination",
+        "category": "R",
+        "stars": "359",
+        "title": "investing - Investing Returns on the Market as a Whole",
+        "url": "https://github.com/zonination/investing"
+    },
+    {
+        "author": "guarinogabriel",
+        "category": "Shell",
+        "stars": "340",
+        "title": "mac-cli - \uf8ff OS X command line tools for developers \u2013 The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.",
+        "url": "https://github.com/guarinogabriel/mac-cli"
+    },
+    {
+        "author": "monkberry",
+        "category": "JavaScript",
+        "stars": "275",
+        "title": "monkberry - Monkberry is a JavaScript library for building web user interfaces",
+        "url": "https://github.com/monkberry/monkberry"
+    },
+    {
+        "author": "toddmotto",
+        "category": "",
+        "stars": "246",
+        "title": "public-apis - A collective list of public JSON APIs for use in web development.",
+        "url": "https://github.com/toddmotto/public-apis"
+    },
+    {
+        "author": "open-source-society",
+        "category": "",
+        "stars": "228",
+        "title": "data-science - \ud83d\udcca Path to a free self-taught education in Data Science!",
+        "url": "https://github.com/open-source-society/data-science"
+    },
+    {
+        "author": "leonar15",
+        "category": "",
+        "stars": "214",
+        "title": "startup-checklist - A checklist for incorporation so you can get back to building your product, fundraising, etc.",
+        "url": "https://github.com/leonar15/startup-checklist"
+    }
+]

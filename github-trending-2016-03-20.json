@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "562",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "redox-os",
+        "category": "Rust",
+        "stars": "516",
+        "title": "redox - Redox: A Rust Operating System",
+        "url": "https://github.com/redox-os/redox"
+    },
+    {
+        "author": "php-pm",
+        "category": "PHP",
+        "stars": "189",
+        "title": "php-pm - PPM is a process manager, supercharger and load balancer for PHP applications.",
+        "url": "https://github.com/php-pm/php-pm"
+    },
+    {
+        "author": "Croteam-official",
+        "category": "C++",
+        "stars": "170",
+        "title": "Serious-Engine - An open source version of a game engine developed by Croteam for the classic Serious Sam games.",
+        "url": "https://github.com/Croteam-official/Serious-Engine"
+    },
+    {
+        "author": "roughike",
+        "category": "Java",
+        "stars": "153",
+        "title": "BottomBar - A custom view component that mimics the new Material Design Bottom Navigation pattern.",
+        "url": "https://github.com/roughike/BottomBar"
+    },
+    {
+        "author": "AutumnsWind",
+        "category": "PHP",
+        "stars": "135",
+        "title": "Front-end-tutorial - \u6700\u5168\u7684\u8d44\u6e90\u6559\u7a0b-\u524d\u7aef\u6d89\u53ca\u7684\u6240\u6709\u77e5\u8bc6\u4f53\u7cfb",
+        "url": "https://github.com/AutumnsWind/Front-end-tutorial"
+    },
+    {
+        "author": "googlei18n",
+        "category": "C++",
+        "stars": "130",
+        "title": "libphonenumber - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.",
+        "url": "https://github.com/googlei18n/libphonenumber"
+    },
+    {
+        "author": "1000ch",
+        "category": "HTML",
+        "stars": "121",
+        "title": "grd - A CSS grid framework using Flexbox. Only 512 bytes (Gzipped).",
+        "url": "https://github.com/1000ch/grd"
+    },
+    {
+        "author": "feathersjs",
+        "category": "JavaScript",
+        "stars": "95",
+        "title": "feathers - A minimalist real-time JavaScript framework for tomorrow's apps.",
+        "url": "https://github.com/feathersjs/feathers"
+    },
+    {
+        "author": "FreddieV4",
+        "category": "Python",
+        "stars": "76",
+        "title": "DailyProgrammerChallenges - External Repo of Challenges from r/dailyprogrammer",
+        "url": "https://github.com/FreddieV4/DailyProgrammerChallenges"
+    }
+]

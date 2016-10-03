@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "705",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "DreaminginCodeZH",
+        "category": "Java",
+        "stars": "501",
+        "title": "Douya - \u5f00\u6e90\u7684 Material Design \u8c46\u74e3\u5ba2\u6237\u7aef\uff08A Material Design app for douban.com\uff09\u3002",
+        "url": "https://github.com/DreaminginCodeZH/Douya"
+    },
+    {
+        "author": "correll",
+        "category": "Mathematica",
+        "stars": "410",
+        "title": "Introduction-to-Autonomous-Robots - Introduction to Autonomous Robots",
+        "url": "https://github.com/correll/Introduction-to-Autonomous-Robots"
+    },
+    {
+        "author": "ImagicalMine",
+        "category": "PHP",
+        "stars": "18",
+        "title": "ImagicalMine - ImagicalMine. The first third-party build of PocketMine-MP that rocked the world.",
+        "url": "https://github.com/ImagicalMine/ImagicalMine"
+    },
+    {
+        "author": "hollance",
+        "category": "Swift",
+        "stars": "304",
+        "title": "swift-algorithm-club - Algorithms and data structures in Swift, with explanations!",
+        "url": "https://github.com/hollance/swift-algorithm-club"
+    },
+    {
+        "author": "liaohuqiu",
+        "category": "Java",
+        "stars": "234",
+        "title": "android-support-23.2-sample - Sample Project for Android Support Library 23.2",
+        "url": "https://github.com/liaohuqiu/android-support-23.2-sample"
+    },
+    {
+        "author": "vdemedes",
+        "category": "JavaScript",
+        "stars": "235",
+        "title": "gifi - watch GIFs while running npm install",
+        "url": "https://github.com/vdemedes/gifi"
+    },
+    {
+        "author": "lyle-nel",
+        "category": "C++",
+        "stars": "219",
+        "title": "siga - Population based metaheuristic for password cracking. Siga(Simple genetic algorithm)",
+        "url": "https://github.com/lyle-nel/siga"
+    },
+    {
+        "author": "dthree",
+        "category": "JavaScript",
+        "stars": "218",
+        "title": "cash - Cross-platform Linux without the suck",
+        "url": "https://github.com/dthree/cash"
+    },
+    {
+        "author": "Karumi",
+        "category": "Java",
+        "stars": "213",
+        "title": "Rosie - Rosie is an Android framework to create applications following the principles of Clean Architecture.",
+        "url": "https://github.com/Karumi/Rosie"
+    }
+]

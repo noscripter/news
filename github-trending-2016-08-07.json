@@ -1,0 +1,72 @@
+[
+    {
+        "author": "tdebatty",
+        "category": "Java",
+        "stars": "313",
+        "title": "java-string-similarity - Implementation of various string similarity and distance algorithms: Levenshtein, Jaro-winkler, n-Gram, Q-Gram, Jaccard index, Longest Common Subsequence edit distance, cosine similarity ...",
+        "url": "https://github.com/tdebatty/java-string-similarity"
+    },
+    {
+        "author": "PokemonGoMap",
+        "category": "Python",
+        "stars": "246",
+        "title": "PokemonGo-Map - \ud83c\udf0f Live visualization of all the pokemon in your area... and more!",
+        "url": "https://github.com/PokemonGoMap/PokemonGo-Map"
+    },
+    {
+        "author": "commaai",
+        "category": "Python",
+        "stars": "252",
+        "title": "research - comma.ai for the people to experiment with",
+        "url": "https://github.com/commaai/research"
+    },
+    {
+        "author": "fchollet",
+        "category": "Python",
+        "stars": "242",
+        "title": "deep-learning-models - Keras code and weights files for popular deep learning models.",
+        "url": "https://github.com/fchollet/deep-learning-models"
+    },
+    {
+        "author": "facebookresearch",
+        "category": "C++",
+        "stars": "176",
+        "title": "fastText - Library for fast text representation and classification.",
+        "url": "https://github.com/facebookresearch/fastText"
+    },
+    {
+        "author": "jgthms",
+        "category": "CSS",
+        "stars": "168",
+        "title": "bulma - Modern CSS framework based on Flexbox",
+        "url": "https://github.com/jgthms/bulma"
+    },
+    {
+        "author": "sachinchoolur",
+        "category": "JavaScript",
+        "stars": "163",
+        "title": "lightgallery.js - Full featured JavaScript image & video gallery. No dependencies",
+        "url": "https://github.com/sachinchoolur/lightgallery.js"
+    },
+    {
+        "author": "ramswaroop",
+        "category": "Java",
+        "stars": "156",
+        "title": "botkit - Make Slack, Facebook and Twitter Bots in Java in minutes.",
+        "url": "https://github.com/ramswaroop/botkit"
+    },
+    {
+        "author": "thewhitetulip",
+        "category": "Go",
+        "stars": "144",
+        "title": "web-dev-golang-anti-textbook - Learn how to write webapps in Go.",
+        "url": "https://github.com/thewhitetulip/web-dev-golang-anti-textbook"
+    },
+    {
+        "author": "sourcegraph",
+        "category": "Go",
+        "stars": "133",
+        "title": "checkup - Distributed, lock-free, self-hosted health checks and status pages",
+        "url": "https://github.com/sourcegraph/checkup"
+    }
+]

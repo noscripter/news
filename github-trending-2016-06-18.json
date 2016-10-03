@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "804",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "x64dbg",
+        "category": "C++",
+        "stars": "714",
+        "title": "x64dbg - An open-source x64/x32 debugger for windows.",
+        "url": "https://github.com/x64dbg/x64dbg"
+    },
+    {
+        "author": "nayafia",
+        "category": "",
+        "stars": "424",
+        "title": "lemonade-stand - A handy guide to making $$ in open source",
+        "url": "https://github.com/nayafia/lemonade-stand"
+    },
+    {
+        "author": "yakyak",
+        "category": "CoffeeScript",
+        "stars": "421",
+        "title": "yakyak - Desktop chat client for Google Hangouts",
+        "url": "https://github.com/yakyak/yakyak"
+    },
+    {
+        "author": "algolia",
+        "category": "JavaScript",
+        "stars": "406",
+        "title": "places - \ud83c\udf10 Turn any <input> into an address autocomplete",
+        "url": "https://github.com/algolia/places"
+    },
+    {
+        "author": "facebookresearch",
+        "category": "C",
+        "stars": "294",
+        "title": "darkforestGo - DarkForest, the Facebook Go engine.",
+        "url": "https://github.com/facebookresearch/darkforestGo"
+    },
+    {
+        "author": "ElemeFE",
+        "category": "Vue",
+        "stars": "270",
+        "title": "mint-ui - Mobile UI elements for vue.js",
+        "url": "https://github.com/ElemeFE/mint-ui"
+    },
+    {
+        "author": "donnemartin",
+        "category": "Python",
+        "stars": "208",
+        "title": "awesome-aws - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.",
+        "url": "https://github.com/donnemartin/awesome-aws"
+    },
+    {
+        "author": "HoneyNeutrons",
+        "category": "Java",
+        "stars": "194",
+        "title": "RecyclerViewUndoSwipe - Swipe and drag support for RecyclerView with undo action.",
+        "url": "https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe"
+    },
+    {
+        "author": "wooplr",
+        "category": "Java",
+        "stars": "180",
+        "title": "Spotlight - Spotlight is an Android library used to onboard users by showcasing specific features in the app.",
+        "url": "https://github.com/wooplr/Spotlight"
+    }
+]

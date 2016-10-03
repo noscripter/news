@@ -1,0 +1,72 @@
+[
+    {
+        "author": "oneuijs",
+        "category": "JavaScript",
+        "stars": "491",
+        "title": "You-Dont-Need-jQuery - You don't need jQuery any more, here is how you can get rid of it.",
+        "url": "https://github.com/oneuijs/You-Dont-Need-jQuery"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "351",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "apple",
+        "category": "C++",
+        "stars": "293",
+        "title": "swift - The Swift Programming Language",
+        "url": "https://github.com/apple/swift"
+    },
+    {
+        "author": "sdc-alibaba",
+        "category": "JavaScript",
+        "stars": "276",
+        "title": "SUI-Mobile - SUI Mobile (MSUI)\u662f\u7531\u963f\u91cc\u5df4\u5df4\u56fd\u9645UED\u524d\u7aef\u51fa\u54c1\u7684\u79fb\u52a8\u7aefUI\u5e93\uff0c\u8f7b\u91cf\u7cbe\u7f8e",
+        "url": "https://github.com/sdc-alibaba/SUI-Mobile"
+    },
+    {
+        "author": "Quartz",
+        "category": "",
+        "stars": "253",
+        "title": "bad-data-guide - An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.",
+        "url": "https://github.com/Quartz/bad-data-guide"
+    },
+    {
+        "author": "laruence",
+        "category": "",
+        "stars": "237",
+        "title": "php7-internal - Understanding PHP7 Internal articles",
+        "url": "https://github.com/laruence/php7-internal"
+    },
+    {
+        "author": "CosmicMind",
+        "category": "Swift",
+        "stars": "212",
+        "title": "MaterialKit - A beautiful Material Design framework in Swift.",
+        "url": "https://github.com/CosmicMind/MaterialKit"
+    },
+    {
+        "author": "OpenLiveWriter",
+        "category": "C#",
+        "stars": "196",
+        "title": "OpenLiveWriter - An open source fork of Windows Live Writer",
+        "url": "https://github.com/OpenLiveWriter/OpenLiveWriter"
+    },
+    {
+        "author": "brendenlake",
+        "category": "Matlab",
+        "stars": "174",
+        "title": "BPL - Bayesian Program Learning model for one-shot learning",
+        "url": "https://github.com/brendenlake/BPL"
+    },
+    {
+        "author": "MaximAbramchuck",
+        "category": "",
+        "stars": "183",
+        "title": "awesome-interviews - A curated awesome list of lists of interview questions. Feel free to contribute!",
+        "url": "https://github.com/MaximAbramchuck/awesome-interviews"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "510",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "kyleneideck",
+        "category": "C++",
+        "stars": "504",
+        "title": "BackgroundMusic - Background Music, an OS X audio utility",
+        "url": "https://github.com/kyleneideck/BackgroundMusic"
+    },
+    {
+        "author": "mntmn",
+        "category": "KiCad",
+        "stars": "385",
+        "title": "amiga2000-gfxcard - MNT VA2000, an Amiga 2000 Graphics Card (Zorro II), written in Verilog",
+        "url": "https://github.com/mntmn/amiga2000-gfxcard"
+    },
+    {
+        "author": "fbsamples",
+        "category": "JavaScript",
+        "stars": "270",
+        "title": "f8app - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.",
+        "url": "https://github.com/fbsamples/f8app"
+    },
+    {
+        "author": "markerikson",
+        "category": "",
+        "stars": "219",
+        "title": "react-redux-links - Curated tutorial and resource links I've collected on React, Redux, ES6, and more",
+        "url": "https://github.com/markerikson/react-redux-links"
+    },
+    {
+        "author": "BradLarson",
+        "category": "Swift",
+        "stars": "185",
+        "title": "GPUImage2 - GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.",
+        "url": "https://github.com/BradLarson/GPUImage2"
+    },
+    {
+        "author": "delba",
+        "category": "Swift",
+        "stars": "172",
+        "title": "TextAttributes - An easier way to compose attributed strings",
+        "url": "https://github.com/delba/TextAttributes"
+    },
+    {
+        "author": "koehlma",
+        "category": "JavaScript",
+        "stars": "164",
+        "title": "jaspy - a Python VM written entirely from scratch in JavaScript with some unique features",
+        "url": "https://github.com/koehlma/jaspy"
+    },
+    {
+        "author": "tensorflow",
+        "category": "TypeScript",
+        "stars": "146",
+        "title": "playground - Play with neural networks!",
+        "url": "https://github.com/tensorflow/playground"
+    },
+    {
+        "author": "ademilter",
+        "category": "JavaScript",
+        "stars": "151",
+        "title": "bricklayer - Lightweight cascading grid layout library",
+        "url": "https://github.com/ademilter/bricklayer"
+    }
+]

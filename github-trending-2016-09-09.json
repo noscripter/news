@@ -1,0 +1,72 @@
+[
+    {
+        "author": "franciscop",
+        "category": "JavaScript",
+        "stars": "579",
+        "title": "cookies.js - Interactive and easy cookies from your browser in javascript",
+        "url": "https://github.com/franciscop/cookies.js"
+    },
+    {
+        "author": "quilljs",
+        "category": "JavaScript",
+        "stars": "561",
+        "title": "quill - Your powerful, rich text editor",
+        "url": "https://github.com/quilljs/quill"
+    },
+    {
+        "author": "gztchan",
+        "category": "",
+        "stars": "435",
+        "title": "awesome-design - \ud83c\udf8f Best UI/UX Design Sources For Developer & Designer Ever :)",
+        "url": "https://github.com/gztchan/awesome-design"
+    },
+    {
+        "author": "shekhargulati",
+        "category": "JavaScript",
+        "stars": "341",
+        "title": "52-technologies-in-2016 - Let's learn a new technology every week. A new technology blog every Sunday in 2016.",
+        "url": "https://github.com/shekhargulati/52-technologies-in-2016"
+    },
+    {
+        "author": "sarcadass",
+        "category": "JavaScript",
+        "stars": "273",
+        "title": "granim.js - Create fluid and interactive gradients animations with this small (< 10 kB) js library.",
+        "url": "https://github.com/sarcadass/granim.js"
+    },
+    {
+        "author": "sylnsfar",
+        "category": "Python",
+        "stars": "252",
+        "title": "qrcode - artistic QR Code in Python \uff08Animated GIF qr code\uff09- Python \u827a\u672f\u4e8c\u7ef4\u7801\u751f\u6210\u5668 \uff08GIF\u52a8\u6001\u4e8c\u7ef4\u7801\u3001\u56fe\u7247\u4e8c\u7ef4\u7801\uff09",
+        "url": "https://github.com/sylnsfar/qrcode"
+    },
+    {
+        "author": "adamsitnik",
+        "category": "",
+        "stars": "238",
+        "title": "awesome-dot-net-performance - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.",
+        "url": "https://github.com/adamsitnik/awesome-dot-net-performance"
+    },
+    {
+        "author": "zhoubowen-sky",
+        "category": "Java",
+        "stars": "219",
+        "title": "LingDong2.0 - \u201c\u9762\u5bf9\u9762\u6587\u4ef6\u5feb\u4f20\u201d\uff0cAndroid\u7aef\u7075\u52a8\u5feb\u4f20\uff0c\u5b89\u5353\u4e92\u4f20\u6587\u4ef6\uff0c\u5c40\u57df\u7f51\uff0c\u65e0\u7f51\u4f20\u8f93\u6587\u4ef6\uff0cAndroid\uff0cfile transfer",
+        "url": "https://github.com/zhoubowen-sky/LingDong2.0"
+    },
+    {
+        "author": "davidferguson",
+        "category": "JavaScript",
+        "stars": "217",
+        "title": "pibakery - The blocks based, easy to use setup tool for Raspberry Pi",
+        "url": "https://github.com/davidferguson/pibakery"
+    },
+    {
+        "author": "microapps",
+        "category": "JavaScript",
+        "stars": "211",
+        "title": "MoonMail - Shoot billions of emails using AWS - SES - Lambda. Serverless Framework powered project",
+        "url": "https://github.com/microapps/MoonMail"
+    }
+]

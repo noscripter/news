@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "478",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "IonicaBizau",
+        "category": "JavaScript",
+        "stars": "381",
+        "title": "scrape-it - A Node.js scraper for humans.",
+        "url": "https://github.com/IonicaBizau/scrape-it"
+    },
+    {
+        "author": "steshaw",
+        "category": "CSS",
+        "stars": "299",
+        "title": "plt - A path to Programming Language Theory enlightenment",
+        "url": "https://github.com/steshaw/plt"
+    },
+    {
+        "author": "google",
+        "category": "Rust",
+        "stars": "248",
+        "title": "xi-editor - A modern editor with a backend written in Rust.",
+        "url": "https://github.com/google/xi-editor"
+    },
+    {
+        "author": "akshayKMR",
+        "category": "JavaScript",
+        "stars": "200",
+        "title": "hogwatch - find out what's hogging your internet connection.",
+        "url": "https://github.com/akshayKMR/hogwatch"
+    },
+    {
+        "author": "satoshiiizuka",
+        "category": "Lua",
+        "stars": "187",
+        "title": "siggraph2016_colorization - Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'.",
+        "url": "https://github.com/satoshiiizuka/siggraph2016_colorization"
+    },
+    {
+        "author": "garnele007",
+        "category": "Objective-C",
+        "stars": "187",
+        "title": "SwiftOCR - Fast and simple OCR library written in Swift",
+        "url": "https://github.com/garnele007/SwiftOCR"
+    },
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "184",
+        "title": "HEAD - A list of everything that goes in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    },
+    {
+        "author": "sanathp",
+        "category": "Go",
+        "stars": "181",
+        "title": "statusok - Monitor your Website and APIs from your Computer. Get Notified through Slack, E-mail when your server is down or response time is more than expected.",
+        "url": "https://github.com/sanathp/statusok"
+    },
+    {
+        "author": "racaljk",
+        "category": "",
+        "stars": "163",
+        "title": "hosts - \u6700\u65b0\u53ef\u7528\u7684google hosts\u6587\u4ef6\u3002\u955c\u50cf\uff1a",
+        "url": "https://github.com/racaljk/hosts"
+    }
+]

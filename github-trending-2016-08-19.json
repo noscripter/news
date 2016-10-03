@@ -1,0 +1,72 @@
+[
+    {
+        "author": "PowerShell",
+        "category": "C#",
+        "stars": "1,440",
+        "title": "PowerShell - PowerShell for every system!",
+        "url": "https://github.com/PowerShell/PowerShell"
+    },
+    {
+        "author": "RafalWilinski",
+        "category": "HTML",
+        "stars": "526",
+        "title": "express-status-monitor - \ud83d\ude80 Realtime Monitoring solution for Express.js apps, inspired by status.github.com",
+        "url": "https://github.com/RafalWilinski/express-status-monitor"
+    },
+    {
+        "author": "FormidableLabs",
+        "category": "JavaScript",
+        "stars": "435",
+        "title": "webpack-dashboard - A CLI dashboard for webpack dev server",
+        "url": "https://github.com/FormidableLabs/webpack-dashboard"
+    },
+    {
+        "author": "danklammer",
+        "category": "",
+        "stars": "421",
+        "title": "bytesize-icons - A tiny style-controlled SVG iconset",
+        "url": "https://github.com/danklammer/bytesize-icons"
+    },
+    {
+        "author": "Blankj",
+        "category": "Java",
+        "stars": "305",
+        "title": "AndroidUtilCode - Android\u5f00\u53d1\u4eba\u5458\u4e0d\u5f97\u4e0d\u6536\u96c6\u7684\u4ee3\u7801(\u6301\u7eed\u66f4\u65b0\u4e2d)",
+        "url": "https://github.com/Blankj/AndroidUtilCode"
+    },
+    {
+        "author": "mchav",
+        "category": "Shell",
+        "stars": "326",
+        "title": "with - Command prefixing for continuous workflow using a single tool.",
+        "url": "https://github.com/mchav/with"
+    },
+    {
+        "author": "sourcegraph",
+        "category": "Go",
+        "stars": "321",
+        "title": "thyme - Automatically track which applications you use and for how long.",
+        "url": "https://github.com/sourcegraph/thyme"
+    },
+    {
+        "author": "airbnb",
+        "category": "JavaScript",
+        "stars": "275",
+        "title": "react-dates - An accessible, easily internationalizable, mobile-friendly datepicker library for the web",
+        "url": "https://github.com/airbnb/react-dates"
+    },
+    {
+        "author": "facebookresearch",
+        "category": "C++",
+        "stars": "249",
+        "title": "fastText - Library for fast text representation and classification.",
+        "url": "https://github.com/facebookresearch/fastText"
+    },
+    {
+        "author": "Microsoft",
+        "category": "C#",
+        "stars": "238",
+        "title": "UWPCommunityToolkit - The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10.",
+        "url": "https://github.com/Microsoft/UWPCommunityToolkit"
+    }
+]

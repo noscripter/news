@@ -1,0 +1,72 @@
+[
+    {
+        "author": "Tencent",
+        "category": "Java",
+        "stars": "906",
+        "title": "tinker - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",
+        "url": "https://github.com/Tencent/tinker"
+    },
+    {
+        "author": "BurntSushi",
+        "category": "Rust",
+        "stars": "462",
+        "title": "ripgrep - ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+        "url": "https://github.com/BurntSushi/ripgrep"
+    },
+    {
+        "author": "gavinkwoe",
+        "category": "JavaScript",
+        "stars": "312",
+        "title": "weapp-ide-crack - \u3010\u5e94\u7528\u53f7\u3011IDE + \u7834\u89e3 + Demo",
+        "url": "https://github.com/gavinkwoe/weapp-ide-crack"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "326",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "Aufree",
+        "category": "JavaScript",
+        "stars": "289",
+        "title": "awesome-wechat-weapp - \u5fae\u4fe1\u5c0f\u7a0b\u5e8f\u8d44\u6e90\u6c47\u603b\u6574\u7406\uff0c Awesome WeChat WeApp\uff0c\u6db5\u62ec\u5fae\u4fe1 Web \u5f00\u53d1\u8005\u5de5\u5177\u6536\u96c6\uff0cWeApp \u6559\u7a0b\u6536\u96c6\uff0c\u7ad9\u70b9\u6536\u96c6\u548c\u4ee3\u7801\u5b9e\u4f8b",
+        "url": "https://github.com/Aufree/awesome-wechat-weapp"
+    },
+    {
+        "author": "justjavac",
+        "category": "",
+        "stars": "266",
+        "title": "awesome-wechat-weapp - \u5fae\u4fe1\u5c0f\u7a0b\u5e8f\u5f00\u53d1\u8d44\u6e90\u6c47\u603b wechat weapp",
+        "url": "https://github.com/justjavac/awesome-wechat-weapp"
+    },
+    {
+        "author": "ajbrock",
+        "category": "Python",
+        "stars": "264",
+        "title": "Neural-Photo-Editor - A simple interface for editing natural photos with generative neural networks.",
+        "url": "https://github.com/ajbrock/Neural-Photo-Editor"
+    },
+    {
+        "author": "davecheney",
+        "category": "Go",
+        "stars": "245",
+        "title": "httpstat - It's like curl -v, with colours.",
+        "url": "https://github.com/davecheney/httpstat"
+    },
+    {
+        "author": "dripcap",
+        "category": "JavaScript",
+        "stars": "233",
+        "title": "dripcap - \u2615\ufe0f Caffeinated Packet Analyzer",
+        "url": "https://github.com/dripcap/dripcap"
+    },
+    {
+        "author": "alexflint",
+        "category": "Go",
+        "stars": "182",
+        "title": "gallium - Build desktop applications in Go and HTML.",
+        "url": "https://github.com/alexflint/gallium"
+    }
+]

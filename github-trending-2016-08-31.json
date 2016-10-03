@@ -1,0 +1,72 @@
+[
+    {
+        "author": "brillout",
+        "category": "",
+        "stars": "1,066",
+        "title": "awesome-react-components - Catalog of React components / libraries",
+        "url": "https://github.com/brillout/awesome-react-components"
+    },
+    {
+        "author": "zyedidia",
+        "category": "Go",
+        "stars": "662",
+        "title": "micro - A modern and intuitive terminal-based text editor",
+        "url": "https://github.com/zyedidia/micro"
+    },
+    {
+        "author": "TYVRNET",
+        "category": "PHP",
+        "stars": "583",
+        "title": "SRL - Simple Regex Language",
+        "url": "https://github.com/TYVRNET/SRL"
+    },
+    {
+        "author": "baidu",
+        "category": "C++",
+        "stars": "497",
+        "title": "Paddle - PArallel Distributed Deep LEarning",
+        "url": "https://github.com/baidu/Paddle"
+    },
+    {
+        "author": "david-gpu",
+        "category": "Python",
+        "stars": "503",
+        "title": "srez - Image super-resolution through deep learning",
+        "url": "https://github.com/david-gpu/srez"
+    },
+    {
+        "author": "thejameskyle",
+        "category": "JavaScript",
+        "stars": "481",
+        "title": "itsy-bitsy-data-structures - \ud83c\udff0 All the things you didn't know you wanted to know about data structures",
+        "url": "https://github.com/thejameskyle/itsy-bitsy-data-structures"
+    },
+    {
+        "author": "HiFaraz",
+        "category": "",
+        "stars": "485",
+        "title": "node-playbook - Get started fast with Node.js",
+        "url": "https://github.com/HiFaraz/node-playbook"
+    },
+    {
+        "author": "camwiegert",
+        "category": "JavaScript",
+        "stars": "453",
+        "title": "in-view - Get notified when a DOM element enters or exits the viewport. \ud83d\udc40",
+        "url": "https://github.com/camwiegert/in-view"
+    },
+    {
+        "author": "minio",
+        "category": "Go",
+        "stars": "407",
+        "title": "minio - Minio is an object storage server compatible with Amazon S3 and licensed under Apache 2.0 License",
+        "url": "https://github.com/minio/minio"
+    },
+    {
+        "author": "jlsutherland",
+        "category": "Python",
+        "stars": "383",
+        "title": "doc2text - Detect text blocks and OCR poorly scanned PDFs in bulk. Python module available via pip.",
+        "url": "https://github.com/jlsutherland/doc2text"
+    }
+]

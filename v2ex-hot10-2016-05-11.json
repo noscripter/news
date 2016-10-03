@@ -1,0 +1,282 @@
+[
+    
+    {
+        "id" : 277602,
+        "title" : "人大硕士雷洋的苹果手机被解锁，警方怎么做到的？",
+        "url" : "http://www.v2ex.com/t/277602",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 198,
+        "member" : {
+            "id" : 66176,
+            "username" : "marenight",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/fd56/37a0/66176_mini.png?m=1415958919",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/fd56/37a0/66176_normal.png?m=1415958919",
+            "avatar_large" : "//cdn.v2ex.co/avatar/fd56/37a0/66176_large.png?m=1415958919"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 69195,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1462063234",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1462063234",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1462063234"
+        },
+        "created" : 1462858731,
+        "last_modified" : 1462858752,
+        "last_touched" : 1462943137
+    },
+    
+    {
+        "id" : 277607,
+        "title" : "额,回校一个月,刚听说公司被 react 入侵了......",
+        "url" : "http://www.v2ex.com/t/277607",
+        "content" : "额,简单的说一下吧.lz 在一家创业公司做前端,由于是新手,所以一直是一边工作一边学,从最初了用原生 js 撸完复杂的功能型页面,到最后自己选择了使用 vue.js 来开发公司的项目,也算是对于前端开发有自己的一套理解.\u000D\u000A  \u000D\u000A  当初选择 vue.js 的原因是,我那时候考虑学习的是 avalon.js 和 vue.js,本来想让 avalon.js 成为自己第一个学习的框架,但是因为它的文档太恶心了,对于那时连 MVVM 都还不懂的 lz 来说,上手太难,于是选择了 vue.js.发现确实好学,文档也很优秀.额,为啥没有选择 react 呢?我忘了.\u000D\u000A  \u000D\u000A  公司有一名后端,就是它谋划了这次的**政变**,他之前就一直很希望在公司推广使用 react,那时候我就很不爽,因为那时候我了解过一点 react,觉得他并不是我的菜,而且,react 全家桶我可是久闻大名.但是后来还是 vue.js 胜出了,原因是因为可能是名义上算是我们 CTO 的一个老外,觉得**react 有的优点 vue 也有,而且他也不喜欢 react**.\u000D\u000A  \u000D\u000A  这次我回校答辩,请了一个月的假期.就在今天,我同事和我说了 react 替换掉了 vue 的事,我听了是感觉很不爽的,但是又无可奈何.\u000D\u000A  \u000D\u000A  **额,为了防止大家喷错,我接下来讲解一下自己的学习态度吧**\u000D\u000A  \u000D\u000A  我个人是比较认同真阿当的对于前端的看法的(求轻喷),我是比较重**基础**的,喜欢造轮子,而且也不太迷行权威(自我感觉),我目前的学习方向是:\u000D\u000A  1. 通读 css2 的规范(看到了第 9 章)\u000D\u000A  2. 看 vue.js 的源码(还没开始)\u000D\u000A  3. 了解一下服务器的渲染(还没开始)\u000D\u000A  \u000D\u000A  关于第 3 点我简单的谈一下吧.其实我个人会一点服务器端的知识(我的毕设就是用 node.js 搭建起来的),我之所以想弄服务器渲染,就是因为当初 php 作为页面的模板的时候,我觉得很变扭,很不习惯,我将来会学习一点**服务器方面的知识**,但是绝不不是因为自己想做后端,或则是成为所谓的**全栈**,而是我想**解放前端的生产力**\u000D\u000A  \u000D\u000A  **对于 react 的态度**\u000D\u000A  \u000D\u000A  其实虽然我目前在学习 vue.js,但是我本身不讨厌 react,也不反对学习 react,我讨厌的是什么?是那些**学了 react 就以为自己天下无敌的 sb**,好像前端开发非 react 不可.以前我们公司的后端在和我们的产品经理聊我们前端页面该如何开发的时候,我能很明显的听出来他们的态度,就是**这个功能只能 react 来做,只能用 react 来解决这个问题**,我只是心里觉得他们 sb,但是还是没有多说什么.我很多时候心里在想,如果 react 他的爹不是 facebook,那么 react 肯定没有那么火.\u000D\u000A  \u000D\u000A  **对于这次技术选择的思考**\u000D\u000A  \u000D\u000A  其实我很困惑的是,为什么让一个后端来决定前端该用什么技术?其实严格来说,整个公司只有我在前端上的学习的时间是最久的,有一个同事是刚从 php 转行来做前端的,其他人是用 js 来开发游戏(这个严格来说不算前端吧?),其他人是后端.我很不理解这一行为.难道是因为受到了**全栈**的影响?\u000D\u000A  \u000D\u000A  **对于未来的思考**\u000D\u000A  \u000D\u000A  我不清楚公司使用 react 是否以及成为了定局,如果是,那么我也会学 react,只不过自己应该不会主动去研究,工作上用到多少就学多少(我应该会重点关注 react 解决问题的思路).不过我也应该不会因为这个原因而**离开**公司,我忘了是什么时候体会到这样一个道理,就是**与其去指望换了公司能找到一个合适自己的团队,还不如找到一个和自己志同道合的人**.我的一个同事之前和我说过,他之前上班的公司,就他一个实习的,他的同事们都块 30 了,聊得都是房,车,小孩上学之类的问题,根本没啥共同话题.\u000D\u000A  \u000D\u000A  额,我遇到了这个问题\u0022前端项目应该如何管理素材呢?\u0022,感兴趣的同学可能帮我看看嘛?\u000D\u000A  地址是这个: https://segmentfault.com/q/1010000005084927?_ea\u003D777596",
+        "content_rendered" : "\u003Cp\u003E额,简单的说一下吧.lz 在一家创业公司做前端,由于是新手,所以一直是一边工作一边学,从最初了用原生 js 撸完复杂的功能型页面,到最后自己选择了使用 vue.js 来开发公司的项目,也算是对于前端开发有自己的一套理解.\u003C/p\u003E\u000A\u003Cp\u003E当初选择 vue.js 的原因是,我那时候考虑学习的是 avalon.js 和 vue.js,本来想让 avalon.js 成为自己第一个学习的框架,但是因为它的文档太恶心了,对于那时连 MVVM 都还不懂的 lz 来说,上手太难,于是选择了 vue.js.发现确实好学,文档也很优秀.额,为啥没有选择 react 呢?我忘了.\u003C/p\u003E\u000A\u003Cp\u003E公司有一名后端,就是它谋划了这次的\u003Cstrong\u003E政变\u003C/strong\u003E,他之前就一直很希望在公司推广使用 react,那时候我就很不爽,因为那时候我了解过一点 react,觉得他并不是我的菜,而且,react 全家桶我可是久闻大名.但是后来还是 vue.js 胜出了,原因是因为可能是名义上算是我们 CTO 的一个老外,觉得\u003Cstrong\u003Ereact 有的优点 vue 也有,而且他也不喜欢 react\u003C/strong\u003E.\u003C/p\u003E\u000A\u003Cp\u003E这次我回校答辩,请了一个月的假期.就在今天,我同事和我说了 react 替换掉了 vue 的事,我听了是感觉很不爽的,但是又无可奈何.\u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003E额,为了防止大家喷错,我接下来讲解一下自己的学习态度吧\u003C/strong\u003E\u003C/p\u003E\u000A\u003Cp\u003E我个人是比较认同真阿当的对于前端的看法的(求轻喷),我是比较重\u003Cstrong\u003E基础\u003C/strong\u003E的,喜欢造轮子,而且也不太迷行权威(自我感觉),我目前的学习方向是:\u003C/p\u003E\u000A\u003Col\u003E\u000A\u003Cli\u003E通读 css2 的规范(看到了第 9 章)\u003C/li\u003E\u000A\u003Cli\u003E看 vue.js 的源码(还没开始)\u003C/li\u003E\u000A\u003Cli\u003E了解一下服务器的渲染(还没开始)\u003C/li\u003E\u000A\u003C/ol\u003E\u000A\u003Cp\u003E关于第 3 点我简单的谈一下吧.其实我个人会一点服务器端的知识(我的毕设就是用 node.js 搭建起来的),我之所以想弄服务器渲染,就是因为当初 php 作为页面的模板的时候,我觉得很变扭,很不习惯,我将来会学习一点\u003Cstrong\u003E服务器方面的知识\u003C/strong\u003E,但是绝不不是因为自己想做后端,或则是成为所谓的\u003Cstrong\u003E全栈\u003C/strong\u003E,而是我想\u003Cstrong\u003E解放前端的生产力\u003C/strong\u003E\u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003E对于 react 的态度\u003C/strong\u003E\u003C/p\u003E\u000A\u003Cp\u003E其实虽然我目前在学习 vue.js,但是我本身不讨厌 react,也不反对学习 react,我讨厌的是什么?是那些\u003Cstrong\u003E学了 react 就以为自己天下无敌的 sb\u003C/strong\u003E,好像前端开发非 react 不可.以前我们公司的后端在和我们的产品经理聊我们前端页面该如何开发的时候,我能很明显的听出来他们的态度,就是\u003Cstrong\u003E这个功能只能 react 来做,只能用 react 来解决这个问题\u003C/strong\u003E,我只是心里觉得他们 sb,但是还是没有多说什么.我很多时候心里在想,如果 react 他的爹不是 facebook,那么 react 肯定没有那么火.\u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003E对于这次技术选择的思考\u003C/strong\u003E\u003C/p\u003E\u000A\u003Cp\u003E其实我很困惑的是,为什么让一个后端来决定前端该用什么技术?其实严格来说,整个公司只有我在前端上的学习的时间是最久的,有一个同事是刚从 php 转行来做前端的,其他人是用 js 来开发游戏(这个严格来说不算前端吧?),其他人是后端.我很不理解这一行为.难道是因为受到了\u003Cstrong\u003E全栈\u003C/strong\u003E的影响?\u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003E对于未来的思考\u003C/strong\u003E\u003C/p\u003E\u000A\u003Cp\u003E我不清楚公司使用 react 是否以及成为了定局,如果是,那么我也会学 react,只不过自己应该不会主动去研究,工作上用到多少就学多少(我应该会重点关注 react 解决问题的思路).不过我也应该不会因为这个原因而\u003Cstrong\u003E离开\u003C/strong\u003E公司,我忘了是什么时候体会到这样一个道理,就是\u003Cstrong\u003E与其去指望换了公司能找到一个合适自己的团队,还不如找到一个和自己志同道合的人\u003C/strong\u003E.我的一个同事之前和我说过,他之前上班的公司,就他一个实习的,他的同事们都块 30 了,聊得都是房,车,小孩上学之类的问题,根本没啥共同话题.\u003C/p\u003E\u000A\u003Cp\u003E额,我遇到了这个问题\u0022前端项目应该如何管理素材呢?\u0022,感兴趣的同学可能帮我看看嘛?\u000A地址是这个: \u003Ca href\u003D\u0022https://segmentfault.com/q/1010000005084927?_ea\u003D777596\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://segmentfault.com/q/1010000005084927?_ea\u003D777596\u003C/a\u003E\u003C/p\u003E\u000A",
+        "replies" : 97,
+        "member" : {
+            "id" : 78971,
+            "username" : "tcstory",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/b206/19a0/78971_mini.png?m=1462597435",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/b206/19a0/78971_normal.png?m=1462597435",
+            "avatar_large" : "//cdn.v2ex.co/avatar/b206/19a0/78971_large.png?m=1462597435"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 11844,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1462856250",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1462856250",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1462856250"
+        },
+        "created" : 1462860507,
+        "last_modified" : 1462860507,
+        "last_touched" : 1462942754
+    },
+    
+    {
+        "id" : 277695,
+        "title" : "合租千万不能跟神经衰弱和大龄单身女青年合租。",
+        "url" : "http://www.v2ex.com/t/277695",
+        "content" : "不管是神经衰弱还是大龄女青年。 都不能合租。\u000D\u000A\u000D\u000A实在是遭罪。\u000D\u000A\u000D\u000A1.自己干个啥砰砰砰响。 你弄个啥就吵到他了。\u000D\u000A2.30 岁没结婚。就自然而然有点更年期了。。\u000D\u000A\u000D\u000A\u000D\u000A我开始还以为跟个妹子合租会挺快乐的。 才发现跟一个这种女人合租 简直是受罪呀。",
+        "content_rendered" : "\u003Cp\u003E不管是神经衰弱还是大龄女青年。 都不能合租。\u003C/p\u003E\u000A\u003Cp\u003E实在是遭罪。\u003C/p\u003E\u000A\u003Cp\u003E1.自己干个啥砰砰砰响。 你弄个啥就吵到他了。\u000A2.30 岁没结婚。就自然而然有点更年期了。。\u003C/p\u003E\u000A\u003Cp\u003E我开始还以为跟个妹子合租会挺快乐的。 才发现跟一个这种女人合租 简直是受罪呀。\u003C/p\u003E\u000A",
+        "replies" : 90,
+        "member" : {
+            "id" : 134848,
+            "username" : "xiaoyu9527",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/6dff/947c/134848_mini.png?m=1440734003",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/6dff/947c/134848_normal.png?m=1440734003",
+            "avatar_large" : "//cdn.v2ex.co/avatar/6dff/947c/134848_large.png?m=1440734003"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 69195,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1462063234",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1462063234",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1462063234"
+        },
+        "created" : 1462874467,
+        "last_modified" : 1462874467,
+        "last_touched" : 1462942452
+    },
+    
+    {
+        "id" : 277673,
+        "title" : "感觉 QQ for Mac 和 QQ for windows 相比落后了好几个时代",
+        "url" : "http://www.v2ex.com/t/277673",
+        "content" : "连撤回信息的功能都没有！",
+        "content_rendered" : "连撤回信息的功能都没有！",
+        "replies" : 65,
+        "member" : {
+            "id" : 34753,
+            "username" : "tyhunter",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/6701/2a77/34753_mini.png?m=1361614566",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/6701/2a77/34753_normal.png?m=1361614566",
+            "avatar_large" : "//cdn.v2ex.co/avatar/6701/2a77/34753_large.png?m=1361614566"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 69195,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1462063234",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1462063234",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1462063234"
+        },
+        "created" : 1462871146,
+        "last_modified" : 1462871146,
+        "last_touched" : 1462943664
+    },
+    
+    {
+        "id" : 277648,
+        "title" : "家用私有云上什么方案？",
+        "url" : "http://www.v2ex.com/t/277648",
+        "content" : "之前提问过老笔记本上啥 Linux 发行版，现在基本上稳定运行没问题。\u000D\u000A最近各种网盘倒下，一直在心头的 flag 再次被提起：建个私有云。\u000D\u000A搜索了不少帖子， seafile 啊 ownCloud 啊 myCloud 啊之类的，感觉都不顺手，也可能是我还没好好学习使用。\u000D\u000A\u000D\u000A考虑到现实情况，求问如下：\u000D\u000A各位有私有云或者准备架私有云的，用的什么方案？\u000D\u000A限制条件：\u000D\u000AServer Platform ： Linux Debian 系 /NAS （以后新家会上）\u000D\u000AUser Platform/Protocol ： iOS ， smb/afp\u000D\u000ANice to have ： remote control\u000D\u000A处女座，要求多，还请轻喷。\u000D\u000AThanks in advance ！",
+        "content_rendered" : "之前提问过老笔记本上啥 Linux 发行版，现在基本上稳定运行没问题。\u000D\u003Cbr /\u003E最近各种网盘倒下，一直在心头的 flag 再次被提起：建个私有云。\u000D\u003Cbr /\u003E搜索了不少帖子， seafile 啊 ownCloud 啊 myCloud 啊之类的，感觉都不顺手，也可能是我还没好好学习使用。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E考虑到现实情况，求问如下：\u000D\u003Cbr /\u003E各位有私有云或者准备架私有云的，用的什么方案？\u000D\u003Cbr /\u003E限制条件：\u000D\u003Cbr /\u003EServer Platform ： Linux Debian 系 /NAS （以后新家会上）\u000D\u003Cbr /\u003EUser Platform/Protocol ： iOS ， smb/afp\u000D\u003Cbr /\u003ENice to have ： remote control\u000D\u003Cbr /\u003E处女座，要求多，还请轻喷。\u000D\u003Cbr /\u003EThanks in advance ！",
+        "replies" : 61,
+        "member" : {
+            "id" : 163353,
+            "username" : "zhaojjxvi",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/4cba/af2d/163353_mini.png?m=1458481079",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/4cba/af2d/163353_normal.png?m=1458481079",
+            "avatar_large" : "//cdn.v2ex.co/avatar/4cba/af2d/163353_large.png?m=1458481079"
+        },
+        "node" : {
+            "id" : 104,
+            "name" : "cloud",
+            "title" : "云计算",
+            "title_alternative" : "Cloud Computing",
+            "url" : "http://www.v2ex.com/go/cloud",
+            "topics" : 1467,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c9e1/074f/104_mini.png?m=1462403379",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c9e1/074f/104_normal.png?m=1462403379",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c9e1/074f/104_large.png?m=1462403379"
+        },
+        "created" : 1462867648,
+        "last_modified" : 1462867648,
+        "last_touched" : 1462943263
+    },
+    
+    {
+        "id" : 277690,
+        "title" : "今天查了下社保缴费纪录 太啃爹了 以后什么创业公司 我呸.",
+        "url" : "http://www.v2ex.com/t/277690",
+        "content" : "上一家公司的缴费基数是 8000 \u000D\u000A\u000D\u000A来了创业公司后 社保基数 3500 都没有 \u000D\u000A\u000D\u000A弄了个第三方 缴费的还是 2585 \u000D\u000A\u000D\u000A如果我要举报 应该怎么做?",
+        "content_rendered" : "\u003Cp\u003E上一家公司的缴费基数是 8000\u003C/p\u003E\u000A\u003Cp\u003E来了创业公司后 社保基数 3500 都没有\u003C/p\u003E\u000A\u003Cp\u003E弄了个第三方 缴费的还是 2585\u003C/p\u003E\u000A\u003Cp\u003E如果我要举报 应该怎么做?\u003C/p\u003E\u000A",
+        "replies" : 54,
+        "member" : {
+            "id" : 104088,
+            "username" : "Magician",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/4bcc/c2f9/104088_mini.png?m=1461664704",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/4bcc/c2f9/104088_normal.png?m=1461664704",
+            "avatar_large" : "//cdn.v2ex.co/avatar/4bcc/c2f9/104088_large.png?m=1461664704"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 69195,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1462063234",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1462063234",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1462063234"
+        },
+        "created" : 1462873741,
+        "last_modified" : 1462873741,
+        "last_touched" : 1462941261
+    },
+    
+    {
+        "id" : 277780,
+        "title" : "到底什么叫做面向对象？自认为搞清楚了，可是经理说我没搞清楚。",
+        "url" : "http://www.v2ex.com/t/277780",
+        "content" : "到底什么叫做面向对象？自认为搞清楚了，可是经理说我没搞清楚。\u000D\u000A面向对象编程不就是封装,多态,继承吗？",
+        "content_rendered" : "\u003Cp\u003E到底什么叫做面向对象？自认为搞清楚了，可是经理说我没搞清楚。\u000A面向对象编程不就是封装,多态,继承吗？\u003C/p\u003E\u000A",
+        "replies" : 50,
+        "member" : {
+            "id" : 140598,
+            "username" : "xingzhela",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/9a43ad9bb3635be3cd4792549834d305?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/9a43ad9bb3635be3cd4792549834d305?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/9a43ad9bb3635be3cd4792549834d305?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 11844,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1462856250",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1462856250",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1462856250"
+        },
+        "created" : 1462925114,
+        "last_modified" : 1462925114,
+        "last_touched" : 1462943478
+    },
+    
+    {
+        "id" : 277840,
+        "title" : "怎么能让博客有很大的访问量",
+        "url" : "http://www.v2ex.com/t/277840",
+        "content" : "经常写写博客，博客内容比较多也比较乱\u000D\u000Ahttps://blog.rori.tv/\u000D\u000Ahttps 不好被检索吗？总是感觉看的人少，宣传不出去\u000D\u000A怎么破",
+        "content_rendered" : "\u003Cp\u003E经常写写博客，博客内容比较多也比较乱\u000A\u003Ca href\u003D\u0022https://blog.rori.tv/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://blog.rori.tv/\u003C/a\u003E\u000Ahttps 不好被检索吗？总是感觉看的人少，宣传不出去\u000A怎么破\u003C/p\u003E\u000A",
+        "replies" : 48,
+        "member" : {
+            "id" : 152200,
+            "username" : "rori",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/df394768b8d01eba1d5e2a086b33ef2b?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/df394768b8d01eba1d5e2a086b33ef2b?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/df394768b8d01eba1d5e2a086b33ef2b?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 103,
+            "name" : "blogger",
+            "title" : "Blogger",
+            "title_alternative" : "Blogger",
+            "url" : "http://www.v2ex.com/go/blogger",
+            "topics" : 42,
+            "avatar_mini" : "/static/img/node_mini.png",
+            "avatar_normal" : "/static/img/node_normal.png",
+            "avatar_large" : "/static/img/node_large.png"
+        },
+        "created" : 1462936705,
+        "last_modified" : 1462937332,
+        "last_touched" : 1462942595
+    },
+    
+    {
+        "id" : 277747,
+        "title" : "装 Ubuntu 怎么分区？",
+        "url" : "http://www.v2ex.com/t/277747",
+        "content" : "有人来问我我就说：只要“/”，不用给 boot ， home 单独分区，不要 swap ，只要一个区！\u000D\u000A\u000D\u000A\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u000D\u000A\u000D\u000A网上各种教程都说要给 boot 200 MB ，要给 home 多少， swap 要 1.5 倍内存。然而实际上，\u000D\u000A根本没有鸟用。说这些废话，简直浪费看教程安装 Ubuntu 的人的精力。而且，这样一来，\u000D\u000A我说只要一个分区挂载“/”，对方……根本觉得我在逗他啊！\u000D\u000A\u000D\u000A在我看来，一个分区是简单粗暴的最佳方案。",
+        "content_rendered" : "有人来问我我就说：只要“/”，不用给 boot ， home 单独分区，不要 swap ，只要一个区！\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E网上各种教程都说要给 boot 200 MB ，要给 home 多少， swap 要 1.5 倍内存。然而实际上，\u000D\u003Cbr /\u003E根本没有鸟用。说这些废话，简直浪费看教程安装 Ubuntu 的人的精力。而且，这样一来，\u000D\u003Cbr /\u003E我说只要一个分区挂载“/”，对方……根本觉得我在逗他啊！\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E在我看来，一个分区是简单粗暴的最佳方案。",
+        "replies" : 45,
+        "member" : {
+            "id" : 159303,
+            "username" : "dvorak4tzx",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/21a3/c882/159303_mini.png?m=1461058349",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/21a3/c882/159303_normal.png?m=1461058349",
+            "avatar_large" : "//cdn.v2ex.co/avatar/21a3/c882/159303_large.png?m=1461058349"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 11844,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1462856250",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1462856250",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1462856250"
+        },
+        "created" : 1462888921,
+        "last_modified" : 1462889006,
+        "last_touched" : 1462943387
+    }
+    
+]

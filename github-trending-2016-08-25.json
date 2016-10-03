@@ -1,0 +1,72 @@
+[
+    {
+        "author": "DevLight-Mobile-Agency",
+        "category": "Java",
+        "stars": "798",
+        "title": "InfiniteCycleViewPager - Infinite cycle ViewPager with two-way orientation and interactive effect.",
+        "url": "https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager"
+    },
+    {
+        "author": "reactotron",
+        "category": "JavaScript",
+        "stars": "789",
+        "title": "reactotron - A CLI and OS X app for inspecting your React JS and React Native apps.",
+        "url": "https://github.com/reactotron/reactotron"
+    },
+    {
+        "author": "Yelp",
+        "category": "Python",
+        "stars": "534",
+        "title": "undebt - A fast, straightforward, reliable tool for performing massive, automated code refactoring",
+        "url": "https://github.com/Yelp/undebt"
+    },
+    {
+        "author": "nasa",
+        "category": "JavaScript",
+        "stars": "489",
+        "title": "openmct - A web based mission control framework.",
+        "url": "https://github.com/nasa/openmct"
+    },
+    {
+        "author": "iamduo",
+        "category": "Go",
+        "stars": "385",
+        "title": "workq - Job server in Go",
+        "url": "https://github.com/iamduo/workq"
+    },
+    {
+        "author": "benhowdle89",
+        "category": "JavaScript",
+        "stars": "360",
+        "title": "grade - This JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images.",
+        "url": "https://github.com/benhowdle89/grade"
+    },
+    {
+        "author": "grpc",
+        "category": "C",
+        "stars": "300",
+        "title": "grpc - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+        "url": "https://github.com/grpc/grpc"
+    },
+    {
+        "author": "Kickball",
+        "category": "Makefile",
+        "stars": "304",
+        "title": "awesome-selfhosted - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.",
+        "url": "https://github.com/Kickball/awesome-selfhosted"
+    },
+    {
+        "author": "lizhangqu",
+        "category": "",
+        "stars": "234",
+        "title": "CoreLink - Android \u5f00\u53d1\u4e2d\u7684\u65e5\u5e38\u79ef\u7d2f",
+        "url": "https://github.com/lizhangqu/CoreLink"
+    },
+    {
+        "author": "FormidableLabs",
+        "category": "JavaScript",
+        "stars": "261",
+        "title": "react-music - Make beats with React!",
+        "url": "https://github.com/FormidableLabs/react-music"
+    }
+]

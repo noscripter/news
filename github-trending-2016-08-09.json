@@ -1,0 +1,72 @@
+[
+    {
+        "author": "PokemonGoMap",
+        "category": "Python",
+        "stars": "371",
+        "title": "PokemonGo-Map - \ud83c\udf0f Live visualization of all the pokemon in your area... and more!",
+        "url": "https://github.com/PokemonGoMap/PokemonGo-Map"
+    },
+    {
+        "author": "a0viedo",
+        "category": "",
+        "stars": "442",
+        "title": "demystifying-js-engines - ",
+        "url": "https://github.com/a0viedo/demystifying-js-engines"
+    },
+    {
+        "author": "FallibleInc",
+        "category": "",
+        "stars": "411",
+        "title": "security-guide-for-developers - Security Guide for Developers (\u5b9e\u7528\u6027\u5f00\u53d1\u4eba\u5458\u5b89\u5168\u987b\u77e5)",
+        "url": "https://github.com/FallibleInc/security-guide-for-developers"
+    },
+    {
+        "author": "NECROBOTIO",
+        "category": "C#",
+        "stars": "213",
+        "title": "NecroBot - a Pokemon Go Bot. -> https://discord.gg/VXKxNFr",
+        "url": "https://github.com/NECROBOTIO/NecroBot"
+    },
+    {
+        "author": "acdlite",
+        "category": "",
+        "stars": "271",
+        "title": "react-fiber-architecture - A description of React's new core algorithm, React Fiber",
+        "url": "https://github.com/acdlite/react-fiber-architecture"
+    },
+    {
+        "author": "sachinchoolur",
+        "category": "JavaScript",
+        "stars": "250",
+        "title": "lightgallery.js - Full featured JavaScript image & video gallery. No dependencies",
+        "url": "https://github.com/sachinchoolur/lightgallery.js"
+    },
+    {
+        "author": "noidontdig",
+        "category": "Ruby",
+        "stars": "235",
+        "title": "gitdown - Don't commit when you're drunk",
+        "url": "https://github.com/noidontdig/gitdown"
+    },
+    {
+        "author": "PokemonGoF",
+        "category": "Python",
+        "stars": "183",
+        "title": "PokemonGo-Bot - The Pokemon Go Bot, baking with community.",
+        "url": "https://github.com/PokemonGoF/PokemonGo-Bot"
+    },
+    {
+        "author": "VoLuong",
+        "category": "",
+        "stars": "210",
+        "title": "Awesome-Ubuntu-Linux - \ud83d\udc27 A curated list of awesome applications, softwares, tools and other materials for Ubuntu/Linux.",
+        "url": "https://github.com/VoLuong/Awesome-Ubuntu-Linux"
+    },
+    {
+        "author": "Blankj",
+        "category": "Java",
+        "stars": "179",
+        "title": "AndroidUtilCode - Android\u5f00\u53d1\u4eba\u5458\u4e0d\u5f97\u4e0d\u6536\u96c6\u7684\u4ee3\u7801(\u6301\u7eed\u66f4\u65b0\u4e2d)",
+        "url": "https://github.com/Blankj/AndroidUtilCode"
+    }
+]

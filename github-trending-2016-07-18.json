@@ -1,0 +1,72 @@
+[
+    {
+        "author": "zeit",
+        "category": "JavaScript",
+        "stars": "699",
+        "title": "hyperterm - ",
+        "url": "https://github.com/zeit/hyperterm"
+    },
+    {
+        "author": "egoist",
+        "category": "CSS",
+        "stars": "430",
+        "title": "hack - Dead simple CSS framework.",
+        "url": "https://github.com/egoist/hack"
+    },
+    {
+        "author": "rgcr",
+        "category": "Shell",
+        "stars": "317",
+        "title": "m-cli - \uf8ff Swiss Army Knife for Mac OS X",
+        "url": "https://github.com/rgcr/m-cli"
+    },
+    {
+        "author": "gtank",
+        "category": "Go",
+        "stars": "264",
+        "title": "cryptopasta - copy & paste-friendly golang crypto",
+        "url": "https://github.com/gtank/cryptopasta"
+    },
+    {
+        "author": "chrislgarry",
+        "category": "Assembly",
+        "stars": "237",
+        "title": "Apollo-11 - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+        "url": "https://github.com/chrislgarry/Apollo-11"
+    },
+    {
+        "author": "dropbox",
+        "category": "C++",
+        "stars": "229",
+        "title": "lepton - Lepton is a tool and file format for losslessly compressing JPEGs by an average of 22%.",
+        "url": "https://github.com/dropbox/lepton"
+    },
+    {
+        "author": "angus-c",
+        "category": "JavaScript",
+        "stars": "218",
+        "title": "just - A library of dependency-free utilities that do just do one thing",
+        "url": "https://github.com/angus-c/just"
+    },
+    {
+        "author": "nosir",
+        "category": "JavaScript",
+        "stars": "214",
+        "title": "cleave.js - Format input text content when you are typing",
+        "url": "https://github.com/nosir/cleave.js"
+    },
+    {
+        "author": "AHAAAAAAA",
+        "category": "Python",
+        "stars": "178",
+        "title": "PokemonGo-Map - Live visualization of all the pokemon in your area",
+        "url": "https://github.com/AHAAAAAAA/PokemonGo-Map"
+    },
+    {
+        "author": "ianstormtaylor",
+        "category": "JavaScript",
+        "stars": "148",
+        "title": "slate - A completely customizable framework for building rich text editors.",
+        "url": "https://github.com/ianstormtaylor/slate"
+    }
+]

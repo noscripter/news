@@ -1,0 +1,72 @@
+[
+    {
+        "author": "DrkSephy",
+        "category": "JavaScript",
+        "stars": "1,747",
+        "title": "es6-cheatsheet - ES6 cheatsheet containing tips, tricks, best practices and code snippets",
+        "url": "https://github.com/DrkSephy/es6-cheatsheet"
+    },
+    {
+        "author": "samshadwell",
+        "category": "Python",
+        "stars": "644",
+        "title": "TrumpScript - Make Python great again",
+        "url": "https://github.com/samshadwell/TrumpScript"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "621",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "jiahaog",
+        "category": "JavaScript",
+        "stars": "536",
+        "title": "nativefier - Wrap any web page natively without even thinking, across Windows, OSX and Linux",
+        "url": "https://github.com/jiahaog/nativefier"
+    },
+    {
+        "author": "KnuffApp",
+        "category": "Objective-C",
+        "stars": "366",
+        "title": "Knuff - The debug application for Apple Push Notification Service (APNs).",
+        "url": "https://github.com/KnuffApp/Knuff"
+    },
+    {
+        "author": "yangyangwithgnu",
+        "category": "C++",
+        "stars": "301",
+        "title": "hardseed - hardseed is a batch seeds and pictures download utiltiy from CaoLiu and AiCheng forum",
+        "url": "https://github.com/yangyangwithgnu/hardseed"
+    },
+    {
+        "author": "Yalantis",
+        "category": "Java",
+        "stars": "284",
+        "title": "uCrop - Image Cropping Library for Android",
+        "url": "https://github.com/Yalantis/uCrop"
+    },
+    {
+        "author": "brave",
+        "category": "JavaScript",
+        "stars": "235",
+        "title": "browser-laptop - Brave browser for Desktop and Laptop computers running Windows, OSX, and Linux",
+        "url": "https://github.com/brave/browser-laptop"
+    },
+    {
+        "author": "tensorflow",
+        "category": "C++",
+        "stars": "175",
+        "title": "tensorflow - Computation using data flow graphs for scalable machine learning",
+        "url": "https://github.com/tensorflow/tensorflow"
+    },
+    {
+        "author": "cdmedia",
+        "category": "JavaScript",
+        "stars": "195",
+        "title": "cms.js - The Javascript Site Generator",
+        "url": "https://github.com/cdmedia/cms.js"
+    }
+]

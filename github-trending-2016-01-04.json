@@ -1,0 +1,72 @@
+[
+    {
+        "author": "VerbalExpressions",
+        "category": "JavaScript",
+        "stars": "822",
+        "title": "JSVerbalExpressions - JavaScript Regular expressions made easy",
+        "url": "https://github.com/VerbalExpressions/JSVerbalExpressions"
+    },
+    {
+        "author": "SFTtech",
+        "category": "C++",
+        "stars": "489",
+        "title": "openage - Free (as in freedom) open source clone of the Age of Empires II engine.",
+        "url": "https://github.com/SFTtech/openage"
+    },
+    {
+        "author": "johang",
+        "category": "C++",
+        "stars": "462",
+        "title": "btfs - A bittorrent filesystem based on FUSE. C++.",
+        "url": "https://github.com/johang/btfs"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "386",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "jlevy",
+        "category": "",
+        "stars": "266",
+        "title": "the-art-of-command-line - Master the command line, in one page",
+        "url": "https://github.com/jlevy/the-art-of-command-line"
+    },
+    {
+        "author": "ericelliott",
+        "category": "ApacheConf",
+        "stars": "246",
+        "title": "essential-javascript-links - Essential JavaScript website.",
+        "url": "https://github.com/ericelliott/essential-javascript-links"
+    },
+    {
+        "author": "antirez",
+        "category": "C",
+        "stars": "237",
+        "title": "disque - Disque is a distributed message broker",
+        "url": "https://github.com/antirez/disque"
+    },
+    {
+        "author": "mschwager",
+        "category": "Python",
+        "stars": "222",
+        "title": "dhcpwn - All your IPs are belong to us.",
+        "url": "https://github.com/mschwager/dhcpwn"
+    },
+    {
+        "author": "jonathanslenders",
+        "category": "Python",
+        "stars": "216",
+        "title": "pymux - A terminal multiplexer (like tmux) in Python",
+        "url": "https://github.com/jonathanslenders/pymux"
+    },
+    {
+        "author": "tldr-pages",
+        "category": "Shell",
+        "stars": "201",
+        "title": "tldr - Simplified and community-driven man pages",
+        "url": "https://github.com/tldr-pages/tldr"
+    }
+]

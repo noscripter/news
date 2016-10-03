@@ -1,0 +1,72 @@
+[
+    {
+        "author": "rg3",
+        "category": "Python",
+        "stars": "738",
+        "title": "youtube-dl - Small command-line program to download videos from YouTube.com and other video sites",
+        "url": "https://github.com/rg3/youtube-dl"
+    },
+    {
+        "author": "puikinsh",
+        "category": "HTML",
+        "stars": "497",
+        "title": "gentelella - Free Bootstrap 3 Admin Template",
+        "url": "https://github.com/puikinsh/gentelella"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "470",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "mortenjust",
+        "category": "Swift",
+        "stars": "216",
+        "title": "cleartext-mac - A text editor that only allows the top 1,000 most common words in English",
+        "url": "https://github.com/mortenjust/cleartext-mac"
+    },
+    {
+        "author": "firehol",
+        "category": "C",
+        "stars": "193",
+        "title": "netdata - Real-time performance monitoring, done right!",
+        "url": "https://github.com/firehol/netdata"
+    },
+    {
+        "author": "FezVrasta",
+        "category": "JavaScript",
+        "stars": "186",
+        "title": "popper.js - A ~3.5KB kickass library to manage your poppers",
+        "url": "https://github.com/FezVrasta/popper.js"
+    },
+    {
+        "author": "davidedc",
+        "category": "CoffeeScript",
+        "stars": "178",
+        "title": "Algebrite - Computer Algebra System in Javascript (Coffeescript)",
+        "url": "https://github.com/davidedc/Algebrite"
+    },
+    {
+        "author": "gabrielrcouto",
+        "category": "PHP",
+        "stars": "165",
+        "title": "php-gui - Extensionless PHP Graphic User Interface library",
+        "url": "https://github.com/gabrielrcouto/php-gui"
+    },
+    {
+        "author": "arachnys",
+        "category": "Go",
+        "stars": "171",
+        "title": "athenapdf - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker",
+        "url": "https://github.com/arachnys/athenapdf"
+    },
+    {
+        "author": "feross",
+        "category": "JavaScript",
+        "stars": "158",
+        "title": "webtorrent-desktop - WebTorrent, the streaming torrent client. For OS X, Windows, and Linux.",
+        "url": "https://github.com/feross/webtorrent-desktop"
+    }
+]

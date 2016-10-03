@@ -1,0 +1,72 @@
+[
+    {
+        "author": "dbohdan",
+        "category": "",
+        "stars": "566",
+        "title": "structured-text-tools - A list of command line tools for manipulating structured text data",
+        "url": "https://github.com/dbohdan/structured-text-tools"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "431",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "google",
+        "category": "Java",
+        "stars": "347",
+        "title": "flexbox-layout - Flexbox for Android",
+        "url": "https://github.com/google/flexbox-layout"
+    },
+    {
+        "author": "open-source-society",
+        "category": "",
+        "stars": "200",
+        "title": "computer-science - Path to a free self-taught education in Computer Science!",
+        "url": "https://github.com/open-source-society/computer-science"
+    },
+    {
+        "author": "larrynatalicio",
+        "category": "Swift",
+        "stars": "185",
+        "title": "15DaysofAnimationsinSwift - A project to learn animations.",
+        "url": "https://github.com/larrynatalicio/15DaysofAnimationsinSwift"
+    },
+    {
+        "author": "natsu90",
+        "category": "PHP",
+        "stars": "177",
+        "title": "dial2verify-twilio - Phone verification at no cost",
+        "url": "https://github.com/natsu90/dial2verify-twilio"
+    },
+    {
+        "author": "mschwager",
+        "category": "Python",
+        "stars": "140",
+        "title": "fierce - A DNS reconnaissance tool for locating non-contiguous IP space.",
+        "url": "https://github.com/mschwager/fierce"
+    },
+    {
+        "author": "typicode",
+        "category": "JavaScript",
+        "stars": "140",
+        "title": "json-server - Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+        "url": "https://github.com/typicode/json-server"
+    },
+    {
+        "author": "jobbole",
+        "category": "",
+        "stars": "118",
+        "title": "awesome-mysql-cn - MySQL \u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5206\u6790\u5de5\u5177\u3001\u5907\u4efd\u3001\u6027\u80fd\u6d4b\u8bd5\u3001\u914d\u7f6e\u3001\u90e8\u7f72\u3001GUI \u7b49",
+        "url": "https://github.com/jobbole/awesome-mysql-cn"
+    },
+    {
+        "author": "open-power-workgroup",
+        "category": "Python",
+        "stars": "121",
+        "title": "Hospital - ",
+        "url": "https://github.com/open-power-workgroup/Hospital"
+    }
+]

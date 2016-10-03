@@ -1,0 +1,72 @@
+[
+    {
+        "author": "dschep",
+        "category": "Python",
+        "stars": "845",
+        "title": "ntfy - A utility for sending notifications, on demand and when commands finish.",
+        "url": "https://github.com/dschep/ntfy"
+    },
+    {
+        "author": "thejameskyle",
+        "category": "JavaScript",
+        "stars": "799",
+        "title": "itsy-bitsy-data-structures - \ud83c\udff0 All the things you didn't know you wanted to know about data structures",
+        "url": "https://github.com/thejameskyle/itsy-bitsy-data-structures"
+    },
+    {
+        "author": "camwiegert",
+        "category": "JavaScript",
+        "stars": "536",
+        "title": "in-view - Get notified when a DOM element enters or exits the viewport. \ud83d\udc40",
+        "url": "https://github.com/camwiegert/in-view"
+    },
+    {
+        "author": "paarthneekhara",
+        "category": "Python",
+        "stars": "247",
+        "title": "text-to-image - Tensorflow implementation of text to image synthesis using thought vectors",
+        "url": "https://github.com/paarthneekhara/text-to-image"
+    },
+    {
+        "author": "facebookresearch",
+        "category": "Lua",
+        "stars": "199",
+        "title": "deepmask - Torch implementation of DeepMask and SharpMask",
+        "url": "https://github.com/facebookresearch/deepmask"
+    },
+    {
+        "author": "babel",
+        "category": "JavaScript",
+        "stars": "207",
+        "title": "babili - \u2702\ufe0f An ES6+ aware minifier based on the Babel toolchain (beta)",
+        "url": "https://github.com/babel/babili"
+    },
+    {
+        "author": "leancloud",
+        "category": "Objective-C",
+        "stars": "192",
+        "title": "ChatKit-OC - An IM App UI Framework, support sending text, pictures, audio, video, location messaging, managing address book, more interesting features. Server is available Both in China and US.",
+        "url": "https://github.com/leancloud/ChatKit-OC"
+    },
+    {
+        "author": "variadico",
+        "category": "Go",
+        "stars": "200",
+        "title": "noti - Trigger notifications when a process completes.",
+        "url": "https://github.com/variadico/noti"
+    },
+    {
+        "author": "mzlogin",
+        "category": "",
+        "stars": "161",
+        "title": "awesome-adb - ADB Usage Complete / ADB \u7528\u6cd5\u5927\u5168",
+        "url": "https://github.com/mzlogin/awesome-adb"
+    },
+    {
+        "author": "nasa",
+        "category": "JavaScript",
+        "stars": "152",
+        "title": "openmct - A web based mission control framework.",
+        "url": "https://github.com/nasa/openmct"
+    }
+]

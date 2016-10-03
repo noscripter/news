@@ -1,0 +1,72 @@
+[
+    {
+        "author": "Microsoft",
+        "category": "C++",
+        "stars": "1,611",
+        "title": "CNTK - Computational Network Toolkit (CNTK)",
+        "url": "https://github.com/Microsoft/CNTK"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "725",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "DrkSephy",
+        "category": "JavaScript",
+        "stars": "706",
+        "title": "es6-cheatsheet - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets",
+        "url": "https://github.com/DrkSephy/es6-cheatsheet"
+    },
+    {
+        "author": "nlf",
+        "category": "Go",
+        "stars": "511",
+        "title": "dlite - The simplest way to use Docker on OS X",
+        "url": "https://github.com/nlf/dlite"
+    },
+    {
+        "author": "Soundnode",
+        "category": "JavaScript",
+        "stars": "331",
+        "title": "soundnode-app - Soundnode App is the Soundcloud for desktop. Built with NW.js, Angular.js and Soundcloud API.",
+        "url": "https://github.com/Soundnode/soundnode-app"
+    },
+    {
+        "author": "hirak",
+        "category": "PHP",
+        "stars": "334",
+        "title": "prestissimo - composer parallel install plugin",
+        "url": "https://github.com/hirak/prestissimo"
+    },
+    {
+        "author": "chinchang",
+        "category": "CSS",
+        "stars": "287",
+        "title": "hint.css - A tooltip library in CSS for your lovely websites.",
+        "url": "https://github.com/chinchang/hint.css"
+    },
+    {
+        "author": "zyqf",
+        "category": "Limbo",
+        "stars": "258",
+        "title": "DNS - \u5feb\u901f\u642d\u5efa\u514d\u7ffb\u5899\u7684DNS\u670d\u52a1\u5668",
+        "url": "https://github.com/zyqf/DNS"
+    },
+    {
+        "author": "zquestz",
+        "category": "Go",
+        "stars": "277",
+        "title": "s - Open a web search in your terminal.",
+        "url": "https://github.com/zquestz/s"
+    },
+    {
+        "author": "jiahaog",
+        "category": "JavaScript",
+        "stars": "244",
+        "title": "nativefier - Wrap any web page natively without even thinking, across Windows, OSX and Linux",
+        "url": "https://github.com/jiahaog/nativefier"
+    }
+]

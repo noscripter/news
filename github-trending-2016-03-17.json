@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "648",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "1000ch",
+        "category": "HTML",
+        "stars": "553",
+        "title": "grd - A CSS grid framework using Flexbox. Only 512 bytes (Gzipped).",
+        "url": "https://github.com/1000ch/grd"
+    },
+    {
+        "author": "yenchenlin1994",
+        "category": "Python",
+        "stars": "357",
+        "title": "DeepLearningFlappyBird - Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning).",
+        "url": "https://github.com/yenchenlin1994/DeepLearningFlappyBird"
+    },
+    {
+        "author": "marmelroy",
+        "category": "Swift",
+        "stars": "331",
+        "title": "PeekPop - Peek and Pop with backwards-compatibility",
+        "url": "https://github.com/marmelroy/PeekPop"
+    },
+    {
+        "author": "feathersjs",
+        "category": "JavaScript",
+        "stars": "338",
+        "title": "feathers - A minimalist real-time JavaScript framework for tomorrow's apps.",
+        "url": "https://github.com/feathersjs/feathers"
+    },
+    {
+        "author": "linagora",
+        "category": "JavaScript",
+        "stars": "316",
+        "title": "hublin - An easy and free video conference service #webrtc",
+        "url": "https://github.com/linagora/hublin"
+    },
+    {
+        "author": "Rochester-NRT",
+        "category": "JavaScript",
+        "stars": "277",
+        "title": "AlphaGo - A replication of DeepMind's 2016 Nature publication, \"Mastering the game of Go with deep neural networks and tree search,\" details of which can be found on their website.",
+        "url": "https://github.com/Rochester-NRT/AlphaGo"
+    },
+    {
+        "author": "ageitgey",
+        "category": "CSS",
+        "stars": "298",
+        "title": "amplify - A Jekyll html theme in the vague style of Medium.com built using Google AMP",
+        "url": "https://github.com/ageitgey/amplify"
+    },
+    {
+        "author": "3Dparallax",
+        "category": "JavaScript",
+        "stars": "287",
+        "title": "insight - A helpful Chrome extension for WebGL development",
+        "url": "https://github.com/3Dparallax/insight"
+    },
+    {
+        "author": "spotify",
+        "category": "Objective-C",
+        "stars": "209",
+        "title": "SPTPersistentCache - Everyone tries to implement a cache at some point in their iOS app's lifecycle, and this is ours.",
+        "url": "https://github.com/spotify/SPTPersistentCache"
+    }
+]

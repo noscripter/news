@@ -1,0 +1,72 @@
+[
+    {
+        "author": "langhua9527",
+        "category": "HTML",
+        "stars": "2,275",
+        "title": "BlackheartedHospital - \u7f51\u4f20\u9644\u8386\u7530\u7cfb\u533b\u9662\u540d\u5355\uff0c\u6b22\u8fce\u66f4\u65b0",
+        "url": "https://github.com/langhua9527/BlackheartedHospital"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "582",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "typicode",
+        "category": "JavaScript",
+        "stars": "436",
+        "title": "json-server - Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+        "url": "https://github.com/typicode/json-server"
+    },
+    {
+        "author": "relax",
+        "category": "JavaScript",
+        "stars": "401",
+        "title": "relax - New generation CMS on top of React, Redux and GraphQL",
+        "url": "https://github.com/relax/relax"
+    },
+    {
+        "author": "IonicaBizau",
+        "category": "JavaScript",
+        "stars": "401",
+        "title": "scrape-it - A Node.js scraper for humans.",
+        "url": "https://github.com/IonicaBizau/scrape-it"
+    },
+    {
+        "author": "google",
+        "category": "Rust",
+        "stars": "372",
+        "title": "xi-editor - A modern editor with a backend written in Rust.",
+        "url": "https://github.com/google/xi-editor"
+    },
+    {
+        "author": "steshaw",
+        "category": "CSS",
+        "stars": "275",
+        "title": "plt - A path to Programming Language Theory enlightenment",
+        "url": "https://github.com/steshaw/plt"
+    },
+    {
+        "author": "jsvine",
+        "category": "Python",
+        "stars": "267",
+        "title": "waybackpack - Download the entire Wayback Machine archive for a given URL.",
+        "url": "https://github.com/jsvine/waybackpack"
+    },
+    {
+        "author": "danielzeller",
+        "category": "Java",
+        "stars": "242",
+        "title": "Depth-LIB-Android- - A library gives depth to Views. It also contains some examples of Canvas drawing techniques to create particle systems, waves and grain effect. I was not really happy with the default shadows in android beacuse they start misbehaving when they are rotated som I made my own shadow solution. Don't expect to much from this lib, it was written as a \u2026",
+        "url": "https://github.com/danielzeller/Depth-LIB-Android-"
+    },
+    {
+        "author": "rogeralsing",
+        "category": "Go",
+        "stars": "242",
+        "title": "gam - Go Actor Model framework - Ultra fast distributed actors for Golang",
+        "url": "https://github.com/rogeralsing/gam"
+    }
+]

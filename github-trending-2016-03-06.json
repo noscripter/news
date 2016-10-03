@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "357",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "tidwall",
+        "category": "Go",
+        "stars": "292",
+        "title": "tile38 - Tile38 is a geolocation data store, spatial index, and realtime geofence. It supports a variety of object types including lat/lon points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON.",
+        "url": "https://github.com/tidwall/tile38"
+    },
+    {
+        "author": "ParsePlatform",
+        "category": "JavaScript",
+        "stars": "277",
+        "title": "parse-dashboard - A dashboard for managing your Parse apps that aren't hosted on Parse.com",
+        "url": "https://github.com/ParsePlatform/parse-dashboard"
+    },
+    {
+        "author": "mamedev",
+        "category": "C++",
+        "stars": "264",
+        "title": "mame - MAME - Multiple Arcade Machine Emulator",
+        "url": "https://github.com/mamedev/mame"
+    },
+    {
+        "author": "awentzonline",
+        "category": "Python",
+        "stars": "258",
+        "title": "image-analogies - Generate image analogies using neural matching and blending.",
+        "url": "https://github.com/awentzonline/image-analogies"
+    },
+    {
+        "author": "storehouse",
+        "category": "Swift",
+        "stars": "248",
+        "title": "Advance - A powerful animation framework for iOS.",
+        "url": "https://github.com/storehouse/Advance"
+    },
+    {
+        "author": "yrp604",
+        "category": "C",
+        "stars": "237",
+        "title": "rappel - A linux-based assembly REPL for x86, amd64, and armv7",
+        "url": "https://github.com/yrp604/rappel"
+    },
+    {
+        "author": "uber-common",
+        "category": "JavaScript",
+        "stars": "195",
+        "title": "react-vis - ",
+        "url": "https://github.com/uber-common/react-vis"
+    },
+    {
+        "author": "jonsuh",
+        "category": "CSS",
+        "stars": "182",
+        "title": "hamburgers - Tasty CSS-animated Hamburgers",
+        "url": "https://github.com/jonsuh/hamburgers"
+    },
+    {
+        "author": "JakeLin",
+        "category": "Swift",
+        "stars": "133",
+        "title": "IBAnimatable - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.",
+        "url": "https://github.com/JakeLin/IBAnimatable"
+    }
+]

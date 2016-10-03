@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "555",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "thejameskyle",
+        "category": "JavaScript",
+        "stars": "423",
+        "title": "spectacle-code-slide - Present code with style",
+        "url": "https://github.com/thejameskyle/spectacle-code-slide"
+    },
+    {
+        "author": "toddmotto",
+        "category": "",
+        "stars": "355",
+        "title": "public-apis - A collective list of public JSON APIs for use in web development.",
+        "url": "https://github.com/toddmotto/public-apis"
+    },
+    {
+        "author": "laobie",
+        "category": "Java",
+        "stars": "338",
+        "title": "StatusBarUtil - A util for setting status bar style on Android App.",
+        "url": "https://github.com/laobie/StatusBarUtil"
+    },
+    {
+        "author": "amzn",
+        "category": "",
+        "stars": "319",
+        "title": "alexa-avs-raspberry-pi - This project demonstrates how to access and test the Alexa Voice Service using a Java client (running on a Raspberry Pi), and a Node.js server.",
+        "url": "https://github.com/amzn/alexa-avs-raspberry-pi"
+    },
+    {
+        "author": "PMSI-AlignAlytics",
+        "category": "JavaScript",
+        "stars": "298",
+        "title": "dimple - An object-oriented API for business analytics",
+        "url": "https://github.com/PMSI-AlignAlytics/dimple"
+    },
+    {
+        "author": "braydie",
+        "category": "",
+        "stars": "295",
+        "title": "HowToBeAProgrammer - A guide on how to be a Programmer - originally published by Robert L Read",
+        "url": "https://github.com/braydie/HowToBeAProgrammer"
+    },
+    {
+        "author": "gogits",
+        "category": "Go",
+        "stars": "254",
+        "title": "gogs - Gogs (Go Git Service) is a painless self-hosted Git service.",
+        "url": "https://github.com/gogits/gogs"
+    },
+    {
+        "author": "opentoonz",
+        "category": "C++",
+        "stars": "228",
+        "title": "opentoonz - OpenToonz - \u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u5236\u4f5c\u30c4\u30fc\u30eb\u306e\u30aa\u30fc\u30d7\u30f3\u30bd\u30fc\u30b9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8",
+        "url": "https://github.com/opentoonz/opentoonz"
+    },
+    {
+        "author": "delba",
+        "category": "Swift",
+        "stars": "217",
+        "title": "Permission - A unified API to ask for permissions on iOS",
+        "url": "https://github.com/delba/Permission"
+    }
+]

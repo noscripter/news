@@ -1,0 +1,72 @@
+[
+    {
+        "author": "Tencent",
+        "category": "Java",
+        "stars": "542",
+        "title": "tinker - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",
+        "url": "https://github.com/Tencent/tinker"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "366",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "Aufree",
+        "category": "JavaScript",
+        "stars": "334",
+        "title": "awesome-wechat-weapp - \u5fae\u4fe1\u5c0f\u7a0b\u5e8f\u8d44\u6e90\u6c47\u603b\u6574\u7406\uff0c Awesome WeChat WeApp\uff0c\u6db5\u62ec\u5fae\u4fe1 Web \u5f00\u53d1\u8005\u5de5\u5177\u6536\u96c6\uff0cWeApp \u6559\u7a0b\u6536\u96c6\uff0c\u7ad9\u70b9\u6536\u96c6\u548c\u4ee3\u7801\u5b9e\u4f8b",
+        "url": "https://github.com/Aufree/awesome-wechat-weapp"
+    },
+    {
+        "author": "Eloston",
+        "category": "Python",
+        "stars": "360",
+        "title": "ungoogled-chromium - A Google Chromium variant for removing Google integration and enhancing privacy, control, and transparency",
+        "url": "https://github.com/Eloston/ungoogled-chromium"
+    },
+    {
+        "author": "ssloy",
+        "category": "C++",
+        "stars": "346",
+        "title": "tinyrenderer - Support c++ code for a short computer graphics course",
+        "url": "https://github.com/ssloy/tinyrenderer"
+    },
+    {
+        "author": "davecheney",
+        "category": "Go",
+        "stars": "300",
+        "title": "httpstat - It's like curl -v, with colours.",
+        "url": "https://github.com/davecheney/httpstat"
+    },
+    {
+        "author": "Leaflet",
+        "category": "JavaScript",
+        "stars": "282",
+        "title": "Leaflet - \ud83c\udf43 JavaScript library for mobile-friendly interactive maps",
+        "url": "https://github.com/Leaflet/Leaflet"
+    },
+    {
+        "author": "facebookresearch",
+        "category": "Python",
+        "stars": "266",
+        "title": "CommAI-env - A platform for developing AI systems as described in A Roadmap towards Machine Intelligence - http://arxiv.org/abs/1511.08130",
+        "url": "https://github.com/facebookresearch/CommAI-env"
+    },
+    {
+        "author": "mmin18",
+        "category": "Java",
+        "stars": "268",
+        "title": "RealtimeBlurView - A realtime blurring overlay for Android (like iOS UIVisualEffectView)",
+        "url": "https://github.com/mmin18/RealtimeBlurView"
+    },
+    {
+        "author": "junyanz",
+        "category": "Python",
+        "stars": "236",
+        "title": "iGAN - A deep learning software that easily generates images with a few brushstrokes (from UC Berkeley and Adobe CTL)",
+        "url": "https://github.com/junyanz/iGAN"
+    }
+]

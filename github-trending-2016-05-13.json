@@ -1,0 +1,72 @@
+[
+    {
+        "author": "facebook",
+        "category": "Hack",
+        "stars": "1,442",
+        "title": "fbctf - Platform to host Capture the Flag competitions",
+        "url": "https://github.com/facebook/fbctf"
+    },
+    {
+        "author": "scala-native",
+        "category": "Scala",
+        "stars": "777",
+        "title": "scala-native - Your favourite language gets closer to bare metal.",
+        "url": "https://github.com/scala-native/scala-native"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "609",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "tensorflow",
+        "category": "Python",
+        "stars": "569",
+        "title": "models - Models built with TensorFlow",
+        "url": "https://github.com/tensorflow/models"
+    },
+    {
+        "author": "amznlabs",
+        "category": "C++",
+        "stars": "443",
+        "title": "amazon-dsstne - Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models",
+        "url": "https://github.com/amznlabs/amazon-dsstne"
+    },
+    {
+        "author": "jtoy",
+        "category": "",
+        "stars": "453",
+        "title": "awesome-tensorflow - TensorFlow - A curated list of dedicated resources http://tensorflow.org",
+        "url": "https://github.com/jtoy/awesome-tensorflow"
+    },
+    {
+        "author": "electron",
+        "category": "C++",
+        "stars": "373",
+        "title": "electron - Build cross platform desktop apps with web technologies",
+        "url": "https://github.com/electron/electron"
+    },
+    {
+        "author": "alex-sherman",
+        "category": "Python",
+        "stars": "357",
+        "title": "deco - ",
+        "url": "https://github.com/alex-sherman/deco"
+    },
+    {
+        "author": "electron",
+        "category": "HTML",
+        "stars": "285",
+        "title": "electron-api-demos - Explore the Electron APIs",
+        "url": "https://github.com/electron/electron-api-demos"
+    },
+    {
+        "author": "openthread",
+        "category": "C++",
+        "stars": "234",
+        "title": "openthread - OpenThread is an open-source implementation of the Thread networking protocol",
+        "url": "https://github.com/openthread/openthread"
+    }
+]

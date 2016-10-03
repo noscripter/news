@@ -1,0 +1,72 @@
+[
+    {
+        "author": "ryanhoo",
+        "category": "Java",
+        "stars": "374",
+        "title": "StylishMusicPlayer - A stylish music player for android device 16+",
+        "url": "https://github.com/ryanhoo/StylishMusicPlayer"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "328",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "elendirx",
+        "category": "HTML",
+        "stars": "214",
+        "title": "web2web - P2P web powered by torrents and blockchain.",
+        "url": "https://github.com/elendirx/web2web"
+    },
+    {
+        "author": "CoXier",
+        "category": "Java",
+        "stars": "192",
+        "title": "LowPoly - LowPoly For Android",
+        "url": "https://github.com/CoXier/LowPoly"
+    },
+    {
+        "author": "renaudcerrato",
+        "category": "Java",
+        "stars": "188",
+        "title": "DoorSignView - Customizable, sensor-enabled, door sign custom views for Android.",
+        "url": "https://github.com/renaudcerrato/DoorSignView"
+    },
+    {
+        "author": "gztchan",
+        "category": "",
+        "stars": "189",
+        "title": "awesome-design - \ud83c\udf8f Best UI/UX Design Resources For Developer & Designer Ever :)",
+        "url": "https://github.com/gztchan/awesome-design"
+    },
+    {
+        "author": "FormidableLabs",
+        "category": "JavaScript",
+        "stars": "191",
+        "title": "react-game-kit - Component library for making games with React & React Native",
+        "url": "https://github.com/FormidableLabs/react-game-kit"
+    },
+    {
+        "author": "vapor",
+        "category": "Swift",
+        "stars": "164",
+        "title": "vapor - A web framework and server for Swift that works on macOS and Ubuntu.",
+        "url": "https://github.com/vapor/vapor"
+    },
+    {
+        "author": "adrielcafe",
+        "category": "Java",
+        "stars": "160",
+        "title": "AndroidAudioConverter - Convert audio files inside your Android app easily. Supported formats: AAC, MP3, M4A, WMA, WAV and FLAC.",
+        "url": "https://github.com/adrielcafe/AndroidAudioConverter"
+    },
+    {
+        "author": "leereilly",
+        "category": "",
+        "stars": "158",
+        "title": "games - \ud83c\udfae A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.",
+        "url": "https://github.com/leereilly/games"
+    }
+]

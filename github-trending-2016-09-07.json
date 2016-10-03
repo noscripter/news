@@ -1,0 +1,72 @@
+[
+    {
+        "author": "shekhargulati",
+        "category": "JavaScript",
+        "stars": "690",
+        "title": "52-technologies-in-2016 - Let's learn a new technology every week. A new technology blog every Sunday in 2016.",
+        "url": "https://github.com/shekhargulati/52-technologies-in-2016"
+    },
+    {
+        "author": "sarcadass",
+        "category": "JavaScript",
+        "stars": "558",
+        "title": "granim.js - Create fluid and interactive gradients animations with this small (< 10 kB) js library.",
+        "url": "https://github.com/sarcadass/granim.js"
+    },
+    {
+        "author": "tmrts",
+        "category": "Go",
+        "stars": "433",
+        "title": "go-patterns - A curated list of Go patterns and idioms",
+        "url": "https://github.com/tmrts/go-patterns"
+    },
+    {
+        "author": "quilljs",
+        "category": "JavaScript",
+        "stars": "436",
+        "title": "quill - Your powerful, rich text editor",
+        "url": "https://github.com/quilljs/quill"
+    },
+    {
+        "author": "xcatliu",
+        "category": "CSS",
+        "stars": "424",
+        "title": "mobi.css - A lightweight, flexible css framework that focus on mobile.",
+        "url": "https://github.com/xcatliu/mobi.css"
+    },
+    {
+        "author": "pavel-odintsov",
+        "category": "C++",
+        "stars": "410",
+        "title": "fastnetmon - FastNetMon - very fast DDoS analyzer with sflow/netflow/mirror support",
+        "url": "https://github.com/pavel-odintsov/fastnetmon"
+    },
+    {
+        "author": "sylnsfar",
+        "category": "Python",
+        "stars": "393",
+        "title": "qrcode - artistic QR Code in Python \uff08Animated GIF qr code\uff09- Python \u827a\u672f\u4e8c\u7ef4\u7801\u751f\u6210\u5668 \uff08GIF\u52a8\u6001\u4e8c\u7ef4\u7801\u3001\u56fe\u7247\u4e8c\u7ef4\u7801\uff09",
+        "url": "https://github.com/sylnsfar/qrcode"
+    },
+    {
+        "author": "huazhiyuan2008",
+        "category": "Java",
+        "stars": "375",
+        "title": "RecyclerViewCardGallery - RecyclerView\u5b9e\u73b0Card Gallery\u6548\u679c\uff0c\u66ff\u4ee3ViewPager\u65b9\u6848",
+        "url": "https://github.com/huazhiyuan2008/RecyclerViewCardGallery"
+    },
+    {
+        "author": "ElemeFE",
+        "category": "Vue",
+        "stars": "326",
+        "title": "element - Desktop UI elements for Vue.js 2.0",
+        "url": "https://github.com/ElemeFE/element"
+    },
+    {
+        "author": "facebook",
+        "category": "C",
+        "stars": "283",
+        "title": "zstd - Zstandard - Fast real-time compression algorithm",
+        "url": "https://github.com/facebook/zstd"
+    }
+]

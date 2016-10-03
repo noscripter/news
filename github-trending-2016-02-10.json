@@ -1,0 +1,72 @@
+[
+    {
+        "author": "jbranchaud",
+        "category": "",
+        "stars": "1,612",
+        "title": "til - Today I Learned",
+        "url": "https://github.com/jbranchaud/til"
+    },
+    {
+        "author": "stevemao",
+        "category": "Shell",
+        "stars": "1,283",
+        "title": "diff-so-fancy - diff-so-fancy builds on the good-lookin' output of diff-highlight to upgrade your diffs' appearances",
+        "url": "https://github.com/stevemao/diff-so-fancy"
+    },
+    {
+        "author": "minimaxir",
+        "category": "Python",
+        "stars": "588",
+        "title": "big-list-of-naughty-strings - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
+        "url": "https://github.com/minimaxir/big-list-of-naughty-strings"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "559",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "ParsePlatform",
+        "category": "JavaScript",
+        "stars": "475",
+        "title": "parse-server - Parse-compatible API server module for Node/Express",
+        "url": "https://github.com/ParsePlatform/parse-server"
+    },
+    {
+        "author": "caesar0301",
+        "category": "",
+        "stars": "406",
+        "title": "awesome-public-datasets - An awesome list of high-quality open datasets in public domains (on-going).",
+        "url": "https://github.com/caesar0301/awesome-public-datasets"
+    },
+    {
+        "author": "p-e-w",
+        "category": "Python",
+        "stars": "378",
+        "title": "maybe - See what a program does before deciding whether you really want it to happen.",
+        "url": "https://github.com/p-e-w/maybe"
+    },
+    {
+        "author": "jayphelps",
+        "category": "Shell",
+        "stars": "375",
+        "title": "git-blame-someone-else - Blame someone else for your bad code.",
+        "url": "https://github.com/jayphelps/git-blame-someone-else"
+    },
+    {
+        "author": "google",
+        "category": "C++",
+        "stars": "366",
+        "title": "ion - Ion",
+        "url": "https://github.com/google/ion"
+    },
+    {
+        "author": "sublimehq",
+        "category": "JavaScript",
+        "stars": "341",
+        "title": "Packages - ",
+        "url": "https://github.com/sublimehq/Packages"
+    }
+]

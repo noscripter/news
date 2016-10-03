@@ -1,0 +1,72 @@
+[
+    {
+        "author": "firehol",
+        "category": "C",
+        "stars": "637",
+        "title": "netdata - Real-time performance monitoring, done right!",
+        "url": "https://github.com/firehol/netdata"
+    },
+    {
+        "author": "andris9",
+        "category": "JavaScript",
+        "stars": "572",
+        "title": "mailtrain - Self hosted newsletter app",
+        "url": "https://github.com/andris9/mailtrain"
+    },
+    {
+        "author": "soimort",
+        "category": "Python",
+        "stars": "544",
+        "title": "you-get - Dumb downloader that scrapes the web",
+        "url": "https://github.com/soimort/you-get"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "469",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "kadirahq",
+        "category": "JavaScript",
+        "stars": "401",
+        "title": "react-storybook - Isolate your React UI Component development from the main app",
+        "url": "https://github.com/kadirahq/react-storybook"
+    },
+    {
+        "author": "android-cjj",
+        "category": "Java",
+        "stars": "385",
+        "title": "JJSearchViewAnim - A cool search view animation library",
+        "url": "https://github.com/android-cjj/JJSearchViewAnim"
+    },
+    {
+        "author": "labstack",
+        "category": "Go",
+        "stars": "313",
+        "title": "echo - Echo is a fast and unfancy web framework for Go (Golang). Up to 10x faster than the rest.",
+        "url": "https://github.com/labstack/echo"
+    },
+    {
+        "author": "mmin18",
+        "category": "Java",
+        "stars": "288",
+        "title": "FlexLayout - More powerful than LinearLayout and RelativeLayout which use java expression in layout params",
+        "url": "https://github.com/mmin18/FlexLayout"
+    },
+    {
+        "author": "googlesamples",
+        "category": "",
+        "stars": "267",
+        "title": "android-architecture - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+        "url": "https://github.com/googlesamples/android-architecture"
+    },
+    {
+        "author": "airbnb",
+        "category": "Python",
+        "stars": "240",
+        "title": "caravel - Caravel is a data exploration platform designed to be visual, intuitive, and interactive",
+        "url": "https://github.com/airbnb/caravel"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "HunterLarco",
+        "category": "CSS",
+        "stars": "1,593",
+        "title": "voxel.css - A lightweight 3D CSS voxel library.",
+        "url": "https://github.com/HunterLarco/voxel.css"
+    },
+    {
+        "author": "Microsoft",
+        "category": "C++",
+        "stars": "664",
+        "title": "CNTK - Computational Network Toolkit (CNTK)",
+        "url": "https://github.com/Microsoft/CNTK"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "665",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "fengyuanchen",
+        "category": "JavaScript",
+        "stars": "458",
+        "title": "viewerjs - JavaScript image viewer.",
+        "url": "https://github.com/fengyuanchen/viewerjs"
+    },
+    {
+        "author": "DrkSephy",
+        "category": "JavaScript",
+        "stars": "320",
+        "title": "es6-cheatsheet - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets",
+        "url": "https://github.com/DrkSephy/es6-cheatsheet"
+    },
+    {
+        "author": "developit",
+        "category": "JavaScript",
+        "stars": "304",
+        "title": "preact - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.",
+        "url": "https://github.com/developit/preact"
+    },
+    {
+        "author": "cht8687",
+        "category": "JavaScript",
+        "stars": "288",
+        "title": "You-Dont-Need-Lodash-Underscore - Lists of Javascript methods which you can use natively",
+        "url": "https://github.com/cht8687/You-Dont-Need-Lodash-Underscore"
+    },
+    {
+        "author": "chinchang",
+        "category": "CSS",
+        "stars": "277",
+        "title": "hint.css - A CSS only tooltip library for your lovely websites.",
+        "url": "https://github.com/chinchang/hint.css"
+    },
+    {
+        "author": "hirak",
+        "category": "PHP",
+        "stars": "235",
+        "title": "prestissimo - composer parallel install plugin",
+        "url": "https://github.com/hirak/prestissimo"
+    },
+    {
+        "author": "nlf",
+        "category": "Go",
+        "stars": "235",
+        "title": "dlite - The simplest way to use Docker on OS X",
+        "url": "https://github.com/nlf/dlite"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "braydie",
+        "category": "",
+        "stars": "847",
+        "title": "HowToBeAProgrammer - A guide on how to be a Programmer - originally published by Robert L Read",
+        "url": "https://github.com/braydie/HowToBeAProgrammer"
+    },
+    {
+        "author": "jlevy",
+        "category": "",
+        "stars": "730",
+        "title": "og-equity-compensation - Stock options, RSUs, taxes \u2014 a guide for humans",
+        "url": "https://github.com/jlevy/og-equity-compensation"
+    },
+    {
+        "author": "luin",
+        "category": "JavaScript",
+        "stars": "705",
+        "title": "medis - Medis is a beautiful, easy-to-use Mac database management application for Redis.",
+        "url": "https://github.com/luin/medis"
+    },
+    {
+        "author": "mhinz",
+        "category": "",
+        "stars": "665",
+        "title": "vim-galore - Everything you need to know about Vim.",
+        "url": "https://github.com/mhinz/vim-galore"
+    },
+    {
+        "author": "loverajoel",
+        "category": "JavaScript",
+        "stars": "509",
+        "title": "jstips - This is about one JS tip every day!",
+        "url": "https://github.com/loverajoel/jstips"
+    },
+    {
+        "author": "mshang",
+        "category": "Python",
+        "stars": "408",
+        "title": "python-elevator-challenge - So You Think You Can Program An Elevator",
+        "url": "https://github.com/mshang/python-elevator-challenge"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "396",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "viljamis",
+        "category": "HTML",
+        "stars": "358",
+        "title": "feature.js - Feature.js is a fast, simple and lightweight browser feature detection library in 1kb.",
+        "url": "https://github.com/viljamis/feature.js"
+    },
+    {
+        "author": "milligram",
+        "category": "CSS",
+        "stars": "273",
+        "title": "milligram - A minimalist CSS framework.",
+        "url": "https://github.com/milligram/milligram"
+    },
+    {
+        "author": "aerofs",
+        "category": "Objective-C",
+        "stars": "234",
+        "title": "react-native-auto-updater - A library to manage dynamic updates to React Native apps. Available as a CocoaPod.",
+        "url": "https://github.com/aerofs/react-native-auto-updater"
+    }
+]

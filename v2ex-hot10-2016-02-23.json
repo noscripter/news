@@ -1,0 +1,282 @@
+[
+    
+    {
+        "id" : 258146,
+        "title" : "大家对待看小说这件事（程序员），怎么认可？",
+        "url" : "http://www.v2ex.com/t/258146",
+        "content" : "每个程序员是不是都回去看小说呢？我是高中开始的，算算也好多年的书龄了！昨天去听了优才学院的课(主要是讲职业道路的那些事)，那老师说，看书就应该看和工作像关的书，感觉心好累，程序员回家还看程序的书？这是敬业还是属于兴趣?",
+        "content_rendered" : "\u003Cp\u003E每个程序员是不是都回去看小说呢？我是高中开始的，算算也好多年的书龄了！昨天去听了优才学院的课(主要是讲职业道路的那些事)，那老师说，看书就应该看和工作像关的书，感觉心好累，程序员回家还看程序的书？这是敬业还是属于兴趣?\u003C/p\u003E\u000A",
+        "replies" : 100,
+        "member" : {
+            "id" : 145658,
+            "username" : "chuhemiao",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/7672/c5e9/145658_mini.png?m=1452926414",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/7672/c5e9/145658_normal.png?m=1452926414",
+            "avatar_large" : "//cdn.v2ex.co/avatar/7672/c5e9/145658_large.png?m=1452926414"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 10947,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1456134010",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1456134010",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1456134010"
+        },
+        "created" : 1456108034,
+        "last_modified" : 1456108034,
+        "last_touched" : 1456159627
+    },
+    
+    {
+        "id" : 258208,
+        "title" : "iPhone 的 Home 键真的容易坏吗？",
+        "url" : "http://www.v2ex.com/t/258208",
+        "content" : "周围用 iPhone 开小白点的，不说 100%吧， 70%是有的，退出程序都要点一下小白点再点返回主屏幕，切换多任务界面的时候更麻烦。问了一下基本都是说保护 Home 键，怕坏之类的。\u000D\u000A\u000D\u000A以前一个同学用 iPhone4 的时候 Home 键倒是坏过，那个时候感觉小白点真是救命稻草啊，那么这么多年过去了苹果是否已经解决了 Home 键容易失灵的问题呢？",
+        "content_rendered" : "\u003Cp\u003E周围用 iPhone 开小白点的，不说 100%吧， 70%是有的，退出程序都要点一下小白点再点返回主屏幕，切换多任务界面的时候更麻烦。问了一下基本都是说保护 Home 键，怕坏之类的。\u003C/p\u003E\u000A\u000A\u003Cp\u003E以前一个同学用 iPhone4 的时候 Home 键倒是坏过，那个时候感觉小白点真是救命稻草啊，那么这么多年过去了苹果是否已经解决了 Home 键容易失灵的问题呢？\u003C/p\u003E\u000A",
+        "replies" : 91,
+        "member" : {
+            "id" : 93772,
+            "username" : "iyeatse",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/0b1064c28d0aaa0c17b992a49dc8cf55?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/0b1064c28d0aaa0c17b992a49dc8cf55?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/0b1064c28d0aaa0c17b992a49dc8cf55?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 8,
+            "name" : "iphone",
+            "title" : "iPhone",
+            "title_alternative" : "iPhone",
+            "url" : "http://www.v2ex.com/go/iphone",
+            "topics" : 3339,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c9f0/f895/8_mini.png?m=1454545245",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c9f0/f895/8_normal.png?m=1454545245",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c9f0/f895/8_large.png?m=1454545245"
+        },
+        "created" : 1456118732,
+        "last_modified" : 1456118732,
+        "last_touched" : 1456172536
+    },
+    
+    {
+        "id" : 258227,
+        "title" : "你们都用什么 Makedown 编辑器？",
+        "url" : "http://www.v2ex.com/t/258227",
+        "content" : "楼主自己接触 Makedown 不久，相见恨晚。目前使用 Makedownpad ， Makedown 处理器使用的是 github 离线风格，这样可以很好的支持代码块和列表。但这个风格下有个 bug ，不能正常显示插入的时间戳。\u000D\u000A\u000D\u000A不知道各位都用的什么编辑器？",
+        "content_rendered" : "\u003Cp\u003E楼主自己接触 Makedown 不久，相见恨晚。目前使用 Makedownpad ， Makedown 处理器使用的是 github 离线风格，这样可以很好的支持代码块和列表。但这个风格下有个 bug ，不能正常显示插入的时间戳。\u003C/p\u003E\u000A\u000A\u003Cp\u003E不知道各位都用的什么编辑器？\u003C/p\u003E\u000A",
+        "replies" : 73,
+        "member" : {
+            "id" : 14411,
+            "username" : "c0lc",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/e620/a25a/14411_mini.png?m=1361177109",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/e620/a25a/14411_normal.png?m=1361177109",
+            "avatar_large" : "//cdn.v2ex.co/avatar/e620/a25a/14411_large.png?m=1361177109"
+        },
+        "node" : {
+            "id" : 513,
+            "name" : "markdown",
+            "title" : "Markdown",
+            "title_alternative" : "Markdown",
+            "url" : "http://www.v2ex.com/go/markdown",
+            "topics" : 257,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/3dc4/876f/513_mini.png?m=1424302153",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/3dc4/876f/513_normal.png?m=1424302153",
+            "avatar_large" : "//cdn.v2ex.co/navatar/3dc4/876f/513_large.png?m=1424302153"
+        },
+        "created" : 1456123342,
+        "last_modified" : 1456123342,
+        "last_touched" : 1456190411
+    },
+    
+    {
+        "id" : 258221,
+        "title" : "你们的公司都给上公积金吗？",
+        "url" : "http://www.v2ex.com/t/258221",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 53,
+        "member" : {
+            "id" : 28881,
+            "username" : "googlefans",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/27b5/429c/28881_mini.png?m=1351474159",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/27b5/429c/28881_normal.png?m=1351474159",
+            "avatar_large" : "//cdn.v2ex.co/avatar/27b5/429c/28881_large.png?m=1351474159"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 64789,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1455764386",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1455764386",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1455764386"
+        },
+        "created" : 1456122131,
+        "last_modified" : 1456122131,
+        "last_touched" : 1456169616
+    },
+    
+    {
+        "id" : 258199,
+        "title" : "七牛 VS 又拍",
+        "url" : "http://www.v2ex.com/t/258199",
+        "content" : "哪个好？",
+        "content_rendered" : "\u003Cp\u003E哪个好？\u003C/p\u003E\u000A",
+        "replies" : 45,
+        "member" : {
+            "id" : 122209,
+            "username" : "nyfwan123",
+            "tagline" : "真正的匠心，是值得等待的。",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/69f4/25ff/122209_mini.png?m=1434243552",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/69f4/25ff/122209_normal.png?m=1434243552",
+            "avatar_large" : "//cdn.v2ex.co/avatar/69f4/25ff/122209_large.png?m=1434243552"
+        },
+        "node" : {
+            "id" : 104,
+            "name" : "cloud",
+            "title" : "云计算",
+            "title_alternative" : "Cloud Computing",
+            "url" : "http://www.v2ex.com/go/cloud",
+            "topics" : 1334,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c9e1/074f/104_mini.png?m=1456115280",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c9e1/074f/104_normal.png?m=1456115280",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c9e1/074f/104_large.png?m=1456115280"
+        },
+        "created" : 1456116394,
+        "last_modified" : 1456116668,
+        "last_touched" : 1456188697
+    },
+    
+    {
+        "id" : 258224,
+        "title" : "宝宝本周三出生，求取名。\u000D\u000A出生当天发支付宝口令红包！",
+        "url" : "http://www.v2ex.com/t/258224",
+        "content" : "不出意外，周三出生。\u000D\u000A姓：孙\u000D\u000A字辈：幸 （这个字辈还算好取名）\u000D\u000A\u000D\u000A现在求帮忙取第三个字。\u000D\u000A男孩可能性比较大。\u000D\u000A我爷爷取：武\u000D\u000A我老爸取：平\u000D\u000A老婆取：默",
+        "content_rendered" : "不出意外，周三出生。\u000D\u003Cbr /\u003E姓：孙\u000D\u003Cbr /\u003E字辈：幸 （这个字辈还算好取名）\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E现在求帮忙取第三个字。\u000D\u003Cbr /\u003E男孩可能性比较大。\u000D\u003Cbr /\u003E我爷爷取：武\u000D\u003Cbr /\u003E我老爸取：平\u000D\u003Cbr /\u003E老婆取：默",
+        "replies" : 42,
+        "member" : {
+            "id" : 4868,
+            "username" : "sun019",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/f5e6/4729/4868_mini.png?m=1335060490",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/f5e6/4729/4868_normal.png?m=1335060490",
+            "avatar_large" : "//cdn.v2ex.co/avatar/f5e6/4729/4868_large.png?m=1335060490"
+        },
+        "node" : {
+            "id" : 106,
+            "name" : "baby",
+            "title" : "Baby",
+            "title_alternative" : "Baby",
+            "url" : "http://www.v2ex.com/go/baby",
+            "topics" : 157,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/f093/5e4c/106_mini.png?m=1440500740",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/f093/5e4c/106_normal.png?m=1440500740",
+            "avatar_large" : "//cdn.v2ex.co/navatar/f093/5e4c/106_large.png?m=1440500740"
+        },
+        "created" : 1456122553,
+        "last_modified" : 1456122579,
+        "last_touched" : 1456176815
+    },
+    
+    {
+        "id" : 258254,
+        "title" : "Android 刷机之前如何“方便”且“有效”地备份？",
+        "url" : "http://www.v2ex.com/t/258254",
+        "content" : "基本情况：\u000D\u000A1.学生党，没钱。\u000D\u000A2.手机型号： Samsung Galaxy Note2 verizon (i605)，美版，很久之前买的。\u000D\u000A3.手机系统： cyanogenmod 官网下载的 cm\u002D12.1 ，已 root ，已安装 Recovery TWRP ,有钛备份等\u000D\u000A4.已刷 Gapps 包，有 google play ，有 ss ，网络状况良好，大部分 app 从 google play 安装\u000D\u000A\u000D\u000A由于某些原因，现在想刷 cm\u002D13 系统，要求刷机之前双清，刷完以后能快速恢复 app 程序（ APP 数据无所谓，当然能有最好），短信，联系人。\u000D\u000A\u000D\u000A由于某些原因刷机前必须双清，以前恢复到刷机前状态要花费我好久，所以向大家求教，谢谢。",
+        "content_rendered" : "基本情况：\u000D\u003Cbr /\u003E1.学生党，没钱。\u000D\u003Cbr /\u003E2.手机型号： Samsung Galaxy Note2 verizon (i605)，美版，很久之前买的。\u000D\u003Cbr /\u003E3.手机系统： cyanogenmod 官网下载的 cm\u002D12.1 ，已 root ，已安装 Recovery TWRP ,有钛备份等\u000D\u003Cbr /\u003E4.已刷 Gapps 包，有 google play ，有 ss ，网络状况良好，大部分 app 从 google play 安装\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E由于某些原因，现在想刷 cm\u002D13 系统，要求刷机之前双清，刷完以后能快速恢复 app 程序（ APP 数据无所谓，当然能有最好），短信，联系人。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E由于某些原因刷机前必须双清，以前恢复到刷机前状态要花费我好久，所以向大家求教，谢谢。",
+        "replies" : 42,
+        "member" : {
+            "id" : 93117,
+            "username" : "vh2h",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/8c08/b095/93117_mini.png?m=1448004144",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/8c08/b095/93117_normal.png?m=1448004144",
+            "avatar_large" : "//cdn.v2ex.co/avatar/8c08/b095/93117_large.png?m=1448004144"
+        },
+        "node" : {
+            "id" : 39,
+            "name" : "android",
+            "title" : "Android",
+            "title_alternative" : "Android",
+            "url" : "http://www.v2ex.com/go/android",
+            "topics" : 2360,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_mini.png?m=1456134027",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_normal.png?m=1456134027",
+            "avatar_large" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_large.png?m=1456134027"
+        },
+        "created" : 1456128394,
+        "last_modified" : 1456128394,
+        "last_touched" : 1456168196
+    },
+    
+    {
+        "id" : 258292,
+        "title" : "你们是如何管理众多网站，游戏，银行等等等的账号和密码？",
+        "url" : "http://www.v2ex.com/t/258292",
+        "content" : "有一些账号密码是固定的格式，比如生日，特殊数字啊，这个是惯性的可以长时间记住\u000D\u000A单只个别的地方还是有一些特殊的 id 特殊的密码，像我这种本人都卸载备忘录了，一个个写的；写了快 20 多个了。。记不住了就打开查一下；\u000D\u000A\u000D\u000A想知道你们是如何管理的？",
+        "content_rendered" : "\u003Cp\u003E有一些账号密码是固定的格式，比如生日，特殊数字啊，这个是惯性的可以长时间记住\u003Cbr\u003E\u000A单只个别的地方还是有一些特殊的 id 特殊的密码，像我这种本人都卸载备忘录了，一个个写的；写了快 20 多个了。。记不住了就打开查一下；\u003C/p\u003E\u000A\u000A\u003Cp\u003E想知道你们是如何管理的？\u003C/p\u003E\u000A",
+        "replies" : 41,
+        "member" : {
+            "id" : 34223,
+            "username" : "zyllwy",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/38c9a9b43eeccbeadffa8ce0588aaf90?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/38c9a9b43eeccbeadffa8ce0588aaf90?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/38c9a9b43eeccbeadffa8ce0588aaf90?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 64789,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1455764386",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1455764386",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1455764386"
+        },
+        "created" : 1456134209,
+        "last_modified" : 1456134209,
+        "last_touched" : 1456190141
+    },
+    
+    {
+        "id" : 258233,
+        "title" : "python 爬虫怎么把 url 类似于 www.xxx.com/0001.jpg 到 www.xxx.com/9999.jpg 范围的图片保存到本地啊",
+        "url" : "http://www.v2ex.com/t/258233",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 38,
+        "member" : {
+            "id" : 92332,
+            "username" : "raighne",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/cdc56a4aa0827db7fb6961fd9c667f6f?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/cdc56a4aa0827db7fb6961fd9c667f6f?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/cdc56a4aa0827db7fb6961fd9c667f6f?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 90,
+            "name" : "python",
+            "title" : "Python",
+            "title_alternative" : "Python",
+            "url" : "http://www.v2ex.com/go/python",
+            "topics" : 4404,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/8613/985e/90_mini.png?m=1455764344",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/8613/985e/90_normal.png?m=1455764344",
+            "avatar_large" : "//cdn.v2ex.co/navatar/8613/985e/90_large.png?m=1455764344"
+        },
+        "created" : 1456124286,
+        "last_modified" : 1456124286,
+        "last_touched" : 1456189810
+    }
+    
+]

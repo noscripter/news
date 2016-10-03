@@ -1,0 +1,251 @@
+[
+    
+    {
+        "id" : 260412,
+        "title" : "不耻下问， Apple Pay 里的 Pay 正确的读法是？",
+        "url" : "http://www.v2ex.com/t/260412",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 86,
+        "member" : {
+            "id" : 142543,
+            "username" : "elya",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/ebe7/99ce/142543_mini.png?m=1456889862",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/ebe7/99ce/142543_normal.png?m=1456889862",
+            "avatar_large" : "//cdn.v2ex.co/avatar/ebe7/99ce/142543_large.png?m=1456889862"
+        },
+        "node" : {
+            "id" : 842,
+            "name" : "pay",
+            "title" : " Pay",
+            "title_alternative" : " Pay",
+            "url" : "http://www.v2ex.com/go/pay",
+            "topics" : 71,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/fc3c/f452/842_mini.png?m=1429855350",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/fc3c/f452/842_normal.png?m=1429855350",
+            "avatar_large" : "//cdn.v2ex.co/navatar/fc3c/f452/842_large.png?m=1429855350"
+        },
+        "created" : 1456884872,
+        "last_modified" : 1456885115,
+        "last_touched" : 1456939027
+    },
+    
+    {
+        "id" : 260451,
+        "title" : "现在好多 it 公司喜欢养猫　这有什么渊源？",
+        "url" : "http://www.v2ex.com/t/260451",
+        "content" : "我自己养了两只",
+        "content_rendered" : "\u003Cp\u003E我自己养了两只\u003C/p\u003E\u000A",
+        "replies" : 52,
+        "member" : {
+            "id" : 106630,
+            "username" : "woai110120130",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/984332820e53230233de2f6fa93767fb?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/984332820e53230233de2f6fa93767fb?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/984332820e53230233de2f6fa93767fb?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 65317,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1456308340",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1456308340",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1456308340"
+        },
+        "created" : 1456892162,
+        "last_modified" : 1456892162,
+        "last_touched" : 1456942121
+    },
+    
+    {
+        "id" : 260424,
+        "title" : "ios 上播放软件哪个综合性好点，最好免费的，收费也可以考虑，",
+        "url" : "http://www.v2ex.com/t/260424",
+        "content" : "ios 上播放软件哪个综合性好点，最好免费的，收费也可以考虑，以前一直用免费的 kmplayer ，今天更新竟然说停止支持 divx 了，以前买过 goodplayer 中国版，竟然不更新了，",
+        "content_rendered" : "ios 上播放软件哪个综合性好点，最好免费的，收费也可以考虑，以前一直用免费的 kmplayer ，今天更新竟然说停止支持 divx 了，以前买过 goodplayer 中国版，竟然不更新了，",
+        "replies" : 51,
+        "member" : {
+            "id" : 95863,
+            "username" : "wxdjs",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/3f07cff86f1abd7e73cd49538dee2c11?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/3f07cff86f1abd7e73cd49538dee2c11?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/3f07cff86f1abd7e73cd49538dee2c11?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 8,
+            "name" : "iphone",
+            "title" : "iPhone",
+            "title_alternative" : "iPhone",
+            "url" : "http://www.v2ex.com/go/iphone",
+            "topics" : 3361,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c9f0/f895/8_mini.png?m=1454545245",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c9f0/f895/8_normal.png?m=1454545245",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c9f0/f895/8_large.png?m=1454545245"
+        },
+        "created" : 1456888511,
+        "last_modified" : 1456888511,
+        "last_touched" : 1456967752
+    },
+    
+    {
+        "id" : 260408,
+        "title" : "[北京][豆瓣] 招聘 iOS 工程师",
+        "url" : "http://www.v2ex.com/t/260408",
+        "content" : "职位要求：\u000D\u000A\u002D 熟悉 Objective\u002DC ，至少经历过一个完整的移动应用的开发过程\u000D\u000A\u002D 对代码和工程质量有所追求\u000D\u000A\u002D 有独立钻研移动领域新技术的热情和能力\u000D\u000A\u002D 具有团队精神、良好的沟通能力，主动性强 \u000D\u000A\u000D\u000A\u000D\u000A加分项目：\u000D\u000A\u002D 熟悉 Swift ，有用 Swift 进行日常工作的能力\u000D\u000A\u002D 有一定的 html/css/js 前端开发经验， 有 React 经验更佳\u000D\u000A\u002D 发布过开源库，或者贡献过开源代码\u000D\u000A\u002D 豆瓣活跃用户\u000D\u000A\u000D\u000A\u000D\u000A工作内容：\u000D\u000A开发和维护豆瓣 App ( https://www.douban.com/doubanapp/) 客户端。 豆瓣 App 现已具有相当大体量，并且仍然处于高速增长期。\u000D\u000A\u000D\u000A你的工作可以影响到众多用户。工程师将会遇到和解决大体量 App 所面临的一些工程技术问题，并有机会经历一个移动 App 的各个发展阶段。\u000D\u000A\u000D\u000A我们在新功能开发已全面转向 Swift 。所以，了解和熟悉 Swift 会有助于你快速进入工作状态。我们在合适使用 Web 技术的地方推广 Web 技术在移动开发中的使用。所以， React 经验将会使你可以同时为 iOS 和 Android 两个平台作贡献。\u000D\u000A\u000D\u000A\u000D\u000A工作环境：\u000D\u000A豆瓣工作环境轻松开放。鼓励高效率工作，加班不多。鼓励生活和工作的平衡。鼓励对生活和工作保持好奇心。鼓励学习和成长。( https://site.douban.com/Jobs/)\u000D\u000A\u000D\u000A\u000D\u000A欢迎投送简历： guolin@douban.com",
+        "content_rendered" : "职位要求：\u000D\u003Cbr /\u003E\u002D 熟悉 Objective\u002DC ，至少经历过一个完整的移动应用的开发过程\u000D\u003Cbr /\u003E\u002D 对代码和工程质量有所追求\u000D\u003Cbr /\u003E\u002D 有独立钻研移动领域新技术的热情和能力\u000D\u003Cbr /\u003E\u002D 具有团队精神、良好的沟通能力，主动性强 \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E加分项目：\u000D\u003Cbr /\u003E\u002D 熟悉 Swift ，有用 Swift 进行日常工作的能力\u000D\u003Cbr /\u003E\u002D 有一定的 html/css/js 前端开发经验， 有 React 经验更佳\u000D\u003Cbr /\u003E\u002D 发布过开源库，或者贡献过开源代码\u000D\u003Cbr /\u003E\u002D 豆瓣活跃用户\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E工作内容：\u000D\u003Cbr /\u003E开发和维护豆瓣 App ( \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022https://www.douban.com/doubanapp/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://www.douban.com/doubanapp/\u003C/a\u003E) 客户端。 豆瓣 App 现已具有相当大体量，并且仍然处于高速增长期。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E你的工作可以影响到众多用户。工程师将会遇到和解决大体量 App 所面临的一些工程技术问题，并有机会经历一个移动 App 的各个发展阶段。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E我们在新功能开发已全面转向 Swift 。所以，了解和熟悉 Swift 会有助于你快速进入工作状态。我们在合适使用 Web 技术的地方推广 Web 技术在移动开发中的使用。所以， React 经验将会使你可以同时为 iOS 和 Android 两个平台作贡献。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E工作环境：\u000D\u003Cbr /\u003E豆瓣工作环境轻松开放。鼓励高效率工作，加班不多。鼓励生活和工作的平衡。鼓励对生活和工作保持好奇心。鼓励学习和成长。( \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022https://site.douban.com/Jobs/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://site.douban.com/Jobs/\u003C/a\u003E)\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E欢迎投送简历： \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022mailto:guolin@douban.com\u0022\u003Eguolin@douban.com\u003C/a\u003E",
+        "replies" : 46,
+        "member" : {
+            "id" : 71674,
+            "username" : "lincode",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/75b4/4816/71674_mini.png?m=1409017633",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/75b4/4816/71674_normal.png?m=1409017633",
+            "avatar_large" : "//cdn.v2ex.co/avatar/75b4/4816/71674_large.png?m=1409017633"
+        },
+        "node" : {
+            "id" : 43,
+            "name" : "jobs",
+            "title" : "酷工作",
+            "title_alternative" : "Jobs",
+            "url" : "http://www.v2ex.com/go/jobs",
+            "topics" : 14291,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/17e6/2166/43_mini.png?m=1456115322",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/17e6/2166/43_normal.png?m=1456115322",
+            "avatar_large" : "//cdn.v2ex.co/navatar/17e6/2166/43_large.png?m=1456115322"
+        },
+        "created" : 1456884363,
+        "last_modified" : 1456884851,
+        "last_touched" : 1456931990
+    },
+    
+    {
+        "id" : 260532,
+        "title" : "看的黑客与画家想学 lisp，但是在拉勾上没有找到 lisp 相关的职位。",
+        "url" : "http://www.v2ex.com/t/260532",
+        "content" : "那么问题来了，到底学习 lisp 能干什么呢？俗话说，白猫黑猫会抓老鼠的就是好猫。 lisp 只是一只好看点儿的猫吗？",
+        "content_rendered" : "那么问题来了，到底学习 lisp 能干什么呢？俗话说，白猫黑猫会抓老鼠的就是好猫。 lisp 只是一只好看点儿的猫吗？",
+        "replies" : 46,
+        "member" : {
+            "id" : 151242,
+            "username" : "wudanyang",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/76b8f9067cd0b50d60b58283c21a5113?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/76b8f9067cd0b50d60b58283c21a5113?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/76b8f9067cd0b50d60b58283c21a5113?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 11059,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1456559606",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1456559606",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1456559606"
+        },
+        "created" : 1456905122,
+        "last_modified" : 1456905122,
+        "last_touched" : 1456968777
+    },
+    
+    {
+        "id" : 260542,
+        "title" : "求打醒，买福克斯 2013 款手动基本版还是英朗 2015 自动进取型？",
+        "url" : "http://www.v2ex.com/t/260542",
+        "content" : "首先是价格，福克斯优惠之后 7.98 万，并且提供 4 万两年的免息贷款，就是首付 5.5+4 万两年的贷款。 1.8L 没有购置税减半。据说 2013 款的可能要停产了，在清库存，所以便宜。\u000D\u000A英朗优惠之后 10.48 万，贷款的话下来 11.8 万。\u000D\u000A\u000D\u000A福克斯是老车，比较经典。车挺重， 1.8L 油耗有点高，动力好，手动档。\u000D\u000A英朗是新车，配置挺实惠，省油，自动挡省心。\u000D\u000A\u000D\u000A买车主要是为了能更加自由一点，能出去玩玩，约女孩子也会有面子一些，找女朋友也许会容易一点。\u000D\u000A买车的首付是自己拿的，知道家里没什么钱，买房子了。所以还是想便宜一点，所以现在挺偏向于福克斯的。\u000D\u000A\u000D\u000A求打醒。或者给点建议？",
+        "content_rendered" : "首先是价格，福克斯优惠之后 7.98 万，并且提供 4 万两年的免息贷款，就是首付 5.5+4 万两年的贷款。 1.8L 没有购置税减半。据说 2013 款的可能要停产了，在清库存，所以便宜。\u000D\u003Cbr /\u003E英朗优惠之后 10.48 万，贷款的话下来 11.8 万。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E福克斯是老车，比较经典。车挺重， 1.8L 油耗有点高，动力好，手动档。\u000D\u003Cbr /\u003E英朗是新车，配置挺实惠，省油，自动挡省心。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E买车主要是为了能更加自由一点，能出去玩玩，约女孩子也会有面子一些，找女朋友也许会容易一点。\u000D\u003Cbr /\u003E买车的首付是自己拿的，知道家里没什么钱，买房子了。所以还是想便宜一点，所以现在挺偏向于福克斯的。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E求打醒。或者给点建议？",
+        "replies" : 43,
+        "member" : {
+            "id" : 13888,
+            "username" : "sloppysop",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/db81/7217/13888_mini.png?m=1435561011",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/db81/7217/13888_normal.png?m=1435561011",
+            "avatar_large" : "//cdn.v2ex.co/avatar/db81/7217/13888_large.png?m=1435561011"
+        },
+        "node" : {
+            "id" : 176,
+            "name" : "car",
+            "title" : "汽车",
+            "title_alternative" : "Car",
+            "url" : "http://www.v2ex.com/go/car",
+            "topics" : 235,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/38af/8613/176_mini.png?m=1408012248",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/38af/8613/176_normal.png?m=1408012248",
+            "avatar_large" : "//cdn.v2ex.co/navatar/38af/8613/176_large.png?m=1408012248"
+        },
+        "created" : 1456906575,
+        "last_modified" : 1456906575,
+        "last_touched" : 1456968840
+    },
+    
+    {
+        "id" : 260578,
+        "title" : "广州 真心找不到 iOS 了吗？（附带寻找前后端和 UI）",
+        "url" : "http://www.v2ex.com/t/260578",
+        "content" : "我也不知道怎么回事，老没碰到合适的人才？请大家帮忙看看，应该是哪里出错了！\u000D\u000A*我们 iOS 招聘了半年，也没招到一个合适的人才，拉勾上光 iOS 这个岗位都有 200 多个简历了（遗憾的是绝大部分连 iOS 都没写对），面试了二三十号人了，未能成交，要求也真心不高啊（对美好的事物有追求，可以充分证明这点就好）。现在有想法找猎头，这个靠谱吗？*\u000D\u000A\u000D\u000A\u000D\u000A##简单介绍下我们\u000D\u000A\u000D\u000A* [经传]( http://www.jingzhuan.cn/)  在金融领域摸爬滚打 11 年，已是全国域较有影响力的中小投资者培训服务企业（投顾人数在所有投资咨询类公司，全国第一）。\u000D\u000A* [伊的家]( http://www.yidejia.com)  在自主品牌的女性垂直电商领域也滚打 7 年了，开创了主动服务式营销的先河。\u000D\u000A* 2015 年，开始同步启动国内外的美业 O2O 项目（[美美发]( https://meimeifa.com/) | [MMF]( https://mmfbeauty.com/)），发展较为顺利，最近与全国连锁机构尚艺达成战略合作。\u000D\u000A* 现有国内研发团队 38 人,(*国外产品团队 4 人*)，总部人员近 400 人，全国经销体系合计超万人！\u000D\u000A* 由于我们的主营项目都是大幅盈利的，所以在很多角度，相对比创业团队更从容一点（内部也支持各种孵化）！\u000D\u000A \u000D\u000A这次我们研发团队主要招聘如下：\u000D\u000A\u000D\u000A* [iOS]( http://www.lagou.com/jobs/1240189.html)\u000D\u000A* [FE]( http://www.lagou.com/jobs/104897.html)\u000D\u000A* [PHP]( http://www.lagou.com/jobs/161982.html)\u000D\u000A* [UI]( http://www.lagou.com/jobs/1071310.html)\u000D\u000A* [PM]( http://www.lagou.com/jobs/1347392.html)\u000D\u000A* [C++]( http://www.lagou.com/jobs/1490731.html)\u000D\u000A\u000D\u000A\u000D\u000A\u000D\u000A\u002D\u002D\u002D\u002D\u002D\u000D\u000A##优缺点剖析\u000D\u000A缺点：\u000D\u000A\u000D\u000A* 番禺（天安科技园）\u000D\u000A* 六天\u000D\u000A\u000D\u000A优点：\u000D\u000A\u000D\u000A* 基础薪资高于市场是必须的\u000D\u000A* 优秀人员直接月度兑现业绩利润提成\u000D\u000A* 13 薪\u000D\u000A* 每月设备补贴（除 C++成员外，已全员 Mac ）\u000D\u000A* 月度额外绩效奖金\u000D\u000A* 零食水果下午茶\u000D\u000A* 每月腐败（聚餐时，微信群红包创收必须有，大保健也是时常有）\u000D\u000A* 鼓励学习提升（书籍等相关无限支持，报销无須走流程，直接提升 Tower 即可）\u000D\u000A* 桌上足球和 XBOX 是中午必备\u000D\u000A* 当然最主要的是扁平化，氛围好，上升通道清晰，各角度有很大施展空间！\u000D\u000A* *随北美业务的不断开拓，技术团队赶赴北美支持产品业务开发升级，也慢慢成为可能。当然老板的目标是将核心技术人员翻出墙去。（嗯，我 15 年就在加拿大和美国呆了一个半月）*\u000D\u000A\u000D\u000A\u002D\u002D\u002D\u002D\u002D\u000D\u000A\u000D\u000A\u000D\u000ABTW: 推荐基友 /闺蜜成功入职，秒送 2000 现金（可微信 /支付宝支付）！\u000D\u000A\u000D\u000A欢迎骚扰，我是打杂 CTO （ QQ/微信: 276244858)",
+        "content_rendered" : "\u003Cp\u003E我也不知道怎么回事，老没碰到合适的人才？请大家帮忙看看，应该是哪里出错了！\u003Cbr\u003E\u000A\u003Cem\u003E我们 iOS 招聘了半年，也没招到一个合适的人才，拉勾上光 iOS 这个岗位都有 200 多个简历了（遗憾的是绝大部分连 iOS 都没写对），面试了二三十号人了，未能成交，要求也真心不高啊（对美好的事物有追求，可以充分证明这点就好）。现在有想法找猎头，这个靠谱吗？\u003C/em\u003E\u003C/p\u003E\u000A\u000A\u003Ch2\u003E简单介绍下我们\u003C/h2\u003E\u000A\u000A\u003Cul\u003E\u000A\u003Cli\u003E\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://www.jingzhuan.cn/\u0022\u003E经传\u003C/a\u003E  在金融领域摸爬滚打 11 年，已是全国域较有影响力的中小投资者培训服务企业（投顾人数在所有投资咨询类公司，全国第一）。\u003C/li\u003E\u000A\u003Cli\u003E\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://www.yidejia.com\u0022\u003E伊的家\u003C/a\u003E  在自主品牌的女性垂直电商领域也滚打 7 年了，开创了主动服务式营销的先河。\u003C/li\u003E\u000A\u003Cli\u003E2015 年，开始同步启动国内外的美业 O2O 项目（\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://meimeifa.com/\u0022\u003E美美发\u003C/a\u003E | \u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://mmfbeauty.com/\u0022\u003EMMF\u003C/a\u003E），发展较为顺利，最近与全国连锁机构尚艺达成战略合作。\u003C/li\u003E\u000A\u003Cli\u003E现有国内研发团队 38 人,(\u003Cem\u003E国外产品团队 4 人\u003C/em\u003E)，总部人员近 400 人，全国经销体系合计超万人！\u003C/li\u003E\u000A\u003Cli\u003E由于我们的主营项目都是大幅盈利的，所以在很多角度，相对比创业团队更从容一点（内部也支持各种孵化）！\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u000A\u003Cp\u003E这次我们研发团队主要招聘如下：\u003C/p\u003E\u000A\u000A\u003Cul\u003E\u000A\u003Cli\u003E\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://www.lagou.com/jobs/1240189.html\u0022\u003EiOS\u003C/a\u003E\u003C/li\u003E\u000A\u003Cli\u003E\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://www.lagou.com/jobs/104897.html\u0022\u003EFE\u003C/a\u003E\u003C/li\u003E\u000A\u003Cli\u003E\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://www.lagou.com/jobs/161982.html\u0022\u003EPHP\u003C/a\u003E\u003C/li\u003E\u000A\u003Cli\u003E\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://www.lagou.com/jobs/1071310.html\u0022\u003EUI\u003C/a\u003E\u003C/li\u003E\u000A\u003Cli\u003E\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://www.lagou.com/jobs/1347392.html\u0022\u003EPM\u003C/a\u003E\u003C/li\u003E\u000A\u003Cli\u003E\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://www.lagou.com/jobs/1490731.html\u0022\u003EC++\u003C/a\u003E\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u000A\u003Chr\u003E\u000A\u000A\u003Ch2\u003E优缺点剖析\u003C/h2\u003E\u000A\u000A\u003Cp\u003E缺点：\u003C/p\u003E\u000A\u000A\u003Cul\u003E\u000A\u003Cli\u003E番禺（天安科技园）\u003C/li\u003E\u000A\u003Cli\u003E六天\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u000A\u003Cp\u003E优点：\u003C/p\u003E\u000A\u000A\u003Cul\u003E\u000A\u003Cli\u003E基础薪资高于市场是必须的\u003C/li\u003E\u000A\u003Cli\u003E优秀人员直接月度兑现业绩利润提成\u003C/li\u003E\u000A\u003Cli\u003E13 薪\u003C/li\u003E\u000A\u003Cli\u003E每月设备补贴（除 C++成员外，已全员 Mac ）\u003C/li\u003E\u000A\u003Cli\u003E月度额外绩效奖金\u003C/li\u003E\u000A\u003Cli\u003E零食水果下午茶\u003C/li\u003E\u000A\u003Cli\u003E每月腐败（聚餐时，微信群红包创收必须有，大保健也是时常有）\u003C/li\u003E\u000A\u003Cli\u003E鼓励学习提升（书籍等相关无限支持，报销无須走流程，直接提升 Tower 即可）\u003C/li\u003E\u000A\u003Cli\u003E桌上足球和 XBOX 是中午必备\u003C/li\u003E\u000A\u003Cli\u003E当然最主要的是扁平化，氛围好，上升通道清晰，各角度有很大施展空间！\u003C/li\u003E\u000A\u003Cli\u003E\u003Cem\u003E随北美业务的不断开拓，技术团队赶赴北美支持产品业务开发升级，也慢慢成为可能。当然老板的目标是将核心技术人员翻出墙去。（嗯，我 15 年就在加拿大和美国呆了一个半月）\u003C/em\u003E\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u000A\u003Chr\u003E\u000A\u000A\u003Cp\u003EBTW: 推荐基友 /闺蜜成功入职，秒送 2000 现金（可微信 /支付宝支付）！\u003C/p\u003E\u000A\u000A\u003Cp\u003E欢迎骚扰，我是打杂 CTO （ QQ/微信: 276244858)\u003C/p\u003E\u000A",
+        "replies" : 43,
+        "member" : {
+            "id" : 20540,
+            "username" : "stefanie924",
+            "tagline" : "金融/电商/O2O/跨境，等你来。",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/4797/1783/20540_mini.png?m=1432282448",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/4797/1783/20540_normal.png?m=1432282448",
+            "avatar_large" : "//cdn.v2ex.co/avatar/4797/1783/20540_large.png?m=1432282448"
+        },
+        "node" : {
+            "id" : 43,
+            "name" : "jobs",
+            "title" : "酷工作",
+            "title_alternative" : "Jobs",
+            "url" : "http://www.v2ex.com/go/jobs",
+            "topics" : 14291,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/17e6/2166/43_mini.png?m=1456115322",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/17e6/2166/43_normal.png?m=1456115322",
+            "avatar_large" : "//cdn.v2ex.co/navatar/17e6/2166/43_large.png?m=1456115322"
+        },
+        "created" : 1456912438,
+        "last_modified" : 1456912438,
+        "last_touched" : 1456968881
+    },
+    
+    {
+        "id" : 260519,
+        "title" : "这算不算 python 的小坑?",
+        "url" : "http://www.v2ex.com/t/260519",
+        "content" : "看到这个两行代码,把我吓住了：\u000D\u000A```Python\u000D\u000Aif []:\u000D\u000A    print(\u0027False\u0027)   \u000D\u000A```\u000D\u000A竟然没有报类型错误？ Python 不是强类型么?\u000D\u000A后来查了查 doc ， if statement 在这里接受一个 expression 然后会调用 bool().\u000D\u000A然后 bool([]) \u003D\u003D False,所以没有出现类型错误。 \u002D\u002D 如果理解没错的话\u000D\u000A\u000D\u000A感觉虽然这里没有出现[] \u003D\u003D False 的问题但是这种 if [] 还是挺坑的，容易误导人。",
+        "content_rendered" : "\u003Cp\u003E看到这个两行代码,把我吓住了：\u003Cbr\u003E\u000A\u003Ccode\u003EPython\u003Cbr\u003E\u000Aif []:\u003Cbr\u003E\u000A    print(\u0026#39\u003BFalse\u0026#39\u003B)   \u003Cbr\u003E\u000A\u003C/code\u003E\u003Cbr\u003E\u000A竟然没有报类型错误？ Python 不是强类型么?\u003Cbr\u003E\u000A后来查了查 doc ， if statement 在这里接受一个 expression 然后会调用 bool().\u003Cbr\u003E\u000A然后 bool([]) \u003D\u003D False,所以没有出现类型错误。 \u002D\u002D 如果理解没错的话\u003C/p\u003E\u000A\u000A\u003Cp\u003E感觉虽然这里没有出现[] \u003D\u003D False 的问题但是这种 if [] 还是挺坑的，容易误导人。\u003C/p\u003E\u000A",
+        "replies" : 39,
+        "member" : {
+            "id" : 109528,
+            "username" : "haoc",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/cbc904e057c4fc026a588ed77a1acd48?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/cbc904e057c4fc026a588ed77a1acd48?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/cbc904e057c4fc026a588ed77a1acd48?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 90,
+            "name" : "python",
+            "title" : "Python",
+            "title_alternative" : "Python",
+            "url" : "http://www.v2ex.com/go/python",
+            "topics" : 4456,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/8613/985e/90_mini.png?m=1456560952",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/8613/985e/90_normal.png?m=1456560952",
+            "avatar_large" : "//cdn.v2ex.co/navatar/8613/985e/90_large.png?m=1456560952"
+        },
+        "created" : 1456903844,
+        "last_modified" : 1456903888,
+        "last_touched" : 1456913380
+    }
+    
+]

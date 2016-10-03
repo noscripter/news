@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "355",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "electronicarts",
+        "category": "C++",
+        "stars": "347",
+        "title": "EASTL - EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.",
+        "url": "https://github.com/electronicarts/EASTL"
+    },
+    {
+        "author": "bytedeco",
+        "category": "Java",
+        "stars": "275",
+        "title": "javacpp - The missing bridge between Java and native C++",
+        "url": "https://github.com/bytedeco/javacpp"
+    },
+    {
+        "author": "StevenBlack",
+        "category": "Python",
+        "stars": "258",
+        "title": "hosts - Extending and consolidating hosts files from a variety of sources like adaway.org, mvps.org, malwaredomains.com, someonewhocares.org, yoyo.org, and potentially others.",
+        "url": "https://github.com/StevenBlack/hosts"
+    },
+    {
+        "author": "jakiestfu",
+        "category": "JavaScript",
+        "stars": "248",
+        "title": "himawari.js - Download real-time images of Earth from the Himawari-8 satellite",
+        "url": "https://github.com/jakiestfu/himawari.js"
+    },
+    {
+        "author": "pinterest",
+        "category": "JavaScript",
+        "stars": "191",
+        "title": "teletraan - Teletraan is Pinterest's deploy system.",
+        "url": "https://github.com/pinterest/teletraan"
+    },
+    {
+        "author": "jbranchaud",
+        "category": "",
+        "stars": "184",
+        "title": "til - Today I Learned",
+        "url": "https://github.com/jbranchaud/til"
+    },
+    {
+        "author": "mjmlio",
+        "category": "JavaScript",
+        "stars": "174",
+        "title": "mjml - MJML: the only framework that makes responsive-email easy",
+        "url": "https://github.com/mjmlio/mjml"
+    },
+    {
+        "author": "danielquinn",
+        "category": "Python",
+        "stars": "158",
+        "title": "paperless - Scan, index, and archive all of your paper documents",
+        "url": "https://github.com/danielquinn/paperless"
+    },
+    {
+        "author": "so-fancy",
+        "category": "Shell",
+        "stars": "159",
+        "title": "diff-so-fancy - Good-lookin' diffs with diff-highlight and more",
+        "url": "https://github.com/so-fancy/diff-so-fancy"
+    }
+]

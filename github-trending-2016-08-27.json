@@ -1,0 +1,72 @@
+[
+    {
+        "author": "facebookresearch",
+        "category": "Lua",
+        "stars": "574",
+        "title": "deepmask - Torch implementation of DeepMask and SharpMask",
+        "url": "https://github.com/facebookresearch/deepmask"
+    },
+    {
+        "author": "babel",
+        "category": "JavaScript",
+        "stars": "523",
+        "title": "babili - Babel preset and cli for minification (beta)",
+        "url": "https://github.com/babel/babili"
+    },
+    {
+        "author": "thejameskyle",
+        "category": "JavaScript",
+        "stars": "477",
+        "title": "itsy-bitsy-data-structures - \ud83c\udff0 All the things you didn't know you wanted to know about data structures",
+        "url": "https://github.com/thejameskyle/itsy-bitsy-data-structures"
+    },
+    {
+        "author": "facebookresearch",
+        "category": "Lua",
+        "stars": "332",
+        "title": "multipathnet - A Torch implementation of the object detection network from \"A MultiPath Network for Object Detection\" (https://arxiv.org/abs/1604.02135)",
+        "url": "https://github.com/facebookresearch/multipathnet"
+    },
+    {
+        "author": "google",
+        "category": "Java",
+        "stars": "337",
+        "title": "tiger - ",
+        "url": "https://github.com/google/tiger"
+    },
+    {
+        "author": "mmstick",
+        "category": "Rust",
+        "stars": "329",
+        "title": "parallel - Inspired by GNU Parallel, a command-line CPU load balancer written in Rust.",
+        "url": "https://github.com/mmstick/parallel"
+    },
+    {
+        "author": "airbnb",
+        "category": "Java",
+        "stars": "258",
+        "title": "epoxy - Epoxy is an Android library for building complex screens in a RecyclerView",
+        "url": "https://github.com/airbnb/epoxy"
+    },
+    {
+        "author": "nasa",
+        "category": "JavaScript",
+        "stars": "227",
+        "title": "openmct - A web based mission control framework.",
+        "url": "https://github.com/nasa/openmct"
+    },
+    {
+        "author": "mzlogin",
+        "category": "",
+        "stars": "228",
+        "title": "awesome-adb - ADB Usage Complete / ADB \u7528\u6cd5\u5927\u5168",
+        "url": "https://github.com/mzlogin/awesome-adb"
+    },
+    {
+        "author": "DevLight-Mobile-Agency",
+        "category": "Java",
+        "stars": "216",
+        "title": "InfiniteCycleViewPager - Infinite cycle ViewPager with two-way orientation and interactive effect.",
+        "url": "https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager"
+    }
+]

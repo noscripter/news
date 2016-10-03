@@ -1,0 +1,72 @@
+[
+    {
+        "author": "decosoftware",
+        "category": "JavaScript",
+        "stars": "1,299",
+        "title": "deco-ide - The React Native IDE",
+        "url": "https://github.com/decosoftware/deco-ide"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "979",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "twitter",
+        "category": "Java",
+        "stars": "616",
+        "title": "heron - Heron is a realtime, distributed, fault-tolerant stream processing engine from Twitter",
+        "url": "https://github.com/twitter/heron"
+    },
+    {
+        "author": "CRYTEK-CRYENGINE",
+        "category": "C++",
+        "stars": "594",
+        "title": "CRYENGINE - CRYENGINE source code.",
+        "url": "https://github.com/CRYTEK-CRYENGINE/CRYENGINE"
+    },
+    {
+        "author": "parkjs814",
+        "category": "JavaScript",
+        "stars": "495",
+        "title": "AlgorithmVisualizer - Algorithm Visualizer",
+        "url": "https://github.com/parkjs814/AlgorithmVisualizer"
+    },
+    {
+        "author": "hamsternz",
+        "category": "VHDL",
+        "stars": "427",
+        "title": "FPGA_Webserver - A work-in-progress for what is to be a software-free web server for static content.",
+        "url": "https://github.com/hamsternz/FPGA_Webserver"
+    },
+    {
+        "author": "brownhci",
+        "category": "JavaScript",
+        "stars": "381",
+        "title": "WebGazer - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions",
+        "url": "https://github.com/brownhci/WebGazer"
+    },
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "336",
+        "title": "HEAD - A list of everything that could go in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    },
+    {
+        "author": "futurice",
+        "category": "JavaScript",
+        "stars": "285",
+        "title": "pepperoni-app-kit - Pepperoni - React Native App Starter Kit for Android and iOS",
+        "url": "https://github.com/futurice/pepperoni-app-kit"
+    },
+    {
+        "author": "secgroundzero",
+        "category": "Python",
+        "stars": "213",
+        "title": "warberry - WarBerryPi - Tactical Exploitation",
+        "url": "https://github.com/secgroundzero/warberry"
+    }
+]

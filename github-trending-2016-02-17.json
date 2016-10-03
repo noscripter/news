@@ -1,0 +1,72 @@
+[
+    {
+        "author": "allenwong",
+        "category": "Swift",
+        "stars": "1,221",
+        "title": "30DaysofSwift - A self taught project to learn swift.",
+        "url": "https://github.com/allenwong/30DaysofSwift"
+    },
+    {
+        "author": "dhamaniasad",
+        "category": "",
+        "stars": "730",
+        "title": "awesome-postgres - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql",
+        "url": "https://github.com/dhamaniasad/awesome-postgres"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "605",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "so-fancy",
+        "category": "Shell",
+        "stars": "398",
+        "title": "diff-so-fancy - Good-lookin' diffs with diff-highlight and more",
+        "url": "https://github.com/so-fancy/diff-so-fancy"
+    },
+    {
+        "author": "JetBrains",
+        "category": "Java",
+        "stars": "346",
+        "title": "kotlin - The Kotlin Programming Language",
+        "url": "https://github.com/JetBrains/kotlin"
+    },
+    {
+        "author": "src-d",
+        "category": "Go",
+        "stars": "323",
+        "title": "go-git - A low level and highly extensible git client library",
+        "url": "https://github.com/src-d/go-git"
+    },
+    {
+        "author": "joealcorn",
+        "category": "Python",
+        "stars": "301",
+        "title": "laboratory - A Python library for carefully refactoring critical paths (and a port of Github's Scientist)",
+        "url": "https://github.com/joealcorn/laboratory"
+    },
+    {
+        "author": "pinterest",
+        "category": "JavaScript",
+        "stars": "284",
+        "title": "teletraan - Teletraan is Pinterest's deploy system.",
+        "url": "https://github.com/pinterest/teletraan"
+    },
+    {
+        "author": "SaschaWillems",
+        "category": "Logos",
+        "stars": "227",
+        "title": "Vulkan - Examples and demos for the new Vulkan API",
+        "url": "https://github.com/SaschaWillems/Vulkan"
+    },
+    {
+        "author": "jbranchaud",
+        "category": "",
+        "stars": "202",
+        "title": "til - Today I Learned",
+        "url": "https://github.com/jbranchaud/til"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "steshaw",
+        "category": "CSS",
+        "stars": "565",
+        "title": "plt - A path to Programming Language Theory enlightenment",
+        "url": "https://github.com/steshaw/plt"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "359",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "IonicaBizau",
+        "category": "JavaScript",
+        "stars": "272",
+        "title": "scrape-it - A Node.js scraper for humans.",
+        "url": "https://github.com/IonicaBizau/scrape-it"
+    },
+    {
+        "author": "akshayKMR",
+        "category": "JavaScript",
+        "stars": "231",
+        "title": "hogwatch - find out what's hogging your internet connection.",
+        "url": "https://github.com/akshayKMR/hogwatch"
+    },
+    {
+        "author": "satoshiiizuka",
+        "category": "Lua",
+        "stars": "205",
+        "title": "siggraph2016_colorization - Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'.",
+        "url": "https://github.com/satoshiiizuka/siggraph2016_colorization"
+    },
+    {
+        "author": "google",
+        "category": "Rust",
+        "stars": "193",
+        "title": "xi-editor - A modern editor with a backend written in Rust.",
+        "url": "https://github.com/google/xi-editor"
+    },
+    {
+        "author": "looterz",
+        "category": "Go",
+        "stars": "148",
+        "title": "grimd - fast dns proxy that can run anywhere, built to black-hole internet advertisements and malware servers",
+        "url": "https://github.com/looterz/grimd"
+    },
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "147",
+        "title": "HEAD - A list of everything that goes in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    },
+    {
+        "author": "garnele007",
+        "category": "Objective-C",
+        "stars": "137",
+        "title": "SwiftOCR - Fast and simple OCR library written in Swift",
+        "url": "https://github.com/garnele007/SwiftOCR"
+    },
+    {
+        "author": "openai",
+        "category": "Python",
+        "stars": "110",
+        "title": "gym - A toolkit for developing and comparing reinforcement learning algorithms.",
+        "url": "https://github.com/openai/gym"
+    }
+]

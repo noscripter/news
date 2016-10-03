@@ -1,0 +1,72 @@
+[
+    {
+        "author": "ElemeFE",
+        "category": "Vue",
+        "stars": "201",
+        "title": "element - Desktop UI elements for Vue.js 2.0",
+        "url": "https://github.com/ElemeFE/element"
+    },
+    {
+        "author": "tmrts",
+        "category": "Go",
+        "stars": "200",
+        "title": "go-patterns - A curated list of Go patterns and idioms",
+        "url": "https://github.com/tmrts/go-patterns"
+    },
+    {
+        "author": "facebook",
+        "category": "C",
+        "stars": "168",
+        "title": "zstd - Zstandard - Fast real-time compression algorithm",
+        "url": "https://github.com/facebook/zstd"
+    },
+    {
+        "author": "xcatliu",
+        "category": "CSS",
+        "stars": "152",
+        "title": "mobi.css - A lightweight, flexible css framework that focus on mobile.",
+        "url": "https://github.com/xcatliu/mobi.css"
+    },
+    {
+        "author": "david-gpu",
+        "category": "Python",
+        "stars": "138",
+        "title": "srez - Image super-resolution through deep learning",
+        "url": "https://github.com/david-gpu/srez"
+    },
+    {
+        "author": "heynickc",
+        "category": "",
+        "stars": "138",
+        "title": "awesome-ddd - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
+        "url": "https://github.com/heynickc/awesome-ddd"
+    },
+    {
+        "author": "gridcontrol",
+        "category": "JavaScript",
+        "stars": "131",
+        "title": "gridcontrol - Networked Process Manager to execute functions in a Computer Grid",
+        "url": "https://github.com/gridcontrol/gridcontrol"
+    },
+    {
+        "author": "waud",
+        "category": "Haxe",
+        "stars": "122",
+        "title": "waud - Web Audio Library",
+        "url": "https://github.com/waud/waud"
+    },
+    {
+        "author": "brillout",
+        "category": "",
+        "stars": "116",
+        "title": "awesome-react-components - Catalog of React components / libraries",
+        "url": "https://github.com/brillout/awesome-react-components"
+    },
+    {
+        "author": "VctrySam",
+        "category": "JavaScript",
+        "stars": "113",
+        "title": "whatsapp - WhatsApp in React Native",
+        "url": "https://github.com/VctrySam/whatsapp"
+    }
+]

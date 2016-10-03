@@ -1,0 +1,251 @@
+[
+    
+    {
+        "id" : 271426,
+        "title" : "❄️「鲁迅追番」 \u002D 简单好用的追番工具 ( ›´ω`‹ )",
+        "url" : "http://www.v2ex.com/t/271426",
+        "content" : "![鲁迅追番]( http://luxun.pro/banner@2x.png)\u000D\u000A\u000D\u000A## 地址 [http://luxun.pro]( http://luxun.pro)\u000D\u000A\u000D\u000A\u003E 我即使是死了、钉在棺材里，\u003Cbr\u003E\u000D\u000A\u003E \u0009\u0009　　　也要在墓里用腐朽的声带喊出…\u000D\u000A\u000D\u000A鲁迅追番是一个简单的（自用）追番工具，在鲁迅追番可以追番、看番、评番。\u000D\u000A\u000D\u000A\u000D\u000A## 客户端\u000D\u000A使用 Electron 开发的本地客户端\u000D\u000A\u000D\u000A「发布地址：[http://luxun.pro/#/square]( http://luxun.pro/#/square)」\u000D\u000A\u000D\u000A\u000D\u000A## 鲁迅追番订阅源\u000D\u000A针对下载党，提供了这个推送当季新番磁链的订阅源，可供 uTorrent 等支持 RSS 订阅的 BT 客户端作为跟踪源来使用。\u000D\u000A\u000D\u000A「订阅源地址：[http://luxun.pro/torrent.xml]( http://luxun.pro/torrent.xml)」\u000D\u000A\u000D\u000A## 鲁学交流会（ QQ 群）\u000D\u000A使用中遇到什么 BUG ？这季度还有那些番想追？有哪些想要的功能？\u000D\u000A\u000D\u000A![鲁学交流会 QQ 群二维码]( http://luxun.pro/qq\u002Dgrunp.png)\u000D\u000A\u000D\u000A「 QQ 群号码：[302415425]( http://qm.qq.com/cgi\u002Dbin/qm/qr?k\u003D9dZEnADxGvD0Jlaywpx8lPheoRM7VXYY)」\u000D\u000A\u000D\u000A\u000D\u000A## 已支持的功能\u000D\u000A\u000D\u000A \u002D [x] 播放器\u000D\u000A \u002D [x] 弹幕\u000D\u000A \u002D [x] 小窗口预览\u000D\u000A \u002D [x] 番评\u000D\u000A \u002D [x] 记录我的追番\u000D\u000A \u002D [x] 番剧更新微博提示\u000D\u000A \u002D [x] 时间线\u000D\u000A \u000D\u000A \u000D\u000A## 即将支持的功能\u000D\u000A\u000D\u000A \u002D [ ] 下载新番（磁链）\u000D\u000A \u002D [ ] 快捷键支持\u000D\u000A \u002D [ ] 追番微博私信提醒\u000D\u000A\u000D\u000A\u000D\u000A## 二维码\u000D\u000A\u000D\u000A![鲁迅追番二维码]( http://luxun.pro/qr\u002D78.png)\u000D\u000A\u000D\u000A\u000D\u000A　\u000D\u000A## 使用了这些服务\u000D\u000A\u000D\u000A \u002D 「微 tu 博 chuang 」[http://weibo.com/luhsun]( http://weibo.com/luhsun)\u000D\u000A \u002D  「码市」[https://coding.net]( https://coding.net)\u000D\u000A \u002D 「主机壳」 [http://www.zhujike.com]( http://www.zhujike.com)\u000D\u000A \u002D 「又拍云」[https://www.upyun.com]( https://www.upyun.com)",
+        "content_rendered" : "\u003Cp\u003E\u003Cimg alt\u003D\u0022鲁迅追番\u0022 src\u003D\u0022http://luxun.pro/banner@2x.png\u0022\u003E\u003C/p\u003E\u000A\u003Ch2\u003E地址 \u003Ca href\u003D\u0022http://luxun.pro\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://luxun.pro\u003C/a\u003E\u003C/h2\u003E\u000A\u003Cblockquote\u003E\u000A\u003Cp\u003E我即使是死了、钉在棺材里，\u003Cbr\u003E\u000A　　　也要在墓里用腐朽的声带喊出…\u003C/p\u003E\u000A\u003C/blockquote\u003E\u000A\u003Cp\u003E鲁迅追番是一个简单的（自用）追番工具，在鲁迅追番可以追番、看番、评番。\u003C/p\u003E\u000A\u003Ch2\u003E客户端\u003C/h2\u003E\u000A\u003Cp\u003E使用 Electron 开发的本地客户端\u003C/p\u003E\u000A\u003Cp\u003E「发布地址：\u003Ca href\u003D\u0022http://luxun.pro/#/square\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://luxun.pro/#/square\u003C/a\u003E」\u003C/p\u003E\u000A\u003Ch2\u003E鲁迅追番订阅源\u003C/h2\u003E\u000A\u003Cp\u003E针对下载党，提供了这个推送当季新番磁链的订阅源，可供 uTorrent 等支持 RSS 订阅的 BT 客户端作为跟踪源来使用。\u003C/p\u003E\u000A\u003Cp\u003E「订阅源地址：\u003Ca href\u003D\u0022http://luxun.pro/torrent.xml\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://luxun.pro/torrent.xml\u003C/a\u003E」\u003C/p\u003E\u000A\u003Ch2\u003E鲁学交流会（ QQ 群）\u003C/h2\u003E\u000A\u003Cp\u003E使用中遇到什么 BUG ？这季度还有那些番想追？有哪些想要的功能？\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022鲁学交流会 QQ 群二维码\u0022 src\u003D\u0022http://luxun.pro/qq\u002Dgrunp.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E「 QQ 群号码：\u003Ca href\u003D\u0022http://qm.qq.com/cgi\u002Dbin/qm/qr?k\u003D9dZEnADxGvD0Jlaywpx8lPheoRM7VXYY\u0022 rel\u003D\u0022nofollow\u0022\u003E302415425\u003C/a\u003E」\u003C/p\u003E\u000A\u003Ch2\u003E已支持的功能\u003C/h2\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003E[x] 播放器\u003C/li\u003E\u000A\u003Cli\u003E[x] 弹幕\u003C/li\u003E\u000A\u003Cli\u003E[x] 小窗口预览\u003C/li\u003E\u000A\u003Cli\u003E[x] 番评\u003C/li\u003E\u000A\u003Cli\u003E[x] 记录我的追番\u003C/li\u003E\u000A\u003Cli\u003E[x] 番剧更新微博提示\u003C/li\u003E\u000A\u003Cli\u003E[x] 时间线\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u003Ch2\u003E即将支持的功能\u003C/h2\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003E[ ] 下载新番（磁链）\u003C/li\u003E\u000A\u003Cli\u003E[ ] 快捷键支持\u003C/li\u003E\u000A\u003Cli\u003E[ ] 追番微博私信提醒\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u003Ch2\u003E二维码\u003C/h2\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022鲁迅追番二维码\u0022 src\u003D\u0022http://luxun.pro/qr\u002D78.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E\u003C/p\u003E\u000A\u003Ch2\u003E使用了这些服务\u003C/h2\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003E「微 tu 博 chuang 」\u003Ca href\u003D\u0022http://weibo.com/luhsun\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://weibo.com/luhsun\u003C/a\u003E\u003C/li\u003E\u000A\u003Cli\u003E「码市」\u003Ca href\u003D\u0022https://coding.net\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://coding.net\u003C/a\u003E\u003C/li\u003E\u000A\u003Cli\u003E「主机壳」 \u003Ca href\u003D\u0022http://www.zhujike.com\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.zhujike.com\u003C/a\u003E\u003C/li\u003E\u000A\u003Cli\u003E「又拍云」\u003Ca href\u003D\u0022https://www.upyun.com\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://www.upyun.com\u003C/a\u003E\u003C/li\u003E\u000A\u003C/ul\u003E\u000A",
+        "replies" : 99,
+        "member" : {
+            "id" : 16608,
+            "username" : "wsph123",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/d242/f1a2/16608_mini.png?m=1330181059",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/d242/f1a2/16608_normal.png?m=1330181059",
+            "avatar_large" : "//cdn.v2ex.co/avatar/d242/f1a2/16608_large.png?m=1330181059"
+        },
+        "node" : {
+            "id" : 17,
+            "name" : "create",
+            "title" : "分享创造",
+            "title_alternative" : "Create",
+            "url" : "http://www.v2ex.com/go/create",
+            "topics" : 5349,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/70ef/df2e/17_mini.png?m=1454545306",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/70ef/df2e/17_normal.png?m=1454545306",
+            "avatar_large" : "//cdn.v2ex.co/navatar/70ef/df2e/17_large.png?m=1454545306"
+        },
+        "created" : 1460722063,
+        "last_modified" : 1460722063,
+        "last_touched" : 1460771058
+    },
+    
+    {
+        "id" : 271381,
+        "title" : "程序员戴什么样的手表比较好",
+        "url" : "http://www.v2ex.com/t/271381",
+        "content" : "机械表,电子表还是干脆来个智能表.表带选金属的塑料的还是皮革的",
+        "content_rendered" : "机械表,电子表还是干脆来个智能表.表带选金属的塑料的还是皮革的",
+        "replies" : 87,
+        "member" : {
+            "id" : 21980,
+            "username" : "viator42",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/b02d/8e29/21980_mini.png?m=1457021674",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/b02d/8e29/21980_normal.png?m=1457021674",
+            "avatar_large" : "//cdn.v2ex.co/avatar/b02d/8e29/21980_large.png?m=1457021674"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 67797,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1459494599",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1459494599",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1459494599"
+        },
+        "created" : 1460710258,
+        "last_modified" : 1460710258,
+        "last_touched" : 1460752789
+    },
+    
+    {
+        "id" : 271270,
+        "title" : "说下最近的两笔黄了的二手交易",
+        "url" : "http://www.v2ex.com/t/271270",
+        "content" : "1. 在 v2 站看到卖 google apps 的，和对方联系，一口价，对方要求通过支付宝先把钱打入他帐号，然后把帐户给我，我提议走咸鱼，被拒绝，交易随黄。\u000D\u000A\u000D\u000A2. 想买自己名字的域名，和对方联系后，有了下面的对话\u000D\u000A\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u000D\u000A对方：五位数拿走\u000D\u000A\u000D\u000A我：哦\u000D\u000A\u000D\u000A对方：或者 9999 图个吉利\u000D\u000A\u000D\u000A我：不需要了\u000D\u000A\u000D\u000A对方：你想出多少？\u000D\u000A\u000D\u000A我：我只有一千的预算，和你相差太大了，所以，没办法继续谈了，多谢\u000D\u000A\u000D\u000A对方：再加一些 给你\u000D\u000A\u000D\u000A我：没办法加，主要是预算只有这么多\u000D\u000A\u000D\u000A对方： 1999 给你\u000D\u000A\u000D\u000A我：真心预算只有 1000 ，超过这个数，就算了\u000D\u000A\u000D\u000A对方：怎么给\u000D\u000A\u000D\u000A对方：如何付\u000D\u000A\u000D\u000A我：你咸鱼创建链接，然后我拍下来，我看你是在 xxx 注册的，我去注册个 xxx 帐户，你 push 到我的帐户\u000D\u000A\u000D\u000A对方：不可靠 当面交易或者支付宝直接转账\u000D\u000A\u000D\u000A对方：不可靠 当面交易或者支付宝直接转账或者微信转账 否则 免谈\u000D\u000A\u000D\u000A我：你开玩笑吧，咸鱼是淘宝的二手交易平台，有什么不可靠？你去淘宝创建一个拍卖链接我去拍下来，也 ok ，当面交易的话，你来上海，我也 ok ，让我先支付宝或者微信转账，那就免谈了\u000D\u000A\u000D\u000A对方：有人利用咸鱼骗钱 我上过当 当我小孩子\u000D\u000A\u000D\u000A对方：域名属于特殊生意 骗子利用咸鱼漏洞行骗\u000D\u000A\u000D\u000A我：你去淘宝创建链接，正常的商品流程买卖，如果你觉得这个还不可靠，那你来上海面交，我 ok 啊\u000D\u000A\u000D\u000A对方：你到杭州临平来当面成交\u000D\u000A\u000D\u000A我：不跑\u000D\u000A\u000D\u000A对方：域名成交后 您申请退款 我无法解释 还有您们可以利用造假软件申辩已经付款等等诈骗手段 很可恶\u000D\u000A对方：淘宝对虚拟商品特别是域名 无法保护\u000D\u000A\u000D\u000A我：那我真的没有办法\u000D\u000A\u000D\u000A我：你不想跑，我也不想跑\u000D\u000A\u000D\u000A我：就没有办法面交\u000D\u000A\u000D\u000A我：又不同意淘宝什么的\u000D\u000A\u000D\u000A我：那只能算了\u000D\u000A\u000D\u000A对方： 1000 元而已 还搞那么麻烦 明明是骗钱\u000D\u000A\u000D\u000A对方： 1000 元而已 还搞那么麻烦 明明是骗钱 还骗域名\u000D\u000A\u000D\u000A对方：你来电话 158xxxx 电话沟通更真实\u000D\u000A\u000D\u000A我：？\u000D\u000A\u000D\u000A我：我打你电话，你又不接？\u000D\u000A\u000D\u000A对方：现在打过来 刚才又客人\u000D\u000A\u000D\u000A对方：现在打过来 刚才有客人\u000D\u000A\u000D\u000A我：算了，交易取消，搞得这么麻烦\u000D\u000A\u000D\u000A对方：为何您的号码显示不安全？\u000D\u000A\u000D\u000A对方： 177xxx 是不是你的 为何您的号码显示不安全？\u000D\u000A\u000D\u000A对方：你是虚拟号码吗\u000D\u000A\u000D\u000A我：你丫有被害妄想症啊？特么这个是我用了三四年的电话，还显示不安全，还虚拟号码\u000D\u000A\u000D\u000A对方： 360 手机助手提示的\u000D\u000A\u000D\u000A我： 360 就是垃圾，不知道么\u000D\u000A\u000D\u000A对方：所以我当时没有接 你用固定电话打过来\u000D\u000A\u000D\u000A对方：如果你真的想购买 不可能随意取消 随意取消 就说明是骗\u000D\u000A\u000D\u000A对方：我已经被骗过几次了\u000D\u000A\u000D\u000A对方：所以必须要谨慎\u000D\u000A\u000D\u000A－－－－－－－\u000D\u000A\u000D\u000A随机拉黑对方，实在是没有办法沟通。",
+        "content_rendered" : "\u003Col\u003E\u000A\u003Cli\u003E\u000A\u003Cp\u003E在 v2 站看到卖 google apps 的，和对方联系，一口价，对方要求通过支付宝先把钱打入他帐号，然后把帐户给我，我提议走咸鱼，被拒绝，交易随黄。\u003C/p\u003E\u000A\u003C/li\u003E\u000A\u003Cli\u003E\u000A\u003Cp\u003E想买自己名字的域名，和对方联系后，有了下面的对话\u003C/p\u003E\u000A\u003C/li\u003E\u000A\u003C/ol\u003E\u000A\u003Chr\u003E\u000A\u003Cp\u003E对方：五位数拿走\u003C/p\u003E\u000A\u003Cp\u003E我：哦\u003C/p\u003E\u000A\u003Cp\u003E对方：或者 9999 图个吉利\u003C/p\u003E\u000A\u003Cp\u003E我：不需要了\u003C/p\u003E\u000A\u003Cp\u003E对方：你想出多少？\u003C/p\u003E\u000A\u003Cp\u003E我：我只有一千的预算，和你相差太大了，所以，没办法继续谈了，多谢\u003C/p\u003E\u000A\u003Cp\u003E对方：再加一些 给你\u003C/p\u003E\u000A\u003Cp\u003E我：没办法加，主要是预算只有这么多\u003C/p\u003E\u000A\u003Cp\u003E对方： 1999 给你\u003C/p\u003E\u000A\u003Cp\u003E我：真心预算只有 1000 ，超过这个数，就算了\u003C/p\u003E\u000A\u003Cp\u003E对方：怎么给\u003C/p\u003E\u000A\u003Cp\u003E对方：如何付\u003C/p\u003E\u000A\u003Cp\u003E我：你咸鱼创建链接，然后我拍下来，我看你是在 xxx 注册的，我去注册个 xxx 帐户，你 push 到我的帐户\u003C/p\u003E\u000A\u003Cp\u003E对方：不可靠 当面交易或者支付宝直接转账\u003C/p\u003E\u000A\u003Cp\u003E对方：不可靠 当面交易或者支付宝直接转账或者微信转账 否则 免谈\u003C/p\u003E\u000A\u003Cp\u003E我：你开玩笑吧，咸鱼是淘宝的二手交易平台，有什么不可靠？你去淘宝创建一个拍卖链接我去拍下来，也 ok ，当面交易的话，你来上海，我也 ok ，让我先支付宝或者微信转账，那就免谈了\u003C/p\u003E\u000A\u003Cp\u003E对方：有人利用咸鱼骗钱 我上过当 当我小孩子\u003C/p\u003E\u000A\u003Cp\u003E对方：域名属于特殊生意 骗子利用咸鱼漏洞行骗\u003C/p\u003E\u000A\u003Cp\u003E我：你去淘宝创建链接，正常的商品流程买卖，如果你觉得这个还不可靠，那你来上海面交，我 ok 啊\u003C/p\u003E\u000A\u003Cp\u003E对方：你到杭州临平来当面成交\u003C/p\u003E\u000A\u003Cp\u003E我：不跑\u003C/p\u003E\u000A\u003Cp\u003E对方：域名成交后 您申请退款 我无法解释 还有您们可以利用造假软件申辩已经付款等等诈骗手段 很可恶\u000A对方：淘宝对虚拟商品特别是域名 无法保护\u003C/p\u003E\u000A\u003Cp\u003E我：那我真的没有办法\u003C/p\u003E\u000A\u003Cp\u003E我：你不想跑，我也不想跑\u003C/p\u003E\u000A\u003Cp\u003E我：就没有办法面交\u003C/p\u003E\u000A\u003Cp\u003E我：又不同意淘宝什么的\u003C/p\u003E\u000A\u003Cp\u003E我：那只能算了\u003C/p\u003E\u000A\u003Cp\u003E对方： 1000 元而已 还搞那么麻烦 明明是骗钱\u003C/p\u003E\u000A\u003Cp\u003E对方： 1000 元而已 还搞那么麻烦 明明是骗钱 还骗域名\u003C/p\u003E\u000A\u003Cp\u003E对方：你来电话 158xxxx 电话沟通更真实\u003C/p\u003E\u000A\u003Cp\u003E我：？\u003C/p\u003E\u000A\u003Cp\u003E我：我打你电话，你又不接？\u003C/p\u003E\u000A\u003Cp\u003E对方：现在打过来 刚才又客人\u003C/p\u003E\u000A\u003Cp\u003E对方：现在打过来 刚才有客人\u003C/p\u003E\u000A\u003Cp\u003E我：算了，交易取消，搞得这么麻烦\u003C/p\u003E\u000A\u003Cp\u003E对方：为何您的号码显示不安全？\u003C/p\u003E\u000A\u003Cp\u003E对方： 177xxx 是不是你的 为何您的号码显示不安全？\u003C/p\u003E\u000A\u003Cp\u003E对方：你是虚拟号码吗\u003C/p\u003E\u000A\u003Cp\u003E我：你丫有被害妄想症啊？特么这个是我用了三四年的电话，还显示不安全，还虚拟号码\u003C/p\u003E\u000A\u003Cp\u003E对方： 360 手机助手提示的\u003C/p\u003E\u000A\u003Cp\u003E我： 360 就是垃圾，不知道么\u003C/p\u003E\u000A\u003Cp\u003E对方：所以我当时没有接 你用固定电话打过来\u003C/p\u003E\u000A\u003Cp\u003E对方：如果你真的想购买 不可能随意取消 随意取消 就说明是骗\u003C/p\u003E\u000A\u003Cp\u003E对方：我已经被骗过几次了\u003C/p\u003E\u000A\u003Cp\u003E对方：所以必须要谨慎\u003C/p\u003E\u000A\u003Cp\u003E－－－－－－－\u003C/p\u003E\u000A\u003Cp\u003E随机拉黑对方，实在是没有办法沟通。\u003C/p\u003E\u000A",
+        "replies" : 59,
+        "member" : {
+            "id" : 61526,
+            "username" : "mhtt",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/7a8d/d533/61526_mini.png?m=1399353259",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/7a8d/d533/61526_normal.png?m=1399353259",
+            "avatar_large" : "//cdn.v2ex.co/avatar/7a8d/d533/61526_large.png?m=1399353259"
+        },
+        "node" : {
+            "id" : 16,
+            "name" : "share",
+            "title" : "分享发现",
+            "title_alternative" : "Share",
+            "url" : "http://www.v2ex.com/go/share",
+            "topics" : 18953,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c74d/97b0/16_mini.png?m=1459494617",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c74d/97b0/16_normal.png?m=1459494617",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c74d/97b0/16_large.png?m=1459494617"
+        },
+        "created" : 1460691777,
+        "last_modified" : 1460691777,
+        "last_touched" : 1460744166
+    },
+    
+    {
+        "id" : 271276,
+        "title" : "取名产生超级操蛋的事！",
+        "url" : "http://www.v2ex.com/t/271276",
+        "content" : "之前宝宝出生，我来取名字。有一个 v 友给了世彣，另外同事也说了一样的，我就决定取这个名。\u000D\u000A\u000D\u000A去了医院，那个办证的说这个字不属于常用字，我就取了世然（释然），悲剧由此而生。\u000D\u000A\u000D\u000A这个然的音跟家里嫂子的小名同音，两边都在骂我。我一边气一边想还是要解决的，最终还是给他取个小名算了，反正只要不同音不就好了。\u000D\u000A\u000D\u000A发此帖是要让大家注意，如果有这种恶俗的要注意了。",
+        "content_rendered" : "之前宝宝出生，我来取名字。有一个 v 友给了世彣，另外同事也说了一样的，我就决定取这个名。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E去了医院，那个办证的说这个字不属于常用字，我就取了世然（释然），悲剧由此而生。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E这个然的音跟家里嫂子的小名同音，两边都在骂我。我一边气一边想还是要解决的，最终还是给他取个小名算了，反正只要不同音不就好了。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E发此帖是要让大家注意，如果有这种恶俗的要注意了。",
+        "replies" : 47,
+        "member" : {
+            "id" : 150261,
+            "username" : "123s",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/6dc73360d7ebd41421e3ecb69596b3d4?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/6dc73360d7ebd41421e3ecb69596b3d4?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/6dc73360d7ebd41421e3ecb69596b3d4?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 106,
+            "name" : "baby",
+            "title" : "Baby",
+            "title_alternative" : "Baby",
+            "url" : "http://www.v2ex.com/go/baby",
+            "topics" : 166,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/f093/5e4c/106_mini.png?m=1440500740",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/f093/5e4c/106_normal.png?m=1440500740",
+            "avatar_large" : "//cdn.v2ex.co/navatar/f093/5e4c/106_large.png?m=1440500740"
+        },
+        "created" : 1460692480,
+        "last_modified" : 1460692480,
+        "last_touched" : 1460735022
+    },
+    
+    {
+        "id" : 271296,
+        "title" : "阿里云这个大骗子……亏得我给你义务推广……我了个大艹……看这地怎么洗！",
+        "url" : "http://www.v2ex.com/t/271296",
+        "content" : "最近在学校做了点推广，带了几个感兴趣的大学生，教他们一些 web 的东西。\u000D\u000A然后就需要实践环境不是……\u000D\u000A记得阿里云腾讯云都有学生计划，腾讯云 1 元，阿里云 9.9 元一个月……\u000D\u000A\u000D\u000A我就看了一眼阿里云和腾讯云的云服务器首页。\u000D\u000A\u000D\u000A两者的首页都有明确入口， qcloud 学生计划，阿里云云翼计划，价格也都对，腾讯云 1 元，阿里云 9.9 元。\u000D\u000A\u000D\u000A然后我记得以前带学生，腾讯云的学生认证比较麻烦，要上传学生证，自己拍本人照片，阿里云的好像就直接在线填写学籍信息立刻能关联学信网进行认证，价格差也很小，阿里云如果需要备案也完全无纸超级方便，果断推荐了阿里云。\u000D\u000A\u000D\u000A按照之前的操作印象，制作了建议的课件教学生们怎么进行支付宝实名认证，阿里云学生认证，然后告诉他们认证完成后从首页有个链接，云翼计划进去就能买 9.9 一个月的 ECS 了……\u000D\u000A\u000D\u000A然后 MLGB 的我要骂人了！第二次搞活动，所有的学生都 TMD 反馈阿里云那个是虚假广告，活动是一直有的，维护是一直维护的，已经维护了好几个月了，而且预计未来也维护不完了！\u000D\u000A\u000D\u000A这就是大厂作风？妹的你不能用你特么的敢不敢写个说明？",
+        "content_rendered" : "\u003Cp\u003E最近在学校做了点推广，带了几个感兴趣的大学生，教他们一些 web 的东西。\u000A然后就需要实践环境不是……\u000A记得阿里云腾讯云都有学生计划，腾讯云 1 元，阿里云 9.9 元一个月……\u003C/p\u003E\u000A\u003Cp\u003E我就看了一眼阿里云和腾讯云的云服务器首页。\u003C/p\u003E\u000A\u003Cp\u003E两者的首页都有明确入口， qcloud 学生计划，阿里云云翼计划，价格也都对，腾讯云 1 元，阿里云 9.9 元。\u003C/p\u003E\u000A\u003Cp\u003E然后我记得以前带学生，腾讯云的学生认证比较麻烦，要上传学生证，自己拍本人照片，阿里云的好像就直接在线填写学籍信息立刻能关联学信网进行认证，价格差也很小，阿里云如果需要备案也完全无纸超级方便，果断推荐了阿里云。\u003C/p\u003E\u000A\u003Cp\u003E按照之前的操作印象，制作了建议的课件教学生们怎么进行支付宝实名认证，阿里云学生认证，然后告诉他们认证完成后从首页有个链接，云翼计划进去就能买 9.9 一个月的 ECS 了……\u003C/p\u003E\u000A\u003Cp\u003E然后 MLGB 的我要骂人了！第二次搞活动，所有的学生都 TMD 反馈阿里云那个是虚假广告，活动是一直有的，维护是一直维护的，已经维护了好几个月了，而且预计未来也维护不完了！\u003C/p\u003E\u000A\u003Cp\u003E这就是大厂作风？妹的你不能用你特么的敢不敢写个说明？\u003C/p\u003E\u000A",
+        "replies" : 44,
+        "member" : {
+            "id" : 119683,
+            "username" : "realpg",
+            "tagline" : "Nothing",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/71ee/202d/119683_mini.png?m=1435922685",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/71ee/202d/119683_normal.png?m=1435922685",
+            "avatar_large" : "//cdn.v2ex.co/avatar/71ee/202d/119683_large.png?m=1435922685"
+        },
+        "node" : {
+            "id" : 104,
+            "name" : "cloud",
+            "title" : "云计算",
+            "title_alternative" : "Cloud Computing",
+            "url" : "http://www.v2ex.com/go/cloud",
+            "topics" : 1425,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c9e1/074f/104_mini.png?m=1460711083",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c9e1/074f/104_normal.png?m=1460711083",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c9e1/074f/104_large.png?m=1460711083"
+        },
+        "created" : 1460697292,
+        "last_modified" : 1460697292,
+        "last_touched" : 1460742003
+    },
+    
+    {
+        "id" : 271258,
+        "title" : "黑暗幽灵（ DCM）木马详细分析",
+        "url" : "http://www.v2ex.com/t/271258",
+        "content" : "http://www.freebuf.com/articles/system/101447.html\u000D\u000A\u000D\u000A看完背后发凉 妈的这就是中国的棱镜门啊",
+        "content_rendered" : "\u003Cp\u003E\u003Ca href\u003D\u0022http://www.freebuf.com/articles/system/101447.html\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.freebuf.com/articles/system/101447.html\u003C/a\u003E\u003C/p\u003E\u000A\u003Cp\u003E看完背后发凉 妈的这就是中国的棱镜门啊\u003C/p\u003E\u000A",
+        "replies" : 43,
+        "member" : {
+            "id" : 15390,
+            "username" : "c0878",
+            "tagline" : "follow your heart",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/3316/9e6c/15390_mini.png?m=1334973514",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/3316/9e6c/15390_normal.png?m=1334973514",
+            "avatar_large" : "//cdn.v2ex.co/avatar/3316/9e6c/15390_large.png?m=1334973514"
+        },
+        "node" : {
+            "id" : 16,
+            "name" : "share",
+            "title" : "分享发现",
+            "title_alternative" : "Share",
+            "url" : "http://www.v2ex.com/go/share",
+            "topics" : 18953,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c74d/97b0/16_mini.png?m=1459494617",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c74d/97b0/16_normal.png?m=1459494617",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c74d/97b0/16_large.png?m=1459494617"
+        },
+        "created" : 1460689842,
+        "last_modified" : 1460690900,
+        "last_touched" : 1460759017
+    },
+    
+    {
+        "id" : 271342,
+        "title" : "除了大括号分行，你觉着日常还有什么代码风格，会引起撕逼，就是现在俗称的友谊的小船说翻就翻",
+        "url" : "http://www.v2ex.com/t/271342",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 40,
+        "member" : {
+            "id" : 141818,
+            "username" : "wuyinyin",
+            "tagline" : "一个会做很多好吃的程序员周边",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/4a9b/83c1/141818_mini.png?m=1458111297",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/4a9b/83c1/141818_normal.png?m=1458111297",
+            "avatar_large" : "//cdn.v2ex.co/avatar/4a9b/83c1/141818_large.png?m=1458111297"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 11592,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1460711189",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1460711189",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1460711189"
+        },
+        "created" : 1460703404,
+        "last_modified" : 1460703404,
+        "last_touched" : 1460754840
+    },
+    
+    {
+        "id" : 271341,
+        "title" : "请问台式机不关机是个坏习惯吗？",
+        "url" : "http://www.v2ex.com/t/271341",
+        "content" : "一直没有关机的习惯，用就是关显示器走人，\u000D\u000A这样除了费电会不会影响硬盘的寿命啊？\u000D\u000A有没有人和我一样？",
+        "content_rendered" : "\u003Cp\u003E一直没有关机的习惯，用就是关显示器走人，\u000A这样除了费电会不会影响硬盘的寿命啊？\u000A有没有人和我一样？\u003C/p\u003E\u000A",
+        "replies" : 36,
+        "member" : {
+            "id" : 83954,
+            "username" : "cloa",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/e347/5b13/83954_mini.png?m=1425211098",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/e347/5b13/83954_normal.png?m=1425211098",
+            "avatar_large" : "//cdn.v2ex.co/avatar/e347/5b13/83954_large.png?m=1425211098"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 67797,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1459494599",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1459494599",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1459494599"
+        },
+        "created" : 1460703152,
+        "last_modified" : 1460703152,
+        "last_touched" : 1460746928
+    }
+    
+]

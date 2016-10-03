@@ -1,0 +1,72 @@
+[
+    {
+        "author": "aymericdamien",
+        "category": "Jupyter Notebook",
+        "stars": "919",
+        "title": "TensorFlow-Examples - TensorFlow tutorials and code examples for beginners",
+        "url": "https://github.com/aymericdamien/TensorFlow-Examples"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "896",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "joshbuchea",
+        "category": "",
+        "stars": "647",
+        "title": "HEAD - A list of everything that could go in the <head> of your document",
+        "url": "https://github.com/joshbuchea/HEAD"
+    },
+    {
+        "author": "aosabook",
+        "category": "JavaScript",
+        "stars": "577",
+        "title": "500lines - 500 Lines or Less",
+        "url": "https://github.com/aosabook/500lines"
+    },
+    {
+        "author": "asvd",
+        "category": "JavaScript",
+        "stars": "431",
+        "title": "microlight - highlights code in any programming language",
+        "url": "https://github.com/asvd/microlight"
+    },
+    {
+        "author": "parkjs814",
+        "category": "JavaScript",
+        "stars": "334",
+        "title": "AlgorithmVisualizer - Algorithm Visualizer",
+        "url": "https://github.com/parkjs814/AlgorithmVisualizer"
+    },
+    {
+        "author": "Ramotion",
+        "category": "Swift",
+        "stars": "281",
+        "title": "expanding-collection - ExpandingCollection is a card peek/pop controller",
+        "url": "https://github.com/Ramotion/expanding-collection"
+    },
+    {
+        "author": "hzlmn",
+        "category": "JavaScript",
+        "stars": "276",
+        "title": "xeon - \ud83d\udc7e module loader for shell scripts with `require` style",
+        "url": "https://github.com/hzlmn/xeon"
+    },
+    {
+        "author": "ory-am",
+        "category": "Go",
+        "stars": "251",
+        "title": "hydra - Run your own low-latency, cloud native OAuth2 and OpenID Connect provider. Written in Google Go.",
+        "url": "https://github.com/ory-am/hydra"
+    },
+    {
+        "author": "akveo",
+        "category": "TypeScript",
+        "stars": "216",
+        "title": "ng2-admin - Angular 2 admin panel framework http://akveo.com/ng2-admin/",
+        "url": "https://github.com/akveo/ng2-admin"
+    }
+]

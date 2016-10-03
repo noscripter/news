@@ -1,0 +1,282 @@
+[
+    
+    {
+        "id" : 263643,
+        "title" : "只会一种编程语言的人, 相比起其他会好几个编程语言的人, 从概率上来说, 要比后者菜一些.",
+        "url" : "http://www.v2ex.com/t/263643",
+        "content" : "我认识几个程序员, 都仅只会 Java, 或者 PHP,  写了段时间代码, 连什么叫第三方库,  github, stackoverflow, google 是啥都不晓得, 你以为他们是很牛逼才不用这些是么? No! 他们写个稍微复杂点的逻辑代码都写不来, 连数据结构, 算法更是一点都不晓得, 一丢丢都不晓得! \u000D\u000A\u000D\u000A更令人惊奇的是, 他丫的工资太挺高的! 比如重庆的, 月薪 6000 RMB!  要说为什么呢? 我也不晓得. 他们共同特点如下:\u000D\u000A1. 为人老实, 听话, 无野心.\u000D\u000A2. 不喜欢写代码,下班后压根就不学习.\u000D\u000A3. 压根不关心 IT 圈的事情.\u000D\u000A4. 总是自己造轮子, 还是烂轮子.\u000D\u000A5. 都不会翻墙, 也都以为所有国家都只能访问本国的互联网.\u000D\u000A6. 英文很烂.\u000D\u000A7. 搜索引擎只会用百度, 压根就不晓得还有其他搜索引擎.\u000D\u000A8. 都是本地土著.\u000D\u000A9. 工作装模作样能做到一两个月都不提交代码.\u000D\u000A\u000D\u000A这主题不是引战, 只是讨论下为何会这样?",
+        "content_rendered" : "我认识几个程序员, 都仅只会 Java, 或者 PHP,  写了段时间代码, 连什么叫第三方库,  github, stackoverflow, google 是啥都不晓得, 你以为他们是很牛逼才不用这些是么? No! 他们写个稍微复杂点的逻辑代码都写不来, 连数据结构, 算法更是一点都不晓得, 一丢丢都不晓得! \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E更令人惊奇的是, 他丫的工资太挺高的! 比如重庆的, 月薪 6000 RMB!  要说为什么呢? 我也不晓得. 他们共同特点如下:\u000D\u003Cbr /\u003E1. 为人老实, 听话, 无野心.\u000D\u003Cbr /\u003E2. 不喜欢写代码,下班后压根就不学习.\u000D\u003Cbr /\u003E3. 压根不关心 IT 圈的事情.\u000D\u003Cbr /\u003E4. 总是自己造轮子, 还是烂轮子.\u000D\u003Cbr /\u003E5. 都不会翻墙, 也都以为所有国家都只能访问本国的互联网.\u000D\u003Cbr /\u003E6. 英文很烂.\u000D\u003Cbr /\u003E7. 搜索引擎只会用百度, 压根就不晓得还有其他搜索引擎.\u000D\u003Cbr /\u003E8. 都是本地土著.\u000D\u003Cbr /\u003E9. 工作装模作样能做到一两个月都不提交代码.\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E这主题不是引战, 只是讨论下为何会这样?",
+        "replies" : 89,
+        "member" : {
+            "id" : 158446,
+            "username" : "CrazySpiderMan",
+            "tagline" : "以编程和炸鱼为乐.",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/23b8/260f/158446_mini.png?m=1456696814",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/23b8/260f/158446_normal.png?m=1456696814",
+            "avatar_large" : "//cdn.v2ex.co/avatar/23b8/260f/158446_large.png?m=1456696814"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 11209,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1457959480",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1457959480",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1457959480"
+        },
+        "created" : 1458024703,
+        "last_modified" : 1458024703,
+        "last_touched" : 1458091000
+    },
+    
+    {
+        "id" : 263549,
+        "title" : "大家都是怎么读\u0022SQL\u0022的?",
+        "url" : "http://www.v2ex.com/t/263549",
+        "content" : "大学老师读的都是连读的,本以为只有国内会这么读,可是最近看那个*\u003C\u003C硅谷\u003E\u003E*发现里面也是连读的 23333.所以来问下大家.",
+        "content_rendered" : "\u003Cp\u003E大学老师读的都是连读的,本以为只有国内会这么读,可是最近看那个*\u0026lt\u003B\u0026lt\u003B硅谷\u0026gt\u003B\u0026gt\u003B*发现里面也是连读的 23333.所以来问下大家.\u003C/p\u003E\u000A",
+        "replies" : 82,
+        "member" : {
+            "id" : 163035,
+            "username" : "demomaster",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/c27500fcb1265b17b566085330990229?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/c27500fcb1265b17b566085330990229?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/c27500fcb1265b17b566085330990229?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 859,
+            "name" : "pronunciation",
+            "title" : "发音",
+            "title_alternative" : "",
+            "url" : "http://www.v2ex.com/go/pronunciation",
+            "topics" : 22,
+            "avatar_mini" : "/static/img/node_mini.png",
+            "avatar_normal" : "/static/img/node_normal.png",
+            "avatar_large" : "/static/img/node_large.png"
+        },
+        "created" : 1458006706,
+        "last_modified" : 1458018384,
+        "last_touched" : 1458068208
+    },
+    
+    {
+        "id" : 263544,
+        "title" : "第一次听说这种事",
+        "url" : "http://www.v2ex.com/t/263544",
+        "content" : "朋友新招了个 iOS 开发，按他们工作情况， MBA+DELL 外显，没想到这个新招来的，工作了五天（还在一个月试用期内），直接不干了，连辞职流程都没走， MBA 也不归还，电话不接微信不回。这种情况，该如何处理？",
+        "content_rendered" : "\u003Cp\u003E朋友新招了个 iOS 开发，按他们工作情况， MBA+DELL 外显，没想到这个新招来的，工作了五天（还在一个月试用期内），直接不干了，连辞职流程都没走， MBA 也不归还，电话不接微信不回。这种情况，该如何处理？\u003C/p\u003E\u000A",
+        "replies" : 75,
+        "member" : {
+            "id" : 61526,
+            "username" : "mhtt",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/7a8d/d533/61526_mini.png?m=1399353259",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/7a8d/d533/61526_normal.png?m=1399353259",
+            "avatar_large" : "//cdn.v2ex.co/avatar/7a8d/d533/61526_large.png?m=1399353259"
+        },
+        "node" : {
+            "id" : 770,
+            "name" : "career",
+            "title" : "职场话题",
+            "title_alternative" : "Career",
+            "url" : "http://www.v2ex.com/go/career",
+            "topics" : 1339,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1457959463",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1457959463",
+            "avatar_large" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1457959463"
+        },
+        "created" : 1458005768,
+        "last_modified" : 1458020334,
+        "last_touched" : 1458055304
+    },
+    
+    {
+        "id" : 263562,
+        "title" : "程序员喝酒后可以写代码么？ 0 0 貌似之前认识的一个小伙伴，喝两口就埋头码起来了",
+        "url" : "http://www.v2ex.com/t/263562",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 73,
+        "member" : {
+            "id" : 141818,
+            "username" : "wuyinyin",
+            "tagline" : "一个会做很多好吃的程序员周边",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/4a9b/83c1/141818_mini.png?m=1453256414",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/4a9b/83c1/141818_normal.png?m=1453256414",
+            "avatar_large" : "//cdn.v2ex.co/avatar/4a9b/83c1/141818_large.png?m=1453256414"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 11209,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1457959480",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1457959480",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1457959480"
+        },
+        "created" : 1458008301,
+        "last_modified" : 1458008301,
+        "last_touched" : 1458065374
+    },
+    
+    {
+        "id" : 263564,
+        "title" : "房东通知下月房租上涨 1500，又要找房子了。请问哪里有能拉电信光纤的一房整租？",
+        "url" : "http://www.v2ex.com/t/263564",
+        "content" : "赶上了地产红利，昨晚房东通知合同到期后（月底）租金上涨 1500 到 4300/月。我预期是涨到 3500 就很厉害了，没想到房东更厉害。这价格我都可以住花样年两房了，明显逼格更高。\u000D\u000A\u000D\u000A然而这个价格在这个小区肯定是租不出去的，三房才勉强这个价格。不知道房东是不是被中介忽悠了。不过人家的房子，要租多少我也管不着，只能租或者不租。\u000D\u000A\u000D\u000A房子是位于罗宝线西乡站地铁口的 [蚝业雅苑]( http://j.map.baidu.com/iYIf9) 两室一厅，有一个房间一直空着，因为当年租的时候这个小区的两房和附近小区的一房价格差不多，就租了这里的两房。便宜是因为这小区是小产权的。\u000D\u000A\u000D\u000A我其实并不是非住小区不可，只是作为互联网从业者，我实在是受不了农民房房东那垃圾的网络，还不给自己拉，更舍不得我的电信 100M 光纤。所以我必须要找能拉光纤的地方，然而基本上都是小区。\u000D\u000A\u000D\u000A目前准备搬回我以前住的 [TATA 公寓]( http://j.map.baidu.com/UF4yt)，一个小型的小区，户型是一个大通间的那种，可以拉电信光纤。 2013 年住的时候月租金 1200~1500 ，现在已经涨到 2500 了。\u000D\u000A\u000D\u000A发帖是想问一下有没有更好的房源推荐，大概要求是：   \u000D\u000A* 一号线和五号线宝安区段（别的区段估计很贵），因为上班要搭地铁，开车太堵了，还不如坐地铁快。\u000D\u000A* 可以拉电信光纤。\u000D\u000A* 整租，月租金 2500 左右，当然越便宜越好。\u000D\u000A* 能停车最好，不能也可以。\u000D\u000A\u000D\u000A大概上网找了一下，还没有看到除了 TATA 公寓之外的其他房源符合。 V 友们有没有推荐？",
+        "content_rendered" : "\u003Cp\u003E赶上了地产红利，昨晚房东通知合同到期后（月底）租金上涨 1500 到 4300/月。我预期是涨到 3500 就很厉害了，没想到房东更厉害。这价格我都可以住花样年两房了，明显逼格更高。\u003C/p\u003E\u000A\u000A\u003Cp\u003E然而这个价格在这个小区肯定是租不出去的，三房才勉强这个价格。不知道房东是不是被中介忽悠了。不过人家的房子，要租多少我也管不着，只能租或者不租。\u003C/p\u003E\u000A\u000A\u003Cp\u003E房子是位于罗宝线西乡站地铁口的 \u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://j.map.baidu.com/iYIf9\u0022\u003E蚝业雅苑\u003C/a\u003E 两室一厅，有一个房间一直空着，因为当年租的时候这个小区的两房和附近小区的一房价格差不多，就租了这里的两房。便宜是因为这小区是小产权的。\u003C/p\u003E\u000A\u000A\u003Cp\u003E我其实并不是非住小区不可，只是作为互联网从业者，我实在是受不了农民房房东那垃圾的网络，还不给自己拉，更舍不得我的电信 100M 光纤。所以我必须要找能拉光纤的地方，然而基本上都是小区。\u003C/p\u003E\u000A\u000A\u003Cp\u003E目前准备搬回我以前住的 \u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://j.map.baidu.com/UF4yt\u0022\u003ETATA 公寓\u003C/a\u003E，一个小型的小区，户型是一个大通间的那种，可以拉电信光纤。 2013 年住的时候月租金 1200~1500 ，现在已经涨到 2500 了。\u003C/p\u003E\u000A\u000A\u003Cp\u003E发帖是想问一下有没有更好的房源推荐，大概要求是：\u003Cbr\u003E\u003Cbr\u003E\u000A* 一号线和五号线宝安区段（别的区段估计很贵），因为上班要搭地铁，开车太堵了，还不如坐地铁快。\u003Cbr\u003E\u000A* 可以拉电信光纤。\u003Cbr\u003E\u000A* 整租，月租金 2500 左右，当然越便宜越好。\u003Cbr\u003E\u000A* 能停车最好，不能也可以。\u003C/p\u003E\u000A\u000A\u003Cp\u003E大概上网找了一下，还没有看到除了 TATA 公寓之外的其他房源符合。 V 友们有没有推荐？\u003C/p\u003E\u000A",
+        "replies" : 71,
+        "member" : {
+            "id" : 77351,
+            "username" : "vincentxue",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/8ed6/f784/77351_mini.png?m=1427895294",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/8ed6/f784/77351_normal.png?m=1427895294",
+            "avatar_large" : "//cdn.v2ex.co/avatar/8ed6/f784/77351_large.png?m=1427895294"
+        },
+        "node" : {
+            "id" : 21,
+            "name" : "shenzhen",
+            "title" : "深圳",
+            "title_alternative" : "Shenzhen",
+            "url" : "http://www.v2ex.com/go/shenzhen",
+            "topics" : 457,
+            "avatar_mini" : "/static/img/node_mini.png",
+            "avatar_normal" : "/static/img/node_normal.png",
+            "avatar_large" : "/static/img/node_large.png"
+        },
+        "created" : 1458008873,
+        "last_modified" : 1458008873,
+        "last_touched" : 1458091591
+    },
+    
+    {
+        "id" : 263591,
+        "title" : "刚生了一个孩子，求帮我孩子取名。急",
+        "url" : "http://www.v2ex.com/t/263591",
+        "content" : "刚生了一个孩子，英文名字叫 \u0009fuckcode\u000D\u000A\u000D\u000A我想取一个中文名称，既能表达我内心对 code 的复杂思想，又能符合中华传统美德和法律法规。",
+        "content_rendered" : "刚生了一个孩子，英文名字叫 \u0009fuckcode\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E我想取一个中文名称，既能表达我内心对 code 的复杂思想，又能符合中华传统美德和法律法规。",
+        "replies" : 59,
+        "member" : {
+            "id" : 143072,
+            "username" : "hoythan",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/cb98ba7ca393ba597d83f771cf300eb7?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/cb98ba7ca393ba597d83f771cf300eb7?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/cb98ba7ca393ba597d83f771cf300eb7?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 519,
+            "name" : "ideas",
+            "title" : "奇思妙想",
+            "title_alternative" : "Ideas",
+            "url" : "http://www.v2ex.com/go/ideas",
+            "topics" : 1757,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/6353/8fe6/519_mini.png?m=1424694533",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/6353/8fe6/519_normal.png?m=1424694533",
+            "avatar_large" : "//cdn.v2ex.co/navatar/6353/8fe6/519_large.png?m=1424694533"
+        },
+        "created" : 1458011837,
+        "last_modified" : 1458011837,
+        "last_touched" : 1458065823
+    },
+    
+    {
+        "id" : 263622,
+        "title" : "是应该组装个电脑还是买个 mac pro？",
+        "url" : "http://www.v2ex.com/t/263622",
+        "content" : "不知道如何是好了，求助大家给点意见。\u000D\u000Aps ：暂时没钱，买的时间待定。",
+        "content_rendered" : "\u003Cp\u003E不知道如何是好了，求助大家给点意见。\u003Cbr\u003E\u000Aps ：暂时没钱，买的时间待定。\u003C/p\u003E\u000A",
+        "replies" : 48,
+        "member" : {
+            "id" : 145658,
+            "username" : "chuhemiao",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/7672/c5e9/145658_mini.png?m=1452926414",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/7672/c5e9/145658_normal.png?m=1452926414",
+            "avatar_large" : "//cdn.v2ex.co/avatar/7672/c5e9/145658_large.png?m=1452926414"
+        },
+        "node" : {
+            "id" : 52,
+            "name" : "hardware",
+            "title" : "硬件",
+            "title_alternative" : "Hardware",
+            "url" : "http://www.v2ex.com/go/hardware",
+            "topics" : 917,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/9a11/5815/52_mini.png?m=1442293057",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/9a11/5815/52_normal.png?m=1442293057",
+            "avatar_large" : "//cdn.v2ex.co/navatar/9a11/5815/52_large.png?m=1442293057"
+        },
+        "created" : 1458020435,
+        "last_modified" : 1458056366,
+        "last_touched" : 1458059107
+    },
+    
+    {
+        "id" : 263593,
+        "title" : "今天 315，预测会有哪些企业上榜？你又期待哪些企业上榜？",
+        "url" : "http://www.v2ex.com/t/263593",
+        "content" : "我预测一下， ipad mini2 花屏事件会上榜。",
+        "content_rendered" : "\u003Cp\u003E我预测一下， ipad mini2 花屏事件会上榜。\u003C/p\u003E\u000A",
+        "replies" : 39,
+        "member" : {
+            "id" : 27589,
+            "username" : "beingbin",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/ddcc/f393/27589_mini.png?m=1422249732",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/ddcc/f393/27589_normal.png?m=1422249732",
+            "avatar_large" : "//cdn.v2ex.co/avatar/ddcc/f393/27589_large.png?m=1422249732"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 65995,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1457336460",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1457336460",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1457336460"
+        },
+        "created" : 1458012266,
+        "last_modified" : 1458012266,
+        "last_touched" : 1458048940
+    },
+    
+    {
+        "id" : 263606,
+        "title" : "Google 发布 Bottom Navigation design guidelines",
+        "url" : "http://www.v2ex.com/t/263606",
+        "content" : "https://www.google.com/design/spec/components/bottom\u002Dnavigation.html#\u000D\u000A\u000D\u000A详情见链接。\u000D\u000A\u000D\u000AG+ 上评论说这是底栏党的福音，顶栏党的噩梦...\u000D\u000A\u000D\u000A所以之前 g photo 和 g+ 的 设计更新就是为了这个作铺垫吧。\u000D\u000A\u000D\u000A大家怎么看...",
+        "content_rendered" : "\u003Cp\u003E\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022https://www.google.com/design/spec/components/bottom\u002Dnavigation.html#\u0022\u003Ehttps://www.google.com/design/spec/components/bottom\u002Dnavigation.html#\u003C/a\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E详情见链接。\u003C/p\u003E\u000A\u000A\u003Cp\u003EG+ 上评论说这是底栏党的福音，顶栏党的噩梦...\u003C/p\u003E\u000A\u000A\u003Cp\u003E所以之前 g photo 和 g+ 的 设计更新就是为了这个作铺垫吧。\u003C/p\u003E\u000A\u000A\u003Cp\u003E大家怎么看...\u003C/p\u003E\u000A",
+        "replies" : 38,
+        "member" : {
+            "id" : 71699,
+            "username" : "philobscur",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/4fbc/ff06/71699_mini.png?m=1436023125",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/4fbc/ff06/71699_normal.png?m=1436023125",
+            "avatar_large" : "//cdn.v2ex.co/avatar/4fbc/ff06/71699_large.png?m=1436023125"
+        },
+        "node" : {
+            "id" : 39,
+            "name" : "android",
+            "title" : "Android",
+            "title_alternative" : "Android",
+            "url" : "http://www.v2ex.com/go/android",
+            "topics" : 2455,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_mini.png?m=1457336327",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_normal.png?m=1457336327",
+            "avatar_large" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_large.png?m=1457336327"
+        },
+        "created" : 1458015232,
+        "last_modified" : 1458015232,
+        "last_touched" : 1458073688
+    }
+    
+]

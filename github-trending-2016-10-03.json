@@ -1,0 +1,72 @@
+[
+    {
+        "author": "mxgmn",
+        "category": "C#",
+        "stars": "556",
+        "title": "WaveFunctionCollapse - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.",
+        "url": "https://github.com/mxgmn/WaveFunctionCollapse"
+    },
+    {
+        "author": "Tetrachrome",
+        "category": "Jupyter Notebook",
+        "stars": "450",
+        "title": "subpixel - subpixel: A subpixel convnet for super resolution with Tensorflow",
+        "url": "https://github.com/Tetrachrome/subpixel"
+    },
+    {
+        "author": "yahoo",
+        "category": "Python",
+        "stars": "282",
+        "title": "open_nsfw - code for running Model and code for Not Suitable for Work (NSFW) classification using deep neural network Caffe models",
+        "url": "https://github.com/yahoo/open_nsfw"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "291",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "antirez",
+        "category": "C",
+        "stars": "267",
+        "title": "neural-redis - Neural networks module for Redis",
+        "url": "https://github.com/antirez/neural-redis"
+    },
+    {
+        "author": "detailyang",
+        "category": "Python",
+        "stars": "190",
+        "title": "awesome-cheatsheet - \ud83c\udf7b awesome cheatsheet",
+        "url": "https://github.com/detailyang/awesome-cheatsheet"
+    },
+    {
+        "author": "openimages",
+        "category": "",
+        "stars": "174",
+        "title": "dataset - The Open Images dataset",
+        "url": "https://github.com/openimages/dataset"
+    },
+    {
+        "author": "dennybritz",
+        "category": "Jupyter Notebook",
+        "stars": "152",
+        "title": "reinforcement-learning - Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.",
+        "url": "https://github.com/dennybritz/reinforcement-learning"
+    },
+    {
+        "author": "sdg-mit",
+        "category": "Python",
+        "stars": "155",
+        "title": "gitless - A version control system built on top of Git",
+        "url": "https://github.com/sdg-mit/gitless"
+    },
+    {
+        "author": "tawian",
+        "category": "HTML",
+        "stars": "142",
+        "title": "text-spinners - Pure text, CSS only, font independent, inline loading indicators",
+        "url": "https://github.com/tawian/text-spinners"
+    }
+]

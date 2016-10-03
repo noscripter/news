@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "704",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "HunterLarco",
+        "category": "CSS",
+        "stars": "534",
+        "title": "voxel.css - A lightweight 3D CSS voxel library.",
+        "url": "https://github.com/HunterLarco/voxel.css"
+    },
+    {
+        "author": "rabbitmq",
+        "category": "",
+        "stars": "532",
+        "title": "internals - High level architecture overview",
+        "url": "https://github.com/rabbitmq/internals"
+    },
+    {
+        "author": "developit",
+        "category": "JavaScript",
+        "stars": "450",
+        "title": "preact - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.",
+        "url": "https://github.com/developit/preact"
+    },
+    {
+        "author": "fengyuanchen",
+        "category": "JavaScript",
+        "stars": "371",
+        "title": "viewerjs - JavaScript image viewer.",
+        "url": "https://github.com/fengyuanchen/viewerjs"
+    },
+    {
+        "author": "Microsoft",
+        "category": "C++",
+        "stars": "312",
+        "title": "CNTK - Computational Network Toolkit (CNTK)",
+        "url": "https://github.com/Microsoft/CNTK"
+    },
+    {
+        "author": "cht8687",
+        "category": "JavaScript",
+        "stars": "341",
+        "title": "You-Dont-Need-Lodash-Underscore - Lists of Javascript methods which you can use natively",
+        "url": "https://github.com/cht8687/You-Dont-Need-Lodash-Underscore"
+    },
+    {
+        "author": "denysdovhan",
+        "category": "JavaScript",
+        "stars": "304",
+        "title": "bash-handbook - For those who wanna learn Bash",
+        "url": "https://github.com/denysdovhan/bash-handbook"
+    },
+    {
+        "author": "jgthms",
+        "category": "CSS",
+        "stars": "303",
+        "title": "bulma - Modern CSS framework based on Flexbox",
+        "url": "https://github.com/jgthms/bulma"
+    },
+    {
+        "author": "twitterdev",
+        "category": "Swift",
+        "stars": "257",
+        "title": "furni-ios - Furni for iOS is a furniture store demo app presented at the Twitter Flight conference on October 21st, 2015, showing the power of the Fabric platform.",
+        "url": "https://github.com/twitterdev/furni-ios"
+    }
+]

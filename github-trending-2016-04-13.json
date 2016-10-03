@@ -1,0 +1,72 @@
+[
+    {
+        "author": "snare",
+        "category": "Python",
+        "stars": "1,159",
+        "title": "voltron - A hacky debugger UI for hackers",
+        "url": "https://github.com/snare/voltron"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "626",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "puikinsh",
+        "category": "HTML",
+        "stars": "563",
+        "title": "gentelella - Free Bootstrap 3 Admin Template",
+        "url": "https://github.com/puikinsh/gentelella"
+    },
+    {
+        "author": "akveo",
+        "category": "JavaScript",
+        "stars": "490",
+        "title": "blur-admin - Free Angular Bootstrap Admin Dashboard Template",
+        "url": "https://github.com/akveo/blur-admin"
+    },
+    {
+        "author": "taion",
+        "category": "JavaScript",
+        "stars": "410",
+        "title": "rrtr - A complete routing solution for React.js",
+        "url": "https://github.com/taion/rrtr"
+    },
+    {
+        "author": "phodal",
+        "category": "HTML",
+        "stars": "351",
+        "title": "growth-ebook - Growth: \u5168\u6808\u589e\u957f\u5de5\u7a0b\u5e08\u6307\u5357\u3002Growth: Learning How to be a Growth Full Stack in 7 Steps.",
+        "url": "https://github.com/phodal/growth-ebook"
+    },
+    {
+        "author": "leo-stone",
+        "category": "Go",
+        "stars": "273",
+        "title": "hack-petya - search key to restore petya encrypted mft",
+        "url": "https://github.com/leo-stone/hack-petya"
+    },
+    {
+        "author": "deepstreamIO",
+        "category": "JavaScript",
+        "stars": "274",
+        "title": "golden-layout - The ultimate Javascript layout manager",
+        "url": "https://github.com/deepstreamIO/golden-layout"
+    },
+    {
+        "author": "firehol",
+        "category": "C",
+        "stars": "243",
+        "title": "netdata - Real-time performance monitoring, done right!",
+        "url": "https://github.com/firehol/netdata"
+    },
+    {
+        "author": "antontarasenko",
+        "category": "",
+        "stars": "217",
+        "title": "smq - A collection of SQL queries to social media datasets.",
+        "url": "https://github.com/antontarasenko/smq"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "autumnai",
+        "category": "Rust",
+        "stars": "504",
+        "title": "leaf - The Hacker's Machine Learning Engine",
+        "url": "https://github.com/autumnai/leaf"
+    },
+    {
+        "author": "sideshow",
+        "category": "Go",
+        "stars": "503",
+        "title": "apns2 - \u26a1HTTP/2 Apple Push Notification Service (APNs) push provider for Go \u2014 Send push notifications to iOS, tvOS, and OSX apps, using the new APNs HTTP/2 protocol.",
+        "url": "https://github.com/sideshow/apns2"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "419",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "Freelander",
+        "category": "Java",
+        "stars": "363",
+        "title": "Android_Data - Some Android learning materials, hoping to help you learn Android development.",
+        "url": "https://github.com/Freelander/Android_Data"
+    },
+    {
+        "author": "pyupio",
+        "category": "Python",
+        "stars": "368",
+        "title": "statuspage - A statuspage generator that lets you host your statuspage for free on Github.",
+        "url": "https://github.com/pyupio/statuspage"
+    },
+    {
+        "author": "Kickball",
+        "category": "Makefile",
+        "stars": "291",
+        "title": "awesome-selfhosted - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.",
+        "url": "https://github.com/Kickball/awesome-selfhosted"
+    },
+    {
+        "author": "fdansv",
+        "category": "JavaScript",
+        "stars": "291",
+        "title": "marginotes - Quick, cool margin notes with jQuery",
+        "url": "https://github.com/fdansv/marginotes"
+    },
+    {
+        "author": "alexjc",
+        "category": "Python",
+        "stars": "279",
+        "title": "neural-doodle - Turn your two-bit doodles into fine artworks with deep neural networks! An implementation of Semantic Style Transfer.",
+        "url": "https://github.com/alexjc/neural-doodle"
+    },
+    {
+        "author": "rhysd",
+        "category": "TypeScript",
+        "stars": "277",
+        "title": "NyaoVim - Web-enhanced Extensible Neovim Frontend",
+        "url": "https://github.com/rhysd/NyaoVim"
+    },
+    {
+        "author": "zachlatta",
+        "category": "Go",
+        "stars": "249",
+        "title": "sshtron - Play Tron over SSH",
+        "url": "https://github.com/zachlatta/sshtron"
+    }
+]

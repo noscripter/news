@@ -1,0 +1,282 @@
+[
+    
+    {
+        "id" : 307018,
+        "title" : "为什么很多人讨论阿里月饼事件都选择性忽略他们抢了多少盒？",
+        "url" : "http://www.v2ex.com/t/307018",
+        "content" : "事实上在五人之外有很多人也用脚本抢，知乎上有一个 [匿名回答]( https://www.zhihu.com/question/50600301/answer/121849612) 说了他自己就用了脚本，只是他（和其他用脚本又没被处理的同事）没有多抢，为什么很多程序员聚集地都在争论脚本的合理性、程序员受迫害之类的东西？",
+        "content_rendered" : "\u003Cp\u003E事实上在五人之外有很多人也用脚本抢，知乎上有一个 \u003Ca href\u003D\u0022https://www.zhihu.com/question/50600301/answer/121849612\u0022 rel\u003D\u0022nofollow\u0022\u003E匿名回答\u003C/a\u003E 说了他自己就用了脚本，只是他（和其他用脚本又没被处理的同事）没有多抢，为什么很多程序员聚集地都在争论脚本的合理性、程序员受迫害之类的东西？\u003C/p\u003E\u000A",
+        "replies" : 202,
+        "member" : {
+            "id" : 187535,
+            "username" : "icris",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/8a7f1b29d22e605c7b08cacc31490f33?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/8a7f1b29d22e605c7b08cacc31490f33?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/8a7f1b29d22e605c7b08cacc31490f33?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 13249,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1473824941",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1473824941",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1473824941"
+        },
+        "created" : 1474185396,
+        "last_modified" : 1474185396,
+        "last_touched" : 1474247914
+    },
+    
+    {
+        "id" : 306880,
+        "title" : "问大家 公司要求定期换密码 有什么好的新密码思路？",
+        "url" : "http://www.v2ex.com/t/306880",
+        "content" : "公司要求密码强度较高，大小写、数字、字母、长度 8 以上，且不能与历史密码相似。\u000D\u000A\u000D\u000A用了几个密码后发现都与历史密码相似，不知道有啥好记又满足要求的密码，又不想用密码管理工具。\u000D\u000A\u000D\u000A谢谢大家了~",
+        "content_rendered" : "\u003Cp\u003E公司要求密码强度较高，大小写、数字、字母、长度 8 以上，且不能与历史密码相似。\u003C/p\u003E\u000A\u003Cp\u003E用了几个密码后发现都与历史密码相似，不知道有啥好记又满足要求的密码，又不想用密码管理工具。\u003C/p\u003E\u000A\u003Cp\u003E谢谢大家了~\u003C/p\u003E\u000A",
+        "replies" : 123,
+        "member" : {
+            "id" : 83643,
+            "username" : "chezs66",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/d2a596024a98f189bdae76c0e6172397?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/d2a596024a98f189bdae76c0e6172397?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/d2a596024a98f189bdae76c0e6172397?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 13249,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1473824941",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1473824941",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1473824941"
+        },
+        "created" : 1474162474,
+        "last_modified" : 1474162474,
+        "last_touched" : 1474227694
+    },
+    
+    {
+        "id" : 306921,
+        "title" : "最近在做一个要求从 IE6 开始兼容的项目...求老司机指点",
+        "url" : "http://www.v2ex.com/t/306921",
+        "content" : "1. bootstrap 还能用么？\u000D\u000A虽然看到了有[IE6 support 版]( http://www.bootcss.com/p/bsie/)和[IE7 support 版]( https://github.com/coliff/bootstrap\u002Die7)，然鹅看着就不是很能用\u000D\u000A\u000D\u000A2. jquery 大概是只能用 1.9 的了\u000D\u000A\u000D\u000A3. IE 的兼容性大概可以用[IETester]( http://www.my\u002Ddebugbar.com/wiki/IETester/HomePage)?哪些版本需要重点测试吗？还是 IE6 过了就行了...\u000D\u000A\u000D\u000A我就写过一个月的前端...为何要如此摧残我！",
+        "content_rendered" : "\u003Col\u003E\u000A\u003Cli\u003E\u000A\u003Cp\u003Ebootstrap 还能用么？\u000A虽然看到了有\u003Ca href\u003D\u0022http://www.bootcss.com/p/bsie/\u0022 rel\u003D\u0022nofollow\u0022\u003EIE6 support 版\u003C/a\u003E和\u003Ca href\u003D\u0022https://github.com/coliff/bootstrap\u002Die7\u0022 rel\u003D\u0022nofollow\u0022\u003EIE7 support 版\u003C/a\u003E，然鹅看着就不是很能用\u003C/p\u003E\u000A\u003C/li\u003E\u000A\u003Cli\u003E\u000A\u003Cp\u003Ejquery 大概是只能用 1.9 的了\u003C/p\u003E\u000A\u003C/li\u003E\u000A\u003Cli\u003E\u000A\u003Cp\u003EIE 的兼容性大概可以用\u003Ca href\u003D\u0022http://www.my\u002Ddebugbar.com/wiki/IETester/HomePage\u0022 rel\u003D\u0022nofollow\u0022\u003EIETester\u003C/a\u003E?哪些版本需要重点测试吗？还是 IE6 过了就行了...\u003C/p\u003E\u000A\u003C/li\u003E\u000A\u003C/ol\u003E\u000A\u003Cp\u003E我就写过一个月的前端...为何要如此摧残我！\u003C/p\u003E\u000A",
+        "replies" : 79,
+        "member" : {
+            "id" : 175501,
+            "username" : "miaobug",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/bf4d7003653803843daf26e2cc19bea4?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/bf4d7003653803843daf26e2cc19bea4?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/bf4d7003653803843daf26e2cc19bea4?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 13249,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1473824941",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1473824941",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1473824941"
+        },
+        "created" : 1474168055,
+        "last_modified" : 1474168055,
+        "last_touched" : 1474247369
+    },
+    
+    {
+        "id" : 306903,
+        "title" : "计算机从未被真正普及 —— 阿里月饼门有感",
+        "url" : "http://www.v2ex.com/t/306903",
+        "content" : "# 计算机从未被真正普及 —— 阿里月饼门有感\u000D\u000A\u000D\u000A## 写在前面\u000D\u000A\u000D\u000A最近刷爆知乎的阿里月饼门事件相信大家都有耳闻，我也在知乎参与了撕逼大战，撕逼的核心其实就是程序员用 JavaScript 脚本抢 月饼／票 到底算不算公平竞争？对于屁股在程序员这一方的我来说，用 JavaScript 抢 月饼／票，这个拉了几个好朋友来帮忙一起抢有什么区别吗？但是对方往往都不认可，觉得用脚本抢 月饼／票 就是不公平！\u000D\u000A\u000D\u000A我发现我们之间根本就没有办法沟通，于是就开始思考究竟是什么把程序员和普通吃瓜群众分隔开来的？这篇文章就产生了\u000D\u000A\u000D\u000A## 作为互联网服务终端的计算机\u000D\u000A\u000D\u000A其实计算机从未被真正普及过，那为什么会有一种计算机已经普及了的错觉的？那是因为互联网已经普及了，而计算机仅仅是作为一个通用的互联网服务终端而普及的，而不是作为计算机本身而普及的。现在的移动互联网的巨大发展，甚至有了取代 PC 机的趋势更是应证了这一点。他们从来就没有把计算机当成是自己的工具，对普通吃瓜群众来说，计算机就是各个互联网服务的门面而已。\u000D\u000A\u000D\u000A## 程序员是特权阶级\u000D\u000A\u000D\u000A我曾觉得我跟吃瓜群众是在同台竞技，然而吃瓜群众自始至终都觉得自己根本就没上过台，甚至潜意识觉得自己根本就没有能力上台。现在的普通吃瓜群众对计算机的认识跟上个世纪其实没太大区别（除了会用鼠标会打字了），因此在互联网时代掌握了能正确使用计算机能力的程序员就成了互联网上的 ”特权阶级“ 是要被批倒批臭的。\u000D\u000A\u000D\u000A## 最后\u000D\u000A\u000D\u000A早在刚进入 21 世纪的时候媒体学校政府就在嚷嚷着新世纪的人才要会计算机，要会编程。我们小学电脑课就开了 vb 编程、 flash 动画、网页制作等课程。说实话，这些东西小学生用心折腾折腾都能折腾出个像模像样的作品。在软件工程体系早已经成熟的今天，编程根本就不是什么 ”高科技“ 的东西，而早就成了为了方便工作生活的实用技能。\u000D\u000A\u000D\u000A当然，我们的计算机教育也有锅要背。那个垃圾二级证没事了给外行人考个 c 语言这种连计算机专业学个一年半载都做不出东西的语言。要是考个油猴子＋ JavaScript ，我相信到时候肯定是满大街各行各业写的 userscript ，再也没人质疑写 JavaScript 脚本抢月饼／票的正确性了。",
+        "content_rendered" : "\u003Ch1\u003E计算机从未被真正普及 —— 阿里月饼门有感\u003C/h1\u003E\u000A\u003Ch2\u003E写在前面\u003C/h2\u003E\u000A\u003Cp\u003E最近刷爆知乎的阿里月饼门事件相信大家都有耳闻，我也在知乎参与了撕逼大战，撕逼的核心其实就是程序员用 JavaScript 脚本抢 月饼／票 到底算不算公平竞争？对于屁股在程序员这一方的我来说，用 JavaScript 抢 月饼／票，这个拉了几个好朋友来帮忙一起抢有什么区别吗？但是对方往往都不认可，觉得用脚本抢 月饼／票 就是不公平！\u003C/p\u003E\u000A\u003Cp\u003E我发现我们之间根本就没有办法沟通，于是就开始思考究竟是什么把程序员和普通吃瓜群众分隔开来的？这篇文章就产生了\u003C/p\u003E\u000A\u003Ch2\u003E作为互联网服务终端的计算机\u003C/h2\u003E\u000A\u003Cp\u003E其实计算机从未被真正普及过，那为什么会有一种计算机已经普及了的错觉的？那是因为互联网已经普及了，而计算机仅仅是作为一个通用的互联网服务终端而普及的，而不是作为计算机本身而普及的。现在的移动互联网的巨大发展，甚至有了取代 PC 机的趋势更是应证了这一点。他们从来就没有把计算机当成是自己的工具，对普通吃瓜群众来说，计算机就是各个互联网服务的门面而已。\u003C/p\u003E\u000A\u003Ch2\u003E程序员是特权阶级\u003C/h2\u003E\u000A\u003Cp\u003E我曾觉得我跟吃瓜群众是在同台竞技，然而吃瓜群众自始至终都觉得自己根本就没上过台，甚至潜意识觉得自己根本就没有能力上台。现在的普通吃瓜群众对计算机的认识跟上个世纪其实没太大区别（除了会用鼠标会打字了），因此在互联网时代掌握了能正确使用计算机能力的程序员就成了互联网上的 ”特权阶级“ 是要被批倒批臭的。\u003C/p\u003E\u000A\u003Ch2\u003E最后\u003C/h2\u003E\u000A\u003Cp\u003E早在刚进入 21 世纪的时候媒体学校政府就在嚷嚷着新世纪的人才要会计算机，要会编程。我们小学电脑课就开了 vb 编程、 flash 动画、网页制作等课程。说实话，这些东西小学生用心折腾折腾都能折腾出个像模像样的作品。在软件工程体系早已经成熟的今天，编程根本就不是什么 ”高科技“ 的东西，而早就成了为了方便工作生活的实用技能。\u003C/p\u003E\u000A\u003Cp\u003E当然，我们的计算机教育也有锅要背。那个垃圾二级证没事了给外行人考个 c 语言这种连计算机专业学个一年半载都做不出东西的语言。要是考个油猴子＋ JavaScript ，我相信到时候肯定是满大街各行各业写的 userscript ，再也没人质疑写 JavaScript 脚本抢月饼／票的正确性了。\u003C/p\u003E\u000A",
+        "replies" : 77,
+        "member" : {
+            "id" : 65890,
+            "username" : "bramblex",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/2ba510bb109542d32178dfa6cd621cb4?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/2ba510bb109542d32178dfa6cd621cb4?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/2ba510bb109542d32178dfa6cd621cb4?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 13249,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1473824941",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1473824941",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1473824941"
+        },
+        "created" : 1474165603,
+        "last_modified" : 1474165603,
+        "last_touched" : 1474231517
+    },
+    
+    {
+        "id" : 307075,
+        "title" : "坑爹京东理财",
+        "url" : "http://www.v2ex.com/t/307075",
+        "content" : "老婆之前把转了 10w+到京东理财：京宏半年盈，年利率 4.2~5.2 ，结果提前赎回退保费收 5%的手续费，也就是 10w 块钱的手续费是 5k ，远远超过那一点收益，一天不到期都会收全额手续费。\u000D\u000A\u000D\u000A存了快半年，因为急用，相当于这几月不仅没有收益，还要倒亏几千，有点感觉被坑了，建议远离京东理财。",
+        "content_rendered" : "老婆之前把转了 10w+到京东理财：京宏半年盈，年利率 4.2~5.2 ，结果提前赎回退保费收 5%的手续费，也就是 10w 块钱的手续费是 5k ，远远超过那一点收益，一天不到期都会收全额手续费。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E存了快半年，因为急用，相当于这几月不仅没有收益，还要倒亏几千，有点感觉被坑了，建议远离京东理财。",
+        "replies" : 74,
+        "member" : {
+            "id" : 4090,
+            "username" : "Sidney",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/ae31/ee95/4090_mini.png?m=1334074188",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/ae31/ee95/4090_normal.png?m=1334074188",
+            "avatar_large" : "//cdn.v2ex.co/avatar/ae31/ee95/4090_large.png?m=1334074188"
+        },
+        "node" : {
+            "id" : 16,
+            "name" : "share",
+            "title" : "分享发现",
+            "title_alternative" : "Share",
+            "url" : "http://www.v2ex.com/go/share",
+            "topics" : 20229,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c74d/97b0/16_mini.png?m=1473309353",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c74d/97b0/16_normal.png?m=1473309353",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c74d/97b0/16_large.png?m=1473309353"
+        },
+        "created" : 1474195927,
+        "last_modified" : 1474195927,
+        "last_touched" : 1474247332
+    },
+    
+    {
+        "id" : 306897,
+        "title" : "阿里内网 BBS \u0022貌似是按 HR 提的需求，研发给（每个员工的访问界面）加了一层肉眼无法识别的东西\u0022 这个是怎么做到的?",
+        "url" : "http://www.v2ex.com/t/306897",
+        "content" : "http://media.weibo.cn/article?id\u003D2309351000894019978004262074\u000D\u000A```\u000D\u000A如果开除消息落实，这名员工大抵是要有些内心崩溃的，因为他甚至没忘了动手 PS 掉水印，然而他还是被找了出来。“就在今天早上（ 9 月 14 日），一前端（工程师）解析了图片。”疑似知情的阿里小二李慧向记者透露。\u000D\u000A\u000D\u000A“貌似是按 HR 提的需求，研发给（每个员工的访问界面）加了一层肉眼无法识别的东西。”王文解释，这大概是因为升级的技术可以帮助公司根据外泄图片锁定截图者具体是谁。“违规的，开除也没办法。”\u000D\u000A```\u000D\u000A问题: 是怎么做到的? 怎么破坏掉这种\u0022肉眼无法识别的东西\u0022?\u000D\u000A纯好奇.",
+        "content_rendered" : "\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://media.weibo.cn/article?id\u003D2309351000894019978004262074\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://media.weibo.cn/article?id\u003D2309351000894019978004262074\u003C/a\u003E\u000D\u003Cbr /\u003E```\u000D\u003Cbr /\u003E如果开除消息落实，这名员工大抵是要有些内心崩溃的，因为他甚至没忘了动手 PS 掉水印，然而他还是被找了出来。“就在今天早上（ 9 月 14 日），一前端（工程师）解析了图片。”疑似知情的阿里小二李慧向记者透露。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E“貌似是按 HR 提的需求，研发给（每个员工的访问界面）加了一层肉眼无法识别的东西。”王文解释，这大概是因为升级的技术可以帮助公司根据外泄图片锁定截图者具体是谁。“违规的，开除也没办法。”\u000D\u003Cbr /\u003E```\u000D\u003Cbr /\u003E问题: 是怎么做到的? 怎么破坏掉这种\u0026quot\u003B肉眼无法识别的东西\u0026quot\u003B?\u000D\u003Cbr /\u003E纯好奇.",
+        "replies" : 68,
+        "member" : {
+            "id" : 1368,
+            "username" : "clino",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/6c1d/a886/1368_mini.png?m=1335068029",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/6c1d/a886/1368_normal.png?m=1335068029",
+            "avatar_large" : "//cdn.v2ex.co/avatar/6c1d/a886/1368_large.png?m=1335068029"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 75992,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1473044652",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1473044652",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1473044652"
+        },
+        "created" : 1474165078,
+        "last_modified" : 1474165078,
+        "last_touched" : 1474217236
+    },
+    
+    {
+        "id" : 307074,
+        "title" : "如何避免在网络上不被人肉?",
+        "url" : "http://www.v2ex.com/t/307074",
+        "content" : "我想着可以用信息混淆的吧。 比如弄个大众的名称?\u000D\u000A我看到以前有人说必须要在网络和现实中搞两套身份。。?\u000D\u000A\u000D\u000Av2 的朋友怎么看",
+        "content_rendered" : "我想着可以用信息混淆的吧。 比如弄个大众的名称?\u000D\u003Cbr /\u003E我看到以前有人说必须要在网络和现实中搞两套身份。。?\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003Ev2 的朋友怎么看",
+        "replies" : 56,
+        "member" : {
+            "id" : 188271,
+            "username" : "douglas1997",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/f9f9/b361/188271_mini.png?m=1474195762",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/f9f9/b361/188271_normal.png?m=1474195762",
+            "avatar_large" : "//cdn.v2ex.co/avatar/f9f9/b361/188271_large.png?m=1474195762"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 75992,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1473044652",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1473044652",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1473044652"
+        },
+        "created" : 1474195774,
+        "last_modified" : 1474195774,
+        "last_touched" : 1474247783
+    },
+    
+    {
+        "id" : 307032,
+        "title" : "简历中不写参与过的项目，可行么？",
+        "url" : "http://www.v2ex.com/t/307032",
+        "content" : "之前曾多次担任面试官，我个人是不会太在意应聘者简历中的项目信息的，除非曾参与过十分知名的产品。相反我会更关注应聘者提供的 **Blog / Github / 知乎 / V2ex** 之类的信息，毕竟只给个项目的话是看不出什么和代码能力相关的信息的。***Talk is cheap, show me the code.*** 其次，还有另外一个原因就是大部分人的项目信息写得太冗长，说了一大堆但是重点其实就只有一两句而已。\u000D\u000A\u000D\u000A目前要开始准备去被别人面试了，想问下 **简历中不写参与过的项目，可行么？** 会否降低简历的评分？\u000D\u000A\u000D\u000A\u002D\u002D\u002D\u000D\u000A\u000D\u000A附带个人简历地址：[http://nekocode.cn/resume.pdf]( http://nekocode.cn/resume.pdf)",
+        "content_rendered" : "\u003Cp\u003E之前曾多次担任面试官，我个人是不会太在意应聘者简历中的项目信息的，除非曾参与过十分知名的产品。相反我会更关注应聘者提供的 \u003Cstrong\u003EBlog / Github / 知乎 / V2ex\u003C/strong\u003E 之类的信息，毕竟只给个项目的话是看不出什么和代码能力相关的信息的。\u003Cstrong\u003E\u003Cem\u003ETalk is cheap, show me the code.\u003C/em\u003E\u003C/strong\u003E 其次，还有另外一个原因就是大部分人的项目信息写得太冗长，说了一大堆但是重点其实就只有一两句而已。\u003C/p\u003E\u000A\u003Cp\u003E目前要开始准备去被别人面试了，想问下 \u003Cstrong\u003E简历中不写参与过的项目，可行么？\u003C/strong\u003E 会否降低简历的评分？\u003C/p\u003E\u000A\u003Chr\u003E\u000A\u003Cp\u003E附带个人简历地址：\u003Ca href\u003D\u0022http://nekocode.cn/resume.pdf\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://nekocode.cn/resume.pdf\u003C/a\u003E\u003C/p\u003E\u000A",
+        "replies" : 48,
+        "member" : {
+            "id" : 134924,
+            "username" : "nekocode",
+            "tagline" : "偏爱 python 同 kotlin",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/fee7/5b05/134924_mini.png?m=1451549247",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/fee7/5b05/134924_normal.png?m=1451549247",
+            "avatar_large" : "//cdn.v2ex.co/avatar/fee7/5b05/134924_large.png?m=1451549247"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 13249,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1473824941",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1473824941",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1473824941"
+        },
+        "created" : 1474187769,
+        "last_modified" : 1474187820,
+        "last_touched" : 1474225664
+    },
+    
+    {
+        "id" : 306922,
+        "title" : "请问使用 scrapy 的优势是什么?直接用 requests 不是很简单?",
+        "url" : "http://www.v2ex.com/t/306922",
+        "content" : "从接触爬虫开始就一直使用 requests,每每和身边人说起来,得到的回答都是 requests 更好用,没必要使用 scrapy\u000D\u000A\u000D\u000A\u000D\u000A但是看了好多公司的招聘,上面还是有要求使用 scrapy,我觉得这个 scrapy 肯定有它的过人之处?\u000D\u000A\u000D\u000A\u000D\u000A求教各位朋友,能否让我豁然开朗一下?",
+        "content_rendered" : "\u003Cp\u003E从接触爬虫开始就一直使用 requests,每每和身边人说起来,得到的回答都是 requests 更好用,没必要使用 scrapy\u003C/p\u003E\u000A\u003Cp\u003E但是看了好多公司的招聘,上面还是有要求使用 scrapy,我觉得这个 scrapy 肯定有它的过人之处?\u003C/p\u003E\u000A\u003Cp\u003E求教各位朋友,能否让我豁然开朗一下?\u003C/p\u003E\u000A",
+        "replies" : 46,
+        "member" : {
+            "id" : 93867,
+            "username" : "hippoboy",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/809f/cbcf/93867_mini.png?m=1422515538",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/809f/cbcf/93867_normal.png?m=1422515538",
+            "avatar_large" : "//cdn.v2ex.co/avatar/809f/cbcf/93867_large.png?m=1422515538"
+        },
+        "node" : {
+            "id" : 90,
+            "name" : "python",
+            "title" : "Python",
+            "title_alternative" : "Python",
+            "url" : "http://www.v2ex.com/go/python",
+            "topics" : 5652,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/8613/985e/90_mini.png?m=1473002022",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/8613/985e/90_normal.png?m=1473002022",
+            "avatar_large" : "//cdn.v2ex.co/navatar/8613/985e/90_large.png?m=1473002022"
+        },
+        "created" : 1474168107,
+        "last_modified" : 1474168107,
+        "last_touched" : 1474245490
+    }
+    
+]

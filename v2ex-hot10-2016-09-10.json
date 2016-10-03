@@ -1,0 +1,220 @@
+[
+    
+    {
+        "id" : 305202,
+        "title" : "受不了宿舍那俩人打游戏到凌晨还不戴耳机的了！别跟我说和平解决！我要用技术征服！",
+        "url" : "http://www.v2ex.com/t/305202",
+        "content" : "宿舍两个路由器 移动 10M 晚上断网和联通 3MADSL 不断网  \u000D\u000A宿舍区有且仅有这两个有线接入方式  \u000D\u000A这两个路由器我都有管理权限  \u000D\u000A移动原本是只能 win 客户端认证不能用路由器 我按照网上的教程刷了个 op 实现路由器认证  \u000D\u000A联通的小水管也是我争取来的免费名额 两个路由器也都是我的 \u000D\u000A所以对于这两个路由器来说我有绝对的管理权  \u000D\u000A但是 问题就出在 中国移动跟学校 pyjy 垄断宿舍区网络接入  \u000D\u000A移动的想法是有线宽带用 win 客户端限制使用 WiFi 移动设备全部使用他们的 WLAN 而正是这个 WLAN 才是问题的所在  \u000D\u000A每个宿舍都有一个 AP ，所以破坏自己宿舍 AP 这种事情并没有什么卵用  \u000D\u000A  \u000D\u000A  来求助 V 友有什么技术性手段干扰移动 WLAN 信号导致网络卡顿无法正常游戏？  \u000D\u000A  目前能想到的解决方案：两个路由器各加开一个与 WLAN 同信道同 SSID 同加密方式的 AP 。但是感觉这样并不是强有效的手段。  \u000D\u000A  有没有可以直接让路由器进行攻击模式 不停的发包阻塞 WLAN 的方法？\u000D\u000A  我是来请教这方面的技术性问题，拜托各位跟我说好好跟他谈谈的 V 友就不要浪费口舌了，我不是没试过，你跟他说了人家照旧我行我素不戴耳机大半夜键盘游戏音效噼里啪啦响你只能干瞪眼好伐？",
+        "content_rendered" : "\u003Cp\u003E宿舍两个路由器 移动 10M 晚上断网和联通 3MADSL 不断网\u003Cbr\u003E\u000A宿舍区有且仅有这两个有线接入方式\u003Cbr\u003E\u000A这两个路由器我都有管理权限\u003Cbr\u003E\u000A移动原本是只能 win 客户端认证不能用路由器 我按照网上的教程刷了个 op 实现路由器认证\u003Cbr\u003E\u000A联通的小水管也是我争取来的免费名额 两个路由器也都是我的\u000A所以对于这两个路由器来说我有绝对的管理权\u003Cbr\u003E\u000A但是 问题就出在 中国移动跟学校 pyjy 垄断宿舍区网络接入\u003Cbr\u003E\u000A移动的想法是有线宽带用 win 客户端限制使用 WiFi 移动设备全部使用他们的 WLAN 而正是这个 WLAN 才是问题的所在\u003Cbr\u003E\u000A每个宿舍都有一个 AP ，所以破坏自己宿舍 AP 这种事情并没有什么卵用\u003C/p\u003E\u000A\u003Cp\u003E来求助 V 友有什么技术性手段干扰移动 WLAN 信号导致网络卡顿无法正常游戏？\u003Cbr\u003E\u000A目前能想到的解决方案：两个路由器各加开一个与 WLAN 同信道同 SSID 同加密方式的 AP 。但是感觉这样并不是强有效的手段。\u003Cbr\u003E\u000A有没有可以直接让路由器进行攻击模式 不停的发包阻塞 WLAN 的方法？\u000A我是来请教这方面的技术性问题，拜托各位跟我说好好跟他谈谈的 V 友就不要浪费口舌了，我不是没试过，你跟他说了人家照旧我行我素不戴耳机大半夜键盘游戏音效噼里啪啦响你只能干瞪眼好伐？\u003C/p\u003E\u000A",
+        "replies" : 54,
+        "member" : {
+            "id" : 158773,
+            "username" : "Maskeney",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/814b/3a14/158773_mini.png?m=1458396003",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/814b/3a14/158773_normal.png?m=1458396003",
+            "avatar_large" : "//cdn.v2ex.co/avatar/814b/3a14/158773_large.png?m=1458396003"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 75612,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1473044652",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1473044652",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1473044652"
+        },
+        "created" : 1473439562,
+        "last_modified" : 1473439562,
+        "last_touched" : 1473468601
+    },
+    
+    {
+        "id" : 304970,
+        "title" : "关于业务员离职，公司要求签一份离职后三年内不能进入同行业的协议，是否合理？",
+        "url" : "http://www.v2ex.com/t/304970",
+        "content" : "朋友进入公司没和公司签合同。下文朋友用 A 代替，老板用 B 。\u000D\u000A\u000D\u000A去年， A 刚进入这家公司的时候，这家公司刚起步，没有任何业务，朋友一手撑起 A ，今年多了几个本地的业务后，处处防备 A ， B 有事没事找 A 的茬，具体找茬，晚点征求同意再上截图。这 B 还能不能让人好好做业务了。\u000D\u000A\u000D\u000A昨天，由于 A 和 B 闹翻，正式提出离职，不过还有万把块钱的出国费用，没有报销，当时是和 B 一起出国出差的。今天 B 要求 A 去签：三年内不能进入同行业的协议，是否合理？\u000D\u000A\u000D\u000A先感谢各位的建议。",
+        "content_rendered" : "朋友进入公司没和公司签合同。下文朋友用 A 代替，老板用 B 。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E去年， A 刚进入这家公司的时候，这家公司刚起步，没有任何业务，朋友一手撑起 A ，今年多了几个本地的业务后，处处防备 A ， B 有事没事找 A 的茬，具体找茬，晚点征求同意再上截图。这 B 还能不能让人好好做业务了。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E昨天，由于 A 和 B 闹翻，正式提出离职，不过还有万把块钱的出国费用，没有报销，当时是和 B 一起出国出差的。今天 B 要求 A 去签：三年内不能进入同行业的协议，是否合理？\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E先感谢各位的建议。",
+        "replies" : 49,
+        "member" : {
+            "id" : 124681,
+            "username" : "wpaygp",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/5559/d762/124681_mini.png?m=1448180359",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/5559/d762/124681_normal.png?m=1448180359",
+            "avatar_large" : "//cdn.v2ex.co/avatar/5559/d762/124681_large.png?m=1448180359"
+        },
+        "node" : {
+            "id" : 770,
+            "name" : "career",
+            "title" : "职场话题",
+            "title_alternative" : "Career",
+            "url" : "http://www.v2ex.com/go/career",
+            "topics" : 1833,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1471551960",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1471551960",
+            "avatar_large" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1471551960"
+        },
+        "created" : 1473383990,
+        "last_modified" : 1473383990,
+        "last_touched" : 1473446127
+    },
+    
+    {
+        "id" : 305057,
+        "title" : "90% 的技术人思考能力到不了的问题，你是那 10%吗？",
+        "url" : "http://www.v2ex.com/t/305057",
+        "content" : "对于技术不过关却每天装作牛人的网红，不知道你们怎么看？反正我觉得这个要是技术圈子一直被这些只会吹不做项目的网红主导话语权，我们迟早药丸。\u000D\u000A\u000D\u000A![Infographic]( http://ww1.sinaimg.cn/mw690/737df977gw1f7n8u4z6roj20go0ekq85.jpg)\u000D\u000A![Infographic]( http://ww2.sinaimg.cn/mw690/737df977gw1f7n9c3a3g3j20gj0erq6n.jpg)\u000D\u000A\u000D\u000A前些天因为被揭露技术能力不过关气急败坏的样子还历历在目\u000D\u000A![Infographic]( https://pic1.zhimg.com/aaf7fc724c3269230cb89707088eacf4_b.png)\u000D\u000A\u000D\u000A附上踩痛他脆弱心灵的文章：[冯大辉到底是不是技术大牛? 一个程序员眼中的 Fenng]( http://toutiao.com/i6322667623276347906/)",
+        "content_rendered" : "\u003Cp\u003E对于技术不过关却每天装作牛人的网红，不知道你们怎么看？反正我觉得这个要是技术圈子一直被这些只会吹不做项目的网红主导话语权，我们迟早药丸。\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022Infographic\u0022 src\u003D\u0022http://ww1.sinaimg.cn/mw690/737df977gw1f7n8u4z6roj20go0ekq85.jpg\u0022\u003E\u000A\u003Cimg alt\u003D\u0022Infographic\u0022 src\u003D\u0022http://ww2.sinaimg.cn/mw690/737df977gw1f7n9c3a3g3j20gj0erq6n.jpg\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E前些天因为被揭露技术能力不过关气急败坏的样子还历历在目\u000A\u003Cimg alt\u003D\u0022Infographic\u0022 src\u003D\u0022https://pic1.zhimg.com/aaf7fc724c3269230cb89707088eacf4_b.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E附上踩痛他脆弱心灵的文章：\u003Ca href\u003D\u0022http://toutiao.com/i6322667623276347906/\u0022 rel\u003D\u0022nofollow\u0022\u003E冯大辉到底是不是技术大牛? 一个程序员眼中的 Fenng\u003C/a\u003E\u003C/p\u003E\u000A",
+        "replies" : 47,
+        "member" : {
+            "id" : 189879,
+            "username" : "linffang",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/e209/3913/189879_mini.png?m=1472721226",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/e209/3913/189879_normal.png?m=1472721226",
+            "avatar_large" : "//cdn.v2ex.co/avatar/e209/3913/189879_large.png?m=1472721226"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 13167,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1473309417",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1473309417",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1473309417"
+        },
+        "created" : 1473398449,
+        "last_modified" : 1473398449,
+        "last_touched" : 1473435744
+    },
+    
+    {
+        "id" : 305135,
+        "title" : "想入 iPhon7 了，照相没啥大的需求 32G 的够不够用啊",
+        "url" : "http://www.v2ex.com/t/305135",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 47,
+        "member" : {
+            "id" : 49453,
+            "username" : "hzm0318hzm",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/d636/a570/49453_mini.png?m=1461510358",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/d636/a570/49453_normal.png?m=1461510358",
+            "avatar_large" : "//cdn.v2ex.co/avatar/d636/a570/49453_large.png?m=1461510358"
+        },
+        "node" : {
+            "id" : 8,
+            "name" : "iphone",
+            "title" : "iPhone",
+            "title_alternative" : "iPhone",
+            "url" : "http://www.v2ex.com/go/iphone",
+            "topics" : 3739,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c9f0/f895/8_mini.png?m=1467364893",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c9f0/f895/8_normal.png?m=1467364893",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c9f0/f895/8_large.png?m=1467364893"
+        },
+        "created" : 1473414458,
+        "last_modified" : 1473414458,
+        "last_touched" : 1473469175
+    },
+    
+    {
+        "id" : 305042,
+        "title" : "为什么华为手机出货量第一，月活量却未进前十？",
+        "url" : "http://www.v2ex.com/t/305042",
+        "content" : "![]( http://ww4.sinaimg.cn/large/801b780agw1f7n7upa8gsj21kw11atha.jpg)\u000D\u000A数据来源 http://www.umindex.com/",
+        "content_rendered" : "\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://ww4.sinaimg.cn/large/801b780agw1f7n7upa8gsj21kw11atha.jpg\u0022\u003E\u000A数据来源 \u003Ca href\u003D\u0022http://www.umindex.com/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.umindex.com/\u003C/a\u003E\u003C/p\u003E\u000A",
+        "replies" : 46,
+        "member" : {
+            "id" : 90666,
+            "username" : "UtopiaCHN",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/22fd/a4de/90666_mini.png?m=1445272478",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/22fd/a4de/90666_normal.png?m=1445272478",
+            "avatar_large" : "//cdn.v2ex.co/avatar/22fd/a4de/90666_large.png?m=1445272478"
+        },
+        "node" : {
+            "id" : 16,
+            "name" : "share",
+            "title" : "分享发现",
+            "title_alternative" : "Share",
+            "url" : "http://www.v2ex.com/go/share",
+            "topics" : 20167,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c74d/97b0/16_mini.png?m=1473309353",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c74d/97b0/16_normal.png?m=1473309353",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c74d/97b0/16_large.png?m=1473309353"
+        },
+        "created" : 1473395042,
+        "last_modified" : 1473395042,
+        "last_touched" : 1473468391
+    },
+    
+    {
+        "id" : 305053,
+        "title" : "7 还是 7 Plus 呢？ 大家给点建议",
+        "url" : "http://www.v2ex.com/t/305053",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 46,
+        "member" : {
+            "id" : 30450,
+            "username" : "meteor2013",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/e9b0/9450/30450_mini.png?m=1355010412",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/e9b0/9450/30450_normal.png?m=1355010412",
+            "avatar_large" : "//cdn.v2ex.co/avatar/e9b0/9450/30450_large.png?m=1355010412"
+        },
+        "node" : {
+            "id" : 8,
+            "name" : "iphone",
+            "title" : "iPhone",
+            "title_alternative" : "iPhone",
+            "url" : "http://www.v2ex.com/go/iphone",
+            "topics" : 3739,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c9f0/f895/8_mini.png?m=1467364893",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c9f0/f895/8_normal.png?m=1467364893",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c9f0/f895/8_large.png?m=1467364893"
+        },
+        "created" : 1473397856,
+        "last_modified" : 1473397856,
+        "last_touched" : 1473448061
+    },
+    
+    {
+        "id" : 305090,
+        "title" : "现在官网还是不能预约",
+        "url" : "http://www.v2ex.com/t/305090",
+        "content" : "你们刷出来了吗？我这边还是在维护，不知道为什么",
+        "content_rendered" : "\u003Cp\u003E你们刷出来了吗？我这边还是在维护，不知道为什么\u003C/p\u003E\u000A",
+        "replies" : 46,
+        "member" : {
+            "id" : 169382,
+            "username" : "warcraft1236",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/98e4b18459c39f9bc6506480276c1abc?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/98e4b18459c39f9bc6506480276c1abc?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/98e4b18459c39f9bc6506480276c1abc?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 8,
+            "name" : "iphone",
+            "title" : "iPhone",
+            "title_alternative" : "iPhone",
+            "url" : "http://www.v2ex.com/go/iphone",
+            "topics" : 3739,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c9f0/f895/8_mini.png?m=1467364893",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c9f0/f895/8_normal.png?m=1467364893",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c9f0/f895/8_large.png?m=1467364893"
+        },
+        "created" : 1473404830,
+        "last_modified" : 1473404830,
+        "last_touched" : 1473417520
+    }
+    
+]

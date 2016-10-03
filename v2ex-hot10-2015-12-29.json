@@ -1,0 +1,282 @@
+[
+    
+    {
+        "id" : 246798,
+        "title" : "反对 try{}catch (e){}的进来， B 君已经是全群公敌！",
+        "url" : "http://www.v2ex.com/t/246798",
+        "content" : "（提醒：我不是来问问题的，我已经有自己答案！）\u000D\u000AA 君和 B 君各自用 JS 做一个简单的需求: \u000D\u000A\u000D\u000Afunction test(foo){\u000D\u000A var  obj\u003D  new foo()\u003B \u000D\u000A\u0009\u000D\u000A obj.wo.ok.arr.push(\u0022帅哥\u0022)\u003B\u000D\u000A\u0009 \u000D\u000A return obj\u003B\u000D\u000A\u000D\u000A\u000D\u000A}\u000D\u000A\u000D\u000A当 foo 传入错误参数时 程序是肯定是报错的！ obj.wo 无法索引到时，也同样是报错的\u000D\u000A现在 A 君和 B 君分别采用不同的方法\u000D\u000A\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u000D\u000A  A 君采用的方法是：  \u000D\u000A\u000D\u000Afunction test(foo) {\u000D\u000A    if (typeof foo \u003D\u003D \u0022function\u0022) {\u000D\u000A        var obj \u003D new foo()\u003B\u000D\u000A        if (obj.wo \u0026\u0026 obj.wo.ok \u0026\u0026 Object.prototype.toString.call(obj.wo.ok.arr) \u003D\u003D \u0022[object Array]\u0022) {\u000D\u000A            obj.wo.ok.arr.push(\u0022帅哥\u0022)\u003B\u000D\u000A            return obj\u003B\u000D\u000A        }\u000D\u000A    }\u000D\u000A    return false\u003B\u000D\u000A}\u000D\u000A\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u000D\u000A B 君采用的方法是：\u000D\u000Afunction test(foo) {\u000D\u000A    try{\u000D\u000A        var obj \u003D new foo()\u003B\u000D\u000A        obj.wo.ok.arr.push(\u0022帅哥\u0022)\u003B\u000D\u000A        return obj\u003B\u000D\u000A\u0009}catch (e){}\u000D\u000A  return false\u003B\u000D\u000A}\u000D\u000A\u000D\u000A\u000D\u000A\u000D\u000A结果 B 君成为了全群公敌，及取笑的对象， A 君和 B 君各不相让， A 君更是大骂 B 君：“你百度看看看，你用 TRY 是菜鸟的行为， TRY 效率很差的，应该尽量避免使用 TRY ”。\u000D\u000AB 君一向按自己的原则做事， B 君不相信百度，坚持自己的 TRY 立场,B 君觉得自己的 TRY 用得完全合理，一气之下愤然离群！\u000D\u000A\u000D\u000A现在问大家：上面两段你觉得 A 君和 B 君的代码 谁的效率最高呢！\u000D\u000A(稍后公布答案）！",
+        "content_rendered" : "（提醒：我不是来问问题的，我已经有自己答案！）\u000D\u003Cbr /\u003EA 君和 B 君各自用 JS 做一个简单的需求: \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003Efunction test(foo){\u000D\u003Cbr /\u003E var  obj\u003D  new foo()\u003B \u000D\u003Cbr /\u003E\u0009\u000D\u003Cbr /\u003E obj.wo.ok.arr.push(\u0026quot\u003B帅哥\u0026quot\u003B)\u003B\u000D\u003Cbr /\u003E\u0009 \u000D\u003Cbr /\u003E return obj\u003B\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E}\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E当 foo 传入错误参数时 程序是肯定是报错的！ obj.wo 无法索引到时，也同样是报错的\u000D\u003Cbr /\u003E现在 A 君和 B 君分别采用不同的方法\u000D\u003Cbr /\u003E\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u000D\u003Cbr /\u003E  A 君采用的方法是：  \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003Efunction test(foo) {\u000D\u003Cbr /\u003E    if (typeof foo \u003D\u003D \u0026quot\u003Bfunction\u0026quot\u003B) {\u000D\u003Cbr /\u003E        var obj \u003D new foo()\u003B\u000D\u003Cbr /\u003E        if (obj.wo \u0026amp\u003B\u0026amp\u003B obj.wo.ok \u0026amp\u003B\u0026amp\u003B Object.prototype.toString.call(obj.wo.ok.arr) \u003D\u003D \u0026quot\u003B[object Array]\u0026quot\u003B) {\u000D\u003Cbr /\u003E            obj.wo.ok.arr.push(\u0026quot\u003B帅哥\u0026quot\u003B)\u003B\u000D\u003Cbr /\u003E            return obj\u003B\u000D\u003Cbr /\u003E        }\u000D\u003Cbr /\u003E    }\u000D\u003Cbr /\u003E    return false\u003B\u000D\u003Cbr /\u003E}\u000D\u003Cbr /\u003E\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u002D\u000D\u003Cbr /\u003E B 君采用的方法是：\u000D\u003Cbr /\u003Efunction test(foo) {\u000D\u003Cbr /\u003E    try{\u000D\u003Cbr /\u003E        var obj \u003D new foo()\u003B\u000D\u003Cbr /\u003E        obj.wo.ok.arr.push(\u0026quot\u003B帅哥\u0026quot\u003B)\u003B\u000D\u003Cbr /\u003E        return obj\u003B\u000D\u003Cbr /\u003E\u0009}catch (e){}\u000D\u003Cbr /\u003E  return false\u003B\u000D\u003Cbr /\u003E}\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E结果 B 君成为了全群公敌，及取笑的对象， A 君和 B 君各不相让， A 君更是大骂 B 君：“你百度看看看，你用 TRY 是菜鸟的行为， TRY 效率很差的，应该尽量避免使用 TRY ”。\u000D\u003Cbr /\u003EB 君一向按自己的原则做事， B 君不相信百度，坚持自己的 TRY 立场,B 君觉得自己的 TRY 用得完全合理，一气之下愤然离群！\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E现在问大家：上面两段你觉得 A 君和 B 君的代码 谁的效率最高呢！\u000D\u003Cbr /\u003E(稍后公布答案）！",
+        "replies" : 118,
+        "member" : {
+            "id" : 151237,
+            "username" : "minggeJS",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/76b9/0557/151237_mini.png?m=1451038548",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/76b9/0557/151237_normal.png?m=1451038548",
+            "avatar_large" : "//cdn.v2ex.co/avatar/76b9/0557/151237_large.png?m=1451038548"
+        },
+        "node" : {
+            "id" : 146,
+            "name" : "js",
+            "title" : "JavaScript",
+            "title_alternative" : "JavaScript",
+            "url" : "http://www.v2ex.com/go/js",
+            "topics" : 750,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/a5e0/0132/146_mini.png?m=1450842999",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/a5e0/0132/146_normal.png?m=1450842999",
+            "avatar_large" : "//cdn.v2ex.co/navatar/a5e0/0132/146_large.png?m=1450842999"
+        },
+        "created" : 1451316318,
+        "last_modified" : 1451357002,
+        "last_touched" : 1451392566
+    },
+    
+    {
+        "id" : 246908,
+        "title" : "大家的花呗提额了吗？",
+        "url" : "http://www.v2ex.com/t/246908",
+        "content" : "刚收到推送，一年了，提了额度， 3000 到 3600 ，并没有什么卵用。。。大家的应该提升会不少吧\u000D\u000A\u000D\u000A话说之前分期，没有算清楚， 1100 分了 12 期，亏了 100 多利息。。。我只看到了 8 块钱的手续费＝＝大家要花呗分期要算清楚，他不会提醒的",
+        "content_rendered" : "刚收到推送，一年了，提了额度， 3000 到 3600 ，并没有什么卵用。。。大家的应该提升会不少吧\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E话说之前分期，没有算清楚， 1100 分了 12 期，亏了 100 多利息。。。我只看到了 8 块钱的手续费＝＝大家要花呗分期要算清楚，他不会提醒的",
+        "replies" : 118,
+        "member" : {
+            "id" : 62324,
+            "username" : "kingcos",
+            "tagline" : "V.",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/1adc/9501/62324_mini.png?m=1421487500",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/1adc/9501/62324_normal.png?m=1421487500",
+            "avatar_large" : "//cdn.v2ex.co/avatar/1adc/9501/62324_large.png?m=1421487500"
+        },
+        "node" : {
+            "id" : 320,
+            "name" : "wtf",
+            "title" : "不靠谱茶话会",
+            "title_alternative" : "WTF",
+            "url" : "http://www.v2ex.com/go/wtf",
+            "topics" : 180,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/3207/2254/320_mini.png?m=1435210420",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/3207/2254/320_normal.png?m=1435210420",
+            "avatar_large" : "//cdn.v2ex.co/navatar/3207/2254/320_large.png?m=1435210420"
+        },
+        "created" : 1451369464,
+        "last_modified" : 1451384144,
+        "last_touched" : 1451395240
+    },
+    
+    {
+        "id" : 246796,
+        "title" : "三个屌丝做了一个免费轻量级的 bug 管理工具，不知道有没有人用",
+        "url" : "http://www.v2ex.com/t/246796",
+        "content" : "这是一个一言难尽的故事，写长了不知道会不会有人看。\u000D\u000A\u000D\u000A\u000D\u000A15 年 5 月份的时候，一个做进口车贸易 20 年的老板叫我做一个项目。这个项目主要是做一个进口车源的 app ，项目最开始只有三个人，两个程序员和我，当然这两个非常 nice 的人就是我现在合伙人。\u000D\u000A\u000D\u000A\u000D\u000A我们的老板是处女座的。\u000D\u000A\u000D\u000A\u000D\u000A所以后来这个项目的大半年的时间里面，我们基本上都在不停的加需求，加功能，改 bug ，因为老板说，产品不完美不够强大就上线，用户是不会用的，投资人是不会喜欢的。直到有一天老板把我叫出去喝咖啡说：你们水平还不行，去把团队解散了吧。\u000D\u000A\u000D\u000A\u000D\u000A不吹牛逼的讲，我自己觉得我们的产品比市面上百分之 50 以上的产品好，比我们的竞品能牛逼 15\u002D20%左右。奇葩的是，花了七八个人开发了半年的产品，居然没给用户使用过就打出 GG 了。\u000D\u000A\u000D\u000A\u000D\u000A讲了这么多废话，不是为了黑处女座。\u000D\u000A\u000D\u000A\u000D\u000A\u000D\u000A因为在这次我视为创业的过程中，我和几个兄弟发现了一个的痛点。这个痛点就是，我们的 bug 太多了，但是我们找不到一个好用的 bug 管理工具。可能有很多朋友会说， bug 管理工具不是很多吗： QC 、 redmine 、 jira 、 bugzilla ，国产的禅道、 easybug 、 techexcel 等等等等。这些产品表面强大，但是我们觉得他们有以下四个缺点：\u000D\u000A\u000D\u000A\u000D\u000A1 功能臃肿复杂，上手难度高。\u000D\u000A\u000D\u000A我们研究了很多目前主流的 BUG 管理工具，尤其是歪果仁的专业软件，功能都十分强大，但是使用起来都十分麻烦。功能太多，属性太多，角色太多，优化差、操作繁琐，用这种产品我们整个团队得去学习半天，而且百分之 80 的功能我们都用不到。\u000D\u000A\u000D\u000A2 界面反人类，不想用。\u000D\u000A\u000D\u000A3 需要线下部署，安装复杂。\u000D\u000A\u000D\u000A4 专业版本收费高昂，随随便便要上万，作为小公司，这钱给不起。\u000D\u000A\u000D\u000A\u000D\u000A最后我们还是觉得 excel 牛逼一些，公司开发就几个人，沟通改 bug 基本靠吼，有 excel 可以记录记录，凑合凑合能用。\u000D\u000A\u000D\u000A\u000D\u000A \u000D\u000A\u000D\u000A项目解散后，大家吃着散伙饭，借着酒劲吹吹牛逼。然后我们有点不甘心，我们觉得我们能做出来一个有意义有用户的产品，然后证明上个产品的失败是因为老板不行。于是我和两个兄弟决定拿着上一个项目的一点遣散费认认真真的做一个牛逼产品出来，当然我们肯定是做 bug 管理工具，因为这完全来自于我们自身开发过程中的痛点。\u000D\u000A\u000D\u000A\u000D\u000A我们团队三个人，本人负责前期的产品原型和产品运营，另外一个朋友负责后台，还有一个负责前端开发。\u000D\u000A\u000D\u000A\u000D\u000A负责后台的大哥是一个牛人，我们平时叫他慧哥。慧哥是我们中资历最老的， 16 年的开发经验，技术牛逼，清华大学毕业。他是一个典型的程序猿，特别勤奋敬业特别能加班，基本每天不搞到 12 点不会回家。\u000D\u000A\u000D\u000A\u000D\u000A负责前端的兄弟叫江涛，河北的同学，做前端有 6 年左右的经验。我们这个兄弟是一个闷葫芦，平时话不多，给人感觉是一个特别文艺的青年。敲代码之外的生活是看一些历史的讲坛视频，他是一个特别有规律的人。\u000D\u000A\u000D\u000A\u000D\u000A我和江涛一样是北漂，产品第一个版本上线后，主要来负责产品的运营与推广，还有一部分产品经理的工作。现在的主要工作就是想办法不花钱获取用户、留住用户。\u000D\u000A\u000D\u000A\u000D\u000A从产品确定立项，到第一个版本上线，我们三个大概花了一个半月。产品原型图（页面不多，十几个）和产品逻辑大概花了一个星期时间讨论、修改。\u000D\u000Ahttp://ww4.sinaimg.cn/mw690/69ef7aeejw1ezfrlwb3faj218c0pidkf.jpg\u000D\u000A\u000D\u000A\u000D\u000A\u000D\u000A产品逻辑图，我们想尽量把逻辑做到简单。\u000D\u000Ahttp://ww4.sinaimg.cn/mw690/69ef7aeejw1ezfrlvu6t8j20u60mjwhp.jpg\u000D\u000A\u000D\u000A\u000D\u000A原型确定后，我们直接开始后台和前端的研发。没错，没有设计环节，我们直接开始开发。\u000D\u000A\u000D\u000A有的朋友可能会发现，我们的团队缺少一个设计师，这个是我们的团队当时最大的问题。最后的没办法，只能江涛又当前端又当设计。大概搞了两个星期，后台和接口开发完毕，前端也有了雏形。我们搞出来了这个东西：\u000D\u000Ahttp://ww3.sinaimg.cn/mw690/69ef7aeejw1ezfrlukw03j216w0mvq5f.jpg\u000D\u000A\u000D\u000A\u000D\u000A\u000D\u000A这个时候我们发现，我们这个产品有一个很大问题，就是太丑了，都是表格。\u000D\u000A\u000D\u000A 创业前期没钱就会有各种这样的难题，创业就必须想尽办法，然后解决问题，继续下去。最后我们找到之前项目的设计师，这哥们项目解散后就去外地泡妞了，现在正在投简历找工作。我们想把他请过来，本来让给我们指点指点怎么改。最后当天没搞定，设计的兄弟说：我先不找工作了，帮你们搞完我再去投简历。\u000D\u000Ahttp://ww3.sinaimg.cn/mw690/69ef7aeejw1ezfrlv654cj20e909sjs3.jpg\u000D\u000A\u000D\u000A\u000D\u000A\u000D\u000A这样我们花了几天几夜，把页面全部重新设计了一遍。最后用几顿饭、一顿火锅答谢了雪中送炭的兄弟。\u000D\u000A\u000D\u000A期间，设计师没回家睡了几天沙发床。。。\u000D\u000A\u000D\u000Ahttp://ww4.sinaimg.cn/mw690/69ef7aeejw1ezfrlu5eeqj20yw0pqdmk.jpg\u000D\u000A\u000D\u000A\u000D\u000A\u000D\u000A产品出来以后，我们请周围一些做开发的朋友内测了一个星期，修复了一些 bug ，没问题后，于是准备开始正式推广。\u000D\u000A\u000D\u000A12 月 6 号， www.bugclose.com 正式上线。\u000D\u000A\u000D\u000A说说我们遇到过的问题\u000D\u000A\u000D\u000A1   在立项的时候，我们就确定了要做一款简单够用的工具。但是在产品原型设计的初期，大家一起讨论需求的时候，往往会发现需求越讨论越多。最后出来的原型是平凡、臃肿的产品。我觉得这个点很关键，当有人问这个功能加不加的时候， 90%的情况下，不加是正确的选择。不知道做不做，就别做。\u000D\u000A\u000D\u000A早期的产品草图\u000D\u000Ahttp://ww2.sinaimg.cn/mw690/69ef7aeejw1ezfrltmeguj20yv0q2dli.jpg\u000D\u000A\u000D\u000A2  创业的时候，我们资源匮乏，利用自身的资源非常重要。很多人会觉得自己没啥人脉、没啥钱，哪来的资源。其实很多时候，需要自己去努力争取，想尽办法，总会有解决之道。我们的产品立项的时候，找专门做测试的职位的朋友来给我们提建议、提需求。缺少设计，就想办法请设计师吃饭，来帮帮我们（当然，他不是因为吃饭过来，本来就是好朋友）。\u000D\u000A\u000D\u000A\u000D\u000A最后希望 V2EX 的大神们可以试试我们三做的这个东西，虽然目前很不完善，还是希望大家多多给点建议意见～",
+        "content_rendered" : "这是一个一言难尽的故事，写长了不知道会不会有人看。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E15 年 5 月份的时候，一个做进口车贸易 20 年的老板叫我做一个项目。这个项目主要是做一个进口车源的 app ，项目最开始只有三个人，两个程序员和我，当然这两个非常 nice 的人就是我现在合伙人。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E我们的老板是处女座的。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E所以后来这个项目的大半年的时间里面，我们基本上都在不停的加需求，加功能，改 bug ，因为老板说，产品不完美不够强大就上线，用户是不会用的，投资人是不会喜欢的。直到有一天老板把我叫出去喝咖啡说：你们水平还不行，去把团队解散了吧。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E不吹牛逼的讲，我自己觉得我们的产品比市面上百分之 50 以上的产品好，比我们的竞品能牛逼 15\u002D20%左右。奇葩的是，花了七八个人开发了半年的产品，居然没给用户使用过就打出 GG 了。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E讲了这么多废话，不是为了黑处女座。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E因为在这次我视为创业的过程中，我和几个兄弟发现了一个的痛点。这个痛点就是，我们的 bug 太多了，但是我们找不到一个好用的 bug 管理工具。可能有很多朋友会说， bug 管理工具不是很多吗： QC 、 redmine 、 jira 、 bugzilla ，国产的禅道、 easybug 、 techexcel 等等等等。这些产品表面强大，但是我们觉得他们有以下四个缺点：\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E1 功能臃肿复杂，上手难度高。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E我们研究了很多目前主流的 BUG 管理工具，尤其是歪果仁的专业软件，功能都十分强大，但是使用起来都十分麻烦。功能太多，属性太多，角色太多，优化差、操作繁琐，用这种产品我们整个团队得去学习半天，而且百分之 80 的功能我们都用不到。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E2 界面反人类，不想用。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E3 需要线下部署，安装复杂。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E4 专业版本收费高昂，随随便便要上万，作为小公司，这钱给不起。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E最后我们还是觉得 excel 牛逼一些，公司开发就几个人，沟通改 bug 基本靠吼，有 excel 可以记录记录，凑合凑合能用。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E项目解散后，大家吃着散伙饭，借着酒劲吹吹牛逼。然后我们有点不甘心，我们觉得我们能做出来一个有意义有用户的产品，然后证明上个产品的失败是因为老板不行。于是我和两个兄弟决定拿着上一个项目的一点遣散费认认真真的做一个牛逼产品出来，当然我们肯定是做 bug 管理工具，因为这完全来自于我们自身开发过程中的痛点。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E我们团队三个人，本人负责前期的产品原型和产品运营，另外一个朋友负责后台，还有一个负责前端开发。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E负责后台的大哥是一个牛人，我们平时叫他慧哥。慧哥是我们中资历最老的， 16 年的开发经验，技术牛逼，清华大学毕业。他是一个典型的程序猿，特别勤奋敬业特别能加班，基本每天不搞到 12 点不会回家。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E负责前端的兄弟叫江涛，河北的同学，做前端有 6 年左右的经验。我们这个兄弟是一个闷葫芦，平时话不多，给人感觉是一个特别文艺的青年。敲代码之外的生活是看一些历史的讲坛视频，他是一个特别有规律的人。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E我和江涛一样是北漂，产品第一个版本上线后，主要来负责产品的运营与推广，还有一部分产品经理的工作。现在的主要工作就是想办法不花钱获取用户、留住用户。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E从产品确定立项，到第一个版本上线，我们三个大概花了一个半月。产品原型图（页面不多，十几个）和产品逻辑大概花了一个星期时间讨论、修改。\u000D\u003Cbr /\u003E\u003Cimg src\u003D\u0022http://ww4.sinaimg.cn/mw690/69ef7aeejw1ezfrlwb3faj218c0pidkf.jpg\u0022 class\u003D\u0022imgly\u0022 style\u003D\u0022max\u002Dwidth: 660px\u003B\u0022 border\u003D\u00220\u0022 /\u003E \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E产品逻辑图，我们想尽量把逻辑做到简单。\u000D\u003Cbr /\u003E\u003Cimg src\u003D\u0022http://ww4.sinaimg.cn/mw690/69ef7aeejw1ezfrlvu6t8j20u60mjwhp.jpg\u0022 class\u003D\u0022imgly\u0022 style\u003D\u0022max\u002Dwidth: 660px\u003B\u0022 border\u003D\u00220\u0022 /\u003E \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E原型确定后，我们直接开始后台和前端的研发。没错，没有设计环节，我们直接开始开发。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E有的朋友可能会发现，我们的团队缺少一个设计师，这个是我们的团队当时最大的问题。最后的没办法，只能江涛又当前端又当设计。大概搞了两个星期，后台和接口开发完毕，前端也有了雏形。我们搞出来了这个东西：\u000D\u003Cbr /\u003E\u003Cimg src\u003D\u0022http://ww3.sinaimg.cn/mw690/69ef7aeejw1ezfrlukw03j216w0mvq5f.jpg\u0022 class\u003D\u0022imgly\u0022 style\u003D\u0022max\u002Dwidth: 660px\u003B\u0022 border\u003D\u00220\u0022 /\u003E \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E这个时候我们发现，我们这个产品有一个很大问题，就是太丑了，都是表格。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E 创业前期没钱就会有各种这样的难题，创业就必须想尽办法，然后解决问题，继续下去。最后我们找到之前项目的设计师，这哥们项目解散后就去外地泡妞了，现在正在投简历找工作。我们想把他请过来，本来让给我们指点指点怎么改。最后当天没搞定，设计的兄弟说：我先不找工作了，帮你们搞完我再去投简历。\u000D\u003Cbr /\u003E\u003Cimg src\u003D\u0022http://ww3.sinaimg.cn/mw690/69ef7aeejw1ezfrlv654cj20e909sjs3.jpg\u0022 class\u003D\u0022imgly\u0022 style\u003D\u0022max\u002Dwidth: 660px\u003B\u0022 border\u003D\u00220\u0022 /\u003E \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E这样我们花了几天几夜，把页面全部重新设计了一遍。最后用几顿饭、一顿火锅答谢了雪中送炭的兄弟。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E期间，设计师没回家睡了几天沙发床。。。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u003Cimg src\u003D\u0022http://ww4.sinaimg.cn/mw690/69ef7aeejw1ezfrlu5eeqj20yw0pqdmk.jpg\u0022 class\u003D\u0022imgly\u0022 style\u003D\u0022max\u002Dwidth: 660px\u003B\u0022 border\u003D\u00220\u0022 /\u003E \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E产品出来以后，我们请周围一些做开发的朋友内测了一个星期，修复了一些 bug ，没问题后，于是准备开始正式推广。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E12 月 6 号， \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://www.bugclose.com\u0022 rel\u003D\u0022nofollow\u0022\u003Ewww.bugclose.com\u003C/a\u003E 正式上线。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E说说我们遇到过的问题\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E1   在立项的时候，我们就确定了要做一款简单够用的工具。但是在产品原型设计的初期，大家一起讨论需求的时候，往往会发现需求越讨论越多。最后出来的原型是平凡、臃肿的产品。我觉得这个点很关键，当有人问这个功能加不加的时候， 90%的情况下，不加是正确的选择。不知道做不做，就别做。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E早期的产品草图\u000D\u003Cbr /\u003E\u003Cimg src\u003D\u0022http://ww2.sinaimg.cn/mw690/69ef7aeejw1ezfrltmeguj20yv0q2dli.jpg\u0022 class\u003D\u0022imgly\u0022 style\u003D\u0022max\u002Dwidth: 660px\u003B\u0022 border\u003D\u00220\u0022 /\u003E \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E2  创业的时候，我们资源匮乏，利用自身的资源非常重要。很多人会觉得自己没啥人脉、没啥钱，哪来的资源。其实很多时候，需要自己去努力争取，想尽办法，总会有解决之道。我们的产品立项的时候，找专门做测试的职位的朋友来给我们提建议、提需求。缺少设计，就想办法请设计师吃饭，来帮帮我们（当然，他不是因为吃饭过来，本来就是好朋友）。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E最后希望 V2EX 的大神们可以试试我们三做的这个东西，虽然目前很不完善，还是希望大家多多给点建议意见～",
+        "replies" : 80,
+        "member" : {
+            "id" : 146640,
+            "username" : "112xiangtao",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/c2db/c77d/146640_mini.png?m=1451314110",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/c2db/c77d/146640_normal.png?m=1451314110",
+            "avatar_large" : "//cdn.v2ex.co/avatar/c2db/c77d/146640_large.png?m=1451314110"
+        },
+        "node" : {
+            "id" : 17,
+            "name" : "create",
+            "title" : "分享创造",
+            "title_alternative" : "Create",
+            "url" : "http://www.v2ex.com/go/create",
+            "topics" : 4828,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/70ef/df2e/17_mini.png?m=1447011026",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/70ef/df2e/17_normal.png?m=1447011026",
+            "avatar_large" : "//cdn.v2ex.co/navatar/70ef/df2e/17_large.png?m=1447011026"
+        },
+        "created" : 1451315498,
+        "last_modified" : 1451315498,
+        "last_touched" : 1451389658
+    },
+    
+    {
+        "id" : 246834,
+        "title" : "国内有哪些严谨，至少不会为了搞个大新闻而做失实报道的媒体？",
+        "url" : "http://www.v2ex.com/t/246834",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 76,
+        "member" : {
+            "id" : 108879,
+            "username" : "erDaren",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/abbf/c0d2/108879_mini.png?m=1440035322",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/abbf/c0d2/108879_normal.png?m=1440035322",
+            "avatar_large" : "//cdn.v2ex.co/avatar/abbf/c0d2/108879_large.png?m=1440035322"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 62144,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1448889637",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1448889637",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1448889637"
+        },
+        "created" : 1451353414,
+        "last_modified" : 1451353414,
+        "last_touched" : 1451395888
+    },
+    
+    {
+        "id" : 246944,
+        "title" : "小白学 LOL 还是 DOTA2",
+        "url" : "http://www.v2ex.com/t/246944",
+        "content" : "作为一个曾经的 CF 狗，现在主要玩单机（ PS4 ）\u000D\u000A但是在同事中总是找不到共同话题，也常常get不到他们的笑点，他们大都在玩 LOL 和 DOTA2 ，\u000D\u000A近期准备学习一下，然后就有了下面两个问题：\u000D\u000A1 、有类似深入浅出 DOTA2 或者 21 天从入门到精通 LOL 的教程吗？\u000D\u000A2 、 LOL 和 DOTA2,二选其一，我应该选哪个去学呢？",
+        "content_rendered" : "\u003Cp\u003E作为一个曾经的 CF 狗，现在主要玩单机（ PS4 ）\u003Cbr\u003E\u000A但是在同事中总是找不到共同话题，也常常 get 不到他们的笑点，他们大都在玩 LOL 和 DOTA2 ，\u003Cbr\u003E\u000A近期准备学习一下，然后就有了下面两个问题：\u003Cbr\u003E\u000A1 、有类似深入浅出 DOTA2 或者 21 天从入门到精通 LOL 的教程吗？\u003Cbr\u003E\u000A2 、 LOL 和 DOTA2,二选其一，我应该选哪个去学呢？\u003C/p\u003E\u000A",
+        "replies" : 58,
+        "member" : {
+            "id" : 101998,
+            "username" : "tianlang1989",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/a513/77b5/101998_mini.png?m=1427349060",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/a513/77b5/101998_normal.png?m=1427349060",
+            "avatar_large" : "//cdn.v2ex.co/avatar/a513/77b5/101998_large.png?m=1427349060"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 62144,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1448889637",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1448889637",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1448889637"
+        },
+        "created" : 1451376395,
+        "last_modified" : 1451376441,
+        "last_touched" : 1451396539
+    },
+    
+    {
+        "id" : 246847,
+        "title" : "才知道原来小米的东西那么难买……",
+        "url" : "http://www.v2ex.com/t/246847",
+        "content" : "在价格的淫威下，打算买个空气净化器 2 ， 10 点开刷，一直是“暂时无货”，一起买的小伙伴里也就一个人看到过“加入购物车”，然后也失败了。\u000D\u000A不管是真抢，还是刷猴，难买是真难买……",
+        "content_rendered" : "在价格的淫威下，打算买个空气净化器 2 ， 10 点开刷，一直是“暂时无货”，一起买的小伙伴里也就一个人看到过“加入购物车”，然后也失败了。\u000D\u003Cbr /\u003E不管是真抢，还是刷猴，难买是真难买……",
+        "replies" : 56,
+        "member" : {
+            "id" : 20120,
+            "username" : "mhqschen",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/4b86/521f/20120_mini.png?m=1335530826",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/4b86/521f/20120_normal.png?m=1335530826",
+            "avatar_large" : "//cdn.v2ex.co/avatar/4b86/521f/20120_large.png?m=1335530826"
+        },
+        "node" : {
+            "id" : 834,
+            "name" : "xiaomi",
+            "title" : "小米",
+            "title_alternative" : "Xiaomi",
+            "url" : "http://www.v2ex.com/go/xiaomi",
+            "topics" : 70,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/301a/d0e3/834_mini.png?m=1422448760",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/301a/d0e3/834_normal.png?m=1422448760",
+            "avatar_large" : "//cdn.v2ex.co/navatar/301a/d0e3/834_large.png?m=1422448760"
+        },
+        "created" : 1451355431,
+        "last_modified" : 1451355463,
+        "last_touched" : 1451393206
+    },
+    
+    {
+        "id" : 246918,
+        "title" : "咨询下组网方案",
+        "url" : "http://www.v2ex.com/t/246918",
+        "content" : "房子是郊区的别墅，一共四层，入户弱电箱在一楼，好像是广电的宽带，现在安装完网络已有一台 an5006 的光猫。\u000D\u000A生活主要活动区在二三四楼，二楼客厅、三楼客卧、四楼主卧等都事先埋设了网线通到了弱电箱(7~8 根)。现在的主要需求就是二楼的客厅电视和四楼的主卧书房电脑急需通网并覆盖 WiFi ，一楼的多媒体室和三楼的几间卧室也需要通网，同时主卧紧挨的书房电脑旁没有预留网口。房主用网需求并不大，电视、电脑普通应用，加手机 pad 连接 WiFi 。\u000D\u000A现在我的想法是用一台路由将光猫分出去到二楼四楼，在二楼四楼分别接一台无线路由器既能解决通网问题又能覆盖 WiFi(按照这个介绍里的第二台路由器的接法 http://jingyan.baidu.com/article/0eb457e56426f703f1a905e2.html)。书房电脑打算配一个无线网卡，连接主卧的 WiFi 。\u000D\u000A有些问题请教下：\u000D\u000A1.之前自己住小房子都是直接接路由器就能解决的，现在这个想的网络结构对不对，这个实在不太懂，按我的想法需要三台路由器加一个无线网卡。\u000D\u000A2.弱电箱用来分线的路由器对性能是不是有一定要求？还有就是要分出去的口子比较多，一般路由器 LAN 口不够多？有了解的能不能说下组网结构，最好能推荐下设备型号。\u000D\u000A先谢谢了",
+        "content_rendered" : "\u003Cp\u003E房子是郊区的别墅，一共四层，入户弱电箱在一楼，好像是广电的宽带，现在安装完网络已有一台 an5006 的光猫。\u003Cbr\u003E\u000A生活主要活动区在二三四楼，二楼客厅、三楼客卧、四楼主卧等都事先埋设了网线通到了弱电箱(7~8 根)。现在的主要需求就是二楼的客厅电视和四楼的主卧书房电脑急需通网并覆盖 WiFi ，一楼的多媒体室和三楼的几间卧室也需要通网，同时主卧紧挨的书房电脑旁没有预留网口。房主用网需求并不大，电视、电脑普通应用，加手机 pad 连接 WiFi 。\u003Cbr\u003E\u000A现在我的想法是用一台路由将光猫分出去到二楼四楼，在二楼四楼分别接一台无线路由器既能解决通网问题又能覆盖 WiFi(按照这个介绍里的第二台路由器的接法 \u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://jingyan.baidu.com/article/0eb457e56426f703f1a905e2.html)%E3%80%82%E4%B9%A6%E6%88%BF%E7%94%B5%E8%84%91%E6%89%93%E7%AE%97%E9%85%8D%E4%B8%80%E4%B8%AA%E6%97%A0%E7%BA%BF%E7%BD%91%E5%8D%A1%EF%BC%8C%E8%BF%9E%E6%8E%A5%E4%B8%BB%E5%8D%A7%E7%9A%84\u0022\u003Ehttp://jingyan.baidu.com/article/0eb457e56426f703f1a905e2.html)。书房电脑打算配一个无线网卡，连接主卧的\u003C/a\u003E WiFi 。\u003Cbr\u003E\u000A有些问题请教下：\u003Cbr\u003E\u000A1.之前自己住小房子都是直接接路由器就能解决的，现在这个想的网络结构对不对，这个实在不太懂，按我的想法需要三台路由器加一个无线网卡。\u003Cbr\u003E\u000A2.弱电箱用来分线的路由器对性能是不是有一定要求？还有就是要分出去的口子比较多，一般路由器 LAN 口不够多？有了解的能不能说下组网结构，最好能推荐下设备型号。\u003Cbr\u003E\u000A先谢谢了\u003C/p\u003E\u000A",
+        "replies" : 45,
+        "member" : {
+            "id" : 2385,
+            "username" : "lookr",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/1a68/e5f4/2385_mini.png?m=1334370775",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/1a68/e5f4/2385_normal.png?m=1334370775",
+            "avatar_large" : "//cdn.v2ex.co/avatar/1a68/e5f4/2385_large.png?m=1334370775"
+        },
+        "node" : {
+            "id" : 108,
+            "name" : "bb",
+            "title" : "宽带症候群",
+            "title_alternative" : "Broadband Symptom Complex",
+            "url" : "http://www.v2ex.com/go/bb",
+            "topics" : 1176,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/a3c6/5c29/108_mini.png?m=1441773183",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/a3c6/5c29/108_normal.png?m=1441773183",
+            "avatar_large" : "//cdn.v2ex.co/navatar/a3c6/5c29/108_large.png?m=1441773183"
+        },
+        "created" : 1451371669,
+        "last_modified" : 1451371669,
+        "last_touched" : 1451396128
+    },
+    
+    {
+        "id" : 246904,
+        "title" : "极路由 3 狗东 239 了。。想买。。",
+        "url" : "http://www.v2ex.com/t/246904",
+        "content" : "听说极路由的插件是付费的？现在极路由上去广告插件好用吗？",
+        "content_rendered" : "\u003Cp\u003E听说极路由的插件是付费的？现在极路由上去广告插件好用吗？\u003C/p\u003E\u000A",
+        "replies" : 44,
+        "member" : {
+            "id" : 100046,
+            "username" : "yjxjn",
+            "tagline" : "Debug all",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/0190/09b3/100046_mini.png?m=1446318028",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/0190/09b3/100046_normal.png?m=1446318028",
+            "avatar_large" : "//cdn.v2ex.co/avatar/0190/09b3/100046_large.png?m=1446318028"
+        },
+        "node" : {
+            "id" : 824,
+            "name" : "router",
+            "title" : "路由器",
+            "title_alternative" : "Router",
+            "url" : "http://www.v2ex.com/go/router",
+            "topics" : 207,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/677e/0972/824_mini.png?m=1419267950",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/677e/0972/824_normal.png?m=1419267950",
+            "avatar_large" : "//cdn.v2ex.co/navatar/677e/0972/824_large.png?m=1419267950"
+        },
+        "created" : 1451368612,
+        "last_modified" : 1451368612,
+        "last_touched" : 1451394503
+    },
+    
+    {
+        "id" : 246991,
+        "title" : "Android 低端手机求推荐",
+        "url" : "http://www.v2ex.com/t/246991",
+        "content" : "自用 不想用红米了\u000A对新手机有这样几点要求希望大家帮我参考下\u000A价格 200 美元以内 原生或 cm 系统\u000A最好是 2015 年的新机器\u000A不要实体键 要虚拟的三大键\u000A尺寸无所谓 重量别太重\u000A至少支持联通 4g 能移动 4g 更好\u000A之前一直用的 moto g 2013 年的那个 不支持 4g 结果看了下 2015 欧版的 moto g 太贵了磐石数码上接近 1400 了\u000A别的想不到什么手机了\u000A听说高通 615 810 都是坑\u000A谢谢",
+        "content_rendered" : "自用 不想用红米了\u003Cbr /\u003E对新手机有这样几点要求希望大家帮我参考下\u003Cbr /\u003E价格 200 美元以内 原生或 cm 系统\u003Cbr /\u003E最好是 2015 年的新机器\u003Cbr /\u003E不要实体键 要虚拟的三大键\u003Cbr /\u003E尺寸无所谓 重量别太重\u003Cbr /\u003E至少支持联通 4g 能移动 4g 更好\u003Cbr /\u003E之前一直用的 moto g 2013 年的那个 不支持 4g 结果看了下 2015 欧版的 moto g 太贵了磐石数码上接近 1400 了\u003Cbr /\u003E别的想不到什么手机了\u003Cbr /\u003E听说高通 615 810 都是坑\u003Cbr /\u003E谢谢",
+        "replies" : 38,
+        "member" : {
+            "id" : 5337,
+            "username" : "busfool",
+            "tagline" : "This boy\u0027s soul is intact, it\u0027s non\u002Dnegotiable.",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/8073/bd4e/5337_mini.png?m=1295529397",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/8073/bd4e/5337_normal.png?m=1295529397",
+            "avatar_large" : "//cdn.v2ex.co/avatar/8073/bd4e/5337_large.png?m=1295529397"
+        },
+        "node" : {
+            "id" : 39,
+            "name" : "android",
+            "title" : "Android",
+            "title_alternative" : "Android",
+            "url" : "http://www.v2ex.com/go/android",
+            "topics" : 2162,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_mini.png?m=1451283286",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_normal.png?m=1451283286",
+            "avatar_large" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_large.png?m=1451283286"
+        },
+        "created" : 1451383756,
+        "last_modified" : 1451383756,
+        "last_touched" : 1451394643
+    }
+    
+]

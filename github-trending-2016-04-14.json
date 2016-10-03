@@ -1,0 +1,72 @@
+[
+    {
+        "author": "facebook",
+        "category": "C++",
+        "stars": "970",
+        "title": "redex - A bytecode optimizer for Android apps",
+        "url": "https://github.com/facebook/redex"
+    },
+    {
+        "author": "tensorflow",
+        "category": "TypeScript",
+        "stars": "848",
+        "title": "playground - Play with neural networks!",
+        "url": "https://github.com/tensorflow/playground"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "541",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "vim",
+        "category": "C",
+        "stars": "470",
+        "title": "vim - The official Vim repository",
+        "url": "https://github.com/vim/vim"
+    },
+    {
+        "author": "snare",
+        "category": "Python",
+        "stars": "457",
+        "title": "voltron - A hacky debugger UI for hackers",
+        "url": "https://github.com/snare/voltron"
+    },
+    {
+        "author": "googlesamples",
+        "category": "",
+        "stars": "400",
+        "title": "android-architecture - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+        "url": "https://github.com/googlesamples/android-architecture"
+    },
+    {
+        "author": "firehol",
+        "category": "C",
+        "stars": "379",
+        "title": "netdata - Real-time performance monitoring, done right!",
+        "url": "https://github.com/firehol/netdata"
+    },
+    {
+        "author": "fbsamples",
+        "category": "JavaScript",
+        "stars": "366",
+        "title": "f8app - Source code of the official F8 app of 2016",
+        "url": "https://github.com/fbsamples/f8app"
+    },
+    {
+        "author": "apple",
+        "category": "C++",
+        "stars": "237",
+        "title": "swift - The Swift Programming Language",
+        "url": "https://github.com/apple/swift"
+    },
+    {
+        "author": "deepstreamIO",
+        "category": "JavaScript",
+        "stars": "241",
+        "title": "golden-layout - The ultimate Javascript layout manager",
+        "url": "https://github.com/deepstreamIO/golden-layout"
+    }
+]

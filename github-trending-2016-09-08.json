@@ -1,0 +1,72 @@
+[
+    {
+        "author": "quilljs",
+        "category": "JavaScript",
+        "stars": "647",
+        "title": "quill - Your powerful, rich text editor",
+        "url": "https://github.com/quilljs/quill"
+    },
+    {
+        "author": "shekhargulati",
+        "category": "JavaScript",
+        "stars": "607",
+        "title": "52-technologies-in-2016 - Let's learn a new technology every week. A new technology blog every Sunday in 2016.",
+        "url": "https://github.com/shekhargulati/52-technologies-in-2016"
+    },
+    {
+        "author": "sylnsfar",
+        "category": "Python",
+        "stars": "408",
+        "title": "qrcode - artistic QR Code in Python \uff08Animated GIF qr code\uff09- Python \u827a\u672f\u4e8c\u7ef4\u7801\u751f\u6210\u5668 \uff08GIF\u52a8\u6001\u4e8c\u7ef4\u7801\u3001\u56fe\u7247\u4e8c\u7ef4\u7801\uff09",
+        "url": "https://github.com/sylnsfar/qrcode"
+    },
+    {
+        "author": "tmrts",
+        "category": "Go",
+        "stars": "296",
+        "title": "go-patterns - A curated list of Go patterns and idioms",
+        "url": "https://github.com/tmrts/go-patterns"
+    },
+    {
+        "author": "sarcadass",
+        "category": "JavaScript",
+        "stars": "292",
+        "title": "granim.js - Create fluid and interactive gradients animations with this small (< 10 kB) js library.",
+        "url": "https://github.com/sarcadass/granim.js"
+    },
+    {
+        "author": "davidferguson",
+        "category": "JavaScript",
+        "stars": "246",
+        "title": "pibakery - The blocks based, easy to use setup tool for Raspberry Pi",
+        "url": "https://github.com/davidferguson/pibakery"
+    },
+    {
+        "author": "Sunzxyong",
+        "category": "Java",
+        "stars": "222",
+        "title": "Recovery - A crash recovery framework!",
+        "url": "https://github.com/Sunzxyong/Recovery"
+    },
+    {
+        "author": "tristancalderbank",
+        "category": "Visual Basic",
+        "stars": "223",
+        "title": "excel-messenger - A silly local group messaging app where the server and all clients are excel sheets.",
+        "url": "https://github.com/tristancalderbank/excel-messenger"
+    },
+    {
+        "author": "stfalcon-studio",
+        "category": "Java",
+        "stars": "193",
+        "title": "FrescoImageViewer - Android full screen image viewer for Fresco library supporting \"pinch to zoom\" and \"swipe to dismiss\" gestures",
+        "url": "https://github.com/stfalcon-studio/FrescoImageViewer"
+    },
+    {
+        "author": "xcatliu",
+        "category": "CSS",
+        "stars": "195",
+        "title": "mobi.css - A lightweight, flexible css framework that focus on mobile.",
+        "url": "https://github.com/xcatliu/mobi.css"
+    }
+]

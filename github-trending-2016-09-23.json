@@ -1,0 +1,72 @@
+[
+    {
+        "author": "alexflint",
+        "category": "Go",
+        "stars": "1,212",
+        "title": "gallium - Build desktop applications in Go and HTML.",
+        "url": "https://github.com/alexflint/gallium"
+    },
+    {
+        "author": "airyland",
+        "category": "Vue",
+        "stars": "775",
+        "title": "vux - Mobile web UI Components based on Vue and WeUI. Be Cool with Vue & WeUI.",
+        "url": "https://github.com/airyland/vux"
+    },
+    {
+        "author": "ElemeFE",
+        "category": "Vue",
+        "stars": "595",
+        "title": "element - Desktop UI elements for Vue.js 2.0",
+        "url": "https://github.com/ElemeFE/element"
+    },
+    {
+        "author": "fogleman",
+        "category": "Go",
+        "stars": "548",
+        "title": "primitive - Reproducing images with geometric primitives.",
+        "url": "https://github.com/fogleman/primitive"
+    },
+    {
+        "author": "deepstreamIO",
+        "category": "JavaScript",
+        "stars": "548",
+        "title": "deepstream.io - deepstream.io server",
+        "url": "https://github.com/deepstreamIO/deepstream.io"
+    },
+    {
+        "author": "kholia",
+        "category": "Shell",
+        "stars": "509",
+        "title": "OSX-KVM - Running Mac OS X 10.11.6 El Capitan on KVM + QEMU",
+        "url": "https://github.com/kholia/OSX-KVM"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "415",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "alrojo",
+        "category": "Jupyter Notebook",
+        "stars": "321",
+        "title": "tensorflow-tutorial - Practical tutorials and labs for TensorFlow used by Nvidia, FFN, CNN, RNN, Kaggle, AE",
+        "url": "https://github.com/alrojo/tensorflow-tutorial"
+    },
+    {
+        "author": "TangXiaoLv",
+        "category": "Java",
+        "stars": "277",
+        "title": "TelegramGallery - world level Gallery , from Telegram \uff0cQQ \u76f8\u518c\u98ce\u683c\uff0c\u76f8\u518c\u9009\u62e9\u5668",
+        "url": "https://github.com/TangXiaoLv/TelegramGallery"
+    },
+    {
+        "author": "mandatoryprogrammer",
+        "category": "",
+        "stars": "234",
+        "title": "NorthKoreaDNSLeak - Snapshot of North Korea's DNS data taken from zone transfers.",
+        "url": "https://github.com/mandatoryprogrammer/NorthKoreaDNSLeak"
+    }
+]

@@ -1,0 +1,313 @@
+[
+    
+    {
+        "id" : 242188,
+        "title" : "你们身边写 Java 代码的人有 hacker or geek 精神吗？",
+        "url" : "http://www.v2ex.com/t/242188",
+        "content" : "我先说说我周围，经历过一些公司，发现遇到过全职做 java 的人，感觉很少是那样的，反而感觉搞 Python 或 PHP 的人会多一些那些特质呢。\u000D\u000A不知大家伙儿怎么看",
+        "content_rendered" : "我先说说我周围，经历过一些公司，发现遇到过全职做 java 的人，感觉很少是那样的，反而感觉搞 Python 或 PHP 的人会多一些那些特质呢。\u000D\u003Cbr /\u003E不知大家伙儿怎么看",
+        "replies" : 187,
+        "member" : {
+            "id" : 30946,
+            "username" : "GeekGao",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/6540/f6ff/30946_mini.png?m=1427656693",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/6540/f6ff/30946_normal.png?m=1427656693",
+            "avatar_large" : "//cdn.v2ex.co/avatar/6540/f6ff/30946_large.png?m=1427656693"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 10311,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1449482978",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1449482978",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1449482978"
+        },
+        "created" : 1449627661,
+        "last_modified" : 1449627717,
+        "last_touched" : 1449679756
+    },
+    
+    {
+        "id" : 242163,
+        "title" : "Apple Pay 居然可以添加某些国内信用卡了",
+        "url" : "http://www.v2ex.com/t/242163",
+        "content" : "只加了张中信的，建行招行试了都不行\u000D\u000A但是并没有地方可以用\u000D\u000Ahttp://ww3.sinaimg.cn/mw690/570b2ee9jw1eyt4yk84p1j20yi1pcnf0.jpg",
+        "content_rendered" : "只加了张中信的，建行招行试了都不行\u000D\u003Cbr /\u003E但是并没有地方可以用\u000D\u003Cbr /\u003E\u003Cimg src\u003D\u0022http://ww3.sinaimg.cn/mw690/570b2ee9jw1eyt4yk84p1j20yi1pcnf0.jpg\u0022 class\u003D\u0022imgly\u0022 style\u003D\u0022max\u002Dwidth: 660px\u003B\u0022 border\u003D\u00220\u0022 /\u003E ",
+        "replies" : 119,
+        "member" : {
+            "id" : 69950,
+            "username" : "sunnyyj",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/d0ca21447d6f22c385ae64aaf3dd3d9e?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/d0ca21447d6f22c385ae64aaf3dd3d9e?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/d0ca21447d6f22c385ae64aaf3dd3d9e?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 8,
+            "name" : "iphone",
+            "title" : "iPhone",
+            "title_alternative" : "iPhone",
+            "url" : "http://www.v2ex.com/go/iphone",
+            "topics" : 3207,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c9f0/f895/8_mini.png?m=1446899744",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c9f0/f895/8_normal.png?m=1446899744",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c9f0/f895/8_large.png?m=1446899744"
+        },
+        "created" : 1449623515,
+        "last_modified" : 1449623515,
+        "last_touched" : 1449679735
+    },
+    
+    {
+        "id" : 242246,
+        "title" : "我所在写字楼的 E 租宝（钰诚集团） 跑路了，楼下几百人报警",
+        "url" : "http://www.v2ex.com/t/242246",
+        "content" : "据说东三环的写字楼基本上被 E 租宝租完了，涉及面积 10 万平米，目前涉及金额 700 亿元。",
+        "content_rendered" : "据说东三环的写字楼基本上被 E 租宝租完了，涉及面积 10 万平米，目前涉及金额 700 亿元。",
+        "replies" : 82,
+        "member" : {
+            "id" : 142543,
+            "username" : "elya",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/ebe7/99ce/142543_mini.png?m=1445327808",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/ebe7/99ce/142543_normal.png?m=1445327808",
+            "avatar_large" : "//cdn.v2ex.co/avatar/ebe7/99ce/142543_large.png?m=1445327808"
+        },
+        "node" : {
+            "id" : 56,
+            "name" : "internet",
+            "title" : "互联网",
+            "title_alternative" : "Internet",
+            "url" : "http://www.v2ex.com/go/internet",
+            "topics" : 723,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/9f61/408e/56_mini.png?m=1448949997",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/9f61/408e/56_normal.png?m=1448949997",
+            "avatar_large" : "//cdn.v2ex.co/navatar/9f61/408e/56_large.png?m=1448949997"
+        },
+        "created" : 1449639671,
+        "last_modified" : 1449650574,
+        "last_touched" : 1449677384
+    },
+    
+    {
+        "id" : 242174,
+        "title" : "微信也开始学支付宝，迫使用户提供 IMEI",
+        "url" : "http://www.v2ex.com/t/242174",
+        "content" : "似乎是 Play Store 于 12 月 7 日更新的版本开始做这个恶行了。",
+        "content_rendered" : "\u003Cp\u003E似乎是 Play Store 于 12 月 7 日更新的版本开始做这个恶行了。\u003C/p\u003E\u000A",
+        "replies" : 78,
+        "member" : {
+            "id" : 88355,
+            "username" : "honeycomb",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/e0cfc4d2e0d07e4625aa7ff876ee951b?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/e0cfc4d2e0d07e4625aa7ff876ee951b?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/e0cfc4d2e0d07e4625aa7ff876ee951b?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 39,
+            "name" : "android",
+            "title" : "Android",
+            "title_alternative" : "Android",
+            "url" : "http://www.v2ex.com/go/android",
+            "topics" : 2078,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_mini.png?m=1449130820",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_normal.png?m=1449130820",
+            "avatar_large" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_large.png?m=1449130820"
+        },
+        "created" : 1449624824,
+        "last_modified" : 1449624824,
+        "last_touched" : 1449680197
+    },
+    
+    {
+        "id" : 242142,
+        "title" : "公司 3 台 mac 被盗，源码未备份，只剩 iPhone 里的 demo 程序",
+        "url" : "http://www.v2ex.com/t/242142",
+        "content" : "是朋友的公司（；￣ェ￣），源码就装在一台 mac 里，因为就一个 ios 所以也没协同开发的邮件啥的，朱军有什么好的办法可以解决目前的难题么？",
+        "content_rendered" : "\u003Cp\u003E是朋友的公司（；￣ェ￣），源码就装在一台 mac 里，因为就一个 ios 所以也没协同开发的邮件啥的，朱军有什么好的办法可以解决目前的难题么？\u003C/p\u003E\u000A",
+        "replies" : 77,
+        "member" : {
+            "id" : 67541,
+            "username" : "gotonba",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/021a/a851/67541_mini.png?m=1408623892",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/021a/a851/67541_normal.png?m=1408623892",
+            "avatar_large" : "//cdn.v2ex.co/avatar/021a/a851/67541_large.png?m=1408623892"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 61051,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1448889637",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1448889637",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1448889637"
+        },
+        "created" : 1449596224,
+        "last_modified" : 1449596224,
+        "last_touched" : 1449676656
+    },
+    
+    {
+        "id" : 242313,
+        "title" : "公司女技术同事，第二弹~~~~~",
+        "url" : "http://www.v2ex.com/t/242313",
+        "content" : "就在刚刚，女技术同事向新同事讲代码的时候，讲到变量命名。\u000D\u000A\u000D\u000A原话是：“他的这个变量命名不好，这是个 IMAGE ，但是我们把他当 BUTTON 来用，命名要写 btnXXX ，我们是这样命名的。”\u000D\u000A\u000D\u000A是的我们 UI 上有一个 IMAGE ，挂了个点击事件，因为这个 IMAGE 有点击事件，所以命名要把它当 BUTTON 。命名成 imgXXX 是错误的，要命名成 btnXXX 。\u000D\u000A\u000D\u000A然后我就默默的走开，来这吐槽了~~~~\u000D\u000A\u000D\u000A楼下有啥女技术同事的奇闻异事都共享一下呗~~~",
+        "content_rendered" : "\u003Cp\u003E就在刚刚，女技术同事向新同事讲代码的时候，讲到变量命名。\u003C/p\u003E\u000A\u000A\u003Cp\u003E原话是：“他的这个变量命名不好，这是个 IMAGE ，但是我们把他当 BUTTON 来用，命名要写 btnXXX ，我们是这样命名的。”\u003C/p\u003E\u000A\u000A\u003Cp\u003E是的我们 UI 上有一个 IMAGE ，挂了个点击事件，因为这个 IMAGE 有点击事件，所以命名要把它当 BUTTON 。命名成 imgXXX 是错误的，要命名成 btnXXX 。\u003C/p\u003E\u000A\u000A\u003Cp\u003E然后我就默默的走开，来这吐槽了~~~~\u003C/p\u003E\u000A\u000A\u003Cp\u003E楼下有啥女技术同事的奇闻异事都共享一下呗~~~\u003C/p\u003E\u000A",
+        "replies" : 73,
+        "member" : {
+            "id" : 94888,
+            "username" : "k9982874",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/5c2f/5bb4/94888_mini.png?m=1449168722",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/5c2f/5bb4/94888_normal.png?m=1449168722",
+            "avatar_large" : "//cdn.v2ex.co/avatar/5c2f/5bb4/94888_large.png?m=1449168722"
+        },
+        "node" : {
+            "id" : 770,
+            "name" : "career",
+            "title" : "职场话题",
+            "title_alternative" : "Career",
+            "url" : "http://www.v2ex.com/go/career",
+            "topics" : 1019,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1448360668",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1448360668",
+            "avatar_large" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1448360668"
+        },
+        "created" : 1449653576,
+        "last_modified" : 1449653576,
+        "last_touched" : 1449679924
+    },
+    
+    {
+        "id" : 242231,
+        "title" : "来说说你天生的与一般人不同的特性吧",
+        "url" : "http://www.v2ex.com/t/242231",
+        "content" : "我先来:\u000D\u000A1.左撇子\u000D\u000A2.怎么吃都不会胖\u000D\u000A3.每天面对电脑不低于 12 小时，但是视力依旧很好\u000D\u000A4.每次从室内走到阳光下会打喷嚏，这个还有一个很学术的名字叫“强迫性常染色体显性遗传性光眼激发综合征”",
+        "content_rendered" : "\u003Cp\u003E我先来:\u003Cbr\u003E\u000A1.左撇子\u003Cbr\u003E\u000A2.怎么吃都不会胖\u003Cbr\u003E\u000A3.每天面对电脑不低于 12 小时，但是视力依旧很好\u003Cbr\u003E\u000A4.每次从室内走到阳光下会打喷嚏，这个还有一个很学术的名字叫“强迫性常染色体显性遗传性光眼激发综合征”\u003C/p\u003E\u000A",
+        "replies" : 66,
+        "member" : {
+            "id" : 148018,
+            "username" : "miaol",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/89f022312096814ff9b068bba780c2aa?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/89f022312096814ff9b068bba780c2aa?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/89f022312096814ff9b068bba780c2aa?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 557,
+            "name" : "life",
+            "title" : "生活",
+            "title_alternative" : "Life",
+            "url" : "http://www.v2ex.com/go/life",
+            "topics" : 210,
+            "avatar_mini" : "/static/img/node_mini.png",
+            "avatar_normal" : "/static/img/node_normal.png",
+            "avatar_large" : "/static/img/node_large.png"
+        },
+        "created" : 1449637147,
+        "last_modified" : 1449637147,
+        "last_touched" : 1449676172
+    },
+    
+    {
+        "id" : 242351,
+        "title" : "APP Store 体验这么烂库克知道吗？",
+        "url" : "http://www.v2ex.com/t/242351",
+        "content" : "更新 APP 让 APP 变灰假死，这多多年网络体验一直不改善，苹果是在作死的节奏吧..",
+        "content_rendered" : "更新 APP 让 APP 变灰假死，这多多年网络体验一直不改善，苹果是在作死的节奏吧..",
+        "replies" : 51,
+        "member" : {
+            "id" : 53361,
+            "username" : "razios",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/23bf25ca6d4df60efc393c6b2cf5fb50?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/23bf25ca6d4df60efc393c6b2cf5fb50?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/23bf25ca6d4df60efc393c6b2cf5fb50?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 184,
+            "name" : "apple",
+            "title" : "Apple",
+            "title_alternative" : "Apple",
+            "url" : "http://www.v2ex.com/go/apple",
+            "topics" : 1976,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/6cdd/60ea/184_mini.png?m=1438057435",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/6cdd/60ea/184_normal.png?m=1438057435",
+            "avatar_large" : "//cdn.v2ex.co/navatar/6cdd/60ea/184_large.png?m=1438057435"
+        },
+        "created" : 1449662919,
+        "last_modified" : 1449662919,
+        "last_touched" : 1449679039
+    },
+    
+    {
+        "id" : 242238,
+        "title" : "OSX 系统真是鸡，数字光纤音频系统竟然不能调音量， win10 可以",
+        "url" : "http://www.v2ex.com/t/242238",
+        "content" : "昨天晚上看机箱后面的时候发现后面竟然有红光\u000D\u000A原来我 200 收的二手技嘉 Z68P\u002DDS3 竟然有音频光纤接口\u000D\u000A立马就接上了音箱试了下\u000D\u000A结果竟然不能调音量，我也是醉了\u000D\u000A重启换成 win10 可调.........",
+        "content_rendered" : "昨天晚上看机箱后面的时候发现后面竟然有红光\u000D\u003Cbr /\u003E原来我 200 收的二手技嘉 Z68P\u002DDS3 竟然有音频光纤接口\u000D\u003Cbr /\u003E立马就接上了音箱试了下\u000D\u003Cbr /\u003E结果竟然不能调音量，我也是醉了\u000D\u003Cbr /\u003E重启换成 win10 可调.........",
+        "replies" : 47,
+        "member" : {
+            "id" : 22006,
+            "username" : "liuxl8964",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/c37c/bf19/22006_mini.png?m=1340290828",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/c37c/bf19/22006_normal.png?m=1340290828",
+            "avatar_large" : "//cdn.v2ex.co/avatar/c37c/bf19/22006_large.png?m=1340290828"
+        },
+        "node" : {
+            "id" : 22,
+            "name" : "macosx",
+            "title" : "Mac OS X",
+            "title_alternative" : "Mac OS X",
+            "url" : "http://www.v2ex.com/go/macosx",
+            "topics" : 7377,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/b6d7/67d2/22_mini.png?m=1448889569",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/b6d7/67d2/22_normal.png?m=1448889569",
+            "avatar_large" : "//cdn.v2ex.co/navatar/b6d7/67d2/22_large.png?m=1448889569"
+        },
+        "created" : 1449638305,
+        "last_modified" : 1449638305,
+        "last_touched" : 1449664428
+    },
+    
+    {
+        "id" : 242168,
+        "title" : "码农如何提高睡眠质量？",
+        "url" : "http://www.v2ex.com/t/242168",
+        "content" : "每天 11 点左右睡， 7 点起床去赶地铁，睡眠时间不短，但是睡着时会做梦，醒来会感觉很累。\u000D\u000A\u000D\u000A买过泰国乳胶枕，如家的羽毛枕，试过睡前喝热牛奶等，效果都一般。\u000D\u000A\u000D\u000A看到有人说 muji 的香薰机配薄荷精油可以试试，除了这些还有什么好办法么？主要感觉低质量睡眠会影响工作效率。",
+        "content_rendered" : "\u003Cp\u003E每天 11 点左右睡， 7 点起床去赶地铁，睡眠时间不短，但是睡着时会做梦，醒来会感觉很累。\u003C/p\u003E\u000A\u000A\u003Cp\u003E买过泰国乳胶枕，如家的羽毛枕，试过睡前喝热牛奶等，效果都一般。\u003C/p\u003E\u000A\u000A\u003Cp\u003E看到有人说 muji 的香薰机配薄荷精油可以试试，除了这些还有什么好办法么？主要感觉低质量睡眠会影响工作效率。\u003C/p\u003E\u000A",
+        "replies" : 43,
+        "member" : {
+            "id" : 149165,
+            "username" : "GhostEX",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/0f7bd0753c853e83a6b5067e37eaea14?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/0f7bd0753c853e83a6b5067e37eaea14?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/0f7bd0753c853e83a6b5067e37eaea14?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 61051,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1448889637",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1448889637",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1448889637"
+        },
+        "created" : 1449624199,
+        "last_modified" : 1449624199,
+        "last_touched" : 1449663611
+    }
+    
+]

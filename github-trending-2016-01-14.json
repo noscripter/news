@@ -1,0 +1,72 @@
+[
+    {
+        "author": "Microsoft",
+        "category": "JavaScript",
+        "stars": "1,750",
+        "title": "ChakraCore - ChakraCore is the core part of the Chakra Javascript engine that powers Microsoft Edge",
+        "url": "https://github.com/Microsoft/ChakraCore"
+    },
+    {
+        "author": "braydie",
+        "category": "",
+        "stars": "574",
+        "title": "HowToBeAProgrammer - A guide on how to be a Programmer - originally published by Robert L Read",
+        "url": "https://github.com/braydie/HowToBeAProgrammer"
+    },
+    {
+        "author": "lodash",
+        "category": "JavaScript",
+        "stars": "525",
+        "title": "lodash - A JavaScript utility library delivering consistency, modularity, performance, & extras.",
+        "url": "https://github.com/lodash/lodash"
+    },
+    {
+        "author": "mshang",
+        "category": "Python",
+        "stars": "450",
+        "title": "python-elevator-challenge - So You Think You Can Program An Elevator",
+        "url": "https://github.com/mshang/python-elevator-challenge"
+    },
+    {
+        "author": "mhinz",
+        "category": "",
+        "stars": "463",
+        "title": "vim-galore - Everything you need to know about Vim.",
+        "url": "https://github.com/mhinz/vim-galore"
+    },
+    {
+        "author": "JakeLin",
+        "category": "Swift",
+        "stars": "459",
+        "title": "IBAnimatable - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.",
+        "url": "https://github.com/JakeLin/IBAnimatable"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "413",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "luin",
+        "category": "JavaScript",
+        "stars": "362",
+        "title": "medis - Medis is a beautiful, easy-to-use Mac database management application for Redis.",
+        "url": "https://github.com/luin/medis"
+    },
+    {
+        "author": "loverajoel",
+        "category": "JavaScript",
+        "stars": "354",
+        "title": "jstips - This is about one JS tip every day!",
+        "url": "https://github.com/loverajoel/jstips"
+    },
+    {
+        "author": "jlevy",
+        "category": "",
+        "stars": "346",
+        "title": "og-equity-compensation - Stock options, RSUs, taxes \u2014 a guide for humans",
+        "url": "https://github.com/jlevy/og-equity-compensation"
+    }
+]

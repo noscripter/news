@@ -1,0 +1,72 @@
+[
+    {
+        "author": "braydie",
+        "category": "",
+        "stars": "678",
+        "title": "HowToBeAProgrammer - A guide on how to be a Programmer - originally published by Robert L Read",
+        "url": "https://github.com/braydie/HowToBeAProgrammer"
+    },
+    {
+        "author": "keithwhor",
+        "category": "JavaScript",
+        "stars": "689",
+        "title": "nodal - Web Servers Made Easy With Node.js",
+        "url": "https://github.com/keithwhor/nodal"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "627",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "0x5e",
+        "category": "Python",
+        "stars": "399",
+        "title": "wechat-deleted-friends - \u67e5\u770b\u88ab\u5220\u7684\u5fae\u4fe1\u597d\u53cb",
+        "url": "https://github.com/0x5e/wechat-deleted-friends"
+    },
+    {
+        "author": "matryer",
+        "category": "Objective-C",
+        "stars": "469",
+        "title": "bitbar - Put the output from any script or program in your Mac OS X Menu Bar",
+        "url": "https://github.com/matryer/bitbar"
+    },
+    {
+        "author": "petehunt",
+        "category": "",
+        "stars": "457",
+        "title": "react-howto - Your guide to the (sometimes overwhelming!) React ecosystem.",
+        "url": "https://github.com/petehunt/react-howto"
+    },
+    {
+        "author": "mhinz",
+        "category": "",
+        "stars": "398",
+        "title": "vim-galore - Everything you need to know about Vim.",
+        "url": "https://github.com/mhinz/vim-galore"
+    },
+    {
+        "author": "jlevy",
+        "category": "",
+        "stars": "261",
+        "title": "the-art-of-command-line - Master the command line, in one page",
+        "url": "https://github.com/jlevy/the-art-of-command-line"
+    },
+    {
+        "author": "loverajoel",
+        "category": "JavaScript",
+        "stars": "250",
+        "title": "jstips - This is about one JS tip every day!",
+        "url": "https://github.com/loverajoel/jstips"
+    },
+    {
+        "author": "coryhouse",
+        "category": "JavaScript",
+        "stars": "213",
+        "title": "react-slingshot - React + Redux starter kit with Babel, hot reloading, testing, linting and a working example app, all built in",
+        "url": "https://github.com/coryhouse/react-slingshot"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "449",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "allenwong",
+        "category": "Objective-C",
+        "stars": "413",
+        "title": "30DaysofSwift - A self taught project to learn swift.",
+        "url": "https://github.com/allenwong/30DaysofSwift"
+    },
+    {
+        "author": "so-fancy",
+        "category": "Shell",
+        "stars": "259",
+        "title": "diff-so-fancy - Good-lookin' diffs with diff-highlight and more",
+        "url": "https://github.com/so-fancy/diff-so-fancy"
+    },
+    {
+        "author": "bytedeco",
+        "category": "Java",
+        "stars": "227",
+        "title": "javacpp - The missing bridge between Java and native C++",
+        "url": "https://github.com/bytedeco/javacpp"
+    },
+    {
+        "author": "electronicarts",
+        "category": "C++",
+        "stars": "202",
+        "title": "EASTL - EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.",
+        "url": "https://github.com/electronicarts/EASTL"
+    },
+    {
+        "author": "jakiestfu",
+        "category": "JavaScript",
+        "stars": "205",
+        "title": "himawari.js - Download real-time images of Earth from the Himawari-8 satellite",
+        "url": "https://github.com/jakiestfu/himawari.js"
+    },
+    {
+        "author": "pinterest",
+        "category": "JavaScript",
+        "stars": "191",
+        "title": "teletraan - Teletraan is Pinterest's deploy system.",
+        "url": "https://github.com/pinterest/teletraan"
+    },
+    {
+        "author": "StevenBlack",
+        "category": "Python",
+        "stars": "183",
+        "title": "hosts - Extending and consolidating hosts files from a variety of sources like adaway.org, mvps.org, malwaredomains.com, someonewhocares.org, yoyo.org, and potentially others.",
+        "url": "https://github.com/StevenBlack/hosts"
+    },
+    {
+        "author": "jbranchaud",
+        "category": "",
+        "stars": "163",
+        "title": "til - Today I Learned",
+        "url": "https://github.com/jbranchaud/til"
+    },
+    {
+        "author": "danielquinn",
+        "category": "Python",
+        "stars": "105",
+        "title": "paperless - Scan, index, and archive all of your paper documents",
+        "url": "https://github.com/danielquinn/paperless"
+    }
+]

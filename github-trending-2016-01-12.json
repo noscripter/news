@@ -1,0 +1,72 @@
+[
+    {
+        "author": "jlevy",
+        "category": "",
+        "stars": "1,728",
+        "title": "og-equity-compensation - Stock options, RSUs, taxes \u2014 a guide for humans",
+        "url": "https://github.com/jlevy/og-equity-compensation"
+    },
+    {
+        "author": "mhinz",
+        "category": "",
+        "stars": "722",
+        "title": "vim-galore - Everything you need to know about Vim.",
+        "url": "https://github.com/mhinz/vim-galore"
+    },
+    {
+        "author": "braydie",
+        "category": "",
+        "stars": "635",
+        "title": "HowToBeAProgrammer - A guide on how to be a Programmer - originally published by Robert L Read",
+        "url": "https://github.com/braydie/HowToBeAProgrammer"
+    },
+    {
+        "author": "loverajoel",
+        "category": "JavaScript",
+        "stars": "540",
+        "title": "jstips - This is about one JS tip every day!",
+        "url": "https://github.com/loverajoel/jstips"
+    },
+    {
+        "author": "atConf",
+        "category": "",
+        "stars": "497",
+        "title": "atswift-2016-resources - Resource files for atswift conference 2016, including keynote, pdf, source projects or playgrounds. 2016\u4e2d\u56fdSwift\u5f00\u53d1\u8005\u5927\u4f1a\u6e90\u6587\u4ef6\uff0c\u5305\u62eckeynote, pdf \u548c\u6e90\u5de5\u7a0b\u6587\u4ef6",
+        "url": "https://github.com/atConf/atswift-2016-resources"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "428",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "viljamis",
+        "category": "HTML",
+        "stars": "428",
+        "title": "feature.js - Feature.js is a fast, simple and lightweight browser feature detection library in 1kb.",
+        "url": "https://github.com/viljamis/feature.js"
+    },
+    {
+        "author": "luin",
+        "category": "JavaScript",
+        "stars": "349",
+        "title": "medis - Medis is a beautiful, easy-to-use Mac database management application for Redis.",
+        "url": "https://github.com/luin/medis"
+    },
+    {
+        "author": "milligram",
+        "category": "CSS",
+        "stars": "331",
+        "title": "milligram - A minimalist CSS framework.",
+        "url": "https://github.com/milligram/milligram"
+    },
+    {
+        "author": "open-source-society",
+        "category": "",
+        "stars": "225",
+        "title": "computer-science - Path to a free self-taught education in Computer Science!",
+        "url": "https://github.com/open-source-society/computer-science"
+    }
+]

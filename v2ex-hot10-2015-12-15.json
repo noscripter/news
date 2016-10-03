@@ -1,0 +1,282 @@
+[
+    
+    {
+        "id" : 243442,
+        "title" : "我哥被骗进传销了",
+        "url" : "http://www.v2ex.com/t/243442",
+        "content" : "打电话给他同事发暗号，可以肯定是被骗进去限制人身自由了，我想知道怎么养通过手机定位找到他？各位有什么方法吗？打算今晚赶过去到当地报警，不知道有用吗？唉，没敢通知家人，怕他们担心，怎么办",
+        "content_rendered" : "\u003Cp\u003E打电话给他同事发暗号，可以肯定是被骗进去限制人身自由了，我想知道怎么养通过手机定位找到他？各位有什么方法吗？打算今晚赶过去到当地报警，不知道有用吗？唉，没敢通知家人，怕他们担心，怎么办\u003C/p\u003E\u000A",
+        "replies" : 79,
+        "member" : {
+            "id" : 89272,
+            "username" : "nightcat",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/aec2/da5f/89272_mini.png?m=1429107046",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/aec2/da5f/89272_normal.png?m=1429107046",
+            "avatar_large" : "//cdn.v2ex.co/avatar/aec2/da5f/89272_large.png?m=1429107046"
+        },
+        "node" : {
+            "id" : 320,
+            "name" : "wtf",
+            "title" : "不靠谱茶话会",
+            "title_alternative" : "WTF",
+            "url" : "http://www.v2ex.com/go/wtf",
+            "topics" : 157,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/3207/2254/320_mini.png?m=1435210420",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/3207/2254/320_normal.png?m=1435210420",
+            "avatar_large" : "//cdn.v2ex.co/navatar/3207/2254/320_large.png?m=1435210420"
+        },
+        "created" : 1450078427,
+        "last_modified" : 1450079634,
+        "last_touched" : 1450155380
+    },
+    
+    {
+        "id" : 243591,
+        "title" : "国外往国内传 5 个 G 的文件，什么方式最快？",
+        "url" : "http://www.v2ex.com/t/243591",
+        "content" : "朋友在国内，要下一个放在 google drive 上的 5 个 G 的文件，他下载实在太慢，我在国外，帮他下好。\u000D\u000A那么现在用什么方式最快传给他？ QQ 百度的什么好慢",
+        "content_rendered" : "\u003Cp\u003E朋友在国内，要下一个放在 google drive 上的 5 个 G 的文件，他下载实在太慢，我在国外，帮他下好。\u003Cbr\u003E\u000A那么现在用什么方式最快传给他？ QQ 百度的什么好慢\u003C/p\u003E\u000A",
+        "replies" : 77,
+        "member" : {
+            "id" : 69265,
+            "username" : "xmy2232867",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/88818c4cca28e40710b783f2b5b63d2f?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/88818c4cca28e40710b783f2b5b63d2f?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/88818c4cca28e40710b783f2b5b63d2f?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 61355,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1448889637",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1448889637",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1448889637"
+        },
+        "created" : 1450111436,
+        "last_modified" : 1450111436,
+        "last_touched" : 1450155351
+    },
+    
+    {
+        "id" : 243548,
+        "title" : "据说 Vimer 里面分三个派别",
+        "url" : "http://www.v2ex.com/t/243548",
+        "content" : "一派是按 esc 的，一派是手掌按 ctrl 的，一派是把 caps lock 换成 ctrl 的……\u000D\u000A\u000D\u000A我是 caps lock 派的……",
+        "content_rendered" : "一派是按 esc 的，一派是手掌按 ctrl 的，一派是把 caps lock 换成 ctrl 的……\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E我是 caps lock 派的……",
+        "replies" : 72,
+        "member" : {
+            "id" : 15583,
+            "username" : "timothyye",
+            "tagline" : "Time lapse...",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/f0a6/7f9b/15583_mini.png?m=1392613619",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/f0a6/7f9b/15583_normal.png?m=1392613619",
+            "avatar_large" : "//cdn.v2ex.co/avatar/f0a6/7f9b/15583_large.png?m=1392613619"
+        },
+        "node" : {
+            "id" : 249,
+            "name" : "vim",
+            "title" : "Vim",
+            "title_alternative" : "Vim",
+            "url" : "http://www.v2ex.com/go/vim",
+            "topics" : 250,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/077e/29b1/249_mini.png?m=1423922296",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/077e/29b1/249_normal.png?m=1423922296",
+            "avatar_large" : "//cdn.v2ex.co/navatar/077e/29b1/249_large.png?m=1423922296"
+        },
+        "created" : 1450099143,
+        "last_modified" : 1450099143,
+        "last_touched" : 1450154741
+    },
+    
+    {
+        "id" : 243446,
+        "title" : "“空置床位”你愿意分享吗？",
+        "url" : "http://www.v2ex.com/t/243446",
+        "content" : "互联网依托下的共享经济似乎发展的如火如荼，由 Uber 和 Airbnb 充当领头羊在全球“攻城拔寨”，让我们见识到“共享经济”这块美好的蛋糕巨大威力之余，背后所隐现的则是 Uber 频频受到各国政府的刁难。改变行业格局的确要接受点阻力，追捧与争议并存也彰显着共享经济巨大的生命力。\u000D\u000A\u000D\u000A在共享经济下，“你的是我的，我的还是我的”这句朋友之间的“玩笑话”就凸显出一些意味来，分享变得越来越简单、时间、旅行、房子、交通工具、技能等没有不可分享的！闲 /空置的东西焕发新春有了新的价值展现，何乐而不为呢？以前背起背包穷游时，在千篇一律的青旅结识来自于各地的他乡人也是一种不错的经历，只是期许一张床位安身入眠，难道真的是留连青旅？只是为了节省开支而已，住宾馆曾几何时只是奢望！现在，用“芝麻拼房”就可以实现了。\u000D\u000A\u000D\u000A“芝麻拼房”是一个提供给使用者将自己的空置床位分享出去，或者寻找空置床位的平台。在平台上你可以觅寻钟意邻近的酒店空床位，也可以发布自己的空床位，分享者可以选择共享方式（有 AA 、一方全部承担、或者进一步协商三种）。“芝麻拼房”的目标用户可以说是单身旅行者、单身商务人士，也可以是两个人、三个人甚至是一家人，“节约一半房费、甚至是 3/4 甚至更多，还能结识陌生的朋友，拓展自己的人际关系网”。\u000D\u000A\u000D\u000A分享的床位可以是大酒店的、同样也可以是别墅、旅社等，类 Airbnb 的细分领域，与国外的著名共享床位平台 Easynest 共享机制是类同的！芝麻拼房的操作模式非常简便，注册一个账号、然后在个人页面上介绍自己，填写的越完善更易得到对方的信任感，发布拼房需求更是可以以“一键拼房”来形容，然后点击参与者的个人页面查看对方的详情信息，钟意的话可以私聊沟通。\u000D\u000A\u000D\u000A其外，芝麻拼房的 LBS 位置功能，也可以让需求者随时随地一键查看周遭的拼房信息，免却了查找拼房信息的步骤。如果你发布的拼房信息参与者多的话，那么供你选择的余地也就随之增加。\u000D\u000A\u000D\u000A共享经济下的产物（ Uber 、 Airbnb 同样无可幸免）无不为“安全”所诟病，“芝麻拼房”有自己的一套安全机制。从技术层面来看，在个人信息中可以选择是否视频、身份证这两项认证选项，其实不认证也是可以使用全部功能，认证完了之后更可以取得对方的信任。同时，还与卡拉信用达成合作，所有用户需要经过卡拉信用的二次认证。\u000D\u000A\u000D\u000A有多少人愿意选择拼房？又有多少人愿意与陌生人共处一室？这是不得不考量的最现实的问题，如果在国外那样观念开放的环境下尚可进行的一帆风顺，那么在中国又是另一番场景。还是观念、安全的双重制约，说安全难道沙发客、青年旅社这些就是埋伏着潜在危险，最终还是观念问题，虽然现在中国年轻人的观念慢慢的比较开放，但与国外相比依然存在着差距！\u000D\u000A\u000D\u000A网上对于这款 App 所产生的一些疑问列举：\u000D\u000A\u000D\u000AQ ：酒店怎么拼，和一个陌生人住一个房间？ 这个恐怕大多数人接受不了吧！\u000D\u000A\u000D\u000AA ：这个确实，在国外很常见的一种分享型竞价下的交友模式，在国内很难去推广，因为人们的心里观念还未与国际接轨，这是需要考量的必要点之一。不过有需求的地方就有市场，这个恐怕是不会错的。\u000D\u000A\u000D\u000AQ ：确实单人出行经常会有想拼房的需求...然而往往是每次我只想找个妹子拼房 share 费用但不要一起玩，妹子却想的是找人一起行动...\u000D\u000A\u000D\u000AA ：现实这个还未有一个很好的解决办法，究其缘由还是思想观念上面的问题，未能达成一致，就是你想的是一方面，人家想的是另一方面！\u000D\u000A\u000D\u000AQ ：观念问题是这款软件的掣肘，如果是外国可能会欣然接受这种方式，但是在国内恐怕远远不及！\u000D\u000A\u000D\u000AA ： 90 后现在慢慢也与国际接轨 在某些方面，况且这款软件的主要用户群是驴友 旅行人士，所以他们应该很容易接受这种方式\u000D\u000A\u000D\u000A综上网友所提出来的疑问可见，凡是陌生社交类的 App 终究逃脱不了被贴上这样或那样的标签，很多 App 开发者均想复制陌陌成功模式，君不见陌陌则是极力撕掉当初被冠以的“约 Pao ”标签，可芝麻拼房如何规避这类的问题？拭目以待！",
+        "content_rendered" : "互联网依托下的共享经济似乎发展的如火如荼，由 Uber 和 Airbnb 充当领头羊在全球“攻城拔寨”，让我们见识到“共享经济”这块美好的蛋糕巨大威力之余，背后所隐现的则是 Uber 频频受到各国政府的刁难。改变行业格局的确要接受点阻力，追捧与争议并存也彰显着共享经济巨大的生命力。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E在共享经济下，“你的是我的，我的还是我的”这句朋友之间的“玩笑话”就凸显出一些意味来，分享变得越来越简单、时间、旅行、房子、交通工具、技能等没有不可分享的！闲 /空置的东西焕发新春有了新的价值展现，何乐而不为呢？以前背起背包穷游时，在千篇一律的青旅结识来自于各地的他乡人也是一种不错的经历，只是期许一张床位安身入眠，难道真的是留连青旅？只是为了节省开支而已，住宾馆曾几何时只是奢望！现在，用“芝麻拼房”就可以实现了。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E“芝麻拼房”是一个提供给使用者将自己的空置床位分享出去，或者寻找空置床位的平台。在平台上你可以觅寻钟意邻近的酒店空床位，也可以发布自己的空床位，分享者可以选择共享方式（有 AA 、一方全部承担、或者进一步协商三种）。“芝麻拼房”的目标用户可以说是单身旅行者、单身商务人士，也可以是两个人、三个人甚至是一家人，“节约一半房费、甚至是 3/4 甚至更多，还能结识陌生的朋友，拓展自己的人际关系网”。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E分享的床位可以是大酒店的、同样也可以是别墅、旅社等，类 Airbnb 的细分领域，与国外的著名共享床位平台 Easynest 共享机制是类同的！芝麻拼房的操作模式非常简便，注册一个账号、然后在个人页面上介绍自己，填写的越完善更易得到对方的信任感，发布拼房需求更是可以以“一键拼房”来形容，然后点击参与者的个人页面查看对方的详情信息，钟意的话可以私聊沟通。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E其外，芝麻拼房的 LBS 位置功能，也可以让需求者随时随地一键查看周遭的拼房信息，免却了查找拼房信息的步骤。如果你发布的拼房信息参与者多的话，那么供你选择的余地也就随之增加。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E共享经济下的产物（ Uber 、 Airbnb 同样无可幸免）无不为“安全”所诟病，“芝麻拼房”有自己的一套安全机制。从技术层面来看，在个人信息中可以选择是否视频、身份证这两项认证选项，其实不认证也是可以使用全部功能，认证完了之后更可以取得对方的信任。同时，还与卡拉信用达成合作，所有用户需要经过卡拉信用的二次认证。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E有多少人愿意选择拼房？又有多少人愿意与陌生人共处一室？这是不得不考量的最现实的问题，如果在国外那样观念开放的环境下尚可进行的一帆风顺，那么在中国又是另一番场景。还是观念、安全的双重制约，说安全难道沙发客、青年旅社这些就是埋伏着潜在危险，最终还是观念问题，虽然现在中国年轻人的观念慢慢的比较开放，但与国外相比依然存在着差距！\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E网上对于这款 App 所产生的一些疑问列举：\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003EQ ：酒店怎么拼，和一个陌生人住一个房间？ 这个恐怕大多数人接受不了吧！\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003EA ：这个确实，在国外很常见的一种分享型竞价下的交友模式，在国内很难去推广，因为人们的心里观念还未与国际接轨，这是需要考量的必要点之一。不过有需求的地方就有市场，这个恐怕是不会错的。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003EQ ：确实单人出行经常会有想拼房的需求...然而往往是每次我只想找个妹子拼房 share 费用但不要一起玩，妹子却想的是找人一起行动...\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003EA ：现实这个还未有一个很好的解决办法，究其缘由还是思想观念上面的问题，未能达成一致，就是你想的是一方面，人家想的是另一方面！\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003EQ ：观念问题是这款软件的掣肘，如果是外国可能会欣然接受这种方式，但是在国内恐怕远远不及！\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003EA ： 90 后现在慢慢也与国际接轨 在某些方面，况且这款软件的主要用户群是驴友 旅行人士，所以他们应该很容易接受这种方式\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E综上网友所提出来的疑问可见，凡是陌生社交类的 App 终究逃脱不了被贴上这样或那样的标签，很多 App 开发者均想复制陌陌成功模式，君不见陌陌则是极力撕掉当初被冠以的“约 Pao ”标签，可芝麻拼房如何规避这类的问题？拭目以待！",
+        "replies" : 67,
+        "member" : {
+            "id" : 148153,
+            "username" : "pyg992313",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/896b/6f24/148153_mini.png?m=1448246066",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/896b/6f24/148153_normal.png?m=1448246066",
+            "avatar_large" : "//cdn.v2ex.co/avatar/896b/6f24/148153_large.png?m=1448246066"
+        },
+        "node" : {
+            "id" : 181,
+            "name" : "travel",
+            "title" : "旅行",
+            "title_alternative" : "Travel",
+            "url" : "http://www.v2ex.com/go/travel",
+            "topics" : 223,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/fc22/1309/181_mini.png?m=1447888537",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/fc22/1309/181_normal.png?m=1447888537",
+            "avatar_large" : "//cdn.v2ex.co/navatar/fc22/1309/181_large.png?m=1447888537"
+        },
+        "created" : 1450079064,
+        "last_modified" : 1450079064,
+        "last_touched" : 1450154532
+    },
+    
+    {
+        "id" : 243408,
+        "title" : "现在联通已经这么无耻了么？",
+        "url" : "http://www.v2ex.com/t/243408",
+        "content" : "北京联通，看图吧，哪哪都是这货，连微信支付里面都出来了\u000D\u000A\u000D\u000A图呢？\u000D\u000Ahttp://ww1.sinaimg.cn/bmiddle/6318242bgw1eyz4rimdigj20ku112qam.jpg\u000D\u000Ahttp://ww1.sinaimg.cn/bmiddle/6318242bgw1eyz4rkhahyj20ku112gtf.jpg\u000D\u000Ahttp://ww3.sinaimg.cn/bmiddle/6318242bgw1eyz4rlygb9j20ku112wio.jpg",
+        "content_rendered" : "\u003Cp\u003E北京联通，看图吧，哪哪都是这货，连微信支付里面都出来了\u003C/p\u003E\u000A\u000A\u003Cp\u003E图呢？\u003Cbr\u003E\u000A\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://ww1.sinaimg.cn/bmiddle/6318242bgw1eyz4rimdigj20ku112qam.jpg\u0022\u003Ehttp://ww1.sinaimg.cn/bmiddle/6318242bgw1eyz4rimdigj20ku112qam.jpg\u003C/a\u003E\u003Cbr\u003E\u000A\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://ww1.sinaimg.cn/bmiddle/6318242bgw1eyz4rkhahyj20ku112gtf.jpg\u0022\u003Ehttp://ww1.sinaimg.cn/bmiddle/6318242bgw1eyz4rkhahyj20ku112gtf.jpg\u003C/a\u003E\u003Cbr\u003E\u000A\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://ww3.sinaimg.cn/bmiddle/6318242bgw1eyz4rlygb9j20ku112wio.jpg\u0022\u003Ehttp://ww3.sinaimg.cn/bmiddle/6318242bgw1eyz4rlygb9j20ku112wio.jpg\u003C/a\u003E\u003C/p\u003E\u000A",
+        "replies" : 59,
+        "member" : {
+            "id" : 51512,
+            "username" : "watara",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/c7722e018256b4b9b842d95d3b468775?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/c7722e018256b4b9b842d95d3b468775?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/c7722e018256b4b9b842d95d3b468775?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 108,
+            "name" : "bb",
+            "title" : "宽带症候群",
+            "title_alternative" : "Broadband Symptom Complex",
+            "url" : "http://www.v2ex.com/go/bb",
+            "topics" : 1130,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/a3c6/5c29/108_mini.png?m=1441773183",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/a3c6/5c29/108_normal.png?m=1441773183",
+            "avatar_large" : "//cdn.v2ex.co/navatar/a3c6/5c29/108_large.png?m=1441773183"
+        },
+        "created" : 1450071227,
+        "last_modified" : 1450079828,
+        "last_touched" : 1450116498
+    },
+    
+    {
+        "id" : 243447,
+        "title" : "美剧《冰血暴》碉到炸！导演是《绝命毒师》的导演，监制是科恩兄弟",
+        "url" : "http://www.v2ex.com/t/243447",
+        "content" : "之前我就看过《冰血暴》的电影版（科恩兄弟）早期作品。\u000D\u000A\u000D\u000A但这个电视剧版的《冰血暴》其实跟电影没啥大的联系，就是借了个壳，好久没有这么一爽到底的片儿了，一口气看完第一季！\u000D\u000A\u000D\u000A神剧，别具一格。",
+        "content_rendered" : "之前我就看过《冰血暴》的电影版（科恩兄弟）早期作品。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E但这个电视剧版的《冰血暴》其实跟电影没啥大的联系，就是借了个壳，好久没有这么一爽到底的片儿了，一口气看完第一季！\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E神剧，别具一格。",
+        "replies" : 59,
+        "member" : {
+            "id" : 142543,
+            "username" : "elya",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/ebe7/99ce/142543_mini.png?m=1445327808",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/ebe7/99ce/142543_normal.png?m=1445327808",
+            "avatar_large" : "//cdn.v2ex.co/avatar/ebe7/99ce/142543_large.png?m=1445327808"
+        },
+        "node" : {
+            "id" : 48,
+            "name" : "tv",
+            "title" : "剧集",
+            "title_alternative" : "TV",
+            "url" : "http://www.v2ex.com/go/tv",
+            "topics" : 288,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/642e/92ef/48_mini.png?m=1366783293",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/642e/92ef/48_normal.png?m=1366783293",
+            "avatar_large" : "//cdn.v2ex.co/navatar/642e/92ef/48_large.png?m=1366783293"
+        },
+        "created" : 1450079150,
+        "last_modified" : 1450079150,
+        "last_touched" : 1450155548
+    },
+    
+    {
+        "id" : 243597,
+        "title" : "公司要裁员了，面临三个选择。",
+        "url" : "http://www.v2ex.com/t/243597",
+        "content" : "好吧，我失眠了。昨天部门领导找每个人谈话，公司要在北京进行裁员，我们目前的业务被整个裁掉，已经在外面拿到了融资，成立新公司，目前面临三个选择：\u000D\u000A\u000D\u000A1. 调动到深圳总部\u000D\u000A2. 被裁员，拿赔偿金，再找一份工作\u000D\u000A3. 被裁员，拿赔偿金，去新公司继续做现在做的事，拿一些期权，薪水不变\u000D\u000A\u000D\u000A说说我现在的状态，某即将 IPO 的硬件公司， PHP 工程师，税前年收益 25 万左右。\u000D\u000A\u000D\u000A再来说说我的困惑：\u000D\u000A\u000D\u000A1. 如果只从个人方面考虑，我是更希望在深圳发展和生活的，不过 GF 目前在北京发展前景更好一些，一起去深圳现在并不是一个好的时机。\u000D\u000A2. 不知道有没有同学对我有印象，我是一个比较爱折腾的人，年初刚支教结束， 3 月份来到北京，在某影时代干了三个月，经历了一个月的 997 ，项目结束后果断离职， 6 月份来到了现在这个公司，走路十分钟上下班，其实找一份薪水比现在高的工作，也并不难，上一次求职最后百度和一些创业公司我都放弃了。问题是如果再找份工作，简历简直无法直视，一年内换三份工作。我不知道我的下一个公司会不会介意，但起码我个人还是挺介意这个事情的。\u000D\u000A3. 虽然 PHP 是最好的语言，但最近正在一门心思的看 JavaScript 和 Node\u000D\u000A4. 平心而论，我并不想去新公司，这是一个最省心的选择，但如果这算一次求职的话，这样一家创业公司不会在我的考虑范围内\u000D\u000A\u000D\u000A公司领导想在今天或者明天知道我的选择，求解惑。",
+        "content_rendered" : "\u003Cp\u003E好吧，我失眠了。昨天部门领导找每个人谈话，公司要在北京进行裁员，我们目前的业务被整个裁掉，已经在外面拿到了融资，成立新公司，目前面临三个选择：\u003C/p\u003E\u000A\u000A\u003Col\u003E\u000A\u003Cli\u003E调动到深圳总部\u003C/li\u003E\u000A\u003Cli\u003E被裁员，拿赔偿金，再找一份工作\u003C/li\u003E\u000A\u003Cli\u003E被裁员，拿赔偿金，去新公司继续做现在做的事，拿一些期权，薪水不变\u003C/li\u003E\u000A\u003C/ol\u003E\u000A\u000A\u003Cp\u003E说说我现在的状态，某即将 IPO 的硬件公司， PHP 工程师，税前年收益 25 万左右。\u003C/p\u003E\u000A\u000A\u003Cp\u003E再来说说我的困惑：\u003C/p\u003E\u000A\u000A\u003Col\u003E\u000A\u003Cli\u003E如果只从个人方面考虑，我是更希望在深圳发展和生活的，不过 GF 目前在北京发展前景更好一些，一起去深圳现在并不是一个好的时机。\u003C/li\u003E\u000A\u003Cli\u003E不知道有没有同学对我有印象，我是一个比较爱折腾的人，年初刚支教结束， 3 月份来到北京，在某影时代干了三个月，经历了一个月的 997 ，项目结束后果断离职， 6 月份来到了现在这个公司，走路十分钟上下班，其实找一份薪水比现在高的工作，也并不难，上一次求职最后百度和一些创业公司我都放弃了。问题是如果再找份工作，简历简直无法直视，一年内换三份工作。我不知道我的下一个公司会不会介意，但起码我个人还是挺介意这个事情的。\u003C/li\u003E\u000A\u003Cli\u003E虽然 PHP 是最好的语言，但最近正在一门心思的看 JavaScript 和 Node\u003C/li\u003E\u000A\u003Cli\u003E平心而论，我并不想去新公司，这是一个最省心的选择，但如果这算一次求职的话，这样一家创业公司不会在我的考虑范围内\u003C/li\u003E\u000A\u003C/ol\u003E\u000A\u000A\u003Cp\u003E公司领导想在今天或者明天知道我的选择，求解惑。\u003C/p\u003E\u000A",
+        "replies" : 55,
+        "member" : {
+            "id" : 2545,
+            "username" : "m4ker",
+            "tagline" : "做一个没有梦想的人",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/9d28/de8f/2545_mini.png?m=1423289047",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/9d28/de8f/2545_normal.png?m=1423289047",
+            "avatar_large" : "//cdn.v2ex.co/avatar/9d28/de8f/2545_large.png?m=1423289047"
+        },
+        "node" : {
+            "id" : 770,
+            "name" : "career",
+            "title" : "职场话题",
+            "title_alternative" : "Career",
+            "url" : "http://www.v2ex.com/go/career",
+            "topics" : 1041,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1448360668",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1448360668",
+            "avatar_large" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1448360668"
+        },
+        "created" : 1450130137,
+        "last_modified" : 1450138297,
+        "last_touched" : 1450154656
+    },
+    
+    {
+        "id" : 243536,
+        "title" : "如果没有安卓，现在的智能手机会是怎样？",
+        "url" : "http://www.v2ex.com/t/243536",
+        "content" : "如题，如果没有开源的安卓我们会不会只剩下 ios 和塞班了？",
+        "content_rendered" : "\u003Cp\u003E如题，如果没有开源的安卓我们会不会只剩下 ios 和塞班了？\u003C/p\u003E\u000A",
+        "replies" : 44,
+        "member" : {
+            "id" : 77855,
+            "username" : "honeyshine75",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/210da5b71b8f0ed37564405ba057d57b?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/210da5b71b8f0ed37564405ba057d57b?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/210da5b71b8f0ed37564405ba057d57b?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 39,
+            "name" : "android",
+            "title" : "Android",
+            "title_alternative" : "Android",
+            "url" : "http://www.v2ex.com/go/android",
+            "topics" : 2098,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_mini.png?m=1450087100",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_normal.png?m=1450087100",
+            "avatar_large" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_large.png?m=1450087100"
+        },
+        "created" : 1450095639,
+        "last_modified" : 1450095639,
+        "last_touched" : 1450153720
+    },
+    
+    {
+        "id" : 243523,
+        "title" : "[求助]上个公司拖欠工资好几个月，找劳动局的话，有人了解吗？",
+        "url" : "http://www.v2ex.com/t/243523",
+        "content" : "上个公司拖欠工资好几个月了， 8 、 9 月份的工资都没发， 9 月离职的，本来以为这个月会发(有个外包项目的款也打给公司了)，结果还是没发，找劳动局的话，具体是怎样个步骤，有人了解吗？\u000D\u000A求助！",
+        "content_rendered" : "\u003Cp\u003E上个公司拖欠工资好几个月了， 8 、 9 月份的工资都没发， 9 月离职的，本来以为这个月会发(有个外包项目的款也打给公司了)，结果还是没发，找劳动局的话，具体是怎样个步骤，有人了解吗？\u003Cbr\u003E\u000A求助！\u003C/p\u003E\u000A",
+        "replies" : 43,
+        "member" : {
+            "id" : 128568,
+            "username" : "HappyHacking",
+            "tagline" : "我的眼里只有代码",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/73a1/0b9a/128568_mini.png?m=1437645032",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/73a1/0b9a/128568_normal.png?m=1437645032",
+            "avatar_large" : "//cdn.v2ex.co/avatar/73a1/0b9a/128568_large.png?m=1437645032"
+        },
+        "node" : {
+            "id" : 770,
+            "name" : "career",
+            "title" : "职场话题",
+            "title_alternative" : "Career",
+            "url" : "http://www.v2ex.com/go/career",
+            "topics" : 1041,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1448360668",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1448360668",
+            "avatar_large" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1448360668"
+        },
+        "created" : 1450092360,
+        "last_modified" : 1450096028,
+        "last_touched" : 1450155208
+    }
+    
+]

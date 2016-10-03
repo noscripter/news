@@ -1,0 +1,72 @@
+[
+    {
+        "author": "aymericdamien",
+        "category": "",
+        "stars": "1,034",
+        "title": "TopDeepLearning - A list of popular github projects related to deep learning",
+        "url": "https://github.com/aymericdamien/TopDeepLearning"
+    },
+    {
+        "author": "mewo2",
+        "category": "JavaScript",
+        "stars": "544",
+        "title": "terrain - Fantasy map generator",
+        "url": "https://github.com/mewo2/terrain"
+    },
+    {
+        "author": "roberdam",
+        "category": "Ruby",
+        "stars": "476",
+        "title": "Xaddress - Xaddress - Give 7 billion people an instant physical address",
+        "url": "https://github.com/roberdam/Xaddress"
+    },
+    {
+        "author": "eoinfogarty",
+        "category": "Java",
+        "stars": "335",
+        "title": "Onboarding - A beautiful way to introduce users to your app",
+        "url": "https://github.com/eoinfogarty/Onboarding"
+    },
+    {
+        "author": "redfin",
+        "category": "JavaScript",
+        "stars": "258",
+        "title": "react-server - React framework with server render for blazing fast page load and seamless transitions between pages in the browser.",
+        "url": "https://github.com/redfin/react-server"
+    },
+    {
+        "author": "NECROBOTIO",
+        "category": "C#",
+        "stars": "182",
+        "title": "NecroBot - a Pokemon Go Bot. -> https://discord.gg/VXKxNFr",
+        "url": "https://github.com/NECROBOTIO/NecroBot"
+    },
+    {
+        "author": "alexcrichton",
+        "category": "Rust",
+        "stars": "204",
+        "title": "futures-rs - Zero-cost futures and streams in Rust",
+        "url": "https://github.com/alexcrichton/futures-rs"
+    },
+    {
+        "author": "Librevault",
+        "category": "C",
+        "stars": "202",
+        "title": "librevault - Librevault - Peer-to-peer, decentralized and open source file sync.",
+        "url": "https://github.com/Librevault/librevault"
+    },
+    {
+        "author": "FallibleInc",
+        "category": "",
+        "stars": "193",
+        "title": "security-guide-for-developers - Security Guide for Developers (\u5b9e\u7528\u6027\u5f00\u53d1\u4eba\u5458\u5b89\u5168\u987b\u77e5)",
+        "url": "https://github.com/FallibleInc/security-guide-for-developers"
+    },
+    {
+        "author": "Curzibn",
+        "category": "Java",
+        "stars": "165",
+        "title": "Luban - Luban(\u9c81\u73ed)\u2014Image compression with efficiency very close to WeChat Moments/\u53ef\u80fd\u662f\u6700\u63a5\u8fd1\u5fae\u4fe1\u670b\u53cb\u5708\u7684\u56fe\u7247\u538b\u7f29\u7b97\u6cd5",
+        "url": "https://github.com/Curzibn/Luban"
+    }
+]

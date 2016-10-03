@@ -1,0 +1,72 @@
+[
+    {
+        "author": "mxstbr",
+        "category": "JavaScript",
+        "stars": "1,347",
+        "title": "react-boilerplate - \ud83d\udd25 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.",
+        "url": "https://github.com/mxstbr/react-boilerplate"
+    },
+    {
+        "author": "Nickersoft",
+        "category": "JavaScript",
+        "stars": "1,204",
+        "title": "push.js - A compact, cross-browser solution for Javascript desktop notifications",
+        "url": "https://github.com/Nickersoft/push.js"
+    },
+    {
+        "author": "rethinkdb",
+        "category": "JavaScript",
+        "stars": "1,100",
+        "title": "horizon - Horizon is a realtime, open-source backend for JavaScript apps.",
+        "url": "https://github.com/rethinkdb/horizon"
+    },
+    {
+        "author": "madmalik",
+        "category": "CSS",
+        "stars": "817",
+        "title": "mononoki - a programming typeface",
+        "url": "https://github.com/madmalik/mononoki"
+    },
+    {
+        "author": "facebook",
+        "category": "OCaml",
+        "stars": "592",
+        "title": "reason - A meta language toolchain to build systems rapidly",
+        "url": "https://github.com/facebook/reason"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "527",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "Selz",
+        "category": "JavaScript",
+        "stars": "411",
+        "title": "plyr - A simple HTML5, YouTube and Vimeo player",
+        "url": "https://github.com/Selz/plyr"
+    },
+    {
+        "author": "ujjwalkarn",
+        "category": "Python",
+        "stars": "271",
+        "title": "DataSciencePython - common data analysis and machine learning tasks using python",
+        "url": "https://github.com/ujjwalkarn/DataSciencePython"
+    },
+    {
+        "author": "DevLight-Mobile-Agency",
+        "category": "Java",
+        "stars": "258",
+        "title": "NavigationTabStrip - Navigation tab strip with smooth interaction.",
+        "url": "https://github.com/DevLight-Mobile-Agency/NavigationTabStrip"
+    },
+    {
+        "author": "JoelOtter",
+        "category": "JavaScript",
+        "stars": "216",
+        "title": "kajero - Interactive JavaScript notebooks with clever graphing",
+        "url": "https://github.com/JoelOtter/kajero"
+    }
+]

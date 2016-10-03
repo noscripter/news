@@ -1,0 +1,72 @@
+[
+    {
+        "author": "gztchan",
+        "category": "",
+        "stars": "806",
+        "title": "awesome-design - \ud83c\udf8f Best UI/UX Design Resources For Developer & Designer Ever :)",
+        "url": "https://github.com/gztchan/awesome-design"
+    },
+    {
+        "author": "kelseyhightower",
+        "category": "",
+        "stars": "465",
+        "title": "kubernetes-the-hard-way - Bootstrap Kubernetes the hard way on Google Cloud Platform or Amazon EC2. No scripts.",
+        "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way"
+    },
+    {
+        "author": "react-native-community",
+        "category": "JavaScript",
+        "stars": "385",
+        "title": "React-Native-Elements - React Native Elements UI Toolkit",
+        "url": "https://github.com/react-native-community/React-Native-Elements"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "336",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "uWebSockets",
+        "category": "C++",
+        "stars": "332",
+        "title": "uWebSockets - Highly scalable WebSocket server library",
+        "url": "https://github.com/uWebSockets/uWebSockets"
+    },
+    {
+        "author": "vim",
+        "category": "C",
+        "stars": "330",
+        "title": "vim - The official Vim repository",
+        "url": "https://github.com/vim/vim"
+    },
+    {
+        "author": "hustcc",
+        "category": "JavaScript",
+        "stars": "329",
+        "title": "timeago.js - \ud83d\udd57 \u231b timeago.js is a tiny(~1.75kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependences & localization & tiny.",
+        "url": "https://github.com/hustcc/timeago.js"
+    },
+    {
+        "author": "lengstrom",
+        "category": "JavaScript",
+        "stars": "319",
+        "title": "falcon - Chrome extension for full text history search!",
+        "url": "https://github.com/lengstrom/falcon"
+    },
+    {
+        "author": "crufter",
+        "category": "Go",
+        "stars": "299",
+        "title": "borg - A terminal based search engine for bash commands",
+        "url": "https://github.com/crufter/borg"
+    },
+    {
+        "author": "christabor",
+        "category": "HTML",
+        "stars": "282",
+        "title": "flask_jsondash - Build javascript chart dashboards without any front-end code. Uses any json endpoint. JSON config only. Ready to go.",
+        "url": "https://github.com/christabor/flask_jsondash"
+    }
+]

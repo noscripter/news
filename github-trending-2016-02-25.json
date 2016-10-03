@@ -1,0 +1,72 @@
+[
+    {
+        "author": "dthree",
+        "category": "JavaScript",
+        "stars": "1,535",
+        "title": "cash - Cross-platform Linux without the suck",
+        "url": "https://github.com/dthree/cash"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "688",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "facebook",
+        "category": "JavaScript",
+        "stars": "580",
+        "title": "draft-js - A React framework for building text editors.",
+        "url": "https://github.com/facebook/draft-js"
+    },
+    {
+        "author": "santinic",
+        "category": "JavaScript",
+        "stars": "512",
+        "title": "how2 - stackoverflow from the terminal",
+        "url": "https://github.com/santinic/how2"
+    },
+    {
+        "author": "IBM-Swift",
+        "category": "Swift",
+        "stars": "353",
+        "title": "Kitura - Web framework and HTTP server for Swift",
+        "url": "https://github.com/IBM-Swift/Kitura"
+    },
+    {
+        "author": "VPenkov",
+        "category": "JavaScript",
+        "stars": "334",
+        "title": "okayNav - The world's okayest responsive navigation",
+        "url": "https://github.com/VPenkov/okayNav"
+    },
+    {
+        "author": "allenwong",
+        "category": "Swift",
+        "stars": "303",
+        "title": "30DaysofSwift - A self taught project to learn Swift.",
+        "url": "https://github.com/allenwong/30DaysofSwift"
+    },
+    {
+        "author": "ImagicalMine",
+        "category": "PHP",
+        "stars": "16",
+        "title": "ImagicalMine - ImagicalMine. The first third-party build of PocketMine-MP that rocked the world.",
+        "url": "https://github.com/ImagicalMine/ImagicalMine"
+    },
+    {
+        "author": "dustturtle",
+        "category": "Objective-C",
+        "stars": "283",
+        "title": "RealReachability - We need to observe the REAL reachability of network. That's what RealReachability do.",
+        "url": "https://github.com/dustturtle/RealReachability"
+    },
+    {
+        "author": "copy",
+        "category": "JavaScript",
+        "stars": "297",
+        "title": "v86 - x86 virtualization in JavaScript, running in your browser and NodeJS",
+        "url": "https://github.com/copy/v86"
+    }
+]

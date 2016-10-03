@@ -1,0 +1,72 @@
+[
+    {
+        "author": "gravitational",
+        "category": "Go",
+        "stars": "748",
+        "title": "teleport - Modern SSH server for clusters and teams.",
+        "url": "https://github.com/gravitational/teleport"
+    },
+    {
+        "author": "labstack",
+        "category": "Go",
+        "stars": "470",
+        "title": "armor - Simple HTTP server, supports HTTP/2 and auto TLS",
+        "url": "https://github.com/labstack/armor"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "374",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "justjavac",
+        "category": "",
+        "stars": "337",
+        "title": "awesome-wechat-weapp - \u5fae\u4fe1\u5c0f\u7a0b\u5e8f\u5f00\u53d1\u8d44\u6e90\u6c47\u603b wechat weapp",
+        "url": "https://github.com/justjavac/awesome-wechat-weapp"
+    },
+    {
+        "author": "cpmech",
+        "category": "Go",
+        "stars": "354",
+        "title": "gosl - Go scientific library",
+        "url": "https://github.com/cpmech/gosl"
+    },
+    {
+        "author": "kootenpv",
+        "category": "Python",
+        "stars": "288",
+        "title": "whereami - Uses WiFi signals \ud83d\udcf6 and machine learning to predict where you are",
+        "url": "https://github.com/kootenpv/whereami"
+    },
+    {
+        "author": "Tencent",
+        "category": "Java",
+        "stars": "247",
+        "title": "tinker - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",
+        "url": "https://github.com/Tencent/tinker"
+    },
+    {
+        "author": "future-architect",
+        "category": "Go",
+        "stars": "259",
+        "title": "vuls - Vulnerability scanner for Linux/FreeBSD, agentless, written in Go",
+        "url": "https://github.com/future-architect/vuls"
+    },
+    {
+        "author": "facebook",
+        "category": "JavaScript",
+        "stars": "252",
+        "title": "react - A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+        "url": "https://github.com/facebook/react"
+    },
+    {
+        "author": "yeun",
+        "category": "CSS",
+        "stars": "227",
+        "title": "open-color - Color scheme for UI design.",
+        "url": "https://github.com/yeun/open-color"
+    }
+]

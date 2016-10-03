@@ -1,0 +1,282 @@
+[
+    
+    {
+        "id" : 261415,
+        "title" : "你们都用什么写静态博客？",
+        "url" : "http://www.v2ex.com/t/261415",
+        "content" : "#### 生成器？\u000D\u000A#### Jekyll?\u000D\u000A#### Hexo?\u000D\u000A#### Hugo?\u000D\u000A#### ...\u000D\u000A#### 存放在哪里？\u000D\u000A#### Github pages?\u000D\u000A#### Ghost?\u000D\u000A#### Farbox?\u000D\u000A#### ...\u000D\u000A#### 都有些什么利弊？",
+        "content_rendered" : "\u003Ch4\u003E生成器？\u003C/h4\u003E\u000A\u000A\u003Ch4\u003EJekyll?\u003C/h4\u003E\u000A\u000A\u003Ch4\u003EHexo?\u003C/h4\u003E\u000A\u000A\u003Ch4\u003EHugo?\u003C/h4\u003E\u000A\u000A\u003Ch4\u003E...\u003C/h4\u003E\u000A\u000A\u003Ch4\u003E存放在哪里？\u003C/h4\u003E\u000A\u000A\u003Ch4\u003EGithub pages?\u003C/h4\u003E\u000A\u000A\u003Ch4\u003EGhost?\u003C/h4\u003E\u000A\u000A\u003Ch4\u003EFarbox?\u003C/h4\u003E\u000A\u000A\u003Ch4\u003E...\u003C/h4\u003E\u000A\u000A\u003Ch4\u003E都有些什么利弊？\u003C/h4\u003E\u000A",
+        "replies" : 54,
+        "member" : {
+            "id" : 58053,
+            "username" : "Lullaby",
+            "tagline" : "You\u0027ll never walk alone",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/a2ae5069a05687c472900858818d162a?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/a2ae5069a05687c472900858818d162a?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/a2ae5069a05687c472900858818d162a?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 11103,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1456998915",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1456998915",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1456998915"
+        },
+        "created" : 1457199562,
+        "last_modified" : 1457199651,
+        "last_touched" : 1457238358
+    },
+    
+    {
+        "id" : 261302,
+        "title" : "昨晚《最强大脑》你们看了吗？想知道 V 友怎么看这个节目",
+        "url" : "http://www.v2ex.com/t/261302",
+        "content" : "有很多人说节目的效果都是做出来的，不知道我是不是太年轻，感觉节目还是可信的。\u000D\u000A\u000D\u000A无论是道具阵容，嘉宾团队，制作水准都让我刮目相看。里面好多期的编程道具也很牛逼呀！\u000D\u000A\u000D\u000A你们怎么评价《最强大脑》？\u000D\u000A\u000D\u000A另外，求一个 BGM 哈，这段大提琴美到窒息：\u000D\u000Ahttp://v.youku.com/v_show/id_XMTQ4OTg5ODQ2MA\u003D\u003D.html?firsttime\u003D499\u000D\u000A\u000D\u000A介绍德国 Boy 时的背景音乐。",
+        "content_rendered" : "\u003Cp\u003E有很多人说节目的效果都是做出来的，不知道我是不是太年轻，感觉节目还是可信的。\u003C/p\u003E\u000A\u000A\u003Cp\u003E无论是道具阵容，嘉宾团队，制作水准都让我刮目相看。里面好多期的编程道具也很牛逼呀！\u003C/p\u003E\u000A\u000A\u003Cp\u003E你们怎么评价《最强大脑》？\u003C/p\u003E\u000A\u000A\u003Cp\u003E另外，求一个 BGM 哈，这段大提琴美到窒息：\u003Cbr\u003E\u000A\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://v.youku.com/v_show/id_XMTQ4OTg5ODQ2MA\u003D\u003D.html?firsttime\u003D499\u0022\u003Ehttp://v.youku.com/v_show/id_XMTQ4OTg5ODQ2MA\u003D\u003D.html?firsttime\u003D499\u003C/a\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E介绍德国 Boy 时的背景音乐。\u003C/p\u003E\u000A",
+        "replies" : 48,
+        "member" : {
+            "id" : 70908,
+            "username" : "Chigogo",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/db9b/45c8/70908_mini.png?m=1408788473",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/db9b/45c8/70908_normal.png?m=1408788473",
+            "avatar_large" : "//cdn.v2ex.co/avatar/db9b/45c8/70908_large.png?m=1408788473"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 65483,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1456308340",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1456308340",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1456308340"
+        },
+        "created" : 1457158893,
+        "last_modified" : 1457158951,
+        "last_touched" : 1457235299
+    },
+    
+    {
+        "id" : 261404,
+        "title" : "20160306 午夜俱乐部",
+        "url" : "http://www.v2ex.com/t/261404",
+        "content" : "http://ww1.sinaimg.cn/large/005BRCAZjw1f0dc1x6m7xj31fl0qr48l.jpg",
+        "content_rendered" : "\u003Cimg src\u003D\u0022http://ww1.sinaimg.cn/large/005BRCAZjw1f0dc1x6m7xj31fl0qr48l.jpg\u0022 class\u003D\u0022imgly\u0022 style\u003D\u0022max\u002Dwidth: 660px\u003B\u0022 border\u003D\u00220\u0022 /\u003E ",
+        "replies" : 35,
+        "member" : {
+            "id" : 36997,
+            "username" : "icedx",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/1128/b910/36997_mini.png?m=1446218103",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/1128/b910/36997_normal.png?m=1446218103",
+            "avatar_large" : "//cdn.v2ex.co/avatar/1128/b910/36997_large.png?m=1446218103"
+        },
+        "node" : {
+            "id" : 286,
+            "name" : "afterdark",
+            "title" : "天黑以后",
+            "title_alternative" : "After Dark",
+            "url" : "http://www.v2ex.com/go/afterdark",
+            "topics" : 1792,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/16a5/cdae/286_mini.png?m=1433876741",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/16a5/cdae/286_normal.png?m=1433876741",
+            "avatar_large" : "//cdn.v2ex.co/navatar/16a5/cdae/286_large.png?m=1433876741"
+        },
+        "created" : 1457193001,
+        "last_modified" : 1457193001,
+        "last_touched" : 1457231501
+    },
+    
+    {
+        "id" : 261359,
+        "title" : "即将毕业了，这算是给大学四年的一点交代吧。",
+        "url" : "http://www.v2ex.com/t/261359",
+        "content" : "我是一名今年将要毕业的大四学生，就读于湖南一所高校，主修的视觉设计专业。\u000D\u000A一眨眼大学四年即将毕业，庆幸的是我终于不再是实习生了。可悲的是我大学四年大部分被设计上了。\u000D\u000A    \u000D\u000A    2012 年我步入了大学\u000D\u000A刚进入大学的时候我跟大家一样，对所有的事情都抱有新鲜感，大学导出弥漫着是自由的空气。我喜欢自由，不喜欢有人束缚我，心情好去上课，想睡觉就可以翘课，所有的时间都可以自己掌控，晚上可以一起跟室友开黑玩游戏，当然这一切需要家里的经济来承担。我出生于普通家庭，起初的每月 1200 元的生活费完全足够，后面家里给我涨到了 1500 ，在 12 年完全是足够的，除非需要买什么东西。大学里面的攀比情况比较普遍，而我也不例外，凡是都要讲究面子，讲品牌。后面发现我根本比不过人家，家里的零花钱也越来越满足不了我。当我意识到这一点的时候我发现我需要做些什么。\u000D\u000A\u000D\u000A    2013 年我入了设计的坑\u000D\u000A13 年我进入了学院的数字媒体工作室，认识了我现在的导师，导师对我要求比较高。进入导师的工作室后我开始有目的的学习基础的设计技法，软件的操作，加上导师布置的一些任务，我很快能上手做一些简单的东西，就这样我开始陆陆续续有活做了。名片设计，海报设计，封面设计，书籍装帧， LOGO 设计，什么都做过，是一位刚出道的美工。为了一个好美工这一年我发了疯似的做东西，也偶尔能挣点外快。量的堆积让我熟练掌握设计工具。\u000D\u000A    \u000D\u000A![]( http://tbphoto4.bababian.com/upload8/wantline/201603/001166403755_m.jpg)\u000D\u000A`这是当时在工作室学习手绘的练习图，可是学艺不精后来放弃了绘画`\u000D\u000A\u000D\u000A![]( http://tbphoto4.bababian.com/upload8/wantline/201603/001166404982_m.jpg)\u000D\u000A`这是当时给学校社团做过的名片`\u000D\u000A![]( http://tbphoto4.bababian.com/upload8/wantline/201603/001166405280.jpg)\u000D\u000A`这是当时在威客国际网做的 LOGO ，差点中标了呢， 99 美元`\u000D\u000A\u000D\u000A    2014 年，工作室一年坚持终于有了新的机会，在导师的帮助下开始接了一些正式的商业项目。\u000D\u000A思画少儿美术\u000D\u000A![]( http://tbphoto4.bababian.com/upload8/wantline/201603/001166405560_m.jpg)\u000D\u000A`思画是我做的第一个完整的企业形象`\u000D\u000A![]( http://tbphoto4.bababian.com/upload8/wantline/201603/001166405562.jpg)\u000D\u000A`思画宣传插画\u002D在这里我要感谢我的导师和宋老师，以及项目的另一个搭档木子`\u000D\u000A![]( https://img.alicdn.com/imgextra/i2/471192700/TB29eyrlXXXXXXAXpXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`这是我画的第一张矢量插画`\u000D\u000A\u000D\u000A     14 的 9 月份我通过思画负责人宋老师推荐，到了我第一家实习公司上海索罗思腾。\u000D\u000A     \u000D\u000A进入了第一家公司我开始了新的学习之路，开始接触 UI 设计，网页设计。公司是 7 月份注册，我有幸成为了初创员工之一，公司的前辈们他们都是磨合了十几年的团队，他们对我十分的照顾，虽然属于半读半工作的实习状态，但是公司给了我正式员工的福利，在此我要真心感谢索罗思腾对我的栽培，同时祝愿贵公司能早日上市。\u000D\u000A![]( https://img.alicdn.com/imgextra/i4/471192700/TB2.rqhlXXXXXaMXpXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`公司的环境还是很惬意的`\u000D\u000A![]( https://img.alicdn.com/imgextra/i3/471192700/TB2wzKClXXXXXbUXXXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`公司给我配置了一台全新的 MAC,当时可得瑟了`\u000D\u000A进公司的第一个任务是设计公司的宣传册，当时正好是公司开业，要赶在公司开业之前将宣传册设计好并打印出版。\u000D\u000A最怕的是校稿错误，错一个符号，一个字都需要返工。\u000D\u000A批量印刷，晾晒需要时间。\u000D\u000A纸张的材质和厚度需要根据画册的类型，页数，预算去选取。用最低的预算做最好的效果是老板最稀饭的。\u000D\u000A![]( https://img.alicdn.com/imgextra/i3/471192700/TB2PRSLlXXXXXaDXXXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`宣传册`\u000D\u000A![]( https://img.alicdn.com/imgextra/i2/471192700/TB2m45dlXXXXXbLXpXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`宣传册`\u000D\u000A![]( https://img.alicdn.com/imgextra/i3/471192700/TB2n9OhlXXXXXbhXpXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`宣传册`\u000D\u000A公司是一家专业研发北斗导航定位相关产品的高科技创业公司。\u000D\u000A![]( https://img.alicdn.com/imgextra/i4/471192700/TB2yyaElXXXXXbOXXXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`宣传册第二版截图，当时产品的 APP 界面也是我设计的`\u000D\u000A![]( https://img.alicdn.com/imgextra/i3/471192700/TB2YeWIlXXXXXaZXXXXXXXXXXXX_!!471192700.png)\u000D\u000A`APP 界面`\u000D\u000A![]( https://img.alicdn.com/imgextra/i1/471192700/TB2T.5VlXXXXXXdXXXXXXXXXXXX_!!471192700.png)\u000D\u000A`APP 界面 2`\u000D\u000A\u000D\u000A     2015 年，设计有了新的挑战和新的收获\u000D\u000A15 年上半年公司的产品包装设计的重任交给了我。\u000D\u000A我从来没有做过包装，更不知道怎么去做。\u000D\u000A没办法我开始硬着头皮去找厂家。\u000D\u000A于是我找遍了长沙所有的包装厂，最后终于找到了一位老师傅可以手工制作样板盒。\u000D\u000A![]( https://img.alicdn.com/imgextra/i3/471192700/TB2gMeglXXXXXbxXpXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`这是最初的样板，当时设计的抽屉盒形式`\u000D\u000A样板盒采用的包纸皮，烫金工艺。\u000D\u000A在最里头的灰板纸基础上包一层带有触感特种纸，然后在纸上烫印 LOGO ，这种工艺比较繁复，小厂设备不足，无法达标量产。且良品率极低。这是属于低端的包装工艺，主流的生产都是全自动化的。\u000D\u000A![]( https://img.alicdn.com/imgextra/i1/471192700/TB25YaslXXXXXXtXpXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`一周时间，我几乎是住在了工厂，终于做出来了一套样板盒`\u000D\u000A五个设备盒，五个 CD 安装光盘盒。那个厂长收了 5000 元。\u000D\u000A全手工\u000D\u000A![]( https://img.alicdn.com/imgextra/i4/471192700/TB27pqRlXXXXXXOXXXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`这是整套样板盒样式`\u000D\u000A这是一个大概的雏形，需要拿着这个雏形再去深圳那边寻求大厂。\u000D\u000A\u000D\u000A接下来我需要拿着样板盒去寻找生产厂家进行合作生产，于是我踏上了深圳出差之旅。\u000D\u000A此次去深圳需要得到厂家的报价报回公司做预算。\u000D\u000A![]( https://img.alicdn.com/imgextra/i4/471192700/TB20h5WlXXXXXXiXXXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`记不清这是第几次去深圳的车票了`\u000D\u000A![]( https://img.alicdn.com/imgextra/i1/471192700/TB2NZ9zlXXXXXcFXXXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`这是全国目前最大的包装生产厂家之一裕同的普通车间`\u000D\u000A在深圳考察的这些日子我学习了包装设计的生产与工艺\u000D\u000A在裕同有苹果的独立生产线，所有苹果的包装车间都是封闭的。\u000D\u000A苹果的包装工艺大家是有目共睹的，其对生产的条件也是相当之高的，需要专业的设备，恒定的生产温度，品控之高并不是普通厂家能做的，同时包装生产的价格都是根据数量来的。量多价格才能优。小客户一般都是没有价格优势的。\u000D\u000A\u000D\u000A![]( https://img.alicdn.com/imgextra/i1/471192700/TB2NNuhlXXXXXbhXpXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`三叶草，苹果，华为，小米都是裕同的客户`\u000D\u000A当然像苹果华为都是有独立的封闭式生产车间，像我们这些小客户都是在普通生产车间生产。\u000D\u000A在深圳，我去过贤俊龙，劲嘉，裕同等国内包装的龙头企业参观考察，全自动化的设备让我瞠目结舌。\u000D\u000A\u000D\u000A       15 年 9 月份尝试建立个人 T 恤品牌屿\u002Dhilltogether\u000D\u000A我有一个梦想，希望自己能有一个自己的品牌，然后可以在大街上看到别人穿你设计的衣服是一种多么自豪的感觉啊。我相信所有的设计师们都有这种情结吧。哈哈\u000D\u000A于是我又开始了新的尝试。\u000D\u000A![]( https://img.alicdn.com/imgextra/i3/471192700/TB2ju1vlXXXXXc4XXXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`T 恤的样件`\u000D\u000A尝试了 3M 反光材质与夜光材质的印制。\u000D\u000A![]( https://img.alicdn.com/imgextra/i4/471192700/TB2PuGvlXXXXXc1XXXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`T 恤的样件`\u000D\u000A![]( https://img.alicdn.com/imgextra/i2/471192700/TB2tQcweVXXXXajXXXXXXXXXXXX\u002D471192700.jpg)\u000D\u000A`隐山人图案`\u000D\u000A我想通过隐山人向那些有才能且默默无闻在一线从事艺术设计工作者们致敬，同时要学习前辈们的精神。\u000D\u000A\u000D\u000A最终选定 3M 反光材和吉丹尔的原 T 生产。\u000D\u000A![]( https://img.alicdn.com/imgextra/i1/471192700/TB2cWb1eVXXXXcdXpXXXXXXXXXX\u002D471192700.jpg)\u000D\u000A`T 恤的最终样式`\u000D\u000A![]( https://img.alicdn.com/imgextra/i4/471192700/TB2wldVfpXXXXa0XpXXXXXXXXXX\u002D471192700.jpg)\u000D\u000A`T 恤的模特图`\u000D\u000A![]( https://img.alicdn.com/imgextra/i1/471192700/TB2IHVVfpXXXXaGXpXXXXXXXXXX\u002D471192700.jpg)\u000D\u000A`俊`\u000D\u000A![]( https://img.alicdn.com/imgextra/i1/471192700/TB2kdOwlXXXXXXwXpXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`璋`\u000D\u000A![]( https://img.alicdn.com/imgextra/i1/471192700/TB2JDmAlXXXXXcTXXXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`宣传图`\u000D\u000A![]( https://img.alicdn.com/imgextra/i2/471192700/TB2OBuifpXXXXXFXXXXXXXXXXXX\u002D471192700.jpg)\u000D\u000A`宣传图`\u000D\u000A\u000D\u000A\u000D\u000A后面 T 恤也卖出去 200 多件，全靠身边的朋友同学们的支持。在这里我要感谢我的同学对我的帮助和支持，没有你们就没有屿。\u000D\u000A\u000D\u000A       10 月正式筹办钦慕网\u000D\u000A    \u000D\u000A       钦慕 admire.so\u000D\u000A钦慕是一个创意设计网址分享网站，我在这两年的设计学习之路没少走弯路，后面也陆陆续续开始整理和收集一些设计相关的优质网站。于是就有了建立钦慕的念头，如果每个设计师都能把自己的干货都分享出来的话对设计师自身来说就是一个极大的方便，同时也可以帮助初学者少走弯路。\u000D\u000A想法是有了，但是去哪里找一位能写程序的搭档呢？当时在学校苦苦找寻了两个多月无果，没有合适的人选。\u000D\u000A直到有一天，说起来也是缘分，我应该感谢 V2EX 让我认识了现在的搭档 @everettjf （疯子），一次偶然的机会在 V2EX 发现疯子跟我做着同样的事情，他从事 IOS 开发工作的，在北京已经工作了六年，刚好他写程序，我来设计页面。另外还有一个搭档阿璋负责前端开发，（就是上面穿白色 T 恤的那位）于是我们三个人组成了新的钦慕团队。\u000D\u000A重新出发，我们从需求，交互，视觉，后台开发整整三个月时间。现在终于像点样子了。\u000D\u000A\u000D\u000A![]( https://img.alicdn.com/imgextra/i2/471192700/TB2SzyylXXXXXXoXpXXXXXXXXXX_!!471192700.png)\u000D\u000A`第一版`\u000D\u000A\u000D\u000A![]( https://img.alicdn.com/imgextra/i2/471192700/TB2lduPlXXXXXaSXXXXXXXXXXXX_!!471192700.png)\u000D\u000A`第二版`\u000D\u000A![]( https://img.alicdn.com/imgextra/i4/471192700/TB2peCYlXXXXXXpXXXXXXXXXXXX_!!471192700.png)\u000D\u000A`第三版`\u000D\u000A\u000D\u000A![]( https://img.alicdn.com/imgextra/i1/471192700/TB2o35ulXXXXXXVXpXXXXXXXXXX_!!471192700.png)\u000D\u000A`第四版`\u000D\u000A\u000D\u000A钦慕的设计过程是很磨人的，第一次去尝试着要好一个产品的时候发现真的很难，我们不断的推翻自己，不断的去做尝试，本身设计就是一个不断尝试印证的过程。好的设计是需要花时间和精力去思考的结果。\u000D\u000A在建立钦慕这段时间我认识许多人， Justjavac 大神，小黄鸡同学（万花筒），也很感谢他们的帮助。\u000D\u000A当然后面我们对钦慕也有新的一些想法，很多功能都会逐一去实现的。\u000D\u000A        \u000D\u000A    终于今年的 3 月我们钦慕 beta1.0 版本上线了！\u000D\u000A感兴趣的同学可以去看下哦，如果有好的建议可以随时联系我们，我在此感激不尽！\u000D\u000A\u000D\u000A\u000D\u000A    15 年 11 月我离开了第一家公司去了亚信科技\u000D\u000A\u000D\u000A我离开了索罗思腾，并不是因为公司不好，公司对我很好，我觉得有些愧疚。在索罗思腾足足一年时间，这一年我学到了很多东西，这些东西是在学校无法学到的。\u000D\u000A\u000D\u000A机缘巧合认识了我现在的老大，他是前端界过了气的大神，哈哈， cssrian （单东林，《锋利的 jQuery 》是他的杰作 ）\u000D\u000A就这样我加入了亚信科技 UED 部门，任视觉设计师。\u000D\u000A于是我有了新的挑战和机会！\u000D\u000A![]( https://img.alicdn.com/imgextra/i3/471192700/TB2l2WMlXXXXXbjXXXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`中国移动云化服务框架设计稿 01`\u000D\u000A![]( https://img.alicdn.com/imgextra/i2/471192700/TB2GyOElXXXXXcWXXXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`中国移动设计稿 01`\u000D\u000A![]( https://img.alicdn.com/imgextra/i3/471192700/TB2K7GKlXXXXXckXXXXXXXXXXXX_!!471192700.gif)\u000D\u000A`动态交互设计图`\u000D\u000A我喜欢动效设计，一般时间允许的话，我会去尝试一些简单的交互动效。我平常用 Sketch 做图，还有一些非常不错的设计生产工具，在钦慕 admire 里面有，感兴趣的可以去看下。\u000D\u000A\u000D\u000A由于项目特殊原因只能放部分截图\u000D\u000A\u000D\u000A    下面还有一些其他以前做过的项目图。\u000D\u000A![]( https://img.alicdn.com/imgextra/i1/471192700/TB2LXiwlXXXXXXNXpXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`乐绘设计稿`\u000D\u000A![]( https://img.alicdn.com/imgextra/i2/471192700/TB2TmajlXXXXXbNXpXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`Flarumone`\u000D\u000A![]( https://img.alicdn.com/imgextra/i2/471192700/TB2ahujlXXXXXbQXpXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`万花筒标识`\u000D\u000A![]( https://img.alicdn.com/imgextra/i1/471192700/TB25g5olXXXXXa.XpXXXXXXXXXX_!!471192700.jpg)\u000D\u000A`DADB 标识设计`\u000D\u000A![]( https://img.alicdn.com/imgextra/i2/471192700/TB2cCuFlXXXXXcBXXXXXXXXXXXX_!!471192700.png)\u000D\u000A`钦慕标识`\u000D\u000A![]( https://img.alicdn.com/imgextra/i2/471192700/TB2v9yWlXXXXXX0XXXXXXXXXXXX_!!471192700.png)\u000D\u000A`屿标识设计`\u000D\u000A![]( https://img.alicdn.com/imgextra/i1/471192700/TB2JyatlXXXXXaAXpXXXXXXXXXX_!!471192700.png)\u000D\u000A`亚信 UED 标识设计`\u000D\u000A![]( https://img.alicdn.com/imgextra/i2/471192700/TB2qfm0lXXXXXXQXXXXXXXXXXXX_!!471192700.gif)\u000D\u000A`UED 动态设计稿`\u000D\u000A\u000D\u000A\u000D\u000A\u000D\u000A\u000D\u000A如今大学已经到了尾声，我没有得过奖学金，挂过科，只有一堆飞机稿。\u000D\u000A也受过不少冷眼嘲讽，但至少我没有让他们一笑到底。\u000D\u000A\u000D\u000A我在大学没毕业之前已经凭借自己的专业能力达到月薪 10K 。这算是给大学一个交代吧。\u000D\u000A\u000D\u000A\u000D\u000A\u000D\u000A个人微博：\u003Chttp://weibo.com/wantline\u003E\u000D\u000A钦慕网入口\u003Chttp://admire.so\u003E",
+        "content_rendered" : "\u003Cp\u003E我是一名今年将要毕业的大四学生，就读于湖南一所高校，主修的视觉设计专业。\u003Cbr\u003E\u000A一眨眼大学四年即将毕业，庆幸的是我终于不再是实习生了。可悲的是我大学四年大部分被设计上了。\u003C/p\u003E\u000A\u003Cdiv class\u003D\u0022highlight\u0022\u003E\u003Cpre\u003E2012 年我步入了大学\u000A\u003C/pre\u003E\u003C/div\u003E\u000A\u000A\u003Cp\u003E刚进入大学的时候我跟大家一样，对所有的事情都抱有新鲜感，大学导出弥漫着是自由的空气。我喜欢自由，不喜欢有人束缚我，心情好去上课，想睡觉就可以翘课，所有的时间都可以自己掌控，晚上可以一起跟室友开黑玩游戏，当然这一切需要家里的经济来承担。我出生于普通家庭，起初的每月 1200 元的生活费完全足够，后面家里给我涨到了 1500 ，在 12 年完全是足够的，除非需要买什么东西。大学里面的攀比情况比较普遍，而我也不例外，凡是都要讲究面子，讲品牌。后面发现我根本比不过人家，家里的零花钱也越来越满足不了我。当我意识到这一点的时候我发现我需要做些什么。\u003C/p\u003E\u000A\u003Cdiv class\u003D\u0022highlight\u0022\u003E\u003Cpre\u003E2013 年我入了设计的坑\u000A\u003C/pre\u003E\u003C/div\u003E\u000A\u000A\u003Cp\u003E13 年我进入了学院的数字媒体工作室，认识了我现在的导师，导师对我要求比较高。进入导师的工作室后我开始有目的的学习基础的设计技法，软件的操作，加上导师布置的一些任务，我很快能上手做一些简单的东西，就这样我开始陆陆续续有活做了。名片设计，海报设计，封面设计，书籍装帧， LOGO 设计，什么都做过，是一位刚出道的美工。为了一个好美工这一年我发了疯似的做东西，也偶尔能挣点外快。量的堆积让我熟练掌握设计工具。\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Cimg src\u003D\u0022http://tbphoto4.bababian.com/upload8/wantline/201603/001166403755_m.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E这是当时在工作室学习手绘的练习图，可是学艺不精后来放弃了绘画\u003C/code\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Cimg src\u003D\u0022http://tbphoto4.bababian.com/upload8/wantline/201603/001166404982_m.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E这是当时给学校社团做过的名片\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022http://tbphoto4.bababian.com/upload8/wantline/201603/001166405280.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E这是当时在威客国际网做的 LOGO ，差点中标了呢， 99 美元\u003C/code\u003E\u003C/p\u003E\u000A\u003Cdiv class\u003D\u0022highlight\u0022\u003E\u003Cpre\u003E2014 年，工作室一年坚持终于有了新的机会，在导师的帮助下开始接了一些正式的商业项目。\u000A\u003C/pre\u003E\u003C/div\u003E\u000A\u000A\u003Cp\u003E思画少儿美术\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022http://tbphoto4.bababian.com/upload8/wantline/201603/001166405560_m.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E思画是我做的第一个完整的企业形象\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022http://tbphoto4.bababian.com/upload8/wantline/201603/001166405562.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E思画宣传插画\u002D在这里我要感谢我的导师和宋老师，以及项目的另一个搭档木子\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i2/471192700/TB29eyrlXXXXXXAXpXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E这是我画的第一张矢量插画\u003C/code\u003E\u003C/p\u003E\u000A\u003Cdiv class\u003D\u0022highlight\u0022\u003E\u003Cpre\u003E14 的 9 月份我通过思画负责人宋老师推荐，到了我第一家实习公司上海索罗思腾。\u000A\u003C/pre\u003E\u003C/div\u003E\u000A\u000A\u003Cp\u003E进入了第一家公司我开始了新的学习之路，开始接触 UI 设计，网页设计。公司是 7 月份注册，我有幸成为了初创员工之一，公司的前辈们他们都是磨合了十几年的团队，他们对我十分的照顾，虽然属于半读半工作的实习状态，但是公司给了我正式员工的福利，在此我要真心感谢索罗思腾对我的栽培，同时祝愿贵公司能早日上市。\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i4/471192700/TB2.rqhlXXXXXaMXpXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E公司的环境还是很惬意的\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i3/471192700/TB2wzKClXXXXXbUXXXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E公司给我配置了一台全新的 MAC,当时可得瑟了\u003C/code\u003E\u003Cbr\u003E\u000A进公司的第一个任务是设计公司的宣传册，当时正好是公司开业，要赶在公司开业之前将宣传册设计好并打印出版。\u003Cbr\u003E\u000A最怕的是校稿错误，错一个符号，一个字都需要返工。\u003Cbr\u003E\u000A批量印刷，晾晒需要时间。\u003Cbr\u003E\u000A纸张的材质和厚度需要根据画册的类型，页数，预算去选取。用最低的预算做最好的效果是老板最稀饭的。\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i3/471192700/TB2PRSLlXXXXXaDXXXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E宣传册\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i2/471192700/TB2m45dlXXXXXbLXpXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E宣传册\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i3/471192700/TB2n9OhlXXXXXbhXpXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E宣传册\u003C/code\u003E\u003Cbr\u003E\u000A公司是一家专业研发北斗导航定位相关产品的高科技创业公司。\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i4/471192700/TB2yyaElXXXXXbOXXXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E宣传册第二版截图，当时产品的 APP 界面也是我设计的\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i3/471192700/TB2YeWIlXXXXXaZXXXXXXXXXXXX_!!471192700.png\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003EAPP 界面\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i1/471192700/TB2T.5VlXXXXXXdXXXXXXXXXXXX_!!471192700.png\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003EAPP 界面 2\u003C/code\u003E\u003C/p\u003E\u000A\u003Cdiv class\u003D\u0022highlight\u0022\u003E\u003Cpre\u003E2015 年，设计有了新的挑战和新的收获\u000A\u003C/pre\u003E\u003C/div\u003E\u000A\u000A\u003Cp\u003E15 年上半年公司的产品包装设计的重任交给了我。\u003Cbr\u003E\u000A我从来没有做过包装，更不知道怎么去做。\u003Cbr\u003E\u000A没办法我开始硬着头皮去找厂家。\u003Cbr\u003E\u000A于是我找遍了长沙所有的包装厂，最后终于找到了一位老师傅可以手工制作样板盒。\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i3/471192700/TB2gMeglXXXXXbxXpXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E这是最初的样板，当时设计的抽屉盒形式\u003C/code\u003E\u003Cbr\u003E\u000A样板盒采用的包纸皮，烫金工艺。\u003Cbr\u003E\u000A在最里头的灰板纸基础上包一层带有触感特种纸，然后在纸上烫印 LOGO ，这种工艺比较繁复，小厂设备不足，无法达标量产。且良品率极低。这是属于低端的包装工艺，主流的生产都是全自动化的。\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i1/471192700/TB25YaslXXXXXXtXpXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E一周时间，我几乎是住在了工厂，终于做出来了一套样板盒\u003C/code\u003E\u003Cbr\u003E\u000A五个设备盒，五个 CD 安装光盘盒。那个厂长收了 5000 元。\u003Cbr\u003E\u000A全手工\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i4/471192700/TB27pqRlXXXXXXOXXXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E这是整套样板盒样式\u003C/code\u003E\u003Cbr\u003E\u000A这是一个大概的雏形，需要拿着这个雏形再去深圳那边寻求大厂。\u003C/p\u003E\u000A\u000A\u003Cp\u003E接下来我需要拿着样板盒去寻找生产厂家进行合作生产，于是我踏上了深圳出差之旅。\u003Cbr\u003E\u000A此次去深圳需要得到厂家的报价报回公司做预算。\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i4/471192700/TB20h5WlXXXXXXiXXXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E记不清这是第几次去深圳的车票了\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i1/471192700/TB2NZ9zlXXXXXcFXXXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E这是全国目前最大的包装生产厂家之一裕同的普通车间\u003C/code\u003E\u003Cbr\u003E\u000A在深圳考察的这些日子我学习了包装设计的生产与工艺\u003Cbr\u003E\u000A在裕同有苹果的独立生产线，所有苹果的包装车间都是封闭的。\u003Cbr\u003E\u000A苹果的包装工艺大家是有目共睹的，其对生产的条件也是相当之高的，需要专业的设备，恒定的生产温度，品控之高并不是普通厂家能做的，同时包装生产的价格都是根据数量来的。量多价格才能优。小客户一般都是没有价格优势的。\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i1/471192700/TB2NNuhlXXXXXbhXpXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E三叶草，苹果，华为，小米都是裕同的客户\u003C/code\u003E\u003Cbr\u003E\u000A当然像苹果华为都是有独立的封闭式生产车间，像我们这些小客户都是在普通生产车间生产。\u003Cbr\u003E\u000A在深圳，我去过贤俊龙，劲嘉，裕同等国内包装的龙头企业参观考察，全自动化的设备让我瞠目结舌。\u003C/p\u003E\u000A\u003Cdiv class\u003D\u0022highlight\u0022\u003E\u003Cpre\u003E15 年 9 月份尝试建立个人 T 恤品牌屿\u002Dhilltogether\u000A\u003C/pre\u003E\u003C/div\u003E\u000A\u000A\u003Cp\u003E我有一个梦想，希望自己能有一个自己的品牌，然后可以在大街上看到别人穿你设计的衣服是一种多么自豪的感觉啊。我相信所有的设计师们都有这种情结吧。哈哈\u003Cbr\u003E\u000A于是我又开始了新的尝试。\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i3/471192700/TB2ju1vlXXXXXc4XXXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003ET 恤的样件\u003C/code\u003E\u003Cbr\u003E\u000A尝试了 3M 反光材质与夜光材质的印制。\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i4/471192700/TB2PuGvlXXXXXc1XXXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003ET 恤的样件\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i2/471192700/TB2tQcweVXXXXajXXXXXXXXXXXX\u002D471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E隐山人图案\u003C/code\u003E\u003Cbr\u003E\u000A我想通过隐山人向那些有才能且默默无闻在一线从事艺术设计工作者们致敬，同时要学习前辈们的精神。\u003C/p\u003E\u000A\u000A\u003Cp\u003E最终选定 3M 反光材和吉丹尔的原 T 生产。\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i1/471192700/TB2cWb1eVXXXXcdXpXXXXXXXXXX\u002D471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003ET 恤的最终样式\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i4/471192700/TB2wldVfpXXXXa0XpXXXXXXXXXX\u002D471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003ET 恤的模特图\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i1/471192700/TB2IHVVfpXXXXaGXpXXXXXXXXXX\u002D471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E俊\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i1/471192700/TB2kdOwlXXXXXXwXpXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E璋\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i1/471192700/TB2JDmAlXXXXXcTXXXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E宣传图\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i2/471192700/TB2OBuifpXXXXXFXXXXXXXXXXXX\u002D471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E宣传图\u003C/code\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E后面 T 恤也卖出去 200 多件，全靠身边的朋友同学们的支持。在这里我要感谢我的同学对我的帮助和支持，没有你们就没有屿。\u003C/p\u003E\u000A\u003Cdiv class\u003D\u0022highlight\u0022\u003E\u003Cpre\u003E10 月正式筹办钦慕网\u000A\u000A   钦慕 admire.so\u000A\u003C/pre\u003E\u003C/div\u003E\u000A\u000A\u003Cp\u003E钦慕是一个创意设计网址分享网站，我在这两年的设计学习之路没少走弯路，后面也陆陆续续开始整理和收集一些设计相关的优质网站。于是就有了建立钦慕的念头，如果每个设计师都能把自己的干货都分享出来的话对设计师自身来说就是一个极大的方便，同时也可以帮助初学者少走弯路。\u003Cbr\u003E\u000A想法是有了，但是去哪里找一位能写程序的搭档呢？当时在学校苦苦找寻了两个多月无果，没有合适的人选。\u003Cbr\u003E\u000A直到有一天，说起来也是缘分，我应该感谢 V2EX 让我认识了现在的搭档 @everettjf （疯子），一次偶然的机会在 V2EX 发现疯子跟我做着同样的事情，他从事 IOS 开发工作的，在北京已经工作了六年，刚好他写程序，我来设计页面。另外还有一个搭档阿璋负责前端开发，（就是上面穿白色 T 恤的那位）于是我们三个人组成了新的钦慕团队。\u003Cbr\u003E\u000A重新出发，我们从需求，交互，视觉，后台开发整整三个月时间。现在终于像点样子了。\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i2/471192700/TB2SzyylXXXXXXoXpXXXXXXXXXX_!!471192700.png\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E第一版\u003C/code\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i2/471192700/TB2lduPlXXXXXaSXXXXXXXXXXXX_!!471192700.png\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E第二版\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i4/471192700/TB2peCYlXXXXXXpXXXXXXXXXXXX_!!471192700.png\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E第三版\u003C/code\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i1/471192700/TB2o35ulXXXXXXVXpXXXXXXXXXX_!!471192700.png\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E第四版\u003C/code\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E钦慕的设计过程是很磨人的，第一次去尝试着要好一个产品的时候发现真的很难，我们不断的推翻自己，不断的去做尝试，本身设计就是一个不断尝试印证的过程。好的设计是需要花时间和精力去思考的结果。\u003Cbr\u003E\u000A在建立钦慕这段时间我认识许多人， Justjavac 大神，小黄鸡同学（万花筒），也很感谢他们的帮助。\u003Cbr\u003E\u000A当然后面我们对钦慕也有新的一些想法，很多功能都会逐一去实现的。\u003C/p\u003E\u000A\u003Cdiv class\u003D\u0022highlight\u0022\u003E\u003Cpre\u003E终于今年的 3 月我们钦慕 beta1.0 版本上线了！\u000A\u003C/pre\u003E\u003C/div\u003E\u000A\u000A\u003Cp\u003E感兴趣的同学可以去看下哦，如果有好的建议可以随时联系我们，我在此感激不尽！\u003C/p\u003E\u000A\u003Cdiv class\u003D\u0022highlight\u0022\u003E\u003Cpre\u003E15 年 11 月我离开了第一家公司去了亚信科技\u000A\u003C/pre\u003E\u003C/div\u003E\u000A\u000A\u003Cp\u003E我离开了索罗思腾，并不是因为公司不好，公司对我很好，我觉得有些愧疚。在索罗思腾足足一年时间，这一年我学到了很多东西，这些东西是在学校无法学到的。\u003C/p\u003E\u000A\u000A\u003Cp\u003E机缘巧合认识了我现在的老大，他是前端界过了气的大神，哈哈， cssrian （单东林，《锋利的 jQuery 》是他的杰作 ）\u003Cbr\u003E\u000A就这样我加入了亚信科技 UED 部门，任视觉设计师。\u003Cbr\u003E\u000A于是我有了新的挑战和机会！\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i3/471192700/TB2l2WMlXXXXXbjXXXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E中国移动云化服务框架设计稿 01\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i2/471192700/TB2GyOElXXXXXcWXXXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E中国移动设计稿 01\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i3/471192700/TB2K7GKlXXXXXckXXXXXXXXXXXX_!!471192700.gif\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E动态交互设计图\u003C/code\u003E\u003Cbr\u003E\u000A我喜欢动效设计，一般时间允许的话，我会去尝试一些简单的交互动效。我平常用 Sketch 做图，还有一些非常不错的设计生产工具，在钦慕 admire 里面有，感兴趣的可以去看下。\u003C/p\u003E\u000A\u000A\u003Cp\u003E由于项目特殊原因只能放部分截图\u003C/p\u003E\u000A\u003Cdiv class\u003D\u0022highlight\u0022\u003E\u003Cpre\u003E下面还有一些其他以前做过的项目图。\u000A\u003C/pre\u003E\u003C/div\u003E\u000A\u000A\u003Cp\u003E\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i1/471192700/TB2LXiwlXXXXXXNXpXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E乐绘设计稿\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i2/471192700/TB2TmajlXXXXXbNXpXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003EFlarumone\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i2/471192700/TB2ahujlXXXXXbQXpXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E万花筒标识\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i1/471192700/TB25g5olXXXXXa.XpXXXXXXXXXX_!!471192700.jpg\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003EDADB 标识设计\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i2/471192700/TB2cCuFlXXXXXcBXXXXXXXXXXXX_!!471192700.png\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E钦慕标识\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i2/471192700/TB2v9yWlXXXXXX0XXXXXXXXXXXX_!!471192700.png\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E屿标识设计\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i1/471192700/TB2JyatlXXXXXaAXpXXXXXXXXXX_!!471192700.png\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003E亚信 UED 标识设计\u003C/code\u003E\u003Cbr\u003E\u000A\u003Cimg src\u003D\u0022https://img.alicdn.com/imgextra/i2/471192700/TB2qfm0lXXXXXXQXXXXXXXXXXXX_!!471192700.gif\u0022 alt\u003D\u0022\u0022\u003E\u003Cbr\u003E\u000A\u003Ccode\u003EUED 动态设计稿\u003C/code\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E如今大学已经到了尾声，我没有得过奖学金，挂过科，只有一堆飞机稿。\u003Cbr\u003E\u000A也受过不少冷眼嘲讽，但至少我没有让他们一笑到底。\u003C/p\u003E\u000A\u000A\u003Cp\u003E我在大学没毕业之前已经凭借自己的专业能力达到月薪 10K 。这算是给大学一个交代吧。\u003C/p\u003E\u000A\u000A\u003Cp\u003E个人微博：\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://weibo.com/wantline\u0022\u003Ehttp://weibo.com/wantline\u003C/a\u003E\u003Cbr\u003E\u000A钦慕网入口\u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://admire.so\u0022\u003Ehttp://admire.so\u003C/a\u003E\u003C/p\u003E\u000A",
+        "replies" : 34,
+        "member" : {
+            "id" : 143117,
+            "username" : "wantline",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/c51e/ff3f/143117_mini.png?m=1447385212",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/c51e/ff3f/143117_normal.png?m=1447385212",
+            "avatar_large" : "//cdn.v2ex.co/avatar/c51e/ff3f/143117_large.png?m=1447385212"
+        },
+        "node" : {
+            "id" : 215,
+            "name" : "design",
+            "title" : "设计",
+            "title_alternative" : "Design",
+            "url" : "http://www.v2ex.com/go/design",
+            "topics" : 662,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/3b8a/6142/215_mini.png?m=1450843603",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/3b8a/6142/215_normal.png?m=1450843603",
+            "avatar_large" : "//cdn.v2ex.co/navatar/3b8a/6142/215_large.png?m=1450843603"
+        },
+        "created" : 1457178895,
+        "last_modified" : 1457178895,
+        "last_touched" : 1457227206
+    },
+    
+    {
+        "id" : 261364,
+        "title" : "有人玩过集装箱房吗？垃圾问题如何解决？",
+        "url" : "http://www.v2ex.com/t/261364",
+        "content" : "初涉集装箱房，在一线城市找个空地放上就能霸占。\u000D\u000A感觉挺适合有车一族的，放远点不太会有人管。\u000D\u000A洗浴卫生这些都好解决，\u000D\u000A就是垃圾处理想不明白，就地随便丢的话，污染环境不说，时间长了一定会有人管，因为地就废了\u000D\u000A有人有过经验吗？",
+        "content_rendered" : "初涉集装箱房，在一线城市找个空地放上就能霸占。\u000D\u003Cbr /\u003E感觉挺适合有车一族的，放远点不太会有人管。\u000D\u003Cbr /\u003E洗浴卫生这些都好解决，\u000D\u003Cbr /\u003E就是垃圾处理想不明白，就地随便丢的话，污染环境不说，时间长了一定会有人管，因为地就废了\u000D\u003Cbr /\u003E有人有过经验吗？",
+        "replies" : 34,
+        "member" : {
+            "id" : 1888,
+            "username" : "won",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/2d1b/2a5f/1888_mini.png?m=1450534279",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/2d1b/2a5f/1888_normal.png?m=1450534279",
+            "avatar_large" : "//cdn.v2ex.co/avatar/2d1b/2a5f/1888_large.png?m=1450534279"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 65483,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1456308340",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1456308340",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1456308340"
+        },
+        "created" : 1457180160,
+        "last_modified" : 1457180160,
+        "last_touched" : 1457238630
+    },
+    
+    {
+        "id" : 261285,
+        "title" : "求支持电信 4G，能刷 CM 或原生的高性价比手机，顺原价出小米 5（昨天拿到货开封的）",
+        "url" : "http://www.v2ex.com/t/261285",
+        "content" : "RT ，之前用 iphone 5s ，嫌弃其屏幕小以及存储不足，故而首发小米之家买到了个小米 5 ，用了一天，感觉还是不习惯 miui 。故有此问，顺便原价出了小米 5\u000D\u000A\u000D\u000A亲可能要说 7 天无理由退货，貌似小米之家不支持（提货的小米之家给了个纸，上面盖章不支持 7 天无理由退货），只能是网上购买的支持吧",
+        "content_rendered" : "RT ，之前用 iphone 5s ，嫌弃其屏幕小以及存储不足，故而首发小米之家买到了个小米 5 ，用了一天，感觉还是不习惯 miui 。故有此问，顺便原价出了小米 5\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E亲可能要说 7 天无理由退货，貌似小米之家不支持（提货的小米之家给了个纸，上面盖章不支持 7 天无理由退货），只能是网上购买的支持吧",
+        "replies" : 33,
+        "member" : {
+            "id" : 14026,
+            "username" : "youthcould",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/015fff010ca9d48baa13344415bcebe0?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/015fff010ca9d48baa13344415bcebe0?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/015fff010ca9d48baa13344415bcebe0?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 65483,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1456308340",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1456308340",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1456308340"
+        },
+        "created" : 1457153772,
+        "last_modified" : 1457153772,
+        "last_touched" : 1457202905
+    },
+    
+    {
+        "id" : 261295,
+        "title" : "[百度前端技术学院]V2EX 观光团准备发车~",
+        "url" : "http://www.v2ex.com/t/261295",
+        "content" : "本人 1 年 Android 工作经验(非实习.目前 21 岁).\u000D\u000A之前在某鸟学过 html js css 啥的.不过都太老了.\u000D\u000A对前端技术非常感兴趣.正在准备自学中.\u000D\u000A正巧看到 V 友发了一个组队的信息.想加队无奈人已满.\u000D\u000A故自己创建了一个队伍.\u000D\u000A队名:V2EX 观光团\u000D\u000A欢迎有兴趣的 V 友加入~\u000D\u000A\u000D\u000Aps:\u000D\u000A\u0009百度前端技术学院 http://ife.baidu.com/\u000D\u000A    如何报名 http://ife.baidu.com/static/joinhelp.html\u000D\u000A    \u000D\u000A微信公众号“前端早读课”\u000D\u000A    http://ww1.sinaimg.cn/large/bfd9a31ajw1f1lwkt6m0mj20hs0hsq4a.jpg",
+        "content_rendered" : "\u003Cp\u003E本人 1 年 Android 工作经验(非实习.目前 21 岁).\u003Cbr\u003E\u000A之前在某鸟学过 html js css 啥的.不过都太老了.\u003Cbr\u003E\u000A对前端技术非常感兴趣.正在准备自学中.\u003Cbr\u003E\u000A正巧看到 V 友发了一个组队的信息.想加队无奈人已满.\u003Cbr\u003E\u000A故自己创建了一个队伍.\u003Cbr\u003E\u000A队名:V2EX 观光团\u003Cbr\u003E\u000A欢迎有兴趣的 V 友加入~\u003C/p\u003E\u000A\u000A\u003Cp\u003Eps:\u003Cbr\u003E\u000A    百度前端技术学院 \u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://ife.baidu.com/\u0022\u003Ehttp://ife.baidu.com/\u003C/a\u003E\u003Cbr\u003E\u000A    如何报名 \u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://ife.baidu.com/static/joinhelp.html\u0022\u003Ehttp://ife.baidu.com/static/joinhelp.html\u003C/a\u003E\u003C/p\u003E\u000A\u000A\u003Cp\u003E微信公众号“前端早读课”\u003Cbr\u003E\u000A    \u003Ca target\u003D\u0022_blank\u0022 rel\u003D\u0022nofollow\u0022 href\u003D\u0022http://ww1.sinaimg.cn/large/bfd9a31ajw1f1lwkt6m0mj20hs0hsq4a.jpg\u0022\u003Ehttp://ww1.sinaimg.cn/large/bfd9a31ajw1f1lwkt6m0mj20hs0hsq4a.jpg\u003C/a\u003E\u003C/p\u003E\u000A",
+        "replies" : 28,
+        "member" : {
+            "id" : 154471,
+            "username" : "karnaugh",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/330c/c734/154471_mini.png?m=1453088367",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/330c/c734/154471_normal.png?m=1453088367",
+            "avatar_large" : "//cdn.v2ex.co/avatar/330c/c734/154471_large.png?m=1453088367"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 11103,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1456998915",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1456998915",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1456998915"
+        },
+        "created" : 1457156935,
+        "last_modified" : 1457156935,
+        "last_touched" : 1457207669
+    },
+    
+    {
+        "id" : 261282,
+        "title" : "狗东的白热度多少才算是白条优质用户？能开金条？",
+        "url" : "http://www.v2ex.com/t/261282",
+        "content" : "狗东微信白条的公众号说到账户多出金条，我打开一看没有丫，我白热度 97.2 没有这个金条啊。我想问问开通金条的白热度都多少的？跟阿里的借呗比起来那个利息低？",
+        "content_rendered" : "狗东微信白条的公众号说到账户多出金条，我打开一看没有丫，我白热度 97.2 没有这个金条啊。我想问问开通金条的白热度都多少的？跟阿里的借呗比起来那个利息低？",
+        "replies" : 27,
+        "member" : {
+            "id" : 75609,
+            "username" : "20140930",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/8f31/74e4/75609_mini.png?m=1412337736",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/8f31/74e4/75609_normal.png?m=1412337736",
+            "avatar_large" : "//cdn.v2ex.co/avatar/8f31/74e4/75609_large.png?m=1412337736"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 65483,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1456308340",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1456308340",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1456308340"
+        },
+        "created" : 1457153194,
+        "last_modified" : 1457153209,
+        "last_touched" : 1457198371
+    },
+    
+    {
+        "id" : 261326,
+        "title" : "阿里小号注册微信，会被秒封，何解？",
+        "url" : "http://www.v2ex.com/t/261326",
+        "content" : "0 ， 0 出于隐私需求，想再注册个马甲微信，于是买了个月的阿里小号注册\u000D\u000A结果刚注册完，设置完微信用户名，就被自动踢出登录\u000D\u000A同时提示我的帐号获取途径异常，需要解封才能登录\u000D\u000A\u000D\u000A解封的流程是，需要用手机号发送验证码到一个服务号码\u000D\u000A而阿里小号又不支持发短信到服务号码，醉了\u000D\u000A\u000D\u000A问题是微信是怎么发现异常的？想了下无非两种方法\u000D\u000A1.微信通过某种方式，爬了阿里的小号库，建了个异常号码库，检测到这样的帐号就让验证\u000D\u000A2.微信发现我注册的手机号和本机号码不一致，就强制我验证？\u000D\u000A\u000D\u000A不知道具体是哪种验证策略＝＝\u000D\u000A顺便求个更靠谱的注册微信马甲的方案",
+        "content_rendered" : "0 ， 0 出于隐私需求，想再注册个马甲微信，于是买了个月的阿里小号注册\u000D\u003Cbr /\u003E结果刚注册完，设置完微信用户名，就被自动踢出登录\u000D\u003Cbr /\u003E同时提示我的帐号获取途径异常，需要解封才能登录\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E解封的流程是，需要用手机号发送验证码到一个服务号码\u000D\u003Cbr /\u003E而阿里小号又不支持发短信到服务号码，醉了\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E问题是微信是怎么发现异常的？想了下无非两种方法\u000D\u003Cbr /\u003E1.微信通过某种方式，爬了阿里的小号库，建了个异常号码库，检测到这样的帐号就让验证\u000D\u003Cbr /\u003E2.微信发现我注册的手机号和本机号码不一致，就强制我验证？\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E不知道具体是哪种验证策略＝＝\u000D\u003Cbr /\u003E顺便求个更靠谱的注册微信马甲的方案",
+        "replies" : 26,
+        "member" : {
+            "id" : 72548,
+            "username" : "moonkiller",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/f81a/37ca/72548_mini.png?m=1433251749",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/f81a/37ca/72548_normal.png?m=1433251749",
+            "avatar_large" : "//cdn.v2ex.co/avatar/f81a/37ca/72548_large.png?m=1433251749"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 65483,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1456308340",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1456308340",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1456308340"
+        },
+        "created" : 1457165582,
+        "last_modified" : 1457165605,
+        "last_touched" : 1457216664
+    }
+    
+]

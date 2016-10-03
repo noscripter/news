@@ -1,0 +1,72 @@
+[
+    {
+        "author": "christabor",
+        "category": "HTML",
+        "stars": "393",
+        "title": "flask_jsondash - Build javascript chart dashboards without any front-end code. Uses any json endpoint. JSON config only. Ready to go.",
+        "url": "https://github.com/christabor/flask_jsondash"
+    },
+    {
+        "author": "datasciencemasters",
+        "category": "",
+        "stars": "372",
+        "title": "go - The Open Source Data Science Masters",
+        "url": "https://github.com/datasciencemasters/go"
+    },
+    {
+        "author": "gztchan",
+        "category": "",
+        "stars": "369",
+        "title": "awesome-design - \ud83c\udf8f Best UI/UX Design Resources For Developer & Designer Ever :)",
+        "url": "https://github.com/gztchan/awesome-design"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "281",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "kdchang",
+        "category": "JavaScript",
+        "stars": "256",
+        "title": "reactjs101 - \u5f9e\u96f6\u958b\u59cb\u5b78 ReactJS\uff08ReactJS 101\uff09\u662f\u4e00\u672c\u5e0c\u671b\u8b93\u521d\u5b78\u8005\u4e00\u770b\u5c31\u61c2\u7684 ReactJS \u4e2d\u6587\u5165\u9580\u6559\u5b78\u66f8\uff0c\u7531\u6dfa\u5165\u6df1\u5b78\u7fd2 ReactJS \u751f\u614b\u7cfb (Flux, Redux, React Router, ImmutableJS, React Native, Relay/GraphQL etc.)\u3002",
+        "url": "https://github.com/kdchang/reactjs101"
+    },
+    {
+        "author": "dabit3",
+        "category": "JavaScript",
+        "stars": "235",
+        "title": "React-Native-Elements - React Native Elements UI Toolkit",
+        "url": "https://github.com/dabit3/React-Native-Elements"
+    },
+    {
+        "author": "PHPixie",
+        "category": "PHP",
+        "stars": "216",
+        "title": "Project - A lightweight MVC PHP framework designed for speed and simplicty",
+        "url": "https://github.com/PHPixie/Project"
+    },
+    {
+        "author": "vinta",
+        "category": "Python",
+        "stars": "180",
+        "title": "awesome-python - A curated list of awesome Python frameworks, libraries, software and resources",
+        "url": "https://github.com/vinta/awesome-python"
+    },
+    {
+        "author": "sandstorm-io",
+        "category": "C++",
+        "stars": "182",
+        "title": "capnproto - Cap'n Proto serialization/RPC system",
+        "url": "https://github.com/sandstorm-io/capnproto"
+    },
+    {
+        "author": "franciscop",
+        "category": "JavaScript",
+        "stars": "177",
+        "title": "cookies.js - \ud83c\udf6a Interactive and easy cookies from your browser in javascript",
+        "url": "https://github.com/franciscop/cookies.js"
+    }
+]

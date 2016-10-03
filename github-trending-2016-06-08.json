@@ -1,0 +1,72 @@
+[
+    {
+        "author": "git-tips",
+        "category": "JavaScript",
+        "stars": "1,111",
+        "title": "tips - Most commonly used git tips and tricks.",
+        "url": "https://github.com/git-tips/tips"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "663",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "googlecreativelab",
+        "category": "C",
+        "stars": "641",
+        "title": "anypixel - A web-friendly way for anyone to build unusual displays",
+        "url": "https://github.com/googlecreativelab/anypixel"
+    },
+    {
+        "author": "rasbt",
+        "category": "Jupyter Notebook",
+        "stars": "344",
+        "title": "python-machine-learning-book - The \"Python Machine Learning\" book code repository and info resource",
+        "url": "https://github.com/rasbt/python-machine-learning-book"
+    },
+    {
+        "author": "raywenderlich",
+        "category": "Swift",
+        "stars": "277",
+        "title": "swift-algorithm-club - Algorithms and data structures in Swift, with explanations!",
+        "url": "https://github.com/raywenderlich/swift-algorithm-club"
+    },
+    {
+        "author": "vic317yeh",
+        "category": "",
+        "stars": "242",
+        "title": "One-Click-to-Be-Pro - A list of the best resources to help you get started in becoming a pro",
+        "url": "https://github.com/vic317yeh/One-Click-to-Be-Pro"
+    },
+    {
+        "author": "Dimezis",
+        "category": "Java",
+        "stars": "232",
+        "title": "BlurView - Dynamic iOS-like blur of underlying Views for Android",
+        "url": "https://github.com/Dimezis/BlurView"
+    },
+    {
+        "author": "luruke",
+        "category": "JavaScript",
+        "stars": "228",
+        "title": "barba.js - Create badass, fluid and smooth transition between your website's pages.",
+        "url": "https://github.com/luruke/barba.js"
+    },
+    {
+        "author": "terryum",
+        "category": "",
+        "stars": "198",
+        "title": "awesome-deep-learning-papers - ",
+        "url": "https://github.com/terryum/awesome-deep-learning-papers"
+    },
+    {
+        "author": "picnicss",
+        "category": "HTML",
+        "stars": "186",
+        "title": "picnic - \ud83d\udc5c A beautiful CSS library to kickstart your projects",
+        "url": "https://github.com/picnicss/picnic"
+    }
+]

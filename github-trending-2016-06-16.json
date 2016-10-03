@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "877",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "yandex",
+        "category": "C++",
+        "stars": "521",
+        "title": "ClickHouse - ClickHouse is a free analytic DBMS for big data.",
+        "url": "https://github.com/yandex/ClickHouse"
+    },
+    {
+        "author": "git-tips",
+        "category": "JavaScript",
+        "stars": "334",
+        "title": "tips - Most commonly used git tips and tricks.",
+        "url": "https://github.com/git-tips/tips"
+    },
+    {
+        "author": "prahladyeri",
+        "category": "JavaScript",
+        "stars": "244",
+        "title": "VisualAlchemist - Open source web-based database diagramming and automation tool",
+        "url": "https://github.com/prahladyeri/VisualAlchemist"
+    },
+    {
+        "author": "badoualy",
+        "category": "Java",
+        "stars": "237",
+        "title": "stepper-indicator - Step indicator for onboarding or simple viewpager",
+        "url": "https://github.com/badoualy/stepper-indicator"
+    },
+    {
+        "author": "habitat-sh",
+        "category": "Rust",
+        "stars": "244",
+        "title": "habitat - Modern applications with built-in automation",
+        "url": "https://github.com/habitat-sh/habitat"
+    },
+    {
+        "author": "donnemartin",
+        "category": "Python",
+        "stars": "194",
+        "title": "awesome-aws - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.",
+        "url": "https://github.com/donnemartin/awesome-aws"
+    },
+    {
+        "author": "nylas",
+        "category": "JavaScript",
+        "stars": "191",
+        "title": "N1 - \ud83d\udc8c An extensible desktop mail app built on the modern web.",
+        "url": "https://github.com/nylas/N1"
+    },
+    {
+        "author": "square",
+        "category": "Swift",
+        "stars": "176",
+        "title": "Cleanse - Lightweight Swift Dependency Injection Framework",
+        "url": "https://github.com/square/Cleanse"
+    },
+    {
+        "author": "orhanobut",
+        "category": "Java",
+        "stars": "134",
+        "title": "logger - Simple, pretty and powerful logger for android",
+        "url": "https://github.com/orhanobut/logger"
+    }
+]

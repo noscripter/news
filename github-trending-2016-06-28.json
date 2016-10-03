@@ -1,0 +1,72 @@
+[
+    {
+        "author": "guarinogabriel",
+        "category": "Shell",
+        "stars": "1,104",
+        "title": "mac-cli - The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.",
+        "url": "https://github.com/guarinogabriel/mac-cli"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "663",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "getify",
+        "category": "JavaScript",
+        "stars": "611",
+        "title": "You-Dont-Know-JS - A book series on JavaScript. @YDKJS on twitter.",
+        "url": "https://github.com/getify/You-Dont-Know-JS"
+    },
+    {
+        "author": "shadowsocks",
+        "category": "Swift",
+        "stars": "352",
+        "title": "Potatso-iOS - Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework in iOS 9.",
+        "url": "https://github.com/shadowsocks/Potatso-iOS"
+    },
+    {
+        "author": "Bilibili",
+        "category": "Java",
+        "stars": "309",
+        "title": "MagicaSakura - MagicaSakura \u662f Android \u591a\u4e3b\u9898\u6846\u67b6\u3002~ is an Android multi theme library which supporting both daily colorful theme and night theme.",
+        "url": "https://github.com/Bilibili/MagicaSakura"
+    },
+    {
+        "author": "open-source-society",
+        "category": "",
+        "stars": "311",
+        "title": "data-science - \ud83d\udcca Path to a free self-taught education in Data Science!",
+        "url": "https://github.com/open-source-society/data-science"
+    },
+    {
+        "author": "chmln",
+        "category": "JavaScript",
+        "stars": "313",
+        "title": "flatpickr - lightweight, powerful datetimepicker. zero dependencies",
+        "url": "https://github.com/chmln/flatpickr"
+    },
+    {
+        "author": "flouthoc",
+        "category": "Assembly",
+        "stars": "280",
+        "title": "calc.asm - Minimal arithmetic calculator in x86 assembly",
+        "url": "https://github.com/flouthoc/calc.asm"
+    },
+    {
+        "author": "huluoyang",
+        "category": "JavaScript",
+        "stars": "206",
+        "title": "freecodecamp.cn - \u5e72\u8d27\u90fd\u5728Wiki\u4e2d\uff0c\u5343\u4e07\u4e0d\u8981\u9519\u8fc7\u3002",
+        "url": "https://github.com/huluoyang/freecodecamp.cn"
+    },
+    {
+        "author": "52inc",
+        "category": "Java",
+        "stars": "186",
+        "title": "Scoops - Android library for managing and applying multiple themes and custom theme modification",
+        "url": "https://github.com/52inc/Scoops"
+    }
+]

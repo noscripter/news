@@ -1,0 +1,72 @@
+[
+    {
+        "author": "Kickball",
+        "category": "Makefile",
+        "stars": "406",
+        "title": "awesome-selfhosted - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.",
+        "url": "https://github.com/Kickball/awesome-selfhosted"
+    },
+    {
+        "author": "madler",
+        "category": "C",
+        "stars": "365",
+        "title": "pigz - A parallel implementation of gzip for modern multi-processor, multi-core machines.",
+        "url": "https://github.com/madler/pigz"
+    },
+    {
+        "author": "PowerShell",
+        "category": "C#",
+        "stars": "295",
+        "title": "PowerShell - PowerShell for every system!",
+        "url": "https://github.com/PowerShell/PowerShell"
+    },
+    {
+        "author": "tidwall",
+        "category": "Go",
+        "stars": "277",
+        "title": "redcon - Fast Redis compatible server framework for Go",
+        "url": "https://github.com/tidwall/redcon"
+    },
+    {
+        "author": "facebookresearch",
+        "category": "C++",
+        "stars": "247",
+        "title": "fastText - Library for fast text representation and classification.",
+        "url": "https://github.com/facebookresearch/fastText"
+    },
+    {
+        "author": "kelseyhightower",
+        "category": "",
+        "stars": "185",
+        "title": "kubernetes-the-hard-way - Bootstrap Kubernetes the hard way. No scripts.",
+        "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way"
+    },
+    {
+        "author": "ankitaggarwal011",
+        "category": "Python",
+        "stars": "174",
+        "title": "PyCNN - Image Processing with Cellular Neural Networks in Python",
+        "url": "https://github.com/ankitaggarwal011/PyCNN"
+    },
+    {
+        "author": "tockins",
+        "category": "Go",
+        "stars": "161",
+        "title": "realize - Go build system with file watchers, live reload and output streams. Run, build and watch file changes with custom paths",
+        "url": "https://github.com/tockins/realize"
+    },
+    {
+        "author": "RafalWilinski",
+        "category": "HTML",
+        "stars": "128",
+        "title": "express-status-monitor - \ud83d\ude80 Realtime Monitoring solution for Express.js apps, inspired by status.github.com",
+        "url": "https://github.com/RafalWilinski/express-status-monitor"
+    },
+    {
+        "author": "FormidableLabs",
+        "category": "JavaScript",
+        "stars": "126",
+        "title": "webpack-dashboard - A CLI dashboard for webpack dev server",
+        "url": "https://github.com/FormidableLabs/webpack-dashboard"
+    }
+]

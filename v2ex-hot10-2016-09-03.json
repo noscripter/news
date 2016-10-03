@@ -1,0 +1,313 @@
+[
+    
+    {
+        "id" : 303512,
+        "title" : "QQ 聊天能被监控吗？在公司",
+        "url" : "http://www.v2ex.com/t/303512",
+        "content" : "一直很想知道这个答案",
+        "content_rendered" : "\u003Cp\u003E一直很想知道这个答案\u003C/p\u003E\u000A",
+        "replies" : 90,
+        "member" : {
+            "id" : 31507,
+            "username" : "zioc",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/1cb00a6bee2867f3d9c90f6a6d2c4aad?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/1cb00a6bee2867f3d9c90f6a6d2c4aad?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/1cb00a6bee2867f3d9c90f6a6d2c4aad?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 13096,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1472189973",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1472189973",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1472189973"
+        },
+        "created" : 1472807546,
+        "last_modified" : 1472807546,
+        "last_touched" : 1472866194
+    },
+    
+    {
+        "id" : 303424,
+        "title" : "看到别人写 SQL 会在 where 后面写 1\u003D1，是什么意思？",
+        "url" : "http://www.v2ex.com/t/303424",
+        "content" : "SELECT * FROM  operation_log o  \u000D\u000Awhere 1\u003D1  \u000D\u000Aand o.operation_time\u003E\u003D\u00272016/6/1\u0027  \u000D\u000Aand o.operation_time\u003C\u00272016/7/28\u0027  \u000D\u000A这个 1\u003D1 好像写不写都没关系哦？",
+        "content_rendered" : "\u003Cp\u003ESELECT * FROM  operation_log o\u003Cbr\u003E\u000Awhere 1\u003D1\u003Cbr\u003E\u000Aand o.operation_time\u0026gt\u003B\u003D\u00272016/6/1\u0027\u003Cbr\u003E\u000Aand o.operation_time\u0026lt\u003B\u00272016/7/28\u0027\u003Cbr\u003E\u000A这个 1\u003D1 好像写不写都没关系哦？\u003C/p\u003E\u000A",
+        "replies" : 62,
+        "member" : {
+            "id" : 187662,
+            "username" : "KagamineLenKai2",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/00fee76ee2a9b28728879b487b0b2f5d?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/00fee76ee2a9b28728879b487b0b2f5d?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/00fee76ee2a9b28728879b487b0b2f5d?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 61,
+            "name" : "mysql",
+            "title" : "MySQL",
+            "title_alternative" : "MySQL",
+            "url" : "http://www.v2ex.com/go/mysql",
+            "topics" : 609,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/7f39/f831/61_mini.png?m=1469612605",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/7f39/f831/61_normal.png?m=1469612605",
+            "avatar_large" : "//cdn.v2ex.co/navatar/7f39/f831/61_large.png?m=1469612605"
+        },
+        "created" : 1472788009,
+        "last_modified" : 1472788009,
+        "last_touched" : 1472865758
+    },
+    
+    {
+        "id" : 303479,
+        "title" : "「鼠须管」配置方案分享",
+        "url" : "http://www.v2ex.com/t/303479",
+        "content" : "![Squirrel]( http://i.imgur.com/3utln3J.png)\u000D\u000A\u000D\u000A\u002D  /dn 方式的符号输出；\u000D\u000A\u002D 常见拼写容错处理；\u000D\u000A\u002D 支持词义关联模式的表情符号、颜文字；\u000D\u000A\u002D #、`、符号直接上屏，单引号输出「」；\u000D\u000A\u002D +\u002D以及\u003C\u003E 键翻页，上下箭头选择其他候选；\u000D\u000A\u002D 用 ← 键移动光标到第一个字拼音的结束位置，这时的候选字列表只包含第一个字的同音字。\u000D\u000A\u002D 可以用（ Shift+）← 按音节向左移动光标，还可以 Shift+→ 从输入串末尾末尾跳回第一个音节。\u000D\u000A\u002D （自编译最新版） Tab 、 Shift+Tab 映射为 Shift+左右方向键\u000D\u000A\u000D\u000A配置下载地址： https://dl.dropboxusercontent.com/u/6790544/squirrel\u002Dpatch.zip\u000D\u000A配置更新地址不变\u000D\u000A\u000D\u000A详细介绍： http://d.pr/lbg4",
+        "content_rendered" : "\u003Cp\u003E\u003Cimg alt\u003D\u0022Squirrel\u0022 src\u003D\u0022http://i.imgur.com/3utln3J.png\u0022\u003E\u003C/p\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003E/dn 方式的符号输出；\u003C/li\u003E\u000A\u003Cli\u003E常见拼写容错处理；\u003C/li\u003E\u000A\u003Cli\u003E支持词义关联模式的表情符号、颜文字；\u003C/li\u003E\u000A\u003Cli\u003E#、`、符号直接上屏，单引号输出「」；\u003C/li\u003E\u000A\u003Cli\u003E+\u002D以及\u0026lt\u003B\u0026gt\u003B 键翻页，上下箭头选择其他候选；\u003C/li\u003E\u000A\u003Cli\u003E用 ← 键移动光标到第一个字拼音的结束位置，这时的候选字列表只包含第一个字的同音字。\u003C/li\u003E\u000A\u003Cli\u003E可以用（ Shift+）← 按音节向左移动光标，还可以 Shift+→ 从输入串末尾末尾跳回第一个音节。\u003C/li\u003E\u000A\u003Cli\u003E（自编译最新版） Tab 、 Shift+Tab 映射为 Shift+左右方向键\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u003Cp\u003E配置下载地址： \u003Ca href\u003D\u0022https://dl.dropboxusercontent.com/u/6790544/squirrel\u002Dpatch.zip\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://dl.dropboxusercontent.com/u/6790544/squirrel\u002Dpatch.zip\u003C/a\u003E\u000A配置更新地址不变\u003C/p\u003E\u000A\u003Cp\u003E详细介绍： \u003Ca href\u003D\u0022http://d.pr/lbg4\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://d.pr/lbg4\u003C/a\u003E\u003C/p\u003E\u000A",
+        "replies" : 48,
+        "member" : {
+            "id" : 2222,
+            "username" : "scomper",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/934b/5358/2222_mini.png?m=1445590070",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/934b/5358/2222_normal.png?m=1445590070",
+            "avatar_large" : "//cdn.v2ex.co/avatar/934b/5358/2222_large.png?m=1445590070"
+        },
+        "node" : {
+            "id" : 22,
+            "name" : "macos",
+            "title" : "macOS",
+            "title_alternative" : "macOS",
+            "url" : "http://www.v2ex.com/go/macos",
+            "topics" : 8709,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/b6d7/67d2/22_mini.png?m=1472700670",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/b6d7/67d2/22_normal.png?m=1472700670",
+            "avatar_large" : "//cdn.v2ex.co/navatar/b6d7/67d2/22_large.png?m=1472700670"
+        },
+        "created" : 1472802009,
+        "last_modified" : 1472802164,
+        "last_touched" : 1472865408
+    },
+    
+    {
+        "id" : 303405,
+        "title" : "直接套用那些 bootstrap 后台模板会不会感觉很 low？",
+        "url" : "http://www.v2ex.com/t/303405",
+        "content" : "参加了一个比赛，我负责后台的界面，然后接后台小伙伴传过来的 json 数据。时间有点紧，又没有设计人员。就想直接套 bootstrap 的页面。我自己是见过很多漂亮的 bootstrap 后台模板，有点麻木了。但是你要我自己写，我又写不出来 \u002D \u002D！\u000D\u000A\u000D\u000A最重要的是，还不知道能不能改完，好多 js 都是 min 的 w(ﾟДﾟ)w",
+        "content_rendered" : "\u003Cp\u003E参加了一个比赛，我负责后台的界面，然后接后台小伙伴传过来的 json 数据。时间有点紧，又没有设计人员。就想直接套 bootstrap 的页面。我自己是见过很多漂亮的 bootstrap 后台模板，有点麻木了。但是你要我自己写，我又写不出来 \u002D \u002D！\u003C/p\u003E\u000A\u003Cp\u003E最重要的是，还不知道能不能改完，好多 js 都是 min 的 w(ﾟДﾟ)w\u003C/p\u003E\u000A",
+        "replies" : 45,
+        "member" : {
+            "id" : 185345,
+            "username" : "0f2e3z8n4z",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/f424a6a21a4033bdb84627ed5d5ab7cd?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/f424a6a21a4033bdb84627ed5d5ab7cd?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/f424a6a21a4033bdb84627ed5d5ab7cd?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 13096,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1472189973",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1472189973",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1472189973"
+        },
+        "created" : 1472784189,
+        "last_modified" : 1472784189,
+        "last_touched" : 1472834018
+    },
+    
+    {
+        "id" : 303394,
+        "title" : "我们被一个模仿我们的网站给告了",
+        "url" : "http://www.v2ex.com/t/303394",
+        "content" : "比如说吧，我们公司是 HBC ，我们主要运行网站 HBCTech ，有 5 年了。 一个模仿我们的网站叫 HBCjeeker ， 然后他们 1 年前注册了商标 HBC ，现在来告我们，说我们侵权。 \u000D\u000A\u000D\u000A这种情况，我们能胜诉吗。\u000D\u000A\u000D\u000A还有，说是到一个学校的模拟法庭，是什么情况！",
+        "content_rendered" : "比如说吧，我们公司是 HBC ，我们主要运行网站 HBCTech ，有 5 年了。 一个模仿我们的网站叫 HBCjeeker ， 然后他们 1 年前注册了商标 HBC ，现在来告我们，说我们侵权。 \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E这种情况，我们能胜诉吗。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E还有，说是到一个学校的模拟法庭，是什么情况！",
+        "replies" : 43,
+        "member" : {
+            "id" : 182130,
+            "username" : "aaa0009",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/ff79a42fac2e72655842c7f867fbe4ef?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/ff79a42fac2e72655842c7f867fbe4ef?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/ff79a42fac2e72655842c7f867fbe4ef?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 75311,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1471551823",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1471551823",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1471551823"
+        },
+        "created" : 1472782948,
+        "last_modified" : 1472782948,
+        "last_touched" : 1472845593
+    },
+    
+    {
+        "id" : 303432,
+        "title" : "在 Hack News 被吐槽",
+        "url" : "http://www.v2ex.com/t/303432",
+        "content" : "昨天在 Hack News 上发了一下 [Young开源社区Github 链接]( https://github.com/shiyanhui/Young) ，结果 title 中 forum 写成了 form （昨天也在 V2EX 发了，幸好是中文...），引发一阵吐槽，囧。看来还得好好练下手速（跟手速有毛关系） :)\u000D\u000A\u000D\u000A另外评论里有很多人说，看到 build with love 的字样就 cringe ，看起来他们比较讨厌这种说法？\u000D\u000A\u000D\u000A还有人问 Logo 挺好看的，用的什么字体。其实是 monofur ，我最喜欢的编程字体，不知道有没有同道中人。喜欢 monofur 是因为盯着屏幕时间再长眼睛也不会累，而且看起来很可爱。\u000D\u000A\u000D\u000A是不是好久没有人带节奏了？哈哈，走起！\u000D\u000A\u000D\u000A[![]( http://i.imgur.com/16Fi4KI.png)]( http://i.imgur.com/16Fi4KI.png)\u000D\u000A\u000D\u000A\u000D\u000A这个是 Hack News 那个帖子 https://news.ycombinator.com/item?id\u003D12403699",
+        "content_rendered" : "\u003Cp\u003E昨天在 Hack News 上发了一下 \u003Ca href\u003D\u0022https://github.com/shiyanhui/Young\u0022 rel\u003D\u0022nofollow\u0022\u003EYoung开源社区Github 链接\u003C/a\u003E ，结果 title 中 forum 写成了 form （昨天也在 V2EX 发了，幸好是中文...），引发一阵吐槽，囧。看来还得好好练下手速（跟手速有毛关系） :)\u003C/p\u003E\u000A\u003Cp\u003E另外评论里有很多人说，看到 build with love 的字样就 cringe ，看起来他们比较讨厌这种说法？\u003C/p\u003E\u000A\u003Cp\u003E还有人问 Logo 挺好看的，用的什么字体。其实是 monofur ，我最喜欢的编程字体，不知道有没有同道中人。喜欢 monofur 是因为盯着屏幕时间再长眼睛也不会累，而且看起来很可爱。\u003C/p\u003E\u000A\u003Cp\u003E是不是好久没有人带节奏了？哈哈，走起！\u003C/p\u003E\u000A\u003Cp\u003E\u003Ca href\u003D\u0022http://i.imgur.com/16Fi4KI.png\u0022 rel\u003D\u0022nofollow\u0022\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://i.imgur.com/16Fi4KI.png\u0022\u003E\u003C/a\u003E\u003C/p\u003E\u000A\u003Cp\u003E这个是 Hack News 那个帖子 \u003Ca href\u003D\u0022https://news.ycombinator.com/item?id\u003D12403699\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://news.ycombinator.com/item?id\u003D12403699\u003C/a\u003E\u003C/p\u003E\u000A",
+        "replies" : 40,
+        "member" : {
+            "id" : 64042,
+            "username" : "Lime",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/0a68/1dc1/64042_mini.png?m=1472790503",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/0a68/1dc1/64042_normal.png?m=1472790503",
+            "avatar_large" : "//cdn.v2ex.co/avatar/0a68/1dc1/64042_large.png?m=1472790503"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 13096,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1472189973",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1472189973",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1472189973"
+        },
+        "created" : 1472789330,
+        "last_modified" : 1472789923,
+        "last_touched" : 1472814511
+    },
+    
+    {
+        "id" : 303399,
+        "title" : "今天把使用了快 20 天的三星 S7Edge 给退了！！！！",
+        "url" : "http://www.v2ex.com/t/303399",
+        "content" : "手机问题：用了 10 来天，手机屏幕出现 4 条明暗交接的条纹，果断申请换货！百度了下，相似问题一大堆，我就奇怪了这么严重的问题，三星竟然没召回！！！（今天看到 note7 因电池问题召回）\u000D\u000A\u000D\u000A赞一下：京东，我从申请换货，改为申请退货，啥也没说，直接退！（我想，同样的问题可能遇的多了，三星打过招呼了？）\u000D\u000A\u000D\u000ABTW ：求一预定 iPhone7 的链接地址",
+        "content_rendered" : "手机问题：用了 10 来天，手机屏幕出现 4 条明暗交接的条纹，果断申请换货！百度了下，相似问题一大堆，我就奇怪了这么严重的问题，三星竟然没召回！！！（今天看到 note7 因电池问题召回）\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E赞一下：京东，我从申请换货，改为申请退货，啥也没说，直接退！（我想，同样的问题可能遇的多了，三星打过招呼了？）\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003EBTW ：求一预定 iPhone7 的链接地址",
+        "replies" : 37,
+        "member" : {
+            "id" : 39909,
+            "username" : "kalman03",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/2f93/f3e6/39909_mini.png?m=1388761389",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/2f93/f3e6/39909_normal.png?m=1388761389",
+            "avatar_large" : "//cdn.v2ex.co/avatar/2f93/f3e6/39909_large.png?m=1388761389"
+        },
+        "node" : {
+            "id" : 39,
+            "name" : "android",
+            "title" : "Android",
+            "title_alternative" : "Android",
+            "url" : "http://www.v2ex.com/go/android",
+            "topics" : 3057,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_mini.png?m=1472189536",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_normal.png?m=1472189536",
+            "avatar_large" : "//cdn.v2ex.co/navatar/d67d/8ab4/39_large.png?m=1472189536"
+        },
+        "created" : 1472783387,
+        "last_modified" : 1472790064,
+        "last_touched" : 1472849642
+    },
+    
+    {
+        "id" : 303505,
+        "title" : "晴天霹雳，帕斯卡 1080 1070 1060 等显卡永远不会支持苹果系统了",
+        "url" : "http://www.v2ex.com/t/303505",
+        "content" : "http://bbs.pcbeta.com/viewthread\u002D1712102\u002D1\u002D1.html\u000D\u000A\u000D\u000ANvidia would provide drivers, and update their drivers if they would be able to sell new GPUs. Once they do not produce GPUs for any given platform, they will not update them. They cannot simply add Pascal as a version of Kepler or Maxwell to their drivers, because it has different scheduling(for the first time since Fermi it has Hardware Scheduling, compared to static, CPU scheduling with Kepler and Maxwell). It is quite different approach in drivers, and Apple does not allow Nvidia hardware on their platform so no point in updating them for OS X. It would require redesigning of the drivers, quite a lot.\u000D\u000A英伟达会提供、升级驱动，如果他们可以销售新 GPU 。可一旦他们不能为某个平台生产 GPU ，那么他们就不会再更新驱动。增加帕斯卡驱动不能像增加个新版的开普勒、麦克斯韦显卡的驱动那样简单，因为帕斯卡的线程调度（ scheduling ）不同。帕斯卡使用的是硬件线程调度，而开普勒和麦克斯韦是 CPU 软件线程调度。这对于开发驱动来说，是非常不同的方法，而且苹果已经不允许英伟达在苹果平台销售硬件，所以没有必要再让帕斯卡支持 OSX 。让帕斯卡支持苹果系统，需要重新开发驱动，花费很大。\u000D\u000A\u000D\u000AIf Nvidia is not able to sell hardware to OS X people \u002D there is no point in development of the drivers. Maxwell GPUs are out of production. You can connect the dots right now. \u000D\u000A如果英伟达不能为苹果用户销售硬件，那么就没有开发驱动的理由。你可以自己仔细想想是不是这逻辑。\u000D\u000A\u000D\u000AIm sorry to say but it appears that if Apple will not introduce Nvidia on their platform again, there will be no more new aftermarket Nvidia GPUs on any Apple computers.\u000D\u000A\u000D\u000A我觉得非常遗憾，但显而易见苹果并不打算再引进 Nvidia 的产品到新平台，所以 Nvidia 的 GPU ，也不会再有什么新的售后服务了。",
+        "content_rendered" : "\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://bbs.pcbeta.com/viewthread\u002D1712102\u002D1\u002D1.html\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://bbs.pcbeta.com/viewthread\u002D1712102\u002D1\u002D1.html\u003C/a\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003ENvidia would provide drivers, and update their drivers if they would be able to sell new GPUs. Once they do not produce GPUs for any given platform, they will not update them. They cannot simply add Pascal as a version of Kepler or Maxwell to their drivers, because it has different scheduling(for the first time since Fermi it has Hardware Scheduling, compared to static, CPU scheduling with Kepler and Maxwell). It is quite different approach in drivers, and Apple does not allow Nvidia hardware on their platform so no point in updating them for OS X. It would require redesigning of the drivers, quite a lot.\u000D\u003Cbr /\u003E英伟达会提供、升级驱动，如果他们可以销售新 GPU 。可一旦他们不能为某个平台生产 GPU ，那么他们就不会再更新驱动。增加帕斯卡驱动不能像增加个新版的开普勒、麦克斯韦显卡的驱动那样简单，因为帕斯卡的线程调度（ scheduling ）不同。帕斯卡使用的是硬件线程调度，而开普勒和麦克斯韦是 CPU 软件线程调度。这对于开发驱动来说，是非常不同的方法，而且苹果已经不允许英伟达在苹果平台销售硬件，所以没有必要再让帕斯卡支持 OSX 。让帕斯卡支持苹果系统，需要重新开发驱动，花费很大。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003EIf Nvidia is not able to sell hardware to OS X people \u002D there is no point in development of the drivers. Maxwell GPUs are out of production. You can connect the dots right now. \u000D\u003Cbr /\u003E如果英伟达不能为苹果用户销售硬件，那么就没有开发驱动的理由。你可以自己仔细想想是不是这逻辑。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003EIm sorry to say but it appears that if Apple will not introduce Nvidia on their platform again, there will be no more new aftermarket Nvidia GPUs on any Apple computers.\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E我觉得非常遗憾，但显而易见苹果并不打算再引进 Nvidia 的产品到新平台，所以 Nvidia 的 GPU ，也不会再有什么新的售后服务了。",
+        "replies" : 34,
+        "member" : {
+            "id" : 22006,
+            "username" : "liuxl8964",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/c37c/bf19/22006_mini.png?m=1340290828",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/c37c/bf19/22006_normal.png?m=1340290828",
+            "avatar_large" : "//cdn.v2ex.co/avatar/c37c/bf19/22006_large.png?m=1340290828"
+        },
+        "node" : {
+            "id" : 22,
+            "name" : "macos",
+            "title" : "macOS",
+            "title_alternative" : "macOS",
+            "url" : "http://www.v2ex.com/go/macos",
+            "topics" : 8709,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/b6d7/67d2/22_mini.png?m=1472700670",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/b6d7/67d2/22_normal.png?m=1472700670",
+            "avatar_large" : "//cdn.v2ex.co/navatar/b6d7/67d2/22_large.png?m=1472700670"
+        },
+        "created" : 1472806414,
+        "last_modified" : 1472806414,
+        "last_touched" : 1472842927
+    },
+    
+    {
+        "id" : 303453,
+        "title" : "你们鼠标的中键是用食指还是中指按的？拿鼠标的正确姿势？",
+        "url" : "http://www.v2ex.com/t/303453",
+        "content" : "我一直是食指负责左键和中键，中指负责右键。听说正确的姿势是左中右分别是食指中指无名指？\u000D\u000A\u000D\u000A话说这个对手的健康有影响吗？",
+        "content_rendered" : "\u003Cp\u003E我一直是食指负责左键和中键，中指负责右键。听说正确的姿势是左中右分别是食指中指无名指？\u003C/p\u003E\u000A\u003Cp\u003E话说这个对手的健康有影响吗？\u003C/p\u003E\u000A",
+        "replies" : 32,
+        "member" : {
+            "id" : 22541,
+            "username" : "xucuncicero",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/6031/5f2e/22541_mini.png?m=1471784244",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/6031/5f2e/22541_normal.png?m=1471784244",
+            "avatar_large" : "//cdn.v2ex.co/avatar/6031/5f2e/22541_large.png?m=1471784244"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 75311,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1471551823",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1471551823",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1471551823"
+        },
+        "created" : 1472796595,
+        "last_modified" : 1472796595,
+        "last_touched" : 1472829958
+    },
+    
+    {
+        "id" : 303456,
+        "title" : "机房电脑为什么可以不开机就能被老师主机控制？",
+        "url" : "http://www.v2ex.com/t/303456",
+        "content" : "显示器上只有两根线，一根电源线，一根 VGA 的线连接机箱。但机箱即使不给电，为什么显示器上也会被控制？可是拔掉 VGA 线显示器又没有内容了。",
+        "content_rendered" : "显示器上只有两根线，一根电源线，一根 VGA 的线连接机箱。但机箱即使不给电，为什么显示器上也会被控制？可是拔掉 VGA 线显示器又没有内容了。",
+        "replies" : 31,
+        "member" : {
+            "id" : 90797,
+            "username" : "jhinleegk",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/790d/abbf/90797_mini.png?m=1420974281",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/790d/abbf/90797_normal.png?m=1420974281",
+            "avatar_large" : "//cdn.v2ex.co/avatar/790d/abbf/90797_large.png?m=1420974281"
+        },
+        "node" : {
+            "id" : 337,
+            "name" : "webmaster",
+            "title" : "站长",
+            "title_alternative" : "Webmaster",
+            "url" : "http://www.v2ex.com/go/webmaster",
+            "topics" : 754,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/357a/6fdf/337_mini.png?m=1468538011",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/357a/6fdf/337_normal.png?m=1468538011",
+            "avatar_large" : "//cdn.v2ex.co/navatar/357a/6fdf/337_large.png?m=1468538011"
+        },
+        "created" : 1472796916,
+        "last_modified" : 1472796916,
+        "last_touched" : 1472830974
+    }
+    
+]

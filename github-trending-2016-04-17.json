@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "416",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "tensorflow",
+        "category": "TypeScript",
+        "stars": "322",
+        "title": "playground - Play with neural networks!",
+        "url": "https://github.com/tensorflow/playground"
+    },
+    {
+        "author": "markerikson",
+        "category": "",
+        "stars": "302",
+        "title": "react-redux-links - Curated tutorial and resource links I've collected on React, Redux, ES6, and more",
+        "url": "https://github.com/markerikson/react-redux-links"
+    },
+    {
+        "author": "fbsamples",
+        "category": "JavaScript",
+        "stars": "281",
+        "title": "f8app - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.",
+        "url": "https://github.com/fbsamples/f8app"
+    },
+    {
+        "author": "mntmn",
+        "category": "KiCad",
+        "stars": "269",
+        "title": "amiga2000-gfxcard - MNT VA2000, an Amiga 2000 Graphics Card (Zorro II), written in Verilog",
+        "url": "https://github.com/mntmn/amiga2000-gfxcard"
+    },
+    {
+        "author": "delba",
+        "category": "Swift",
+        "stars": "235",
+        "title": "TextAttributes - An easier way to compose attributed strings",
+        "url": "https://github.com/delba/TextAttributes"
+    },
+    {
+        "author": "larsbrinkhoff",
+        "category": "HTML",
+        "stars": "216",
+        "title": "awesome-cpus - All CPU and MCU documentation in one place",
+        "url": "https://github.com/larsbrinkhoff/awesome-cpus"
+    },
+    {
+        "author": "koehlma",
+        "category": "JavaScript",
+        "stars": "216",
+        "title": "jaspy - a Python VM written entirely from scratch in JavaScript with some unique features",
+        "url": "https://github.com/koehlma/jaspy"
+    },
+    {
+        "author": "ademilter",
+        "category": "JavaScript",
+        "stars": "208",
+        "title": "bricklayer - Lightweight cascading grid layout library",
+        "url": "https://github.com/ademilter/bricklayer"
+    },
+    {
+        "author": "wsdjeg",
+        "category": "VimL",
+        "stars": "191",
+        "title": "DotFiles - Archlinux Dotfiles,(vim,i3,irssi,weechat etc.)",
+        "url": "https://github.com/wsdjeg/DotFiles"
+    }
+]

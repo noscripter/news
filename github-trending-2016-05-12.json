@@ -1,0 +1,72 @@
+[
+    {
+        "author": "facebook",
+        "category": "Hack",
+        "stars": "1,025",
+        "title": "fbctf - Platform to host Capture the Flag competitions",
+        "url": "https://github.com/facebook/fbctf"
+    },
+    {
+        "author": "amznlabs",
+        "category": "C++",
+        "stars": "793",
+        "title": "amazon-dsstne - Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models",
+        "url": "https://github.com/amznlabs/amazon-dsstne"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "569",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "twitter",
+        "category": "Java",
+        "stars": "553",
+        "title": "distributedlog - A high performance replicated log service.",
+        "url": "https://github.com/twitter/distributedlog"
+    },
+    {
+        "author": "scala-native",
+        "category": "Scala",
+        "stars": "472",
+        "title": "scala-native - Your favourite language gets closer to bare metal.",
+        "url": "https://github.com/scala-native/scala-native"
+    },
+    {
+        "author": "electron",
+        "category": "C++",
+        "stars": "462",
+        "title": "electron - Build cross platform desktop apps with web technologies",
+        "url": "https://github.com/electron/electron"
+    },
+    {
+        "author": "donnemartin",
+        "category": "Python",
+        "stars": "465",
+        "title": "gitsome - A Supercharged Git/Shell Autocompleter with GitHub Integration.",
+        "url": "https://github.com/donnemartin/gitsome"
+    },
+    {
+        "author": "electron",
+        "category": "HTML",
+        "stars": "222",
+        "title": "electron-api-demos - Explore the Electron APIs",
+        "url": "https://github.com/electron/electron-api-demos"
+    },
+    {
+        "author": "nylas",
+        "category": "CoffeeScript",
+        "stars": "181",
+        "title": "N1 - An extensible desktop mail app built on the modern web.",
+        "url": "https://github.com/nylas/N1"
+    },
+    {
+        "author": "google",
+        "category": "Java",
+        "stars": "167",
+        "title": "flexbox-layout - Flexbox for Android",
+        "url": "https://github.com/google/flexbox-layout"
+    }
+]

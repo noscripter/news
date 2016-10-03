@@ -1,0 +1,72 @@
+[
+    {
+        "author": "firehol",
+        "category": "C",
+        "stars": "1,890",
+        "title": "netdata - Real-time performance monitoring, done right!",
+        "url": "https://github.com/firehol/netdata"
+    },
+    {
+        "author": "thejameskyle",
+        "category": "JavaScript",
+        "stars": "1,856",
+        "title": "the-super-tiny-compiler - Possibly the smallest compiler ever",
+        "url": "https://github.com/thejameskyle/the-super-tiny-compiler"
+    },
+    {
+        "author": "googlesamples",
+        "category": "",
+        "stars": "1,115",
+        "title": "android-architecture - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+        "url": "https://github.com/googlesamples/android-architecture"
+    },
+    {
+        "author": "airbnb",
+        "category": "Python",
+        "stars": "1,002",
+        "title": "caravel - Caravel is a data exploration platform designed to be visual, intuitive, and interactive",
+        "url": "https://github.com/airbnb/caravel"
+    },
+    {
+        "author": "ptmt",
+        "category": "JavaScript",
+        "stars": "865",
+        "title": "react-native-desktop - React Native for OS X",
+        "url": "https://github.com/ptmt/react-native-desktop"
+    },
+    {
+        "author": "itsabot",
+        "category": "Go",
+        "stars": "700",
+        "title": "abot - Abot makes it easy and fun to build your own digital assistant, and we include everything you need to get started.",
+        "url": "https://github.com/itsabot/abot"
+    },
+    {
+        "author": "dylang",
+        "category": "JavaScript",
+        "stars": "681",
+        "title": "npm-check - Check for outdated, incorrect, and unused dependencies.",
+        "url": "https://github.com/dylang/npm-check"
+    },
+    {
+        "author": "jianliaoim",
+        "category": "CoffeeScript",
+        "stars": "541",
+        "title": "talk-os - Open source version of jianliao.com",
+        "url": "https://github.com/jianliaoim/talk-os"
+    },
+    {
+        "author": "Microsoft",
+        "category": "C#",
+        "stars": "619",
+        "title": "BotBuilder - The Microsoft Bot Builder SDK is one of three main components of the Microsoft Bot Framework. The Microsoft Bot Framework provides just what you need to build and connect intelligent bots that interact naturally wherever your users are talking, from text/sms to Skype, Slack, Office 365 mail and other popular services.",
+        "url": "https://github.com/Microsoft/BotBuilder"
+    },
+    {
+        "author": "toddmotto",
+        "category": "",
+        "stars": "564",
+        "title": "public-apis - A collective list of public JSON APIs for use in web development.",
+        "url": "https://github.com/toddmotto/public-apis"
+    }
+]

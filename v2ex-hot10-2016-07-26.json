@@ -1,0 +1,251 @@
+[
+    
+    {
+        "id" : 294806,
+        "title" : "免费的才是最贵的，抛弃百度云， 99 刀入了 Dropbox。",
+        "url" : "http://www.v2ex.com/t/294806",
+        "content" : "从云空间大战的时候把自己的数据从快盘迁移到了百度云，主要是个人照片（没啥隐私）和音乐、文档。\u000D\u000A\u000D\u000AMac 版一直没有百度云管家， Web 页下载速度不可控，单个文件非常快，打包下载速度巨慢。\u000D\u000A\u000D\u000AMac 版同步盘从 2014 年之后就没更新了，经常同步时 Crash ， Crash 之后会自动注销帐号，重新登录时又要扫一遍硬盘进行数据索引，极占用 Mac 资源。而且频繁发生。\u000D\u000A\u000D\u000A给官方发送过无数次反馈意见，从未改进的迹象。\u000D\u000A\u000D\u000A最终无奈撤底放弃。\u000D\u000A\u000D\u000A目前完全不用百度的任何服务。",
+        "content_rendered" : "\u003Cp\u003E从云空间大战的时候把自己的数据从快盘迁移到了百度云，主要是个人照片（没啥隐私）和音乐、文档。\u003C/p\u003E\u000A\u003Cp\u003EMac 版一直没有百度云管家， Web 页下载速度不可控，单个文件非常快，打包下载速度巨慢。\u003C/p\u003E\u000A\u003Cp\u003EMac 版同步盘从 2014 年之后就没更新了，经常同步时 Crash ， Crash 之后会自动注销帐号，重新登录时又要扫一遍硬盘进行数据索引，极占用 Mac 资源。而且频繁发生。\u003C/p\u003E\u000A\u003Cp\u003E给官方发送过无数次反馈意见，从未改进的迹象。\u003C/p\u003E\u000A\u003Cp\u003E最终无奈撤底放弃。\u003C/p\u003E\u000A\u003Cp\u003E目前完全不用百度的任何服务。\u003C/p\u003E\u000A",
+        "replies" : 146,
+        "member" : {
+            "id" : 82304,
+            "username" : "deepout",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/5e8a/7381/82304_mini.png?m=1438241924",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/5e8a/7381/82304_normal.png?m=1438241924",
+            "avatar_large" : "//cdn.v2ex.co/avatar/5e8a/7381/82304_large.png?m=1438241924"
+        },
+        "node" : {
+            "id" : 16,
+            "name" : "share",
+            "title" : "分享发现",
+            "title_alternative" : "Share",
+            "url" : "http://www.v2ex.com/go/share",
+            "topics" : 19766,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c74d/97b0/16_mini.png?m=1469005771",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c74d/97b0/16_normal.png?m=1469005771",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c74d/97b0/16_large.png?m=1469005771"
+        },
+        "created" : 1469436443,
+        "last_modified" : 1469436443,
+        "last_touched" : 1469497305
+    },
+    
+    {
+        "id" : 294762,
+        "title" : "想入 50 寸左右的电视，现在智能电视哪家性价比最佳呢？",
+        "url" : "http://www.v2ex.com/t/294762",
+        "content" : "如题！\u000D\u000A小米、乐视、聚力PPTV这些真的有宣传的那么好么。。",
+        "content_rendered" : "\u003Cp\u003E如题！\u000A小米、乐视、聚力PPTV这些真的有宣传的那么好么。。\u003C/p\u003E\u000A",
+        "replies" : 79,
+        "member" : {
+            "id" : 155641,
+            "username" : "Pzdmultiverse",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/96d8/8ff2/155641_mini.png?m=1454134405",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/96d8/8ff2/155641_normal.png?m=1454134405",
+            "avatar_large" : "//cdn.v2ex.co/avatar/96d8/8ff2/155641_large.png?m=1454134405"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 73182,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1468770261",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1468770261",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1468770261"
+        },
+        "created" : 1469427918,
+        "last_modified" : 1469427993,
+        "last_touched" : 1469497279
+    },
+    
+    {
+        "id" : 294699,
+        "title" : "除了 200 和 404 你们还会主动返回其他的 html status code 吗",
+        "url" : "http://www.v2ex.com/t/294699",
+        "content" : "今天看一个 web 框架的官方 demo 里\u000D\u000A数据验证失败的时候回返回 status code 422\u000D\u000A所以我在想有没有必要完全按照 html status code 的定义返回",
+        "content_rendered" : "今天看一个 web 框架的官方 demo 里\u000D\u003Cbr /\u003E数据验证失败的时候回返回 status code 422\u000D\u003Cbr /\u003E所以我在想有没有必要完全按照 html status code 的定义返回",
+        "replies" : 74,
+        "member" : {
+            "id" : 116043,
+            "username" : "gearh",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/8a37/e93e/116043_mini.png?m=1457845914",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/8a37/e93e/116043_normal.png?m=1457845914",
+            "avatar_large" : "//cdn.v2ex.co/avatar/8a37/e93e/116043_large.png?m=1457845914"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 12675,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1469447538",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1469447538",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1469447538"
+        },
+        "created" : 1469415417,
+        "last_modified" : 1469415417,
+        "last_touched" : 1469496357
+    },
+    
+    {
+        "id" : 294874,
+        "title" : "老婆有二胎了, 无奈辞了工作回家陪产.",
+        "url" : "http://www.v2ex.com/t/294874",
+        "content" : "家里人都忙, 没人照顾, 只能我回去陪产. 这一年多的时间里做点什么好呢.\u000D\u000A楼主原本是做 web 开发的, 现在想做 c++, 大家有没有什么好的建议, 能让我在这一年多时间里面完全掌握 c++?\u000D\u000A目标是能在未来的某个时间里做的出一款像样的 AR 应用",
+        "content_rendered" : "家里人都忙, 没人照顾, 只能我回去陪产. 这一年多的时间里做点什么好呢.\u000D\u003Cbr /\u003E楼主原本是做 web 开发的, 现在想做 c++, 大家有没有什么好的建议, 能让我在这一年多时间里面完全掌握 c++?\u000D\u003Cbr /\u003E目标是能在未来的某个时间里做的出一款像样的 AR 应用",
+        "replies" : 56,
+        "member" : {
+            "id" : 77400,
+            "username" : "miaotaizi",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/41c3/14df/77400_mini.png?m=1445589786",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/41c3/14df/77400_normal.png?m=1445589786",
+            "avatar_large" : "//cdn.v2ex.co/avatar/41c3/14df/77400_large.png?m=1445589786"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 12675,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1469447538",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1469447538",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1469447538"
+        },
+        "created" : 1469453429,
+        "last_modified" : 1469453429,
+        "last_touched" : 1469497161
+    },
+    
+    {
+        "id" : 294727,
+        "title" : "碰到一个太奇葩的问题，想破脑袋都没有思路……专门来求助了",
+        "url" : "http://www.v2ex.com/t/294727",
+        "content" : "家里的网是最普通的接法：光纤入户 → 光猫 → 无线路由器（管理地址是默认的 192.168.1.1 ） → 台式电脑（有线、wifi都能连无线路由器） \u0026 ipad \u0026 iphone 等等各类设备\u000D\u000A遇到的问题是：台式电脑不论采用有线或者wifi任意一种连接无线路由器的方式都打不开路由器管理地址（ 192.168.1.1 ）但是 ping 是通的（丢包率 0% ）\u000D\u000A\u000D\u000A如图（换任何浏览器都是同样的结果）：\u000D\u000A\u000D\u000Ahttp://ww2.sinaimg.cn/mw690/bfd9a31ajw1f661gs7pjej20790bd74m.jpg\u000D\u000A\u000D\u000A但是用其他设备打开无线路由器管理页面就完全没有问题，而如果把无线路由器管理地址自定成其他的（比如 192.168.10.1 ）台式机就也能正常打开\u000D\u000A\u000D\u000APS ：光猫没有 ip 地址，所以不会冲突\u000D\u000A\u000D\u000A现在基本可以断定问题就出在台式电脑系统（ windows 10 64bit ）上，但是我已经试过了我能想到的所有方法，比如手动设置台式电脑 ip 地址、清除浏览器缓存……（不是网络专业，再往深也不懂了，实在想不到更好的办法了），但是都没有作用\u000D\u000A希望 V2EX 这么多技术牛帮下忙，这事儿已经两天了，太堵心，难受……",
+        "content_rendered" : "家里的网是最普通的接法：光纤入户 → 光猫 → 无线路由器（管理地址是默认的 192.168.1.1 ） → 台式电脑（有线、wifi都能连无线路由器） \u0026amp\u003B ipad \u0026amp\u003B iphone 等等各类设备\u000D\u003Cbr /\u003E遇到的问题是：台式电脑不论采用有线或者wifi任意一种连接无线路由器的方式都打不开路由器管理地址（ 192.168.1.1 ）但是 ping 是通的（丢包率 0% ）\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E如图（换任何浏览器都是同样的结果）：\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u003Cimg src\u003D\u0022http://ww2.sinaimg.cn/mw690/bfd9a31ajw1f661gs7pjej20790bd74m.jpg\u0022 class\u003D\u0022embedded_image\u0022 border\u003D\u00220\u0022 /\u003E \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E但是用其他设备打开无线路由器管理页面就完全没有问题，而如果把无线路由器管理地址自定成其他的（比如 192.168.10.1 ）台式机就也能正常打开\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003EPS ：光猫没有 ip 地址，所以不会冲突\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E现在基本可以断定问题就出在台式电脑系统（ windows 10 64bit ）上，但是我已经试过了我能想到的所有方法，比如手动设置台式电脑 ip 地址、清除浏览器缓存……（不是网络专业，再往深也不懂了，实在想不到更好的办法了），但是都没有作用\u000D\u003Cbr /\u003E希望 V2EX 这么多技术牛帮下忙，这事儿已经两天了，太堵心，难受……",
+        "replies" : 55,
+        "member" : {
+            "id" : 72587,
+            "username" : "sutking",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/286b/1d8c/72587_mini.png?m=1466646436",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/286b/1d8c/72587_normal.png?m=1466646436",
+            "avatar_large" : "//cdn.v2ex.co/avatar/286b/1d8c/72587_large.png?m=1466646436"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 73182,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1468770261",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1468770261",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1468770261"
+        },
+        "created" : 1469421490,
+        "last_modified" : 1469421611,
+        "last_touched" : 1469451761
+    },
+    
+    {
+        "id" : 294741,
+        "title" : "去 IT 公司入职，需要户口本复印件？正常么？各位怎么看啊？",
+        "url" : "http://www.v2ex.com/t/294741",
+        "content" : "如题，感觉要户口本，怪怪的。",
+        "content_rendered" : "\u003Cp\u003E如题，感觉要户口本，怪怪的。\u003C/p\u003E\u000A",
+        "replies" : 47,
+        "member" : {
+            "id" : 77062,
+            "username" : "yourmoonlight",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/7e1b/41fd/77062_mini.png?m=1413253323",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/7e1b/41fd/77062_normal.png?m=1413253323",
+            "avatar_large" : "//cdn.v2ex.co/avatar/7e1b/41fd/77062_large.png?m=1413253323"
+        },
+        "node" : {
+            "id" : 770,
+            "name" : "career",
+            "title" : "职场话题",
+            "title_alternative" : "Career",
+            "url" : "http://www.v2ex.com/go/career",
+            "topics" : 1709,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_mini.png?m=1467368688",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_normal.png?m=1467368688",
+            "avatar_large" : "//cdn.v2ex.co/navatar/4ea0/6fbc/770_large.png?m=1467368688"
+        },
+        "created" : 1469424978,
+        "last_modified" : 1469461336,
+        "last_touched" : 1469470077
+    },
+    
+    {
+        "id" : 294845,
+        "title" : "求建议 2000 元以下最值得买的相机",
+        "url" : "http://www.v2ex.com/t/294845",
+        "content" : "1  主要用途是记录孩子的日常。\u000D\u000A\u000D\u000A2  现在用的华为低端手机，拍照满满的噪点，就是皮实，总也用不坏。\u000D\u000A\u000D\u000A3  排除买新手机代替相机的想法，还是需要一个单独的相机。\u000D\u000A\u000D\u000A4  对佳能有好感。",
+        "content_rendered" : "1  主要用途是记录孩子的日常。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E2  现在用的华为低端手机，拍照满满的噪点，就是皮实，总也用不坏。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E3  排除买新手机代替相机的想法，还是需要一个单独的相机。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E4  对佳能有好感。",
+        "replies" : 43,
+        "member" : {
+            "id" : 40085,
+            "username" : "oyoy",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/3c96/98c0/40085_mini.png?m=1377654952",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/3c96/98c0/40085_normal.png?m=1377654952",
+            "avatar_large" : "//cdn.v2ex.co/avatar/3c96/98c0/40085_large.png?m=1377654952"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 73182,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1468770261",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1468770261",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1468770261"
+        },
+        "created" : 1469448329,
+        "last_modified" : 1469448329,
+        "last_touched" : 1469497009
+    },
+    
+    {
+        "id" : 294745,
+        "title" : "微信开发",
+        "url" : "http://www.v2ex.com/t/294745",
+        "content" : "微信中打开网页，默认打开前置摄像头，问问大家有没有实现方法，",
+        "content_rendered" : "微信中打开网页，默认打开前置摄像头，问问大家有没有实现方法，",
+        "replies" : 41,
+        "member" : {
+            "id" : 120153,
+            "username" : "hsly",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/d35c/265f/120153_mini.png?m=1433734000",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/d35c/265f/120153_normal.png?m=1433734000",
+            "avatar_large" : "//cdn.v2ex.co/avatar/d35c/265f/120153_large.png?m=1433734000"
+        },
+        "node" : {
+            "id" : 63,
+            "name" : "java",
+            "title" : "Java",
+            "title_alternative" : "Java",
+            "url" : "http://www.v2ex.com/go/java",
+            "topics" : 680,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/03af/dbd6/63_mini.png?m=1468225676",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/03af/dbd6/63_normal.png?m=1468225676",
+            "avatar_large" : "//cdn.v2ex.co/navatar/03af/dbd6/63_large.png?m=1468225676"
+        },
+        "created" : 1469425550,
+        "last_modified" : 1469425550,
+        "last_touched" : 1469463423
+    }
+    
+]

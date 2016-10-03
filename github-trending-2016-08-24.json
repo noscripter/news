@@ -1,0 +1,72 @@
+[
+    {
+        "author": "nasa",
+        "category": "JavaScript",
+        "stars": "949",
+        "title": "openmct - A web based mission control framework.",
+        "url": "https://github.com/nasa/openmct"
+    },
+    {
+        "author": "Kickball",
+        "category": "Makefile",
+        "stars": "699",
+        "title": "awesome-selfhosted - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.",
+        "url": "https://github.com/Kickball/awesome-selfhosted"
+    },
+    {
+        "author": "benhowdle89",
+        "category": "JavaScript",
+        "stars": "560",
+        "title": "grade - This JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images.",
+        "url": "https://github.com/benhowdle89/grade"
+    },
+    {
+        "author": "iamduo",
+        "category": "Go",
+        "stars": "474",
+        "title": "workq - Job server in Go.",
+        "url": "https://github.com/iamduo/workq"
+    },
+    {
+        "author": "FormidableLabs",
+        "category": "JavaScript",
+        "stars": "423",
+        "title": "react-music - Make beats with React!",
+        "url": "https://github.com/FormidableLabs/react-music"
+    },
+    {
+        "author": "rubensousa",
+        "category": "Java",
+        "stars": "324",
+        "title": "ViewPagerCards - ViewPager cards inspired by Duolingo",
+        "url": "https://github.com/rubensousa/ViewPagerCards"
+    },
+    {
+        "author": "wichtounet",
+        "category": "C++",
+        "stars": "296",
+        "title": "thor-os - Simple operating system in C++, written from scratch",
+        "url": "https://github.com/wichtounet/thor-os"
+    },
+    {
+        "author": "PowerShell",
+        "category": "C#",
+        "stars": "248",
+        "title": "PowerShell - PowerShell for every system!",
+        "url": "https://github.com/PowerShell/PowerShell"
+    },
+    {
+        "author": "armcha",
+        "category": "Java",
+        "stars": "230",
+        "title": "Space-Navigation-View - ",
+        "url": "https://github.com/armcha/Space-Navigation-View"
+    },
+    {
+        "author": "GcsSloop",
+        "category": "Java",
+        "stars": "207",
+        "title": "AndroidNote - \u5b89\u5353\u5b66\u4e60\u7b14\u8bb0",
+        "url": "https://github.com/GcsSloop/AndroidNote"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "nlp-compromise",
+        "category": "JavaScript",
+        "stars": "961",
+        "title": "nlp_compromise - a cool way to use natural language in javascript",
+        "url": "https://github.com/nlp-compromise/nlp_compromise"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "468",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "tensorflow",
+        "category": "Python",
+        "stars": "294",
+        "title": "models - Models built with TensorFlow",
+        "url": "https://github.com/tensorflow/models"
+    },
+    {
+        "author": "rustbridge",
+        "category": "Rust",
+        "stars": "194",
+        "title": "helix - Ruby and Rust, sitting in a tree",
+        "url": "https://github.com/rustbridge/helix"
+    },
+    {
+        "author": "ergenekonyigit",
+        "category": "C#",
+        "stars": "175",
+        "title": "Numerical-Analysis-Examples - Numerical Analysis Implementations in Various Languages",
+        "url": "https://github.com/ergenekonyigit/Numerical-Analysis-Examples"
+    },
+    {
+        "author": "electron",
+        "category": "C++",
+        "stars": "163",
+        "title": "electron - Build cross platform desktop apps with web technologies",
+        "url": "https://github.com/electron/electron"
+    },
+    {
+        "author": "buunguyen",
+        "category": "JavaScript",
+        "stars": "163",
+        "title": "octotree - Code tree for GitHub and GitLab",
+        "url": "https://github.com/buunguyen/octotree"
+    },
+    {
+        "author": "garbles",
+        "category": "JavaScript",
+        "stars": "162",
+        "title": "why-did-you-update - Puts your console on blast when React is making unnecessary updates.",
+        "url": "https://github.com/garbles/why-did-you-update"
+    },
+    {
+        "author": "jobbole",
+        "category": "",
+        "stars": "144",
+        "title": "awesome-python-cn - Python\u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5185\u5bb9\u5305\u62ec\uff1aWeb\u6846\u67b6\u3001\u7f51\u7edc\u722c\u866b\u3001\u7f51\u7edc\u5185\u5bb9\u63d0\u53d6\u3001\u6a21\u677f\u5f15\u64ce\u3001\u6570\u636e\u5e93\u3001\u6570\u636e\u53ef\u89c6\u5316\u3001\u56fe\u7247\u5904\u7406\u3001\u6587\u672c\u5904\u7406\u3001\u81ea\u7136\u8bed\u8a00\u5904\u7406\u3001\u673a\u5668\u5b66\u4e60\u3001\u65e5\u5fd7\u3001\u4ee3\u7801\u5206\u6790\u7b49",
+        "url": "https://github.com/jobbole/awesome-python-cn"
+    },
+    {
+        "author": "facebook",
+        "category": "Hack",
+        "stars": "136",
+        "title": "fbctf - Platform to host Capture the Flag competitions",
+        "url": "https://github.com/facebook/fbctf"
+    }
+]

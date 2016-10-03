@@ -1,0 +1,72 @@
+[
+    {
+        "author": "Rochester-NRT",
+        "category": "JavaScript",
+        "stars": "1,307",
+        "title": "AlphaGo - A replication of DeepMind's 2016 Nature publication, \"Mastering the game of Go with deep neural networks and tree search,\" details of which can be found on their website.",
+        "url": "https://github.com/Rochester-NRT/AlphaGo"
+    },
+    {
+        "author": "Croteam-official",
+        "category": "C++",
+        "stars": "420",
+        "title": "Serious-Engine - An open source version of a game engine developed by Croteam for the classic Serious Sam games.",
+        "url": "https://github.com/Croteam-official/Serious-Engine"
+    },
+    {
+        "author": "alexjc",
+        "category": "Python",
+        "stars": "424",
+        "title": "neural-doodle - Turn your two-bit doodles into fine artworks with deep neural networks! An implementation of Semantic Style Transfer.",
+        "url": "https://github.com/alexjc/neural-doodle"
+    },
+    {
+        "author": "jpmens",
+        "category": "C",
+        "stars": "415",
+        "title": "jo - JSON output from a shell",
+        "url": "https://github.com/jpmens/jo"
+    },
+    {
+        "author": "ryanoasis",
+        "category": "Python",
+        "stars": "288",
+        "title": "nerd-fonts - Collection of over 20 patched fonts (over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more",
+        "url": "https://github.com/ryanoasis/nerd-fonts"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "257",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "lexborisov",
+        "category": "C",
+        "stars": "241",
+        "title": "myhtml - Fast C/C++ HTML 5 Parser. Using threads.",
+        "url": "https://github.com/lexborisov/myhtml"
+    },
+    {
+        "author": "vasanthk",
+        "category": "JavaScript",
+        "stars": "212",
+        "title": "js-bits - JavaScript concepts with code!",
+        "url": "https://github.com/vasanthk/js-bits"
+    },
+    {
+        "author": "inkle",
+        "category": "C#",
+        "stars": "201",
+        "title": "ink - inkle's open source scripting language for writing interactive narrative.",
+        "url": "https://github.com/inkle/ink"
+    },
+    {
+        "author": "ChromeDevTools",
+        "category": "",
+        "stars": "176",
+        "title": "awesome-chrome-devtools - Awesome tooling and resources in the Chrome DevTools ecosystem",
+        "url": "https://github.com/ChromeDevTools/awesome-chrome-devtools"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "hemanth",
+        "category": "",
+        "stars": "1,332",
+        "title": "functional-programming-jargon - Jargon from the functional programming world in simple terms!",
+        "url": "https://github.com/hemanth/functional-programming-jargon"
+    },
+    {
+        "author": "facebookincubator",
+        "category": "JavaScript",
+        "stars": "737",
+        "title": "create-react-app - Create React apps with no build configuration.",
+        "url": "https://github.com/facebookincubator/create-react-app"
+    },
+    {
+        "author": "FallibleInc",
+        "category": "",
+        "stars": "595",
+        "title": "security-guide-for-developers - Security Guide for Developers",
+        "url": "https://github.com/FallibleInc/security-guide-for-developers"
+    },
+    {
+        "author": "AHAAAAAAA",
+        "category": "Python",
+        "stars": "374",
+        "title": "PokemonGo-Map - Live visualization of all the pokemon in your area... and more!",
+        "url": "https://github.com/AHAAAAAAA/PokemonGo-Map"
+    },
+    {
+        "author": "Grover-c13",
+        "category": "Java",
+        "stars": "290",
+        "title": "PokeGOAPI-Java - Pokemon Go API",
+        "url": "https://github.com/Grover-c13/PokeGOAPI-Java"
+    },
+    {
+        "author": "jhalterman",
+        "category": "Java",
+        "stars": "195",
+        "title": "failsafe - Simple, sophisticated failure handling",
+        "url": "https://github.com/jhalterman/failsafe"
+    },
+    {
+        "author": "jaywcjlove",
+        "category": "",
+        "stars": "192",
+        "title": "awesome-mac - \uf8ff This repo is a collection of awesome Mac applications and tools for developers and designers.",
+        "url": "https://github.com/jaywcjlove/awesome-mac"
+    },
+    {
+        "author": "wireapp",
+        "category": "Objective-C",
+        "stars": "183",
+        "title": "wire-ios - Wire iOS client (iPhone and iPad)",
+        "url": "https://github.com/wireapp/wire-ios"
+    },
+    {
+        "author": "PokemonGoF",
+        "category": "Python",
+        "stars": "133",
+        "title": "PokemonGo-Bot - The Pokemon Go Bot script, baking with community.",
+        "url": "https://github.com/PokemonGoF/PokemonGo-Bot"
+    },
+    {
+        "author": "KhronosGroup",
+        "category": "C++",
+        "stars": "160",
+        "title": "Vulkan-Hpp - Open-Source Vulkan C++ API",
+        "url": "https://github.com/KhronosGroup/Vulkan-Hpp"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "748",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "hollance",
+        "category": "Swift",
+        "stars": "332",
+        "title": "swift-algorithm-club - Algorithms and data structures in Swift, with explanations!",
+        "url": "https://github.com/hollance/swift-algorithm-club"
+    },
+    {
+        "author": "ImagicalMine",
+        "category": "PHP",
+        "stars": "10",
+        "title": "ImagicalMine - ImagicalMine. The first third-party build of PocketMine-MP that rocked the world.",
+        "url": "https://github.com/ImagicalMine/ImagicalMine"
+    },
+    {
+        "author": "probonopd",
+        "category": "Python",
+        "stars": "303",
+        "title": "AppImageKit - Using AppImageKit you can package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives.",
+        "url": "https://github.com/probonopd/AppImageKit"
+    },
+    {
+        "author": "otoolep",
+        "category": "Go",
+        "stars": "290",
+        "title": "rqlite - Replicating SQLite using the Raft consensus protocol",
+        "url": "https://github.com/otoolep/rqlite"
+    },
+    {
+        "author": "500px",
+        "category": "Java",
+        "stars": "238",
+        "title": "greedo-layout-for-android - Full aspect ratio grid LayoutManager for Android's RecyclerView",
+        "url": "https://github.com/500px/greedo-layout-for-android"
+    },
+    {
+        "author": "mobxjs",
+        "category": "JavaScript",
+        "stars": "221",
+        "title": "mobx - Simple, scalable state management.",
+        "url": "https://github.com/mobxjs/mobx"
+    },
+    {
+        "author": "dthree",
+        "category": "JavaScript",
+        "stars": "220",
+        "title": "cash - Cross-platform Linux without the suck",
+        "url": "https://github.com/dthree/cash"
+    },
+    {
+        "author": "thedillonb",
+        "category": "C#",
+        "stars": "205",
+        "title": "CodeHub - CodeHub is the best way to browse and maintain your GitHub repositories on any iOS device!",
+        "url": "https://github.com/thedillonb/CodeHub"
+    },
+    {
+        "author": "facebook",
+        "category": "JavaScript",
+        "stars": "187",
+        "title": "draft-js - A React framework for building text editors.",
+        "url": "https://github.com/facebook/draft-js"
+    }
+]

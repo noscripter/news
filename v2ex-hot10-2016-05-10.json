@@ -1,0 +1,282 @@
+[
+    
+    {
+        "id" : 277560,
+        "title" : "写了个 App 限免通知的项目，邀请种子用户",
+        "url" : "http://www.v2ex.com/t/277560",
+        "content" : "首先是针对 iOS 用户，然后你比较爱折腾 App 。\u000D\u000A\u000D\u000A有时候看到一个 App 挺不错的，但是是收费的，如果这个 App 我又不急着用，我可以等它限免或者降价的时候再购买。\u000D\u000A\u000D\u000A有时候你去少数派看到你想要的 App 限免了，感觉很激动，但是当你打开 App Store 的时候你会发现价格又恢复了， 这个时候你是什么心情？\u000D\u000A\u000D\u000A那么怎么在这个 App 最低价的时候购买呢？如果你也有这个需求的话，那么你现在有福了。\u000D\u000A\u000D\u000A我开发了一个帮你监听 App 价格的项目 \u002D http://3li3.com/ ，支持 Email 和 Slack 通知。\u000D\u000A\u000D\u000A项目还处于内测阶段，有很多功能待优化，但是最基本的功能可以正常使用了，我已经迫不及待的想分享给大家。\u000D\u000A\u000D\u000A目前只接受邀请注册，如果你有这个需求，可以使用下面的邀请码注册。\u000D\u000A\u000D\u000A邀请码：\u000D\u000A\u000D\u000A```\u000D\u000A6MRn6w\u002D_syXCv24YZACJI3\u002DPgoXt\u002DUxN\u000D\u000AQHzAARw4fmPmPoj5OlB5CYzPhSzdumCb\u000D\u000Aa8Ew6ftHomsvga2POtZE\u002DKkBmfm1Cb8B\u000D\u000AOx8zcwqL9caokQgVUoO_nOZhK\u002DfaOp1W\u000D\u000Ak\u002Dk98JpJG38PvjYJNr6nWhvO1Fv\u002DzuF6\u000D\u000AhwBrrHE_gW7qPKlTXFi5zYegWTKIDzSs\u000D\u000Aeo3AsVxMOFR_Ufb3E_si7iMRSMQqQmGW\u000D\u000AIGTi6Evj3YeXrl8RmedWYupwxnT_GG_c\u000D\u000AWVF6iS_\u002DYenZFl\u002DsMhXyZgmXm5Pr7h8E\u000D\u000AvpY0fNoCoqNCdhacAvIr\u002DS795Rtglwa1\u000D\u000ANjnWcT6Bp_QZU4i4fJFqaVBR_WH0f\u002Dmd\u000D\u000A5IQSaqy926jUWVAz6V0PuXlUvGVn0MO5\u000D\u000AibrP2AD2kZAVDos4uR0UftZCHeCikLp4\u000D\u000AtOVPlVS73zAf4GJUv9c2FS7MpNvcM_ri\u000D\u000AfOy6AxEXRa6SsqA0CXejvMWGvHrIIaj\u002D\u000D\u000AuaLg91roRshOx65lql8eawNGbuZk2T5s\u000D\u000A3ajTywjn6LkG_5PSGNSRGwIuAs7sg4xu\u000D\u000AvCUgzlMZ54u0GborSG6C8N3up_Kl1ln2\u000D\u000AvuFyZuzh5IUrYTp9xROZ3ZdatT0nhdlC\u000D\u000AG1uCnQmUXR\u002Dgzgp8Oxi\u002DjhwJBV\u002DtV36U\u000D\u000A8JquY\u002D_TZuWm32TBAydVI6ar\u002DOFSE0N8\u000D\u000A```\u000D\u000A\u000D\u000A最后欢迎大家吐槽。",
+        "content_rendered" : "\u003Cp\u003E首先是针对 iOS 用户，然后你比较爱折腾 App 。\u003C/p\u003E\u000A\u003Cp\u003E有时候看到一个 App 挺不错的，但是是收费的，如果这个 App 我又不急着用，我可以等它限免或者降价的时候再购买。\u003C/p\u003E\u000A\u003Cp\u003E有时候你去少数派看到你想要的 App 限免了，感觉很激动，但是当你打开 App Store 的时候你会发现价格又恢复了， 这个时候你是什么心情？\u003C/p\u003E\u000A\u003Cp\u003E那么怎么在这个 App 最低价的时候购买呢？如果你也有这个需求的话，那么你现在有福了。\u003C/p\u003E\u000A\u003Cp\u003E我开发了一个帮你监听 App 价格的项目 \u002D \u003Ca href\u003D\u0022http://3li3.com/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://3li3.com/\u003C/a\u003E ，支持 Email 和 Slack 通知。\u003C/p\u003E\u000A\u003Cp\u003E项目还处于内测阶段，有很多功能待优化，但是最基本的功能可以正常使用了，我已经迫不及待的想分享给大家。\u003C/p\u003E\u000A\u003Cp\u003E目前只接受邀请注册，如果你有这个需求，可以使用下面的邀请码注册。\u003C/p\u003E\u000A\u003Cp\u003E邀请码：\u003C/p\u003E\u000A\u003Cpre\u003E\u003Ccode\u003E6MRn6w\u002D_syXCv24YZACJI3\u002DPgoXt\u002DUxN\u000AQHzAARw4fmPmPoj5OlB5CYzPhSzdumCb\u000Aa8Ew6ftHomsvga2POtZE\u002DKkBmfm1Cb8B\u000AOx8zcwqL9caokQgVUoO_nOZhK\u002DfaOp1W\u000Ak\u002Dk98JpJG38PvjYJNr6nWhvO1Fv\u002DzuF6\u000AhwBrrHE_gW7qPKlTXFi5zYegWTKIDzSs\u000Aeo3AsVxMOFR_Ufb3E_si7iMRSMQqQmGW\u000AIGTi6Evj3YeXrl8RmedWYupwxnT_GG_c\u000AWVF6iS_\u002DYenZFl\u002DsMhXyZgmXm5Pr7h8E\u000AvpY0fNoCoqNCdhacAvIr\u002DS795Rtglwa1\u000ANjnWcT6Bp_QZU4i4fJFqaVBR_WH0f\u002Dmd\u000A5IQSaqy926jUWVAz6V0PuXlUvGVn0MO5\u000AibrP2AD2kZAVDos4uR0UftZCHeCikLp4\u000AtOVPlVS73zAf4GJUv9c2FS7MpNvcM_ri\u000AfOy6AxEXRa6SsqA0CXejvMWGvHrIIaj\u002D\u000AuaLg91roRshOx65lql8eawNGbuZk2T5s\u000A3ajTywjn6LkG_5PSGNSRGwIuAs7sg4xu\u000AvCUgzlMZ54u0GborSG6C8N3up_Kl1ln2\u000AvuFyZuzh5IUrYTp9xROZ3ZdatT0nhdlC\u000AG1uCnQmUXR\u002Dgzgp8Oxi\u002DjhwJBV\u002DtV36U\u000A8JquY\u002D_TZuWm32TBAydVI6ar\u002DOFSE0N8\u000A\u003C/code\u003E\u003C/pre\u003E\u000A\u003Cp\u003E最后欢迎大家吐槽。\u003C/p\u003E\u000A",
+        "replies" : 101,
+        "member" : {
+            "id" : 16996,
+            "username" : "cai314494687",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/e8ff/7030/16996_mini.png?m=1384683045",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/e8ff/7030/16996_normal.png?m=1384683045",
+            "avatar_large" : "//cdn.v2ex.co/avatar/e8ff/7030/16996_large.png?m=1384683045"
+        },
+        "node" : {
+            "id" : 17,
+            "name" : "create",
+            "title" : "分享创造",
+            "title_alternative" : "Create",
+            "url" : "http://www.v2ex.com/go/create",
+            "topics" : 5470,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/70ef/df2e/17_mini.png?m=1454545306",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/70ef/df2e/17_normal.png?m=1454545306",
+            "avatar_large" : "//cdn.v2ex.co/navatar/70ef/df2e/17_large.png?m=1454545306"
+        },
+        "created" : 1462849388,
+        "last_modified" : 1462849388,
+        "last_touched" : 1462876083
+    },
+    
+    {
+        "id" : 277531,
+        "title" : "关于房子，瞎扯个话题！",
+        "url" : "http://www.v2ex.com/t/277531",
+        "content" : "这是一群程序员组成的社区，就是楼上楼下的都是搞技术的，小区及每栋楼的命名都有代码范！\u000D\u000A大家都追求高效简洁的生活方式，有各种兴趣小组，不用担心缺少沟通交流话题，大家遵守规矩、团结互助共同建设社区，社区物业管理智能化。\u000D\u000A小区必须在沿海小城市（面朝大海，春暖花开），空气清新、交通便利（有高铁，有机场）、房价适中（相较于大城市）。\u000D\u000A小区具备基本城市配套（水电暖燃气宽带），小区附近有学校、有医院、有休闲购物场所。\u000D\u000A这样的社区，你动心了吗?\u000D\u000A\u000D\u000A住在这儿你即可以远程工作（满世界接活儿），也可以在加入社区公司（一群牛人集中起来，肯定能出个公司）。\u000D\u000A你不用天天挤地铁挤公交满身臭汗，但你可以在社区花园跑步挥汗如雨。\u000D\u000A你不爱做饭，没关系，社区食堂 24 小时恭候你。\u000D\u000A\u000D\u000A你说太棒了，不过这是理想主义。\u000D\u000AOK ，如果大家共同建设，这都不是问题！\u000D\u000A因为我们是程序员，我们会改变我们的生活，我们追求高效简洁，我们天生理想主义。",
+        "content_rendered" : "这是一群程序员组成的社区，就是楼上楼下的都是搞技术的，小区及每栋楼的命名都有代码范！\u000D\u003Cbr /\u003E大家都追求高效简洁的生活方式，有各种兴趣小组，不用担心缺少沟通交流话题，大家遵守规矩、团结互助共同建设社区，社区物业管理智能化。\u000D\u003Cbr /\u003E小区必须在沿海小城市（面朝大海，春暖花开），空气清新、交通便利（有高铁，有机场）、房价适中（相较于大城市）。\u000D\u003Cbr /\u003E小区具备基本城市配套（水电暖燃气宽带），小区附近有学校、有医院、有休闲购物场所。\u000D\u003Cbr /\u003E这样的社区，你动心了吗?\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E住在这儿你即可以远程工作（满世界接活儿），也可以在加入社区公司（一群牛人集中起来，肯定能出个公司）。\u000D\u003Cbr /\u003E你不用天天挤地铁挤公交满身臭汗，但你可以在社区花园跑步挥汗如雨。\u000D\u003Cbr /\u003E你不爱做饭，没关系，社区食堂 24 小时恭候你。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E你说太棒了，不过这是理想主义。\u000D\u003Cbr /\u003EOK ，如果大家共同建设，这都不是问题！\u000D\u003Cbr /\u003E因为我们是程序员，我们会改变我们的生活，我们追求高效简洁，我们天生理想主义。",
+        "replies" : 90,
+        "member" : {
+            "id" : 5919,
+            "username" : "crazybug",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/cd75/5a6c/5919_mini.png?m=1334579298",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/cd75/5a6c/5919_normal.png?m=1334579298",
+            "avatar_large" : "//cdn.v2ex.co/avatar/cd75/5a6c/5919_large.png?m=1334579298"
+        },
+        "node" : {
+            "id" : 519,
+            "name" : "ideas",
+            "title" : "奇思妙想",
+            "title_alternative" : "Ideas",
+            "url" : "http://www.v2ex.com/go/ideas",
+            "topics" : 1825,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/6353/8fe6/519_mini.png?m=1424694533",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/6353/8fe6/519_normal.png?m=1424694533",
+            "avatar_large" : "//cdn.v2ex.co/navatar/6353/8fe6/519_large.png?m=1424694533"
+        },
+        "created" : 1462845002,
+        "last_modified" : 1462845002,
+        "last_touched" : 1462869053
+    },
+    
+    {
+        "id" : 277535,
+        "title" : "自制的中国亲戚关系计算器",
+        "url" : "http://www.v2ex.com/t/277535",
+        "content" : "中国亲戚叫法就是多！外国叫叔叔叫阿姨一个 nuncle ， nuncle 就够了！我们非要分出个：姑妈，姨妈，舅妈，伯母，婶婶，姑丈，姨丈，舅舅，伯父，叔父……不同地方叫法还不一样，外公外婆北方还可以叫姥姥，姥爷\u000D\u000A\u000D\u000A有了亲戚计算器以后！过年走亲戚再也不会乱叫了！\u000D\u000Agithub 地址： https://github.com/mumuy/relationship\u000D\u000A演示地址： https://passer\u002Dby.com/relationship",
+        "content_rendered" : "\u003Cp\u003E中国亲戚叫法就是多！外国叫叔叔叫阿姨一个 nuncle ， nuncle 就够了！我们非要分出个：姑妈，姨妈，舅妈，伯母，婶婶，姑丈，姨丈，舅舅，伯父，叔父……不同地方叫法还不一样，外公外婆北方还可以叫姥姥，姥爷\u003C/p\u003E\u000A\u003Cp\u003E有了亲戚计算器以后！过年走亲戚再也不会乱叫了！\u000Agithub 地址： \u003Ca href\u003D\u0022https://github.com/mumuy/relationship\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://github.com/mumuy/relationship\u003C/a\u003E\u000A演示地址： \u003Ca href\u003D\u0022https://passer\u002Dby.com/relationship\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://passer\u002Dby.com/relationship\u003C/a\u003E\u003C/p\u003E\u000A",
+        "replies" : 81,
+        "member" : {
+            "id" : 153538,
+            "username" : "mumuy",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/0c41/250b/153538_mini.png?m=1462841932",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/0c41/250b/153538_normal.png?m=1462841932",
+            "avatar_large" : "//cdn.v2ex.co/avatar/0c41/250b/153538_large.png?m=1462841932"
+        },
+        "node" : {
+            "id" : 146,
+            "name" : "js",
+            "title" : "JavaScript",
+            "title_alternative" : "JavaScript",
+            "url" : "http://www.v2ex.com/go/js",
+            "topics" : 902,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/a5e0/0132/146_mini.png?m=1460431923",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/a5e0/0132/146_normal.png?m=1460431923",
+            "avatar_large" : "//cdn.v2ex.co/navatar/a5e0/0132/146_large.png?m=1460431923"
+        },
+        "created" : 1462845628,
+        "last_modified" : 1462845628,
+        "last_touched" : 1462874111
+    },
+    
+    {
+        "id" : 277602,
+        "title" : "人大硕士雷洋的苹果手机被解锁，警方怎么做到的？",
+        "url" : "http://www.v2ex.com/t/277602",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 73,
+        "member" : {
+            "id" : 66176,
+            "username" : "marenight",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/fd56/37a0/66176_mini.png?m=1415958919",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/fd56/37a0/66176_normal.png?m=1415958919",
+            "avatar_large" : "//cdn.v2ex.co/avatar/fd56/37a0/66176_large.png?m=1415958919"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 69165,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1462063234",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1462063234",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1462063234"
+        },
+        "created" : 1462858731,
+        "last_modified" : 1462858752,
+        "last_touched" : 1462876604
+    },
+    
+    {
+        "id" : 277573,
+        "title" : "有多少兄弟有劲椎病的",
+        "url" : "http://www.v2ex.com/t/277573",
+        "content" : "最近发现好像有轻微颈椎病症状了，人生啊！~~~~~~~~~~~哎",
+        "content_rendered" : "最近发现好像有轻微颈椎病症状了，人生啊！~~~~~~~~~~~哎",
+        "replies" : 62,
+        "member" : {
+            "id" : 153224,
+            "username" : "qian0206",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/9a266a37caf7588dfbf7f933edc8a405?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/9a266a37caf7588dfbf7f933edc8a405?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/9a266a37caf7588dfbf7f933edc8a405?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 11837,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1462856250",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1462856250",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1462856250"
+        },
+        "created" : 1462852300,
+        "last_modified" : 1462852300,
+        "last_touched" : 1462877458
+    },
+    
+    {
+        "id" : 277511,
+        "title" : "请教算法怎么入门？？？ 每次鼓起勇气上 leetcode 后，都要怀疑自己的智商。",
+        "url" : "http://www.v2ex.com/t/277511",
+        "content" : "比如 这道题（据说很简单）\u000D\u000A\u000D\u000AGiven an array and a value, remove all instances of that \u003E value in place and return the new length.\u000D\u000A\u000D\u000AThe order of elements can be changed. It doesn\u0027t matter what you leave beyond the new length.\u000D\u000A以下是答案。\u000D\u000A```\u000D\u000Aclass Solution {\u000D\u000Apublic:\u000D\u000A    int removeElement(int A[], int n, int elem) {\u000D\u000A        int i \u003D 0\u003B\u000D\u000A        int j \u003D 0\u003B\u000D\u000A        for(i \u003D 0\u003B i \u003C n\u003B i++) {\u000D\u000A            if(A[i] \u003D\u003D elem) {\u000D\u000A                continue\u003B\u000D\u000A            }\u000D\u000A\u000D\u000A            A[j] \u003D A[i]\u003B\u000D\u000A            j++\u003B\u000D\u000A        }\u000D\u000A\u000D\u000A        return j\u003B\u000D\u000A    }\u000D\u000A}\u003B\u000D\u000A```\u000D\u000A\u000D\u000A我不明白为什么要加 A[j] \u003D A[i]\u003B 这行代码。\u000D\u000A真心请教怎么入门。。",
+        "content_rendered" : "\u003Cp\u003E比如 这道题（据说很简单）\u003C/p\u003E\u000A\u003Cp\u003EGiven an array and a value, remove all instances of that \u0026gt\u003B value in place and return the new length.\u003C/p\u003E\u000A\u003Cp\u003EThe order of elements can be changed. It doesn\u0027t matter what you leave beyond the new length.\u000A以下是答案。\u003C/p\u003E\u000A\u003Cpre\u003E\u003Ccode\u003Eclass Solution {\u000Apublic:\u000A    int removeElement(int A[], int n, int elem) {\u000A        int i \u003D 0\u003B\u000A        int j \u003D 0\u003B\u000A        for(i \u003D 0\u003B i \u0026lt\u003B n\u003B i++) {\u000A            if(A[i] \u003D\u003D elem) {\u000A                continue\u003B\u000A            }\u000A\u000A            A[j] \u003D A[i]\u003B\u000A            j++\u003B\u000A        }\u000A\u000A        return j\u003B\u000A    }\u000A}\u003B\u000A\u003C/code\u003E\u003C/pre\u003E\u000A\u003Cp\u003E我不明白为什么要加 A[j] \u003D A[i]\u003B 这行代码。\u000A真心请教怎么入门。。\u003C/p\u003E\u000A",
+        "replies" : 58,
+        "member" : {
+            "id" : 43709,
+            "username" : "ren2881971",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/5cb1/1dbc/43709_mini.png?m=1398746570",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/5cb1/1dbc/43709_normal.png?m=1398746570",
+            "avatar_large" : "//cdn.v2ex.co/avatar/5cb1/1dbc/43709_large.png?m=1398746570"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 11837,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1462856250",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1462856250",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1462856250"
+        },
+        "created" : 1462841524,
+        "last_modified" : 1462841524,
+        "last_touched" : 1462875585
+    },
+    
+    {
+        "id" : 277607,
+        "title" : "额,回校一个月,刚听说公司被 react 入侵了......",
+        "url" : "http://www.v2ex.com/t/277607",
+        "content" : "额,简单的说一下吧.lz 在一家创业公司做前端,由于是新手,所以一直是一边工作一边学,从最初了用原生 js 撸完复杂的功能型页面,到最后自己选择了使用 vue.js 来开发公司的项目,也算是对于前端开发有自己的一套理解.\u000D\u000A  \u000D\u000A  当初选择 vue.js 的原因是,我那时候考虑学习的是 avalon.js 和 vue.js,本来想让 avalon.js 成为自己第一个学习的框架,但是因为它的文档太恶心了,对于那时连 MVVM 都还不懂的 lz 来说,上手太难,于是选择了 vue.js.发现确实好学,文档也很优秀.额,为啥没有选择 react 呢?我忘了.\u000D\u000A  \u000D\u000A  公司有一名后端,就是它谋划了这次的**政变**,他之前就一直很希望在公司推广使用 react,那时候我就很不爽,因为那时候我了解过一点 react,觉得他并不是我的菜,而且,react 全家桶我可是久闻大名.但是后来还是 vue.js 胜出了,原因是因为可能是名义上算是我们 CTO 的一个老外,觉得**react 有的优点 vue 也有,而且他也不喜欢 react**.\u000D\u000A  \u000D\u000A  这次我回校答辩,请了一个月的假期.就在今天,我同事和我说了 react 替换掉了 vue 的事,我听了是感觉很不爽的,但是又无可奈何.\u000D\u000A  \u000D\u000A  **额,为了防止大家喷错,我接下来讲解一下自己的学习态度吧**\u000D\u000A  \u000D\u000A  我个人是比较认同真阿当的对于前端的看法的(求轻喷),我是比较重**基础**的,喜欢造轮子,而且也不太迷行权威(自我感觉),我目前的学习方向是:\u000D\u000A  1. 通读 css2 的规范(看到了第 9 章)\u000D\u000A  2. 看 vue.js 的源码(还没开始)\u000D\u000A  3. 了解一下服务器的渲染(还没开始)\u000D\u000A  \u000D\u000A  关于第 3 点我简单的谈一下吧.其实我个人会一点服务器端的知识(我的毕设就是用 node.js 搭建起来的),我之所以想弄服务器渲染,就是因为当初 php 作为页面的模板的时候,我觉得很变扭,很不习惯,我将来会学习一点**服务器方面的知识**,但是绝不不是因为自己想做后端,或则是成为所谓的**全栈**,而是我想**解放前端的生产力**\u000D\u000A  \u000D\u000A  **对于 react 的态度**\u000D\u000A  \u000D\u000A  其实虽然我目前在学习 vue.js,但是我本身不讨厌 react,也不反对学习 react,我讨厌的是什么?是那些**学了 react 就以为自己天下无敌的 sb**,好像前端开发非 react 不可.以前我们公司的后端在和我们的产品经理聊我们前端页面该如何开发的时候,我能很明显的听出来他们的态度,就是**这个功能只能 react 来做,只能用 react 来解决这个问题**,我只是心里觉得他们 sb,但是还是没有多说什么.我很多时候心里在想,如果 react 他的爹不是 facebook,那么 react 肯定没有那么火.\u000D\u000A  \u000D\u000A  **对于这次技术选择的思考**\u000D\u000A  \u000D\u000A  其实我很困惑的是,为什么让一个后端来决定前端该用什么技术?其实严格来说,整个公司只有我在前端上的学习的时间是最久的,有一个同事是刚从 php 转行来做前端的,其他人是用 js 来开发游戏(这个严格来说不算前端吧?),其他人是后端.我很不理解这一行为.难道是因为受到了**全栈**的影响?\u000D\u000A  \u000D\u000A  **对于未来的思考**\u000D\u000A  \u000D\u000A  我不清楚公司使用 react 是否以及成为了定局,如果是,那么我也会学 react,只不过自己应该不会主动去研究,工作上用到多少就学多少(我应该会重点关注 react 解决问题的思路).不过我也应该不会因为这个原因而**离开**公司,我忘了是什么时候体会到这样一个道理,就是**与其去指望换了公司能找到一个合适自己的团队,还不如找到一个和自己志同道合的人**.我的一个同事之前和我说过,他之前上班的公司,就他一个实习的,他的同事们都块 30 了,聊得都是房,车,小孩上学之类的问题,根本没啥共同话题.\u000D\u000A  \u000D\u000A  额,我遇到了这个问题\u0022前端项目应该如何管理素材呢?\u0022,感兴趣的同学可能帮我看看嘛?\u000D\u000A  地址是这个: https://segmentfault.com/q/1010000005084927?_ea\u003D777596",
+        "content_rendered" : "\u003Cp\u003E额,简单的说一下吧.lz 在一家创业公司做前端,由于是新手,所以一直是一边工作一边学,从最初了用原生 js 撸完复杂的功能型页面,到最后自己选择了使用 vue.js 来开发公司的项目,也算是对于前端开发有自己的一套理解.\u003C/p\u003E\u000A\u003Cp\u003E当初选择 vue.js 的原因是,我那时候考虑学习的是 avalon.js 和 vue.js,本来想让 avalon.js 成为自己第一个学习的框架,但是因为它的文档太恶心了,对于那时连 MVVM 都还不懂的 lz 来说,上手太难,于是选择了 vue.js.发现确实好学,文档也很优秀.额,为啥没有选择 react 呢?我忘了.\u003C/p\u003E\u000A\u003Cp\u003E公司有一名后端,就是它谋划了这次的\u003Cstrong\u003E政变\u003C/strong\u003E,他之前就一直很希望在公司推广使用 react,那时候我就很不爽,因为那时候我了解过一点 react,觉得他并不是我的菜,而且,react 全家桶我可是久闻大名.但是后来还是 vue.js 胜出了,原因是因为可能是名义上算是我们 CTO 的一个老外,觉得\u003Cstrong\u003Ereact 有的优点 vue 也有,而且他也不喜欢 react\u003C/strong\u003E.\u003C/p\u003E\u000A\u003Cp\u003E这次我回校答辩,请了一个月的假期.就在今天,我同事和我说了 react 替换掉了 vue 的事,我听了是感觉很不爽的,但是又无可奈何.\u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003E额,为了防止大家喷错,我接下来讲解一下自己的学习态度吧\u003C/strong\u003E\u003C/p\u003E\u000A\u003Cp\u003E我个人是比较认同真阿当的对于前端的看法的(求轻喷),我是比较重\u003Cstrong\u003E基础\u003C/strong\u003E的,喜欢造轮子,而且也不太迷行权威(自我感觉),我目前的学习方向是:\u003C/p\u003E\u000A\u003Col\u003E\u000A\u003Cli\u003E通读 css2 的规范(看到了第 9 章)\u003C/li\u003E\u000A\u003Cli\u003E看 vue.js 的源码(还没开始)\u003C/li\u003E\u000A\u003Cli\u003E了解一下服务器的渲染(还没开始)\u003C/li\u003E\u000A\u003C/ol\u003E\u000A\u003Cp\u003E关于第 3 点我简单的谈一下吧.其实我个人会一点服务器端的知识(我的毕设就是用 node.js 搭建起来的),我之所以想弄服务器渲染,就是因为当初 php 作为页面的模板的时候,我觉得很变扭,很不习惯,我将来会学习一点\u003Cstrong\u003E服务器方面的知识\u003C/strong\u003E,但是绝不不是因为自己想做后端,或则是成为所谓的\u003Cstrong\u003E全栈\u003C/strong\u003E,而是我想\u003Cstrong\u003E解放前端的生产力\u003C/strong\u003E\u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003E对于 react 的态度\u003C/strong\u003E\u003C/p\u003E\u000A\u003Cp\u003E其实虽然我目前在学习 vue.js,但是我本身不讨厌 react,也不反对学习 react,我讨厌的是什么?是那些\u003Cstrong\u003E学了 react 就以为自己天下无敌的 sb\u003C/strong\u003E,好像前端开发非 react 不可.以前我们公司的后端在和我们的产品经理聊我们前端页面该如何开发的时候,我能很明显的听出来他们的态度,就是\u003Cstrong\u003E这个功能只能 react 来做,只能用 react 来解决这个问题\u003C/strong\u003E,我只是心里觉得他们 sb,但是还是没有多说什么.我很多时候心里在想,如果 react 他的爹不是 facebook,那么 react 肯定没有那么火.\u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003E对于这次技术选择的思考\u003C/strong\u003E\u003C/p\u003E\u000A\u003Cp\u003E其实我很困惑的是,为什么让一个后端来决定前端该用什么技术?其实严格来说,整个公司只有我在前端上的学习的时间是最久的,有一个同事是刚从 php 转行来做前端的,其他人是用 js 来开发游戏(这个严格来说不算前端吧?),其他人是后端.我很不理解这一行为.难道是因为受到了\u003Cstrong\u003E全栈\u003C/strong\u003E的影响?\u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003E对于未来的思考\u003C/strong\u003E\u003C/p\u003E\u000A\u003Cp\u003E我不清楚公司使用 react 是否以及成为了定局,如果是,那么我也会学 react,只不过自己应该不会主动去研究,工作上用到多少就学多少(我应该会重点关注 react 解决问题的思路).不过我也应该不会因为这个原因而\u003Cstrong\u003E离开\u003C/strong\u003E公司,我忘了是什么时候体会到这样一个道理,就是\u003Cstrong\u003E与其去指望换了公司能找到一个合适自己的团队,还不如找到一个和自己志同道合的人\u003C/strong\u003E.我的一个同事之前和我说过,他之前上班的公司,就他一个实习的,他的同事们都块 30 了,聊得都是房,车,小孩上学之类的问题,根本没啥共同话题.\u003C/p\u003E\u000A\u003Cp\u003E额,我遇到了这个问题\u0022前端项目应该如何管理素材呢?\u0022,感兴趣的同学可能帮我看看嘛?\u000A地址是这个: \u003Ca href\u003D\u0022https://segmentfault.com/q/1010000005084927?_ea\u003D777596\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://segmentfault.com/q/1010000005084927?_ea\u003D777596\u003C/a\u003E\u003C/p\u003E\u000A",
+        "replies" : 55,
+        "member" : {
+            "id" : 78971,
+            "username" : "tcstory",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/b206/19a0/78971_mini.png?m=1462597435",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/b206/19a0/78971_normal.png?m=1462597435",
+            "avatar_large" : "//cdn.v2ex.co/avatar/b206/19a0/78971_large.png?m=1462597435"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 11837,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1462856250",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1462856250",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1462856250"
+        },
+        "created" : 1462860507,
+        "last_modified" : 1462860507,
+        "last_touched" : 1462875415
+    },
+    
+    {
+        "id" : 277495,
+        "title" : "一个短信插件引来的骂战，希望大家评理",
+        "url" : "http://www.v2ex.com/t/277495",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 53,
+        "member" : {
+            "id" : 171276,
+            "username" : "blueskythanks",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/3e6d/a530/171276_mini.png?m=1462363887",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/3e6d/a530/171276_normal.png?m=1462363887",
+            "avatar_large" : "//cdn.v2ex.co/avatar/3e6d/a530/171276_large.png?m=1462363887"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 69165,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1462063234",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1462063234",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1462063234"
+        },
+        "created" : 1462813179,
+        "last_modified" : 1462813179,
+        "last_touched" : 1462868450
+    },
+    
+    {
+        "id" : 277421,
+        "title" : "国内有哪些好用的，支持外链的图床呢？",
+        "url" : "http://www.v2ex.com/t/277421",
+        "content" : "http://pp.sohu.com/ 曾经不过，不过现在貌似被关闭了。。。",
+        "content_rendered" : "\u003Cp\u003E\u003Ca href\u003D\u0022http://pp.sohu.com/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://pp.sohu.com/\u003C/a\u003E 曾经不过，不过现在貌似被关闭了。。。\u003C/p\u003E\u000A",
+        "replies" : 43,
+        "member" : {
+            "id" : 89117,
+            "username" : "arrowna",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/b20fa216059ac92a5deb74f3bffe36c2?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/b20fa216059ac92a5deb74f3bffe36c2?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/b20fa216059ac92a5deb74f3bffe36c2?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 11837,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1462856250",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1462856250",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1462856250"
+        },
+        "created" : 1462792367,
+        "last_modified" : 1462792367,
+        "last_touched" : 1462829627
+    }
+    
+]

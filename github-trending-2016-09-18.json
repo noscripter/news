@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FormidableLabs",
+        "category": "JavaScript",
+        "stars": "365",
+        "title": "react-game-kit - Component library for making games with React & React Native",
+        "url": "https://github.com/FormidableLabs/react-game-kit"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "318",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "elendirx",
+        "category": "HTML",
+        "stars": "245",
+        "title": "web2web - P2P web powered by torrents and blockchain.",
+        "url": "https://github.com/elendirx/web2web"
+    },
+    {
+        "author": "vapor",
+        "category": "Swift",
+        "stars": "176",
+        "title": "vapor - A web framework and server for Swift that works on macOS and Ubuntu.",
+        "url": "https://github.com/vapor/vapor"
+    },
+    {
+        "author": "devtools-html",
+        "category": "JavaScript",
+        "stars": "172",
+        "title": "debugger.html - The Firefox debugger that works anywhere",
+        "url": "https://github.com/devtools-html/debugger.html"
+    },
+    {
+        "author": "shoutem",
+        "category": "JavaScript",
+        "stars": "174",
+        "title": "ui - Customizable set of components for React Native applications",
+        "url": "https://github.com/shoutem/ui"
+    },
+    {
+        "author": "gztchan",
+        "category": "",
+        "stars": "170",
+        "title": "awesome-design - \ud83c\udf8f Best UI/UX Design Resources For Developer & Designer Ever :)",
+        "url": "https://github.com/gztchan/awesome-design"
+    },
+    {
+        "author": "samccone",
+        "category": "JavaScript",
+        "stars": "169",
+        "title": "coverage-ext - Generate code coverage for any webpage",
+        "url": "https://github.com/samccone/coverage-ext"
+    },
+    {
+        "author": "vhf",
+        "category": "",
+        "stars": "120",
+        "title": "free-programming-books - \ud83d\udcda Freely available programming books",
+        "url": "https://github.com/vhf/free-programming-books"
+    },
+    {
+        "author": "AnyChart",
+        "category": "JavaScript",
+        "stars": "117",
+        "title": "graphicsjs - A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.",
+        "url": "https://github.com/AnyChart/graphicsjs"
+    }
+]

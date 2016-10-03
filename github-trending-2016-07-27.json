@@ -1,0 +1,72 @@
+[
+    {
+        "author": "hemanth",
+        "category": "",
+        "stars": "1,016",
+        "title": "functional-programming-jargon - Jargon from the functional programming world in simple terms!",
+        "url": "https://github.com/hemanth/functional-programming-jargon"
+    },
+    {
+        "author": "krasimir",
+        "category": "JavaScript",
+        "stars": "904",
+        "title": "react-in-patterns - \ud83d\udcda List of design patterns/techniques used while developing with React",
+        "url": "https://github.com/krasimir/react-in-patterns"
+    },
+    {
+        "author": "FallibleInc",
+        "category": "",
+        "stars": "819",
+        "title": "security-guide-for-developers - Security Guide for Developers",
+        "url": "https://github.com/FallibleInc/security-guide-for-developers"
+    },
+    {
+        "author": "facebookincubator",
+        "category": "JavaScript",
+        "stars": "590",
+        "title": "create-react-app - Create React apps with no build configuration.",
+        "url": "https://github.com/facebookincubator/create-react-app"
+    },
+    {
+        "author": "AHAAAAAAA",
+        "category": "Python",
+        "stars": "440",
+        "title": "PokemonGo-Map - \ud83c\udf0f Live visualization of all the pokemon in your area... and more!",
+        "url": "https://github.com/AHAAAAAAA/PokemonGo-Map"
+    },
+    {
+        "author": "team-gryff",
+        "category": "JavaScript",
+        "stars": "423",
+        "title": "react-monocle - A developer tool to visualize a React application's component hierarchy.",
+        "url": "https://github.com/team-gryff/react-monocle"
+    },
+    {
+        "author": "robinhood",
+        "category": "Java",
+        "stars": "305",
+        "title": "ticker - An Android text view with scrolling text change animation",
+        "url": "https://github.com/robinhood/ticker"
+    },
+    {
+        "author": "LittleFriendsGroup",
+        "category": "",
+        "stars": "254",
+        "title": "AndroidSdkSourceAnalysis - android sdk \u6e90\u7801\u89e3\u6790\u2014\u2014\u65e8\u5728\u5e2e\u52a9Android\u5f00\u53d1\u8005\u66f4\u597d\u7684\u5b66\u4e60Android\uff01\u6211\u4eec\u53ea\u662f\u4e00\u7fa4\u666e\u901a\u7684\u7a0b\u5e8f\u5458\uff0c\u4f46\u662f\uff0c\u6211\u4eec\u70ed\u7231\u5206\u4eab\uff0c\u60f3\u70ed\u70ed\u95f9\u95f9\u7684\u73a9\u70b9\u6709\u610f\u4e49\u7684\u4e8b\uff01\u5982\u679c\u4f60\u4e5f\u60f3\u966a\u6211\u4eec\u4e00\u8d77\u6109\u5feb\u7684\u73a9\u800d\uff0c\u6b22\u8fce\u52a0\u5165\u6211\u4eec\uff01Issues\u8ba4\u9886\u5206\u6790\u6587\u7ae0\uff01",
+        "url": "https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis"
+    },
+    {
+        "author": "PokemonGoF",
+        "category": "Python",
+        "stars": "222",
+        "title": "PokemonGo-Bot - The Pokemon Go Bot, baking with community.",
+        "url": "https://github.com/PokemonGoF/PokemonGo-Bot"
+    },
+    {
+        "author": "jaywcjlove",
+        "category": "",
+        "stars": "252",
+        "title": "awesome-mac - \uf8ff This repo is a collection of awesome Mac applications and tools for developers and designers.",
+        "url": "https://github.com/jaywcjlove/awesome-mac"
+    }
+]

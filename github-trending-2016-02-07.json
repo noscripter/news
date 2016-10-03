@@ -1,0 +1,72 @@
+[
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "514",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "p-e-w",
+        "category": "Python",
+        "stars": "367",
+        "title": "maybe - See what a program does before deciding whether you really want it to happen.",
+        "url": "https://github.com/p-e-w/maybe"
+    },
+    {
+        "author": "buckket",
+        "category": "Python",
+        "stars": "302",
+        "title": "twtxt - Decentralised, minimalist microblogging service for hackers.",
+        "url": "https://github.com/buckket/twtxt"
+    },
+    {
+        "author": "jgthms",
+        "category": "CSS",
+        "stars": "271",
+        "title": "bulma - Modern CSS framework based on Flexbox",
+        "url": "https://github.com/jgthms/bulma"
+    },
+    {
+        "author": "bevacqua",
+        "category": "JavaScript",
+        "stars": "249",
+        "title": "dragula - Drag and drop so simple it hurts",
+        "url": "https://github.com/bevacqua/dragula"
+    },
+    {
+        "author": "mjmlio",
+        "category": "JavaScript",
+        "stars": "246",
+        "title": "mjml - MJML: the only framework that makes responsive-email easy",
+        "url": "https://github.com/mjmlio/mjml"
+    },
+    {
+        "author": "sgrif",
+        "category": "Rust",
+        "stars": "188",
+        "title": "diesel - A safe, extensible ORM and Query Builder for Rust",
+        "url": "https://github.com/sgrif/diesel"
+    },
+    {
+        "author": "github",
+        "category": "Ruby",
+        "stars": "156",
+        "title": "scientist - A Ruby library for carefully refactoring critical paths.",
+        "url": "https://github.com/github/scientist"
+    },
+    {
+        "author": "AriaFallah",
+        "category": "JavaScript",
+        "stars": "152",
+        "title": "WebpackTutorial - A simple webpack tutorial",
+        "url": "https://github.com/AriaFallah/WebpackTutorial"
+    },
+    {
+        "author": "caesar0301",
+        "category": "",
+        "stars": "144",
+        "title": "awesome-public-datasets - An awesome list of high-quality open datasets in public domains (on-going).",
+        "url": "https://github.com/caesar0301/awesome-public-datasets"
+    }
+]

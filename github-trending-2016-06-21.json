@@ -1,0 +1,72 @@
+[
+    {
+        "author": "a1studmuffin",
+        "category": "Python",
+        "stars": "829",
+        "title": "SpaceshipGenerator - A Blender script to procedurally generate 3D spaceships",
+        "url": "https://github.com/a1studmuffin/SpaceshipGenerator"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "676",
+        "title": "FreeCodeCamp - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "nayafia",
+        "category": "",
+        "stars": "504",
+        "title": "lemonade-stand - A handy guide to financial support for open source",
+        "url": "https://github.com/nayafia/lemonade-stand"
+    },
+    {
+        "author": "Microsoft",
+        "category": "HTML",
+        "stars": "383",
+        "title": "monaco-editor - A browser based code editor",
+        "url": "https://github.com/Microsoft/monaco-editor"
+    },
+    {
+        "author": "ManrajGrover",
+        "category": "HTML",
+        "stars": "359",
+        "title": "SingleDivProject - One <div>. Many possibilities.",
+        "url": "https://github.com/ManrajGrover/SingleDivProject"
+    },
+    {
+        "author": "kataras",
+        "category": "Go",
+        "stars": "342",
+        "title": "iris - The fastest web framework for Go in (THIS) earth",
+        "url": "https://github.com/kataras/iris"
+    },
+    {
+        "author": "algolia",
+        "category": "JavaScript",
+        "stars": "329",
+        "title": "places - \ud83c\udf10 Turn any <input> into an address autocomplete",
+        "url": "https://github.com/algolia/places"
+    },
+    {
+        "author": "dvLden",
+        "category": "JavaScript",
+        "stars": "305",
+        "title": "Vidage - Your solution to full-screen background video & image combined.",
+        "url": "https://github.com/dvLden/Vidage"
+    },
+    {
+        "author": "facebookresearch",
+        "category": "C",
+        "stars": "268",
+        "title": "darkforestGo - DarkForest, the Facebook Go engine.",
+        "url": "https://github.com/facebookresearch/darkforestGo"
+    },
+    {
+        "author": "qs-lll",
+        "category": "Java",
+        "stars": "269",
+        "title": "ExpandingPager - ExpandingPager is a card peek/pop controller",
+        "url": "https://github.com/qs-lll/ExpandingPager"
+    }
+]

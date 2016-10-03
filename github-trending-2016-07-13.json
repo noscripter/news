@@ -1,0 +1,72 @@
+[
+    {
+        "author": "chrislgarry",
+        "category": "Assembly",
+        "stars": "2,085",
+        "title": "Apollo-11 - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+        "url": "https://github.com/chrislgarry/Apollo-11"
+    },
+    {
+        "author": "metagrover",
+        "category": "",
+        "stars": "724",
+        "title": "ES6-for-humans - A kickstarter guide to writing ES6.",
+        "url": "https://github.com/metagrover/ES6-for-humans"
+    },
+    {
+        "author": "NamPNQ",
+        "category": "CSS",
+        "stars": "686",
+        "title": "You-Dont-Need-Javascript - Css is powerful, you can do a lot of things without js.",
+        "url": "https://github.com/NamPNQ/You-Dont-Need-Javascript"
+    },
+    {
+        "author": "antirez",
+        "category": "C",
+        "stars": "590",
+        "title": "kilo - A text editor in less than 1000 LOC with syntax highlight and search.",
+        "url": "https://github.com/antirez/kilo"
+    },
+    {
+        "author": "dkhamsing",
+        "category": "Swift",
+        "stars": "564",
+        "title": "open-source-ios-apps - \ud83d\udcf1 Collaborative List of Open-Source iOS Apps",
+        "url": "https://github.com/dkhamsing/open-source-ios-apps"
+    },
+    {
+        "author": "yhatt",
+        "category": "CoffeeScript",
+        "stars": "571",
+        "title": "marp - Markdown presentation writer, powered by Electron.",
+        "url": "https://github.com/yhatt/marp"
+    },
+    {
+        "author": "kahopoon",
+        "category": "Swift",
+        "stars": "505",
+        "title": "Pokemon-Go-Controller - play pokemon go safely or at unavailable area",
+        "url": "https://github.com/kahopoon/Pokemon-Go-Controller"
+    },
+    {
+        "author": "awslabs",
+        "category": "Python",
+        "stars": "523",
+        "title": "chalice - Python Serverless Microframework for AWS",
+        "url": "https://github.com/awslabs/chalice"
+    },
+    {
+        "author": "JackyAndroid",
+        "category": "Java",
+        "stars": "402",
+        "title": "AndroidChromium - chrome browser android version of the source program,build with gradle",
+        "url": "https://github.com/JackyAndroid/AndroidChromium"
+    },
+    {
+        "author": "andremion",
+        "category": "Java",
+        "stars": "384",
+        "title": "Music-Player - From UI Proposal to Code",
+        "url": "https://github.com/andremion/Music-Player"
+    }
+]

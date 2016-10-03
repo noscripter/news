@@ -1,0 +1,72 @@
+[
+    {
+        "author": "tldr-pages",
+        "category": "Shell",
+        "stars": "1,331",
+        "title": "tldr - Simplified and community-driven man pages",
+        "url": "https://github.com/tldr-pages/tldr"
+    },
+    {
+        "author": "hacksalot",
+        "category": "JavaScript",
+        "stars": "639",
+        "title": "HackMyResume - Generate polished r\u00e9sum\u00e9s and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.",
+        "url": "https://github.com/hacksalot/HackMyResume"
+    },
+    {
+        "author": "awslabs",
+        "category": "Python",
+        "stars": "515",
+        "title": "aws-shell - An integrated shell for working with the AWS CLI.",
+        "url": "https://github.com/awslabs/aws-shell"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "415",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "mxstbr",
+        "category": "JavaScript",
+        "stars": "403",
+        "title": "react-boilerplate - Quick setup for performance orientated, offline-first React.js applications featuring Redux, hot-reloading, PostCSS, react-router, ServiceWorker, AppCache, FontFaceObserver and Mocha.",
+        "url": "https://github.com/mxstbr/react-boilerplate"
+    },
+    {
+        "author": "donnemartin",
+        "category": "Python",
+        "stars": "331",
+        "title": "data-science-ipython-notebooks - Continually updated data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe), scikit-learn, Kaggle, Spark, Hadoop MapReduce, HDFS, matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines. https://bit.ly/data-notes",
+        "url": "https://github.com/donnemartin/data-science-ipython-notebooks"
+    },
+    {
+        "author": "d3",
+        "category": "JavaScript",
+        "stars": "306",
+        "title": "d3-scale - Encodings that map abstract data to visual representation.",
+        "url": "https://github.com/d3/d3-scale"
+    },
+    {
+        "author": "wangshengjia",
+        "category": "Swift",
+        "stars": "280",
+        "title": "VWInstantRun - An Xcode plugin let you build & run your selected lines of code in Xcode without running the whole project, you'll have the output instantly in your Xcode console.",
+        "url": "https://github.com/wangshengjia/VWInstantRun"
+    },
+    {
+        "author": "SilenceDut",
+        "category": "Java",
+        "stars": "193",
+        "title": "NBAPlus - A concise APP about NBA News and Event with RxJava and EventBus",
+        "url": "https://github.com/SilenceDut/NBAPlus"
+    },
+    {
+        "author": "jd-alexander",
+        "category": "Java",
+        "stars": "189",
+        "title": "LikeButton - Twitter's heart animation for Android",
+        "url": "https://github.com/jd-alexander/LikeButton"
+    }
+]

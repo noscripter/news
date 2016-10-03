@@ -1,0 +1,72 @@
+[
+    {
+        "author": "howdyai",
+        "category": "JavaScript",
+        "stars": "519",
+        "title": "botkit - Botkit is a toolkit for making bot applications",
+        "url": "https://github.com/howdyai/botkit"
+    },
+    {
+        "author": "hsavit1",
+        "category": "Swift",
+        "stars": "440",
+        "title": "Awesome-Swift-Education - All the resources for Learning About Swift",
+        "url": "https://github.com/hsavit1/Awesome-Swift-Education"
+    },
+    {
+        "author": "FreeCodeCamp",
+        "category": "JavaScript",
+        "stars": "344",
+        "title": "FreeCodeCamp - The http://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp"
+    },
+    {
+        "author": "phanan",
+        "category": "PHP",
+        "stars": "270",
+        "title": "koel - A personal music streaming server that works.",
+        "url": "https://github.com/phanan/koel"
+    },
+    {
+        "author": "desmond1121",
+        "category": "HTML",
+        "stars": "256",
+        "title": "Android-Ptr-Comparison - Performance comparison of android \"pull to refresh\" repos in github.",
+        "url": "https://github.com/desmond1121/Android-Ptr-Comparison"
+    },
+    {
+        "author": "google",
+        "category": "Go",
+        "stars": "224",
+        "title": "git-appraise - Distributed code review system for Git repos",
+        "url": "https://github.com/google/git-appraise"
+    },
+    {
+        "author": "AllThingsSmitty",
+        "category": "",
+        "stars": "216",
+        "title": "css-protips - A collection of tips to help take your CSS skills pro",
+        "url": "https://github.com/AllThingsSmitty/css-protips"
+    },
+    {
+        "author": "ujjwalkarn",
+        "category": "",
+        "stars": "202",
+        "title": "Machine-Learning-Tutorials - machine learning and deep learning tutorials, articles and other resources",
+        "url": "https://github.com/ujjwalkarn/Machine-Learning-Tutorials"
+    },
+    {
+        "author": "oneuijs",
+        "category": "JavaScript",
+        "stars": "191",
+        "title": "You-Dont-Need-jQuery - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.",
+        "url": "https://github.com/oneuijs/You-Dont-Need-jQuery"
+    },
+    {
+        "author": "heroku",
+        "category": "JavaScript",
+        "stars": "195",
+        "title": "react-refetch - A simple, declarative, and composable way to fetch data for React components",
+        "url": "https://github.com/heroku/react-refetch"
+    }
+]
